@@ -1315,22 +1315,34 @@
         function renderSiegeXSection() {
             if (typeof SIEGE_X_FEATURES === 'undefined') return;
             const sx = SIEGE_X_FEATURES;
+            const seasonColors = ['var(--accent)', 'var(--accent-blue)', 'var(--accent-purple)', 'var(--accent-green)'];
+            const seasonEmojis = ['🚀', '🎯', '🎄', '🐍'];
             let html = `
                 <div style="background:linear-gradient(135deg, #1a2332 0%, #243044 100%);border:2px solid var(--accent);border-radius:16px;padding:28px 32px;margin-bottom:24px">
-                    <h2 style="font-size:22px;font-weight:800;color:var(--accent);margin-bottom:6px">🔥 围攻X (Siege X) — 2025年6月 重大更新</h2>
-                    <p style="font-size:14px;color:var(--text-secondary);margin-bottom:20px">围攻X标志着游戏进入免费游玩新纪元，同时对5张经典人气地图进行了全面视觉翻新，并引入了全新环境互动系统。</p>
+                    <h2 style="font-size:22px;font-weight:800;color:var(--accent);margin-bottom:6px">🔥 围攻X (Siege X) — 地图现代化翻新总计划</h2>
+                    <p style="font-size:14px;color:var(--text-secondary);margin-bottom:8px">${sx.mapRevamps.description}</p>
+                    <p style="font-size:13px;color:var(--accent);margin-bottom:20px;font-weight:600">📋 ${sx.mapRevamps.totalPlan}</p>
 
-                    <h3 style="font-size:16px;color:var(--accent-blue);margin-bottom:12px">🗺️ 5张翻新地图</h3>
-                    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px">
-                        ${sx.mapRevamps.maps.map(m => `<span style="padding:6px 14px;background:rgba(59,130,246,0.15);color:var(--accent-blue);border:1px solid rgba(59,130,246,0.3);border-radius:20px;font-size:13px;font-weight:600">${m}</span>`).join('')}
+                    <h3 style="font-size:16px;color:var(--accent-blue);margin-bottom:14px">🗺️ 各赛季翻新地图进度</h3>
+                    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px;margin-bottom:24px">
+                        ${sx.mapRevamps.seasonBreakdown.map((s, i) => `
+                            <div style="padding:18px;background:var(--bg-primary);border:1px solid ${seasonColors[i % 4]};border-radius:12px;position:relative;${s.label === '当前赛季' ? 'box-shadow:0 0 20px rgba(16,185,129,0.3)' : ''}">
+                                ${s.label ? `<span style="position:absolute;top:-10px;right:12px;padding:2px 10px;background:${s.label === '当前赛季' ? 'var(--accent-green)' : 'var(--accent)'};color:#000;font-size:11px;font-weight:700;border-radius:10px">${s.label}</span>` : ''}
+                                <div style="font-size:14px;font-weight:700;color:${seasonColors[i % 4]};margin-bottom:8px">${seasonEmojis[i % 4]} ${s.season}</div>
+                                <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px">
+                                    ${s.maps.map(m => `<span style="padding:4px 10px;background:rgba(255,255,255,0.06);color:var(--text-primary);border:1px solid var(--border);border-radius:16px;font-size:12px">${m}</span>`).join('')}
+                                </div>
+                                <div style="font-size:12px;color:var(--text-muted);line-height:1.5">📌 ${s.highlights}</div>
+                            </div>
+                        `).join('')}
                     </div>
 
-                    <h3 style="font-size:16px;color:var(--accent-green);margin-bottom:12px">✨ 视觉升级内容</h3>
+                    <h3 style="font-size:16px;color:var(--accent-green);margin-bottom:12px">✨ 统一视觉升级内容</h3>
                     <ul class="guideline-list" style="margin-bottom:20px">
                         ${sx.mapRevamps.visualUpgrades.map(v => `<li>${v}</li>`).join('')}
                     </ul>
 
-                    <h3 style="font-size:16px;color:var(--accent-red);margin-bottom:12px">💥 新增环境互动可破坏元素</h3>
+                    <h3 style="font-size:16px;color:var(--accent-red);margin-bottom:12px">💥 环境互动可破坏元素系统</h3>
                     <p style="font-size:13px;color:var(--text-secondary);margin-bottom:14px">${sx.environmentalInteractables.description}</p>
                     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-bottom:20px">
                         ${sx.environmentalInteractables.elements.map(el => `

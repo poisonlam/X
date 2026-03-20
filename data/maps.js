@@ -290,9 +290,15 @@ const MAPS_DATA = [
         season: "Y5S1 - Void Edge",
         type: "小型调整",
         changes: "部分区域光照和可见度调整"
+      },
+      {
+        date: "2025-09-01",
+        season: "Y10S3 - High Stakes",
+        type: "视觉现代化翻新",
+        changes: "围攻X后续赛季翻新地图之一。全面升级光照系统和4K材质，新增灭火器、燃气管道、金属探测器等环境互动可破坏元素。外交建筑内饰的视觉表现大幅提升。"
       }
     ],
-    keywords: ["领事馆", "巴黎", "外交建筑", "中央楼梯", "签证室", "竞技地图", "三层结构"],
+    keywords: ["领事馆", "巴黎", "外交建筑", "中央楼梯", "签证室", "竞技地图", "三层结构", "围攻X翻新"],
     communityRating: {
       overall: 7.5,
       competitiveViability: 8.0,
@@ -530,9 +536,15 @@ const MAPS_DATA = [
         season: "Y5S1 - Void Edge",
         type: "中型重做",
         changes: "重做了地下室和大塔楼区域，增加了新的通道，改善了部分视线问题，但保持了地图整体结构"
+      },
+      {
+        date: "2026-03-03",
+        season: "Y11S1 - Silent Hunt",
+        type: "视觉现代化翻新",
+        changes: "围攻X持续翻新计划的最新一批地图。全面升级光照系统和4K材质，新增灭火器、燃气管道、金属探测器等环境互动可破坏元素。邪教据点的内外部视觉表现全面升级，大塔、地下室等标志性区域的光影效果更加逼真沉浸。"
       }
     ],
-    keywords: ["邪教据点", "Waco参考", "L形布局", "紧凑型", "竞技经典", "大塔小塔", "地下室争夺"],
+    keywords: ["邪教据点", "Waco参考", "L形布局", "紧凑型", "竞技经典", "大塔小塔", "地下室争夺", "围攻X翻新"],
     communityRating: {
       overall: 8.5,
       competitiveViability: 9.0,
@@ -715,9 +727,15 @@ const MAPS_DATA = [
         season: "Y5S4 - Neon Dawn",
         type: "中型重做",
         changes: "重做了一楼和二楼的多个区域，减少了阳台跑位的重要性，增加了室内进攻路线"
+      },
+      {
+        date: "2025-12-02",
+        season: "Y10S4 - Tenfold Pursuit",
+        type: "视觉现代化翻新",
+        changes: "围攻X后续赛季翻新地图之一。全面升级光照系统和4K材质，新增环境互动可破坏元素。日式建筑的光影表现和屋顶花园视觉效果大幅提升。"
       }
     ],
-    keywords: ["日式建筑", "高层顶部", "阳台", "屋顶花园", "名古屋", "日本风格", "跑酷"],
+    keywords: ["日式建筑", "高层顶部", "阳台", "屋顶花园", "名古屋", "日本风格", "跑酷", "围攻X翻新"],
     communityRating: {
       overall: 6.5,
       competitiveViability: 6.0,
@@ -755,8 +773,15 @@ const MAPS_DATA = [
     description: "西班牙伊维萨岛的一座海滨度假别墅/夜店。两层建筑围绕中央庭院设计，是Siege中最受欢迎的竞技地图之一。从未进行过重做。",
     designPhilosophy: "围绕中央庭院的环形设计，开放的屋顶提供独特进攻角度",
     backgroundReference: "参考伊维萨岛著名的海滨俱乐部和度假别墅",
-    reworkHistory: [],
-    keywords: ["海滨", "夜店", "伊维萨", "环形布局", "庭院", "无重做", "竞技经典", "最受欢迎"],
+    reworkHistory: [
+      {
+        date: "2026-03-03",
+        season: "Y11S1 - Silent Hunt",
+        type: "视觉现代化翻新",
+        changes: "围攻X持续翻新计划的最新一批地图。全面升级光照系统和4K材质，新增灭火器、燃气管道、金属探测器等环境互动可破坏元素。海滨夜店的霓虹灯光和庭院光影效果在新光照系统下更加绚丽。这是该地图自发布以来首次进行视觉翻新。"
+      }
+    ],
+    keywords: ["海滨", "夜店", "伊维萨", "环形布局", "庭院", "竞技经典", "最受欢迎", "围攻X翻新"],
     communityRating: {
       overall: 9.0,
       competitiveViability: 9.5,
@@ -807,9 +832,15 @@ const MAPS_DATA = [
         season: "Y6S2 - North Star",
         type: "大型重做",
         changes: "重新设计了大量内部布局，重新规划了房间连接和进攻路线"
+      },
+      {
+        date: "2025-12-02",
+        season: "Y10S4 - Tenfold Pursuit",
+        type: "视觉现代化翻新",
+        changes: "围攻X后续赛季翻新地图之一。全面升级光照系统和4K材质，新增环境互动可破坏元素。废弃游乐园的视觉氛围更加阴森逼真。"
       }
     ],
-    keywords: ["游乐园", "香港", "鬼屋", "废弃", "光照问题", "两次重做", "亚洲风格"],
+    keywords: ["游乐园", "香港", "鬼屋", "废弃", "光照问题", "两次重做", "亚洲风格", "围攻X翻新"],
     communityRating: {
       overall: 7.0,
       competitiveViability: 7.0,
@@ -888,8 +919,15 @@ const MAPS_DATA = [
     description: "意大利托斯卡纳的一座古典别墅/酒庄，内部装饰奢华。是Y3推出的原创新地图（非重做）。",
     designPhilosophy: "大型豪华别墅设计，利用长走廊和大房间创造多样化的交战空间",
     backgroundReference: "参考意大利托斯卡纳地区的传统庄园别墅",
-    reworkHistory: [],
-    keywords: ["别墅", "意大利", "托斯卡纳", "庄园", "豪华", "竞技地图", "原创新图"],
+    reworkHistory: [
+      {
+        date: "2026-03-03",
+        season: "Y11S1 - Silent Hunt",
+        type: "视觉现代化翻新",
+        changes: "围攻X持续翻新计划的最新一批地图。全面升级光照系统和4K材质，新增环境互动可破坏元素。托斯卡纳庄园的古典内饰和室外花园在新光照系统下视觉表现大幅提升。"
+      }
+    ],
+    keywords: ["别墅", "意大利", "托斯卡纳", "庄园", "豪华", "竞技地图", "原创新图", "围攻X翻新"],
     communityRating: {
       overall: 7.5,
       competitiveViability: 8.0,
@@ -927,8 +965,15 @@ const MAPS_DATA = [
     description: "摩洛哥的一座军事风格堡垒建筑。因面积过大、布局不够紧凑而未进入竞技池。",
     designPhilosophy: "以军事堡垒为主题的大型建筑",
     backgroundReference: "参考摩洛哥传统卡斯巴（Kasbah）建筑和军事要塞",
-    reworkHistory: [],
-    keywords: ["堡垒", "摩洛哥", "军事", "大型", "非竞技", "Kasbah", "沙漠"],
+    reworkHistory: [
+      {
+        date: "2025-12-02",
+        season: "Y10S4 - Tenfold Pursuit",
+        type: "完全重做",
+        changes: "围攻X期间进行了全面重做，重新设计了地图布局并加入排位赛地图池。这是继Hereford之后又一张休闲地图获得完全重做的案例。"
+      }
+    ],
+    keywords: ["堡垒", "摩洛哥", "军事", "大型", "Kasbah", "沙漠", "围攻X重做", "加入排位"],
     communityRating: {
       overall: 4.5,
       competitiveViability: 3.0,
@@ -1005,8 +1050,15 @@ const MAPS_DATA = [
     description: "Nighthaven组织的秘密研究实验室，位于极地地区。高科技风格的内部设计。",
     designPhilosophy: "科幻高科技风格的现代实验室设计",
     backgroundReference: "结合了军事秘密基地和高科技实验室的概念",
-    reworkHistory: [],
-    keywords: ["实验室", "高科技", "Nighthaven", "极地", "科幻风格", "现代设计"],
+    reworkHistory: [
+      {
+        date: "2025-09-01",
+        season: "Y10S3 - High Stakes",
+        type: "视觉现代化翻新",
+        changes: "围攻X后续赛季翻新地图之一。全面升级光照系统和4K材质，新增环境互动可破坏元素。高科技实验室的光影效果更加逼真。"
+      }
+    ],
+    keywords: ["实验室", "高科技", "Nighthaven", "极地", "科幻风格", "现代设计", "围攻X翻新"],
     communityRating: {
       overall: 6.5,
       competitiveViability: 6.5,
@@ -1124,9 +1176,15 @@ const MAPS_DATA = [
         season: "Y6S1 - Crimson Heist",
         type: "正式加入",
         changes: "从限时活动地图调整为永久对战地图，修改了部分布局"
+      },
+      {
+        date: "2025-09-01",
+        season: "Y10S3 - High Stakes",
+        type: "视觉现代化翻新",
+        changes: "围攻X后续赛季翻新地图之一。全面升级光照系统和4K材质，新增环境互动可破坏元素。"
       }
     ],
-    keywords: ["体育场", "虚拟训练", "半透明墙", "电竞", "限时转永久", "创新概念"],
+    keywords: ["体育场", "虚拟训练", "半透明墙", "电竞", "限时转永久", "创新概念", "围攻X翻新"],
     communityRating: {
       overall: 6.5,
       competitiveViability: 7.0,
@@ -1221,14 +1279,42 @@ const MAP_REWORK_TIMELINE = [
   { date: "2021-09-07", season: "Y6S3", map: "Bank（调整）", type: "小型调整" },
   { date: "2022-06-14", season: "Y7S2", map: "Theme Park（二次）", type: "大型重做" },
   { date: "2023-05-30", season: "Y8S2", map: "Consulate", type: "中型重做" },
-  { date: "2025-06-11", season: "围攻X", map: "银行 / 咖啡馆 / 木屋 / 边境 / 俱乐部", type: "视觉翻新 + 环境互动系统（5张地图同时翻新）" }
+  { date: "2025-06-11", season: "Y10S2 围攻X - Daybreak", map: "银行 / 咖啡馆 / 木屋 / 边境 / 俱乐部", type: "视觉翻新 + 环境互动系统（首发5张翻新地图）" },
+  { date: "2025-09-01", season: "Y10S3 - High Stakes", map: "领事馆 / 体育场 / 永夜安港实验室", type: "视觉现代化翻新（3张地图）+ 新干员 Denari" },
+  { date: "2025-12-02", season: "Y10S4 - Tenfold Pursuit", map: "主题乐园 / 摩天大楼 + 堡垒（完全重做加入排位）", type: "视觉翻新（2张）+ 堡垒完全重做 + Thatcher重做" },
+  { date: "2026-03-03", season: "Y11S1 - Silent Hunt", map: "海岸线 / 庄园 / 俄勒冈", type: "视觉现代化翻新（3张地图）+ 新干员 Solid Snake（合金装备联动）" }
 ];
 
-// 围攻X (Siege X) 环境互动系统
+// 围攻X (Siege X) 环境互动系统与地图翻新总计划
 const SIEGE_X_FEATURES = {
   mapRevamps: {
-    description: "围攻X对5张经典人气地图进行了全面视觉翻新",
+    description: "围攻X开启了全面地图视觉现代化翻新计划，从Y10S2开始每赛季翻新多张地图",
+    totalPlan: "计划翻新全部对战地图，每赛季新增约3张现代化地图",
     maps: ["Bank (银行)", "Kafe Dostoyevsky (咖啡馆)", "Chalet (木屋)", "Border (边境)", "Club House (俱乐部)"],
+    seasonBreakdown: [
+      {
+        season: "Y10S2 - Daybreak (2025.6)",
+        label: "围攻X首发",
+        maps: ["银行 (Bank)", "咖啡馆 (Kafe)", "木屋 (Chalet)", "边境 (Border)", "俱乐部 (Club House)"],
+        highlights: "围攻X正式上线，游戏转为免费游玩，引入6v6双重战线模式"
+      },
+      {
+        season: "Y10S3 - High Stakes (2025.9)",
+        maps: ["领事馆 (Consulate)", "体育场 (Stadium)", "永夜安港实验室 (Nighthaven Labs)"],
+        highlights: "首位围攻X新干员 Denari 登场"
+      },
+      {
+        season: "Y10S4 - Tenfold Pursuit (2025.12)",
+        maps: ["主题乐园 (Theme Park)", "摩天大楼 (Skyscraper)"],
+        highlights: "堡垒 (Fortress) 完全重做并加入排位模式；Thatcher 干员重做；10周年庆典"
+      },
+      {
+        season: "Y11S1 - Silent Hunt (2026.3)",
+        label: "当前赛季",
+        maps: ["海岸线 (Coastline)", "庄园 (Villa)", "俄勒冈 (Oregon)"],
+        highlights: "合金装备联动干员 Solid Snake 登场；1v1街机模式"
+      }
+    ],
     visualUpgrades: [
       "全新光线与阴影系统 —— 照明效果全面重置升级",
       "4K高清材质更新 —— 材质呈现真实次表面散射效果",
