@@ -883,6 +883,10 @@
         <div id="tab-timeline" class="tab-content">
             <h1 class="section-title">📅 地图重做时间线</h1>
             <p class="section-subtitle">从Y3开始Ubisoft对地图进行系统性重做的完整时间记录</p>
+
+            <!-- 围攻X翻新专区 -->
+            <div id="siegeXSection" style="margin-bottom:32px;"></div>
+
             <div class="timeline-container" id="timelineContainer"></div>
         </div>
 
@@ -1298,13 +1302,54 @@
         // ===== Timeline =====
         function renderTimeline() {
             const container = document.getElementById('timelineContainer');
-            container.innerHTML = MAP_REWORK_TIMELINE.map(item => `
-                <div class="timeline-item">
+            container.innerHTML = MAP_REWORK_TIMELINE.slice().reverse().map(item => `
+                <div class="timeline-item" style="${item.season === '围攻X' ? 'border-color:var(--accent);box-shadow:0 0 20px rgba(245,158,11,0.2)' : ''}">
                     <div class="timeline-date">${item.date} · ${item.season}</div>
                     <div class="timeline-title">${item.map}</div>
                     <div class="timeline-desc">${item.type}</div>
                 </div>
             `).join('');
+        }
+
+        // ===== Siege X Section =====
+        function renderSiegeXSection() {
+            if (typeof SIEGE_X_FEATURES === 'undefined') return;
+            const sx = SIEGE_X_FEATURES;
+            let html = `
+                <div style="background:linear-gradient(135deg, #1a2332 0%, #243044 100%);border:2px solid var(--accent);border-radius:16px;padding:28px 32px;margin-bottom:24px">
+                    <h2 style="font-size:22px;font-weight:800;color:var(--accent);margin-bottom:6px">🔥 围攻X (Siege X) — 2025年6月 重大更新</h2>
+                    <p style="font-size:14px;color:var(--text-secondary);margin-bottom:20px">围攻X标志着游戏进入免费游玩新纪元，同时对5张经典人气地图进行了全面视觉翻新，并引入了全新环境互动系统。</p>
+
+                    <h3 style="font-size:16px;color:var(--accent-blue);margin-bottom:12px">🗺️ 5张翻新地图</h3>
+                    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px">
+                        ${sx.mapRevamps.maps.map(m => `<span style="padding:6px 14px;background:rgba(59,130,246,0.15);color:var(--accent-blue);border:1px solid rgba(59,130,246,0.3);border-radius:20px;font-size:13px;font-weight:600">${m}</span>`).join('')}
+                    </div>
+
+                    <h3 style="font-size:16px;color:var(--accent-green);margin-bottom:12px">✨ 视觉升级内容</h3>
+                    <ul class="guideline-list" style="margin-bottom:20px">
+                        ${sx.mapRevamps.visualUpgrades.map(v => `<li>${v}</li>`).join('')}
+                    </ul>
+
+                    <h3 style="font-size:16px;color:var(--accent-red);margin-bottom:12px">💥 新增环境互动可破坏元素</h3>
+                    <p style="font-size:13px;color:var(--text-secondary);margin-bottom:14px">${sx.environmentalInteractables.description}</p>
+                    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-bottom:20px">
+                        ${sx.environmentalInteractables.elements.map(el => `
+                            <div style="padding:16px;background:var(--bg-card);border:1px solid var(--border);border-radius:10px">
+                                <div style="font-size:15px;font-weight:700;color:var(--accent);margin-bottom:4px">🔸 ${el.name}</div>
+                                <div style="font-size:11px;color:var(--text-muted);margin-bottom:6px">类型: ${el.type}</div>
+                                <div style="font-size:13px;color:var(--text-secondary);line-height:1.5;margin-bottom:6px">${el.tacticalUse}</div>
+                                <div style="font-size:11px;color:var(--text-muted)">📍 ${el.placement}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+
+                    <h3 style="font-size:16px;color:var(--accent-purple);margin-bottom:12px">📐 对关卡设计的影响</h3>
+                    <ul class="guideline-list">
+                        ${sx.environmentalInteractables.designImpact.map(d => `<li>${d}</li>`).join('')}
+                    </ul>
+                </div>
+            `;
+            document.getElementById('siegeXSection').innerHTML = html;
         }
 
         // ===== Level Design =====
@@ -1451,6 +1496,7 @@
             renderMapCards(MAPS_DATA);
             renderModes();
             renderTimeline();
+            renderSiegeXSection();
             renderLevelDesign();
             renderGlossary();
             renderResources();

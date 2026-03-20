@@ -29,9 +29,15 @@ const MAPS_DATA = [
         season: "Y5S1 - Void Edge",
         type: "小型调整",
         changes: "外部区域调整，天窗开口修改，部分墙体可破坏性变更"
+      },
+      {
+        date: "2025-06-11",
+        season: "围攻X (Siege X)",
+        type: "视觉翻新 + 环境互动",
+        changes: "围攻X五张翻新地图之一。全面升级光照系统（新光线与阴影效果），更新4K高清材质，地图视觉表现大幅提升。新增环境互动可破坏元素：灭火器、燃气管道、金属探测器等，为战术对抗增加了全新维度。"
       }
     ],
-    keywords: ["金库", "大厅", "垂直进攻", "天窗", "对称布局", "旋转进攻", "经典地图"],
+    keywords: ["金库", "大厅", "垂直进攻", "天窗", "对称布局", "旋转进攻", "经典地图", "围攻X翻新"],
     communityRating: {
       overall: 8.0,
       competitiveViability: 8.5,
@@ -128,9 +134,15 @@ const MAPS_DATA = [
         season: "Y6S2 - North Star",
         type: "中型重做",
         changes: "重做了二楼东翼区域，增加了进攻路线，调整了多处墙体和视线"
+      },
+      {
+        date: "2025-06-11",
+        season: "围攻X (Siege X)",
+        type: "视觉翻新 + 环境互动",
+        changes: "围攻X五张翻新地图之一。照明系统全面升级，新光线、阴影效果显著增强建筑细节和室外区域的视觉表现。更新4K材质。新增灭火器、燃气管道、金属探测器等环境互动可破坏元素，为战术带来新可能性。"
       }
     ],
-    keywords: ["紧凑", "中东风格", "海关", "竞技经典", "信息战", "水平对抗", "双层结构"],
+    keywords: ["紧凑", "中东风格", "海关", "竞技经典", "信息战", "水平对抗", "双层结构", "围攻X翻新"],
     communityRating: {
       overall: 8.5,
       competitiveViability: 9.0,
@@ -174,9 +186,15 @@ const MAPS_DATA = [
         season: "Y5S3 - Shadow Legacy",
         type: "大型重做",
         changes: "大幅重做整个地图，重新设计了二楼布局，增加了新的房间和连接通道，修改了地下室结构，增加了进攻路线和垂直对抗空间"
+      },
+      {
+        date: "2025-06-11",
+        season: "围攻X (Siege X)",
+        type: "视觉翻新 + 环境互动",
+        changes: "围攻X五张翻新地图之一。内部空间经过重新光照规划，灯光更加贴近真实场景，光线和阴影效果全面升级。更新4K材质，大理石等材质呈现真实次表面散射效果。新增灭火器、燃气管道等环境互动可破坏元素，营造更加危机四伏的场景。"
       }
     ],
-    keywords: ["木屋", "滑雪胜地", "阿尔卑斯", "大幅重做", "垂直对抗", "酒窖", "壁炉"],
+    keywords: ["木屋", "滑雪胜地", "阿尔卑斯", "大幅重做", "垂直对抗", "酒窖", "壁炉", "围攻X翻新"],
     communityRating: {
       overall: 7.0,
       competitiveViability: 7.5,
@@ -220,9 +238,15 @@ const MAPS_DATA = [
         season: "Y3S2 - Para Bellum",
         type: "中型重做",
         changes: "重做了二楼卧室和建筑后方区域，增加了新的通道和楼梯，改善了地图流动性"
+      },
+      {
+        date: "2025-06-11",
+        season: "围攻X (Siege X)",
+        type: "视觉翻新 + 环境互动",
+        changes: "围攻X五张翻新地图之一。全面升级光照系统，新的光线与阴影效果让室内外视觉表现更加逼真。更新4K材质。新增灭火器、燃气管道、金属探测器等环境互动可破坏元素，为经典的教堂/地下室等区域增加了新的战术层次。"
       }
     ],
-    keywords: ["摩托帮", "地下室", "教堂", "酒吧", "垂直进攻", "竞技经典", "早期重做"],
+    keywords: ["摩托帮", "地下室", "教堂", "酒吧", "垂直进攻", "竞技经典", "早期重做", "围攻X翻新"],
     communityRating: {
       overall: 8.5,
       competitiveViability: 9.0,
@@ -407,9 +431,15 @@ const MAPS_DATA = [
         season: "Y4S2 - Phantom Sight",
         type: "中型重做",
         changes: "重做了三楼吧台区域，增加了新的通道和房间，改善了进攻路线，调整了多处墙体可破坏性"
+      },
+      {
+        date: "2025-06-11",
+        season: "围攻X (Siege X)",
+        type: "视觉翻新 + 环境互动",
+        changes: "围攻X五张翻新地图之一。照明系统全面重置升级，新光线与阴影效果大幅提升俄式古典内饰的视觉表现。更新4K材质。新增灭火器、燃气管道、金属探测器等环境互动可破坏元素，在厨房、面包房等区域增加了新的战术互动可能。"
       }
     ],
-    keywords: ["咖啡馆", "莫斯科", "俄式建筑", "厨房", "面包房", "三层结构", "经典竞技"],
+    keywords: ["咖啡馆", "莫斯科", "俄式建筑", "厨房", "面包房", "三层结构", "经典竞技", "围攻X翻新"],
     communityRating: {
       overall: 8.0,
       competitiveViability: 8.5,
@@ -1190,7 +1220,59 @@ const MAP_REWORK_TIMELINE = [
   { date: "2021-06-14", season: "Y6S2", map: "Favela / Border", type: "大型重做 / 中型调整" },
   { date: "2021-09-07", season: "Y6S3", map: "Bank（调整）", type: "小型调整" },
   { date: "2022-06-14", season: "Y7S2", map: "Theme Park（二次）", type: "大型重做" },
-  { date: "2023-05-30", season: "Y8S2", map: "Consulate", type: "中型重做" }
+  { date: "2023-05-30", season: "Y8S2", map: "Consulate", type: "中型重做" },
+  { date: "2025-06-11", season: "围攻X", map: "银行 / 咖啡馆 / 木屋 / 边境 / 俱乐部", type: "视觉翻新 + 环境互动系统（5张地图同时翻新）" }
 ];
 
-if (typeof module !== 'undefined') module.exports = { MAPS_DATA, MAP_RATING_SYSTEM, MAP_REWORK_TIMELINE };
+// 围攻X (Siege X) 环境互动系统
+const SIEGE_X_FEATURES = {
+  mapRevamps: {
+    description: "围攻X对5张经典人气地图进行了全面视觉翻新",
+    maps: ["Bank (银行)", "Kafe Dostoyevsky (咖啡馆)", "Chalet (木屋)", "Border (边境)", "Club House (俱乐部)"],
+    visualUpgrades: [
+      "全新光线与阴影系统 —— 照明效果全面重置升级",
+      "4K高清材质更新 —— 材质呈现真实次表面散射效果",
+      "环境氛围更加逼真 —— 暴雨天气下玻璃反光达到电影级渲染精度",
+      "室内外光照对比优化 —— 改善了从室外看室内/室内看室外的视觉体验"
+    ]
+  },
+  environmentalInteractables: {
+    description: "围攻X引入了全新的环境互动可破坏元素系统，为战术对抗增加新维度",
+    elements: [
+      {
+        name: "灭火器",
+        type: "可破坏/可互动",
+        tacticalUse: "射击后释放灭火剂烟雾，可作为临时视线遮蔽手段，为突入或换位提供掩护",
+        placement: "分布在地图走廊、楼梯间等公共区域"
+      },
+      {
+        name: "燃气管道",
+        type: "可破坏",
+        tacticalUse: "射击燃气管可造成泄漏或爆炸效果，对附近区域造成伤害，可用于区域封锁或诱饵战术",
+        placement: "厨房、地下室、设备间等区域"
+      },
+      {
+        name: "金属探测器",
+        type: "可互动/可触发",
+        tacticalUse: "通过时会触发警报声响，暴露经过者位置信息，增加了信息战维度",
+        placement: "建筑入口、安检区域"
+      }
+    ],
+    designImpact: [
+      "环境互动元素为每张地图增加了新的战术层次",
+      "灭火器和燃气管创造了'环境武器'概念，不依赖干员技能也能制造战术效果",
+      "金属探测器增加了信息获取的新维度",
+      "使地图场景更加危机四伏，营造沉浸式战术体验",
+      "可破坏环境互动物体是对原有软墙/硬墙可破坏系统的扩展"
+    ]
+  },
+  antiCheat: {
+    name: "R6 ShieldGuard",
+    description: "统一反作弊措施，围攻X中进一步加强，新增实时安全更新和强化名誉系统"
+  },
+  freeToPlay: {
+    description: "围攻X转为免费游玩模式，新玩家可解锁26名干员，老玩家保留原有进度并获得年限奖励"
+  }
+};
+
+if (typeof module !== 'undefined') module.exports = { MAPS_DATA, MAP_RATING_SYSTEM, MAP_REWORK_TIMELINE, SIEGE_X_FEATURES };
