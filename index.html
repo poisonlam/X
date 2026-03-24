@@ -319,8 +319,42 @@
             padding-top: 16px;
             border-top: 1px solid var(--border);
             display: flex;
-            gap: 16px;
+            gap: 8px;
+            flex-wrap: wrap;
         }
+
+        .map-data-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+
+        .tag-tier-s { background: rgba(245, 158, 11, 0.2); color: #f59e0b; }
+        .tag-tier-a { background: rgba(16, 185, 129, 0.15); color: var(--accent-green); }
+        .tag-tier-b { background: rgba(59, 130, 246, 0.15); color: var(--accent-blue); }
+        .tag-tier-c { background: rgba(107, 114, 128, 0.15); color: var(--text-muted); }
+        .tag-tier-d { background: rgba(239, 68, 68, 0.1); color: var(--accent-red); }
+        .tag-tier-f { background: rgba(239, 68, 68, 0.2); color: var(--accent-red); }
+        .tag-ranked-in { background: rgba(16, 185, 129, 0.12); color: var(--accent-green); border: 1px solid rgba(16,185,129,0.3); }
+        .tag-ranked-out { background: rgba(239, 68, 68, 0.08); color: #f87171; border: 1px solid rgba(239,68,68,0.2); }
+        .tag-atk { background: rgba(59, 130, 246, 0.12); color: #60a5fa; }
+        .tag-def { background: rgba(239, 68, 68, 0.12); color: #f87171; }
+        .tag-balanced { background: rgba(16, 185, 129, 0.12); color: var(--accent-green); }
+        .tag-ban { background: rgba(139, 92, 246, 0.12); color: var(--accent-purple); }
+
+        .winrate-bar {
+            height: 6px;
+            border-radius: 3px;
+            overflow: hidden;
+            display: flex;
+            margin-top: 8px;
+        }
+        .winrate-atk { background: var(--accent-blue); }
+        .winrate-def { background: var(--accent-red); }
 
         .rating-item {
             text-align: center;
@@ -789,6 +823,164 @@
         ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: var(--border-light); }
 
+        /* ===== Ranked Pool Section ===== */
+        .pool-season-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            margin-bottom: 20px;
+            overflow: hidden;
+            transition: border-color 0.3s;
+        }
+        .pool-season-card:hover {
+            border-color: var(--accent);
+        }
+        .pool-season-card.has-changes {
+            border-left: 4px solid var(--accent);
+        }
+        .pool-season-header {
+            padding: 18px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            user-select: none;
+        }
+        .pool-season-header:hover {
+            background: var(--bg-hover);
+        }
+        .pool-season-title {
+            font-size: 16px;
+            font-weight: 700;
+        }
+        .pool-season-op {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+        .pool-season-meta {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+        .pool-change-badge {
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        .badge-added {
+            background: rgba(16, 185, 129, 0.15);
+            color: var(--accent-green);
+        }
+        .badge-removed {
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--accent-red);
+        }
+        .badge-no-change {
+            background: rgba(107, 114, 128, 0.15);
+            color: var(--text-muted);
+        }
+        .pool-count-badge {
+            padding: 3px 10px;
+            background: rgba(59, 130, 246, 0.15);
+            color: var(--accent-blue);
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        .pool-season-body {
+            display: none;
+            padding: 0 24px 20px;
+            border-top: 1px solid var(--border);
+        }
+        .pool-season-body.open {
+            display: block;
+        }
+        .pool-change-section {
+            margin-top: 16px;
+        }
+        .pool-change-title {
+            font-size: 13px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .pool-map-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .pool-map-tag {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+            border: 1px solid var(--border);
+            background: var(--bg-hover);
+            color: var(--text-primary);
+            transition: all 0.2s;
+        }
+        .pool-map-tag.added {
+            border-color: var(--accent-green);
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--accent-green);
+        }
+        .pool-map-tag.removed {
+            border-color: var(--accent-red);
+            background: rgba(239, 68, 68, 0.1);
+            color: var(--accent-red);
+            text-decoration: line-through;
+        }
+        .pool-map-tag.new-in-pool {
+            border-color: var(--accent);
+            background: rgba(245, 158, 11, 0.12);
+            color: var(--accent);
+            font-weight: 700;
+        }
+        .pool-notes {
+            margin-top: 14px;
+            padding: 12px 16px;
+            background: rgba(59, 130, 246, 0.06);
+            border: 1px solid rgba(59, 130, 246, 0.15);
+            border-radius: 8px;
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+        .pool-phase2-box {
+            margin-top: 16px;
+            padding: 16px;
+            background: rgba(139, 92, 246, 0.06);
+            border: 1px solid rgba(139, 92, 246, 0.2);
+            border-radius: 10px;
+        }
+        .pool-phase2-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--accent-purple);
+            margin-bottom: 10px;
+        }
+        .pool-trivia-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+        }
+        .pool-trivia-title {
+            font-size: 15px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .pool-arrow {
+            transition: transform 0.3s;
+            font-size: 14px;
+            color: var(--text-muted);
+        }
+        .pool-arrow.open {
+            transform: rotate(180deg);
+        }
+
         /* ===== Additional Info Section ===== */
         .info-suggestion {
             padding: 16px 20px;
@@ -843,11 +1035,13 @@
             </div>
             <nav class="nav-tabs">
                 <button class="nav-tab active" onclick="switchTab('maps')">🗺️ 地图数据库</button>
+                <button class="nav-tab" onclick="switchTab('rankedpool')">🏆 排位图池</button>
                 <button class="nav-tab" onclick="switchTab('timeline')">📅 重做时间线</button>
                 <button class="nav-tab" onclick="switchTab('modes')">🎮 玩法模式</button>
                 <button class="nav-tab" onclick="switchTab('leveldesign')">📐 关卡设计</button>
                 <button class="nav-tab" onclick="switchTab('glossary')">📖 术语表</button>
                 <button class="nav-tab" onclick="switchTab('resources')">📚 资源收集</button>
+                <a href="player-stats.html" class="nav-tab" style="text-decoration:none; color:var(--accent);">📊 玩家对局统计 →</a>
             </nav>
             <div class="search-container">
                 <span class="search-icon">🔍</span>
@@ -877,6 +1071,24 @@
             </div>
 
             <div class="map-grid" id="mapGrid"></div>
+        </div>
+
+        <!-- ===== TAB: Ranked Pool ===== -->
+        <div id="tab-rankedpool" class="tab-content">
+            <h1 class="section-title">🏆 排位图池变化历史</h1>
+            <p class="section-subtitle">从发售至今每个赛季排位地图池的完整变化记录：谁加入了图池，谁退出了图池，每次图池都有谁</p>
+
+            <!-- 统计概览 -->
+            <div class="stats-bar" id="poolStats"></div>
+
+            <!-- 全勤地图 & 趣味统计 -->
+            <div id="poolTrivia" style="margin-bottom:28px"></div>
+
+            <!-- 赛季选择器 -->
+            <div id="poolYearFilter" class="filter-bar" style="margin-bottom:24px"></div>
+
+            <!-- 图池时间线 -->
+            <div id="poolTimeline"></div>
         </div>
 
         <!-- ===== TAB: Timeline ===== -->
@@ -948,8 +1160,10 @@
 
     <!-- Data Scripts -->
     <script src="data/maps.js"></script>
+    <script src="data/map_layouts.js"></script>
     <script src="data/modes.js"></script>
     <script src="data/level_design.js"></script>
+    <script src="data/ranked_pool.js"></script>
 
     <script>
         // ===== Tab Switching =====
@@ -974,6 +1188,34 @@
             if (map.competitiveStatus?.includes('Casual') || map.competitiveStatus?.includes('Quick')) return '休闲';
             if (map.competitiveStatus?.includes('移除') || map.type?.includes('移除')) return '已移除';
             return '其他';
+        }
+
+        function getTierClass(tier) {
+            if (!tier) return 'tag-tier-c';
+            const t = tier.replace('+','').toUpperCase();
+            if (t === 'S') return 'tag-tier-s';
+            if (t === 'A') return 'tag-tier-a';
+            if (t === 'B') return 'tag-tier-b';
+            if (t === 'C') return 'tag-tier-c';
+            if (t === 'D') return 'tag-tier-d';
+            if (t === 'F') return 'tag-tier-f';
+            return 'tag-tier-c';
+        }
+
+        function getWinrateClass(wr) {
+            if (!wr) return '';
+            const diff = Math.abs(wr.attack - wr.defense);
+            if (diff <= 6) return 'tag-balanced';
+            if (wr.attack > wr.defense) return 'tag-atk';
+            return 'tag-def';
+        }
+
+        function getWinrateIcon(wr) {
+            if (!wr) return '';
+            const diff = Math.abs(wr.attack - wr.defense);
+            if (diff <= 6) return '⚖️';
+            if (wr.attack > wr.defense) return '⚔️';
+            return '🛡️';
         }
 
         function renderMapCards(maps) {
@@ -1008,28 +1250,12 @@
                         <div class="map-keywords">
                             ${(map.keywords || []).slice(0, 5).map(k => `<span class="keyword-tag">${k}</span>`).join('')}
                         </div>
-                        ${map.communityRating ? `
+                        ${map.competitiveData ? `
                         <div class="map-rating-bar">
-                            <div class="rating-item">
-                                <div class="rating-score">${map.communityRating.overall}</div>
-                                <div class="rating-label">综合</div>
-                            </div>
-                            <div class="rating-item">
-                                <div class="rating-score">${map.communityRating.competitiveViability}</div>
-                                <div class="rating-label">竞技</div>
-                            </div>
-                            <div class="rating-item">
-                                <div class="rating-score">${map.communityRating.casualFun}</div>
-                                <div class="rating-label">趣味</div>
-                            </div>
-                            <div class="rating-item">
-                                <div class="rating-score">${map.communityRating.visualDesign}</div>
-                                <div class="rating-label">视觉</div>
-                            </div>
-                            <div class="rating-item">
-                                <div class="rating-score">${map.communityRating.balancedSides}</div>
-                                <div class="rating-label">平衡</div>
-                            </div>
+                            <span class="map-data-tag ${getTierClass(map.competitiveData.mapTier)}">Tier ${map.competitiveData.mapTier}</span>
+                            <span class="map-data-tag ${map.competitiveData.currentlyInRanked ? 'tag-ranked-in' : 'tag-ranked-out'}">${map.competitiveData.currentlyInRanked ? '✅ 在排位池' : '❌ 不在排位池'}</span>
+                            ${map.competitiveData.rankedPoolSeasons ? `<span class="map-data-tag" style="background:rgba(107,114,128,0.1);color:var(--text-secondary)">📅 排位 ${map.competitiveData.rankedPoolSeasons} 赛季</span>` : ''}
+                            ${map.competitiveData.esportsWinRate ? `<span class="map-data-tag ${getWinrateClass(map.competitiveData.esportsWinRate)}">${getWinrateIcon(map.competitiveData.esportsWinRate)} 攻${map.competitiveData.esportsWinRate.attack}% / 防${map.competitiveData.esportsWinRate.defense}%</span>` : ''}
                         </div>
                         ` : ''}
                     </div>
@@ -1042,14 +1268,14 @@
             const competitive = MAPS_DATA.filter(m => m.competitiveStatus?.includes('Competitive') || (m.competitiveStatus?.includes('Ranked') && !m.competitiveStatus?.includes('移除'))).length;
             const reworked = MAPS_DATA.filter(m => m.reworkHistory?.length > 0).length;
             const removed = MAPS_DATA.filter(m => m.competitiveStatus?.includes('移除') || m.type?.includes('移除')).length;
-            const avgRating = (MAPS_DATA.reduce((s, m) => s + (m.communityRating?.overall || 0), 0) / MAPS_DATA.length).toFixed(1);
+            const inRanked = MAPS_DATA.filter(m => m.competitiveData?.currentlyInRanked).length;
 
             document.getElementById('mapStats').innerHTML = `
                 <div class="stat-card"><div class="stat-number">${totalMaps}</div><div class="stat-label">地图总数</div></div>
+                <div class="stat-card"><div class="stat-number">${inRanked}</div><div class="stat-label">当前排位池</div></div>
                 <div class="stat-card"><div class="stat-number">${competitive}</div><div class="stat-label">竞技可用</div></div>
                 <div class="stat-card"><div class="stat-number">${reworked}</div><div class="stat-label">已重做过</div></div>
                 <div class="stat-card"><div class="stat-number">${removed}</div><div class="stat-label">已移除</div></div>
-                <div class="stat-card"><div class="stat-number">${avgRating}</div><div class="stat-label">平均评分</div></div>
             `;
         }
 
@@ -1116,6 +1342,32 @@
                 </div>
             `;
 
+            // 楼层平面图展示
+            if (map.layoutImages && map.layoutImages.floors && map.layoutImages.floors.length > 0) {
+                const layoutData = typeof MAP_LAYOUTS !== 'undefined' ? MAP_LAYOUTS[map.id] : null;
+                const allFloors = map.layoutImages.floors;
+                const extras = layoutData?.extras || [];
+
+                html += `<div class="detail-section">
+                    <div class="detail-section-title">🗺️ 楼层平面图</div>
+                    <div style="margin-bottom:12px;display:flex;flex-wrap:wrap;gap:6px" id="layoutFloorTabs_${map.id}">
+                        ${allFloors.map((f, i) => `<button onclick="switchLayoutFloor('${map.id}', ${i}, this)" style="padding:8px 16px;border:1px solid ${i === 0 ? 'var(--accent)' : 'var(--border)'};background:${i === 0 ? 'rgba(245,158,11,0.15)' : 'var(--bg-card)'};color:${i === 0 ? 'var(--accent)' : 'var(--text-secondary)'};border-radius:20px;cursor:pointer;font-size:13px;font-weight:${i === 0 ? '600' : '400'};transition:all 0.2s">${f.name}</button>`).join('')}
+                        ${extras.map((e, i) => `<button onclick="switchLayoutFloor('${map.id}', ${allFloors.length + i}, this)" style="padding:8px 16px;border:1px solid var(--border);background:var(--bg-card);color:var(--text-muted);border-radius:20px;cursor:pointer;font-size:13px;transition:all 0.2s">${e.name}</button>`).join('')}
+                    </div>
+                    <div id="layoutImageContainer_${map.id}" style="position:relative;background:var(--bg-card);border:1px solid var(--border);border-radius:12px;overflow:hidden;min-height:200px;text-align:center">
+                        <img src="${map.layoutImages.basePath}${allFloors[0].file}" alt="${allFloors[0].name}" style="max-width:100%;height:auto;cursor:zoom-in;display:block;margin:0 auto" onclick="openFullscreenLayout(this.src, '${map.nameCN} - ${allFloors[0].name}')" onerror="this.parentElement.innerHTML='<div style=\\'padding:40px;color:var(--text-muted)\\'>图片加载失败</div>'" />
+                    </div>
+                    <div style="margin-top:8px;font-size:11px;color:var(--text-muted);display:flex;justify-content:space-between">
+                        <span>来源: ${layoutData?.source || '社区资源'}</span>
+                        <span>点击图片可全屏查看</span>
+                    </div>
+                </div>`;
+
+                // 存储楼层数据到全局，供切换使用
+                window._currentLayoutFloors = [...allFloors.map(f => ({...f, basePath: map.layoutImages.basePath})), ...extras.map(e => ({...e, basePath: map.layoutImages.basePath}))];
+                window._currentLayoutMapName = map.nameCN;
+            }
+
             if (map.reworkHistory?.length) {
                 html += `<div class="detail-section">
                     <div class="detail-section-title">🔄 重做历史</div>
@@ -1146,16 +1398,81 @@
                 </div>`;
             }
 
-            if (map.communityRating?.comments?.length) {
+            if (map.competitiveData) {
+                const cd = map.competitiveData;
                 html += `<div class="detail-section">
-                    <div class="detail-section-title">💬 社区评价</div>
-                    ${map.communityRating.comments.map(c => {
-                        const cls = c.sentiment === '正面' ? 'positive' : c.sentiment === '负面' ? 'negative' : 'neutral';
-                        return `<div class="comment-card ${cls}">
-                            <div class="comment-source">${c.source} · ${c.sentiment}</div>
-                            <div class="comment-text">"${c.text}"</div>
-                        </div>`;
-                    }).join('')}
+                    <div class="detail-section-title">📊 竞技数据</div>
+                    <div class="detail-grid">
+                        <div class="detail-item">
+                            <div class="detail-item-label">地图Tier</div>
+                            <div class="detail-item-value"><span class="map-data-tag ${getTierClass(cd.mapTier)}" style="font-size:14px;padding:6px 14px">Tier ${cd.mapTier}</span></div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-item-label">当前排位状态</div>
+                            <div class="detail-item-value">${cd.currentlyInRanked ? '<span style="color:var(--accent-green)">✅ 在排位池中</span>' : '<span style="color:var(--accent-red)">❌ 不在排位池</span>'}</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-item-label">累计排位赛季数</div>
+                            <div class="detail-item-value">${cd.rankedPoolSeasons} 个赛季</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-item-label">重做次数</div>
+                            <div class="detail-item-value">${map.reworkHistory?.length || 0} 次</div>
+                        </div>
+                        ${cd.rankedBanRate && cd.rankedBanRate !== 'N/A' && cd.rankedBanRate !== 'N/A（不在排位池）' && cd.rankedBanRate !== 'N/A（已移出排位池）' ? `
+                        <div class="detail-item">
+                            <div class="detail-item-label">排位Ban率</div>
+                            <div class="detail-item-value"><span class="map-data-tag tag-ban">🚫 ${cd.rankedBanRate}</span></div>
+                        </div>` : ''}
+                        ${cd.rankedPickRate && !cd.rankedPickRate.startsWith('N/A') && !cd.rankedPickRate.startsWith('0.0') ? `
+                        <div class="detail-item">
+                            <div class="detail-item-label">排位Pick率</div>
+                            <div class="detail-item-value">${cd.rankedPickRate}</div>
+                        </div>` : ''}
+                    </div>
+                    ${cd.esportsWinRate ? `
+                    <div style="margin-top:18px;padding:16px;background:var(--bg-hover);border-radius:10px">
+                        <div style="font-size:14px;font-weight:700;margin-bottom:12px">⚔️ 赛事攻防胜率</div>
+                        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+                            <div style="text-align:center">
+                                <div style="font-size:22px;font-weight:800;color:var(--accent-blue)">${cd.esportsWinRate.attack}%</div>
+                                <div style="font-size:11px;color:var(--text-muted)">⚔️ 进攻方</div>
+                            </div>
+                            <div style="flex:1;margin:0 16px">
+                                <div class="winrate-bar">
+                                    <div class="winrate-atk" style="width:${cd.esportsWinRate.attack}%"></div>
+                                    <div class="winrate-def" style="width:${cd.esportsWinRate.defense}%"></div>
+                                </div>
+                                <div style="text-align:center;font-size:10px;color:var(--text-muted);margin-top:6px">${cd.esportsWinRate.sampleSize ? '样本: ' + cd.esportsWinRate.sampleSize.toLocaleString() + ' 回合' : ''}</div>
+                            </div>
+                            <div style="text-align:center">
+                                <div style="font-size:22px;font-weight:800;color:var(--accent-red)">${cd.esportsWinRate.defense}%</div>
+                                <div style="font-size:11px;color:var(--text-muted)">🛡️ 防守方</div>
+                            </div>
+                        </div>
+                        <div style="font-size:11px;color:var(--text-muted)">数据来源: ${cd.esportsWinRate.source || 'Liquipedia赛事数据'}</div>
+                    </div>
+                    ` : ''}
+                    ${cd.proLeague?.si2024 ? `
+                    <div style="margin-top:14px;padding:16px;background:rgba(245,158,11,0.06);border:1px solid rgba(245,158,11,0.15);border-radius:10px">
+                        <div style="font-size:14px;font-weight:700;margin-bottom:12px;color:var(--accent)">🏆 六邀赛 2024 (SI 2024) 数据</div>
+                        <div class="detail-grid">
+                            <div class="detail-item"><div class="detail-item-label">被选用</div><div class="detail-item-value">${cd.proLeague.si2024.picked} 次</div></div>
+                            <div class="detail-item"><div class="detail-item-label">被Ban掉</div><div class="detail-item-value">${cd.proLeague.si2024.banned} 次</div></div>
+                            <div class="detail-item"><div class="detail-item-label">总回合数</div><div class="detail-item-value">${cd.proLeague.si2024.totalRounds} 回合</div></div>
+                        </div>
+                    </div>
+                    ` : ''}
+                    ${cd.proLeague?.overall?.description ? `
+                    <div style="margin-top:10px;font-size:13px;color:var(--text-secondary);padding:12px;background:rgba(59,130,246,0.06);border-radius:8px">
+                        📝 ${cd.proLeague.overall.description}
+                    </div>
+                    ` : ''}
+                    ${cd.tags?.length ? `
+                    <div style="margin-top:14px;display:flex;flex-wrap:wrap;gap:6px">
+                        ${cd.tags.map(t => `<span class="keyword-tag" style="background:rgba(59,130,246,0.1);color:var(--accent-blue)">${t}</span>`).join('')}
+                    </div>
+                    ` : ''}
                 </div>`;
             }
 
@@ -1502,6 +1819,196 @@
             if (e.key === 'Escape') closeModal();
         });
 
+        // ===== Ranked Pool =====
+        let poolYearFilter = 'all';
+
+        function renderRankedPool() {
+            renderPoolStats();
+            renderPoolTrivia();
+            renderPoolYearFilter();
+            renderPoolTimeline();
+        }
+
+        function renderPoolStats() {
+            const data = RANKED_POOL_HISTORY;
+            const latest = data[data.length - 1];
+            const maxPool = data.reduce((max, s) => Math.max(max, s.pool.length), 0);
+            const maxPoolSeason = data.find(s => s.pool.length === maxPool);
+            const totalAdds = data.reduce((sum, s) => sum + s.added.length, 0);
+            const totalRemoves = data.reduce((sum, s) => sum + s.removed.length, 0);
+            const allMapsEver = [...new Set(data.flatMap(s => s.pool))];
+
+            document.getElementById('poolStats').innerHTML = `
+                <div class="stat-card"><div class="stat-number">${latest.pool.length}</div><div class="stat-label">当前图池大小</div></div>
+                <div class="stat-card"><div class="stat-number">${allMapsEver.length}</div><div class="stat-label">曾入选排位的地图</div></div>
+                <div class="stat-card"><div class="stat-number">${maxPool}</div><div class="stat-label">历史最大图池 (${maxPoolSeason.seasonCode})</div></div>
+                <div class="stat-card"><div class="stat-number">${totalAdds}</div><div class="stat-label">总加入次数</div></div>
+                <div class="stat-card"><div class="stat-number">${totalRemoves}</div><div class="stat-label">总移出次数</div></div>
+            `;
+        }
+
+        function renderPoolTrivia() {
+            const stats = RANKED_POOL_STATS;
+            let html = `
+                <div class="pool-trivia-card" style="border-left:4px solid var(--accent-green)">
+                    <div class="pool-trivia-title" style="color:var(--accent-green)">🏅 排位图池全勤地图（从未被移出）</div>
+                    <div class="pool-map-tags">
+                        ${stats.neverRemoved.map(m => `<span class="pool-map-tag" style="border-color:var(--accent-green);color:var(--accent-green)">${m}</span>`).join('')}
+                    </div>
+                    <div style="font-size:12px;color:var(--text-muted);margin-top:10px">这些地图自加入排位池以来，从未在任何赛季被移出过。</div>
+                </div>
+
+                <div class="pool-trivia-card" style="border-left:4px solid var(--accent-red)">
+                    <div class="pool-trivia-title" style="color:var(--accent-red)">❌ 被移出过排位池的地图</div>
+                    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px">
+                        ${stats.removedAtLeastOnce.map(m => `
+                            <div style="padding:10px 14px;background:var(--bg-hover);border-radius:8px">
+                                <div style="font-size:13px;font-weight:700;color:var(--accent-red)">${m.map}</div>
+                                <div style="font-size:11px;color:var(--text-muted);margin-top:2px">移出赛季: ${m.removedIn}</div>
+                                <div style="font-size:12px;color:var(--text-secondary);margin-top:4px">${m.reason}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+
+                <div class="pool-trivia-card" style="border-left:4px solid var(--accent-purple)">
+                    <div class="pool-trivia-title" style="color:var(--accent-purple)">🔄 从休闲逆袭到排位的地图</div>
+                    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px">
+                        ${stats.casualToRanked.map(m => `
+                            <div style="padding:10px 14px;background:var(--bg-hover);border-radius:8px">
+                                <div style="font-size:13px;font-weight:700;color:var(--accent-purple)">${m.map}</div>
+                                <div style="font-size:11px;color:var(--text-muted);margin-top:2px">加入赛季: ${m.addedIn}</div>
+                                <div style="font-size:12px;color:var(--text-secondary);margin-top:4px">${m.note}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+            document.getElementById('poolTrivia').innerHTML = html;
+        }
+
+        function renderPoolYearFilter() {
+            const years = [...new Set(RANKED_POOL_HISTORY.map(s => s.year))];
+            const container = document.getElementById('poolYearFilter');
+            container.innerHTML = `
+                <button class="filter-btn active" onclick="filterPool('all', event)">全部赛季</button>
+                ${years.map(y => `<button class="filter-btn" onclick="filterPool(${y}, event)">Year ${y}</button>`).join('')}
+                <button class="filter-btn" onclick="filterPool('changes', event)">仅显示有变化的赛季</button>
+            `;
+        }
+
+        function filterPool(year, e) {
+            poolYearFilter = year;
+            document.querySelectorAll('#poolYearFilter .filter-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            renderPoolTimeline();
+        }
+
+        function renderPoolTimeline() {
+            let data = RANKED_POOL_HISTORY;
+            if (poolYearFilter === 'changes') {
+                data = data.filter(s => s.added.length > 0 || s.removed.length > 0 || s.midSeasonChange);
+            } else if (poolYearFilter !== 'all') {
+                data = data.filter(s => s.year === poolYearFilter);
+            }
+
+            const container = document.getElementById('poolTimeline');
+            container.innerHTML = data.map((season, idx) => {
+                const hasChanges = season.added.length > 0 || season.removed.length > 0 || season.midSeasonChange;
+                const isLatest = idx === data.length - 1 && poolYearFilter === 'all';
+
+                return `
+                <div class="pool-season-card ${hasChanges ? 'has-changes' : ''}" ${isLatest ? 'style="border-color:var(--accent-green);box-shadow:0 0 20px rgba(16,185,129,0.15)"' : ''}>
+                    <div class="pool-season-header" onclick="togglePoolSeason(this)">
+                        <div>
+                            <div class="pool-season-title">
+                                ${season.season} ${isLatest ? '<span style="background:var(--accent-green);color:#000;padding:2px 8px;border-radius:8px;font-size:10px;margin-left:8px">当前赛季</span>' : ''}
+                            </div>
+                            <div class="pool-season-op">${season.operation} · ${season.date}</div>
+                        </div>
+                        <div class="pool-season-meta">
+                            ${season.added.length ? `<span class="pool-change-badge badge-added">+${season.added.length} 加入</span>` : ''}
+                            ${season.removed.length ? `<span class="pool-change-badge badge-removed">-${season.removed.length} 移出</span>` : ''}
+                            ${!season.added.length && !season.removed.length ? `<span class="pool-change-badge badge-no-change">无变化</span>` : ''}
+                            ${season.midSeasonChange ? `<span class="pool-change-badge" style="background:rgba(139,92,246,0.15);color:var(--accent-purple)">双阶段轮换</span>` : ''}
+                            <span class="pool-count-badge">${season.pool.length} 张地图</span>
+                            <span class="pool-arrow">▼</span>
+                        </div>
+                    </div>
+                    <div class="pool-season-body ${hasChanges || isLatest ? 'open' : ''}">
+                        ${season.added.length ? `
+                            <div class="pool-change-section">
+                                <div class="pool-change-title" style="color:var(--accent-green)">✅ 加入图池</div>
+                                <div class="pool-map-tags">
+                                    ${season.added.map(m => `<span class="pool-map-tag added">+ ${m}</span>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        ${season.removed.length ? `
+                            <div class="pool-change-section">
+                                <div class="pool-change-title" style="color:var(--accent-red)">❌ 移出图池</div>
+                                <div class="pool-map-tags">
+                                    ${season.removed.map(m => `<span class="pool-map-tag removed">- ${m}</span>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        <div class="pool-change-section">
+                            <div class="pool-change-title" style="color:var(--accent-blue)">📋 完整图池（${season.pool.length} 张）</div>
+                            <div class="pool-map-tags">
+                                ${season.pool.map(m => {
+                                    let cls = 'pool-map-tag';
+                                    if (season.added.includes(m)) cls += ' new-in-pool';
+                                    return `<span class="${cls}">${m}</span>`;
+                                }).join('')}
+                            </div>
+                        </div>
+                        ${season.midSeasonChange ? `
+                            <div class="pool-phase2-box">
+                                <div class="pool-phase2-title">🔄 赛季中段 · 第二阶段轮换</div>
+                                <p style="font-size:12px;color:var(--text-secondary);margin-bottom:12px">${season.midSeasonChange.description}</p>
+                                <div class="pool-change-section" style="margin-top:8px">
+                                    <div class="pool-change-title" style="color:var(--accent-red)">❌ 第二阶段移出</div>
+                                    <div class="pool-map-tags">
+                                        ${season.midSeasonChange.phase2.removed.map(m => `<span class="pool-map-tag removed">- ${m}</span>`).join('')}
+                                    </div>
+                                </div>
+                                <div class="pool-change-section">
+                                    <div class="pool-change-title" style="color:var(--accent-green)">✅ 第二阶段加入</div>
+                                    <div class="pool-map-tags">
+                                        ${season.midSeasonChange.phase2.added.map(m => `<span class="pool-map-tag added">+ ${m}</span>`).join('')}
+                                    </div>
+                                </div>
+                                <div class="pool-change-section">
+                                    <div class="pool-change-title" style="color:var(--accent-purple)">📋 第二阶段完整图池（${season.midSeasonChange.phase2.pool.length} 张）</div>
+                                    <div class="pool-map-tags">
+                                        ${season.midSeasonChange.phase2.pool.map(m => {
+                                            let cls = 'pool-map-tag';
+                                            if (season.midSeasonChange.phase2.added.includes(m)) cls += ' new-in-pool';
+                                            return `<span class="${cls}">${m}</span>`;
+                                        }).join('')}
+                                    </div>
+                                </div>
+                            </div>
+                        ` : ''}
+                        <div class="pool-notes">📝 ${season.notes}</div>
+                    </div>
+                </div>`;
+            }).join('');
+
+            // auto-open cards that have changes
+            document.querySelectorAll('.pool-season-body.open').forEach(body => {
+                const arrow = body.previousElementSibling.querySelector('.pool-arrow');
+                if (arrow) arrow.classList.add('open');
+            });
+        }
+
+        function togglePoolSeason(header) {
+            const body = header.nextElementSibling;
+            const arrow = header.querySelector('.pool-arrow');
+            body.classList.toggle('open');
+            arrow.classList.toggle('open');
+        }
+
         // ===== Initialize =====
         function init() {
             renderMapStats();
@@ -1512,6 +2019,69 @@
             renderLevelDesign();
             renderGlossary();
             renderResources();
+            renderRankedPool();
+        }
+
+        // ===== Layout Floor Switching =====
+        function switchLayoutFloor(mapId, floorIdx, btnEl) {
+            const floors = window._currentLayoutFloors;
+            if (!floors || !floors[floorIdx]) return;
+
+            const floor = floors[floorIdx];
+            const container = document.getElementById('layoutImageContainer_' + mapId);
+            const mapName = window._currentLayoutMapName || '';
+
+            container.innerHTML = `<img src="${floor.basePath}${floor.file}" alt="${floor.name}" style="max-width:100%;height:auto;cursor:zoom-in;display:block;margin:0 auto" onclick="openFullscreenLayout(this.src, '${mapName} - ${floor.name}')" onerror="this.parentElement.innerHTML='<div style=\\'padding:40px;color:var(--text-muted)\\'>图片加载失败</div>'" />`;
+
+            // 更新tab样式
+            const tabContainer = document.getElementById('layoutFloorTabs_' + mapId);
+            if (tabContainer) {
+                tabContainer.querySelectorAll('button').forEach((btn, i) => {
+                    if (i === floorIdx) {
+                        btn.style.borderColor = 'var(--accent)';
+                        btn.style.background = 'rgba(245,158,11,0.15)';
+                        btn.style.color = 'var(--accent)';
+                        btn.style.fontWeight = '600';
+                    } else {
+                        btn.style.borderColor = 'var(--border)';
+                        btn.style.background = 'var(--bg-card)';
+                        btn.style.color = 'var(--text-secondary)';
+                        btn.style.fontWeight = '400';
+                    }
+                });
+            }
+        }
+
+        function openFullscreenLayout(src, title) {
+            const overlay = document.createElement('div');
+            overlay.style.cssText = 'position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.95);z-index:1000;display:flex;flex-direction:column;align-items:center;justify-content:center;cursor:zoom-out;padding:20px';
+            overlay.onclick = () => overlay.remove();
+
+            const titleEl = document.createElement('div');
+            titleEl.style.cssText = 'color:#fff;font-size:16px;font-weight:600;margin-bottom:12px;text-align:center';
+            titleEl.textContent = title;
+
+            const img = document.createElement('img');
+            img.src = src;
+            img.style.cssText = 'max-width:95vw;max-height:85vh;object-fit:contain;border-radius:8px;box-shadow:0 0 40px rgba(0,0,0,0.5)';
+            img.onclick = (e) => e.stopPropagation();
+
+            const hint = document.createElement('div');
+            hint.style.cssText = 'color:#666;font-size:12px;margin-top:12px';
+            hint.textContent = '点击空白处关闭 · ESC退出';
+
+            overlay.appendChild(titleEl);
+            overlay.appendChild(img);
+            overlay.appendChild(hint);
+            document.body.appendChild(overlay);
+
+            const escHandler = (e) => {
+                if (e.key === 'Escape') {
+                    overlay.remove();
+                    document.removeEventListener('keydown', escHandler);
+                }
+            };
+            document.addEventListener('keydown', escHandler);
         }
 
         init();

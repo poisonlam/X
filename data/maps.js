@@ -38,24 +38,37 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["金库", "大厅", "垂直进攻", "天窗", "对称布局", "旋转进攻", "经典地图", "围攻X翻新"],
-    communityRating: {
-      overall: 8.0,
-      competitiveViability: 8.5,
-      casualFun: 7.5,
-      visualDesign: 7.0,
-      balancedSides: 8.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Bank是最平衡的地图之一，攻防两侧都有足够的策略空间" },
-        { source: "Pro League分析", sentiment: "正面", text: "Bank在职业联赛中一直是高选取率地图，点位设计非常成熟" },
-        { source: "社区投票", sentiment: "正面", text: "经典地图，垂直打法的典范" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 28,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "未上榜（极少被Ban）",
+      rankedPickRate: "中高",
+      proLeague: {
+        si2024: { picked: 26, banned: 40, atkWinRate: 45.1, defWinRate: 54.9, totalRounds: 195 },
+        overall: { pickTier: "A", banTier: "B", description: "职业赛事中的稳定选择，攻防相对平衡" }
+      },
+      esportsWinRate: { attack: 47.75, defense: 52.25, sampleSize: 32214, source: "Liquipedia历史赛事数据" },
+      mapTier: "A",
+      tags: ["竞技常驻", "垂直对抗", "攻防平衡", "职业高选率"]
     },
     levelDesignNotes: {
       verticalPlay: "高度依赖垂直对抗，天花板/地板可破坏性是核心玩法",
       rotationOptions: "多个轮转孔位，允许灵活的防守布局",
       entryPoints: "多方向进攻可能，包括天窗、正门、后方等",
       sightLines: "中距离对枪为主，大厅存在长距离视线"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/bank/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      roof: "roof.jpg",
+      preview: "preview.jpg",
+      source: "irestone/r6s-maps"
+    },
   },
   {
     id: "bartlett_u",
@@ -90,17 +103,14 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["大学", "争议地图", "已移除", "进攻方劣势", "窗户不足", "PvE转PvP失败案例"],
-    communityRating: {
-      overall: 3.0,
-      competitiveViability: 2.0,
-      casualFun: 4.0,
-      visualDesign: 6.5,
-      balancedSides: 2.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "负面", text: "Bartlett是Siege历史上最失败的地图设计之一，进攻方几乎无法安全进入建筑" },
-        { source: "职业选手", sentiment: "负面", text: "地图从一开始就不是为5v5设计的，强行加入多人是错误的决定" },
-        { source: "社区投票", sentiment: "负面", text: "窗户太少，进攻几乎不可能，最不平衡的地图" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 0,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "从未进入任何竞技/排位地图池" } },
+      esportsWinRate: null,
+      mapTier: "F",
+      tags: ["已移除", "PvE转PvP失败", "攻方极端劣势", "设计教训"]
     },
     levelDesignNotes: {
       verticalPlay: "有限的垂直对抗空间",
@@ -108,7 +118,15 @@ const MAPS_DATA = [
       entryPoints: "窗户数量严重不足，是该地图最大设计缺陷",
       sightLines: "室内以短距离对枪为主",
       lessonLearned: "证明了PvE地图不能简单转化为PvP地图，进入点数量对攻防平衡至关重要"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/bartlett_u/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "border",
@@ -143,24 +161,34 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["紧凑", "中东风格", "海关", "竞技经典", "信息战", "水平对抗", "双层结构", "围攻X翻新"],
-    communityRating: {
-      overall: 8.5,
-      competitiveViability: 9.0,
-      casualFun: 7.5,
-      visualDesign: 7.5,
-      balancedSides: 8.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Border一直是Ranked最受欢迎的地图之一，攻防双方都有充足的策略选择" },
-        { source: "Pro League分析", sentiment: "正面", text: "地图大小适中，节奏感好，是最佳竞技地图之一" },
-        { source: "社区投票（重做后）", sentiment: "正面", text: "Y6S2的重做进一步提升了地图质量，修复了二楼的不平衡问题" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 28,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "未上榜（极少被Ban）",
+      rankedPickRate: "中",
+      proLeague: {
+        si2024: { picked: 22, banned: 43, atkWinRate: 45.0, defWinRate: 55.0, totalRounds: 209 },
+        overall: { pickTier: "A", banTier: "B", description: "职业赛事中的常规选择，略偏防守方" }
+      },
+      esportsWinRate: { attack: 48.09, defense: 51.91, sampleSize: 29441, source: "Liquipedia历史赛事数据" },
+      mapTier: "A",
+      tags: ["竞技常驻", "紧凑结构", "攻防平衡", "信息战"]
     },
     levelDesignNotes: {
       verticalPlay: "二楼对一楼有部分垂直控制能力",
       rotationOptions: "轮转路线清晰但可被针对",
       entryPoints: "进攻方有多个窗口和门作为进入点",
       sightLines: "中短距离对枪为主，部分区域有较长视线"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/border/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "chalet",
@@ -195,24 +223,37 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["木屋", "滑雪胜地", "阿尔卑斯", "大幅重做", "垂直对抗", "酒窖", "壁炉", "围攻X翻新"],
-    communityRating: {
-      overall: 7.0,
-      competitiveViability: 7.5,
-      casualFun: 7.0,
-      visualDesign: 8.5,
-      balancedSides: 7.0,
-      comments: [
-        { source: "Reddit社区（重做前）", sentiment: "负面", text: "老Chalet的大厅/酒窖点位是全游戏最难防守的，攻方压倒性优势" },
-        { source: "Reddit社区（重做后）", sentiment: "中性偏正面", text: "重做后Chalet好了很多，但部分玩家怀念老地图的独特感" },
-        { source: "Pro League分析", sentiment: "正面", text: "重做后的Chalet终于可以在竞技场景使用了" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 26,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "未上榜",
+      rankedPickRate: "中",
+      proLeague: {
+        si2024: { picked: 30, banned: 34, atkWinRate: 45.6, defWinRate: 54.4, totalRounds: 274 },
+        overall: { pickTier: "S", banTier: "C", description: "六邀赛2024选用率最高的地图，重做后竞技地位大幅提升" }
+      },
+      esportsWinRate: { attack: 49.4, defense: 50.6, sampleSize: 13943, source: "Liquipedia历史赛事数据" },
+      mapTier: "A",
+      tags: ["竞技常驻", "重做成功案例", "垂直对抗", "高赛事选率"]
     },
     levelDesignNotes: {
       verticalPlay: "重做后增强了垂直对抗空间",
       rotationOptions: "地下室与一楼的连接是核心设计要素",
       entryPoints: "多个阳台和窗口提供进入点",
       sightLines: "混合型视线，室外有较长视线"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/chalet/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      roof: "roof.jpg",
+      preview: "preview.jpg",
+      source: "irestone/r6s-maps"
+    },
   },
   {
     id: "club_house",
@@ -247,24 +288,35 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["摩托帮", "地下室", "教堂", "酒吧", "垂直进攻", "竞技经典", "早期重做", "围攻X翻新"],
-    communityRating: {
-      overall: 8.5,
-      competitiveViability: 9.0,
-      casualFun: 8.0,
-      visualDesign: 8.0,
-      balancedSides: 8.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Club House是Siege的标志性地图，重做后更加平衡" },
-        { source: "Pro League分析", sentiment: "正面", text: "地图提供了丰富的策略层次，垂直打法和区域控制都很重要" },
-        { source: "社区投票", sentiment: "正面", text: "始终是玩家最喜欢的地图之一" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 28,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "未上榜（极少被Ban）",
+      rankedPickRate: "高",
+      proLeague: {
+        si2024: { picked: 29, banned: 36, atkWinRate: 41.9, defWinRate: 58.1, totalRounds: 260 },
+        overall: { pickTier: "S", banTier: "C", description: "全游戏标杆地图，类似CS的Dust2，职业赛场长盛不衰" }
+      },
+      esportsWinRate: { attack: 41.9, defense: 58.1, sampleSize: 260, source: "SI 2024" },
+      mapTier: "S",
+      tags: ["竞技标杆", "全勤地图", "垂直对抗经典", "社区最爱"]
     },
     levelDesignNotes: {
       verticalPlay: "地下室到一楼的垂直对抗是核心，教堂天花板是关键",
       rotationOptions: "丰富的轮转路线，防守方可以灵活调整",
       entryPoints: "建筑两侧各有独立的进入体系",
       sightLines: "室外对室内有多个关键视线位置"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/club_house/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps"
+    },
   },
   {
     id: "consulate",
@@ -299,24 +351,37 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["领事馆", "巴黎", "外交建筑", "中央楼梯", "签证室", "竞技地图", "三层结构", "围攻X翻新"],
-    communityRating: {
-      overall: 7.5,
-      competitiveViability: 8.0,
-      casualFun: 7.0,
-      visualDesign: 7.5,
-      balancedSides: 7.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Consulate是非常经典的地图，虽然不是最佳但始终保持竞技水准" },
-        { source: "Pro League分析", sentiment: "中性", text: "地图有些过于依赖车库争夺，但整体平衡尚可" },
-        { source: "社区投票", sentiment: "正面", text: "稳定的竞技地图，大部分玩家不反感" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 26,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "11.9%",
+      rankedPickRate: "5.65%",
+      proLeague: {
+        si2024: { picked: 18, banned: 49, atkWinRate: 39.6, defWinRate: 60.4, totalRounds: 139 },
+        overall: { pickTier: "B", banTier: "A", description: "职业赛场中Ban率偏高，防守方优势明显" }
+      },
+      esportsWinRate: { attack: 39.6, defense: 60.4, sampleSize: 139, source: "SI 2024" },
+      mapTier: "B+",
+      tags: ["竞技常驻", "偏防守", "高Ban率", "车库争夺"]
     },
     levelDesignNotes: {
       verticalPlay: "二楼对一楼有重要的垂直控制",
       rotationOptions: "中央楼梯是关键枢纽，控制楼梯等于控制轮转",
       entryPoints: "地下车库是重要的进入/争夺点",
       sightLines: "前院到建筑有长视线，室内以中距离为主"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/consulate/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      roof: "roof.jpg",
+      preview: "preview.jpg",
+      source: "irestone/r6s-maps"
+    },
   },
   {
     id: "hereford_base",
@@ -345,18 +410,14 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["SAS基地", "完全重做", "四层楼", "争议重做", "失败案例", "过于复杂", "训练设施"],
-    communityRating: {
-      overall: 4.5,
-      competitiveViability: 4.0,
-      casualFun: 5.0,
-      visualDesign: 6.0,
-      balancedSides: 4.0,
-      comments: [
-        { source: "Reddit社区（重做前）", sentiment: "中性", text: "老Hereford虽然简单但有其独特魅力，是新手友好型地图" },
-        { source: "Reddit社区（重做后）", sentiment: "负面", text: "新Hereford被认为是最失败的重做案例，四层楼过于复杂且不平衡" },
-        { source: "Pro League分析", sentiment: "负面", text: "重做后的Hereford从未被竞技采用，四层结构导致轮转过于冗长" },
-        { source: "社区投票", sentiment: "负面", text: "社区普遍认为这次重做摧毁了地图的原有灵魂" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 6,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "重做后仍未被职业赛事采用，四层结构被认为不适合竞技" } },
+      esportsWinRate: { attack: 40.23, defense: 59.77, sampleSize: 52, source: "Liquipedia（极少量赛事数据）" },
+      mapTier: "D",
+      tags: ["已移出排位", "重做争议", "四层过于复杂", "设计教训"]
     },
     levelDesignNotes: {
       verticalPlay: "四层结构理论上垂直空间丰富，但实际利用率低",
@@ -364,7 +425,17 @@ const MAPS_DATA = [
       entryPoints: "进攻方的入口选择过多，难以集中进攻",
       sightLines: "楼梯区域存在多个尴尬的长视线",
       lessonLearned: "证明了更多层数不等于更好的设计，地图复杂度需要适度控制"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/hereford_base/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+        { id: "3f", name: "三楼", file: "3f.jpg" },
+      ],
+      source: "capajon/r6maps"
+    },
   },
   {
     id: "house",
@@ -393,17 +464,16 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["小型地图", "新手友好", "快节奏", "混战", "郊区住宅", "经典休闲", "Rush地图"],
-    communityRating: {
-      overall: 6.5,
-      competitiveViability: 3.0,
-      casualFun: 9.0,
-      visualDesign: 7.0,
-      balancedSides: 4.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "House永远是最有趣的休闲地图，虽然不平衡但乐趣十足" },
-        { source: "社区投票", sentiment: "中性", text: "不适合竞技但适合休闲，是Siege的标志性地图之一" },
-        { source: "新手玩家", sentiment: "正面", text: "最容易学习和理解的地图" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 4,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      rankedBanRate: "N/A（不在排位池）",
+      rankedPickRate: "0.09%（仅Quick Match）",
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "从未进入职业赛事地图池，纯休闲地图" } },
+      esportsWinRate: { attack: 56.64, defense: 43.36, sampleSize: 81, source: "Liquipedia（极少量数据）" },
+      mapTier: "C",
+      tags: ["纯休闲", "新手友好", "快节奏Rush", "偏进攻方"]
     },
     levelDesignNotes: {
       verticalPlay: "有限但有效的垂直对抗",
@@ -411,7 +481,16 @@ const MAPS_DATA = [
       entryPoints: "窗户众多，进攻方可以从几乎任何方向进入",
       sightLines: "短距离对枪为主，peek战术效果突出",
       lessonLearned: "证明了小型地图对休闲玩家的吸引力，但不适合竞技"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/house/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps"
+    },
   },
   {
     id: "kafe_dostoyevsky",
@@ -446,24 +525,35 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["咖啡馆", "莫斯科", "俄式建筑", "厨房", "面包房", "三层结构", "经典竞技", "围攻X翻新"],
-    communityRating: {
-      overall: 8.0,
-      competitiveViability: 8.5,
-      casualFun: 7.5,
-      visualDesign: 8.5,
-      balancedSides: 8.0,
-      comments: [
-        { source: "Reddit社区（重做后）", sentiment: "正面", text: "Kafe重做是成功案例，保留了地图灵魂的同时改善了平衡" },
-        { source: "Pro League分析", sentiment: "正面", text: "重做后的Kafe成为了职业联赛的常客" },
-        { source: "社区投票", sentiment: "正面", text: "视觉设计优秀，重做方向正确" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 25,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "未上榜",
+      rankedPickRate: "中",
+      proLeague: {
+        si2024: { picked: 16, banned: 50, atkWinRate: 47.0, defWinRate: 53.0, totalRounds: 185 },
+        overall: { pickTier: "B", banTier: "S", description: "六邀赛2024中Ban率最高的地图之一，职业队伍对其策略分歧较大" }
+      },
+      esportsWinRate: { attack: 47.0, defense: 53.0, sampleSize: 185, source: "SI 2024" },
+      mapTier: "A",
+      tags: ["竞技常驻", "高赛事Ban率", "重做成功案例", "攻防平衡"]
     },
     levelDesignNotes: {
       verticalPlay: "三层结构提供丰富的垂直对抗空间",
       rotationOptions: "楼梯位置设计良好，轮转流畅",
       entryPoints: "每层都有合理的进入点",
       sightLines: "混合型视线，长短交替"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/kafe_dostoyevsky/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+        { id: "3f", name: "三楼", file: "3f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "kanal",
@@ -492,17 +582,16 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["运河", "双建筑", "天桥", "海岸警卫", "汉堡", "大型重做", "分割式布局"],
-    communityRating: {
-      overall: 6.0,
-      competitiveViability: 6.0,
-      casualFun: 6.0,
-      visualDesign: 7.0,
-      balancedSides: 5.5,
-      comments: [
-        { source: "Reddit社区（重做前）", sentiment: "负面", text: "老Kanal的双建筑设计导致严重的split push问题" },
-        { source: "Reddit社区（重做后）", sentiment: "中性", text: "重做后有改善但双建筑的根本问题仍然存在" },
-        { source: "社区投票", sentiment: "中性偏负面", text: "重做方向正确但未完全解决核心问题" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 18,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "11%",
+      rankedPickRate: "6.67%",
+      proLeague: { overall: { pickTier: "C", banTier: "B", description: "职业赛场数据极少，几乎不被选用" } },
+      esportsWinRate: { attack: 31.97, defense: 68.03, sampleSize: 83, source: "Liquipedia（极少量赛事数据）" },
+      mapTier: "B",
+      tags: ["排位中等热度", "双建筑设计", "极端偏防守（赛事）", "天桥核心"]
     },
     levelDesignNotes: {
       verticalPlay: "各建筑内部有垂直空间，但跨建筑联动有限",
@@ -510,7 +599,16 @@ const MAPS_DATA = [
       entryPoints: "两栋建筑各有独立的进入系统",
       sightLines: "跨建筑间存在超长视线",
       lessonLearned: "双建筑设计天然存在割裂问题，连接点设计至关重要"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/kanal/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "oregon",
@@ -545,24 +643,36 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["邪教据点", "Waco参考", "L形布局", "紧凑型", "竞技经典", "大塔小塔", "地下室争夺", "围攻X翻新"],
-    communityRating: {
-      overall: 8.5,
-      competitiveViability: 9.0,
-      casualFun: 8.0,
-      visualDesign: 7.0,
-      balancedSides: 8.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Oregon一直是最好的竞技地图之一，平衡且策略丰富" },
-        { source: "Pro League分析", sentiment: "正面", text: "Oregon是职业联赛中选取率最高的地图之一" },
-        { source: "社区投票（重做后）", sentiment: "正面", text: "重做保持了地图核心感觉的同时改善了薄弱区域" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 28,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "0.7%（几乎不被Ban）",
+      rankedPickRate: "9.47%（排位最高）",
+      proLeague: {
+        si2024: { picked: 24, banned: 41, atkWinRate: 34.2, defWinRate: 65.8, totalRounds: 219 },
+        overall: { pickTier: "A", banTier: "B", description: "职业赛事中显著偏防守方（65.8%防守胜率），但排位中最受欢迎" }
+      },
+      esportsWinRate: { attack: 34.2, defense: 65.8, sampleSize: 219, source: "SI 2024" },
+      mapTier: "S",
+      tags: ["排位最受欢迎", "全勤地图", "赛事偏防守", "竞技经典"]
     },
     levelDesignNotes: {
       verticalPlay: "大塔楼区域有丰富的垂直对抗空间",
       rotationOptions: "L形布局提供了清晰的轮转路线",
       entryPoints: "多个方向的进入点，包括天窗",
       sightLines: "中距离为主，走廊区域有长视线"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/oregon/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+        { id: "3f", name: "三楼", file: "3f.jpg" },
+      ],
+      source: "capajon/r6maps"
+    },
   },
   {
     id: "plane",
@@ -584,17 +694,16 @@ const MAPS_DATA = [
     backgroundReference: "参考美国空军一号（Air Force One）总统专机",
     reworkHistory: [],
     keywords: ["飞机", "线性布局", "空军一号", "狭窄走廊", "独特概念", "休闲地图", "不可破坏外墙"],
-    communityRating: {
-      overall: 5.0,
-      competitiveViability: 2.0,
-      casualFun: 7.0,
-      visualDesign: 7.5,
-      balancedSides: 3.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "中性", text: "Plane的概念很酷但不适合竞技，纯粹是rush地图" },
-        { source: "社区投票", sentiment: "中性", text: "作为休闲地图有独特魅力，但绝不能放入ranked" },
-        { source: "设计讨论", sentiment: "中性", text: "飞机外壳不可破坏是最大限制，断了很多策略可能" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 3,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      rankedBanRate: "N/A",
+      rankedPickRate: "0.04%（Quick Match极低）",
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "从未进入职业赛事地图池" } },
+      esportsWinRate: null,
+      mapTier: "D",
+      tags: ["纯休闲", "线性布局", "不可破坏外壳", "概念独特"]
     },
     levelDesignNotes: {
       verticalPlay: "两层之间有限的垂直互动",
@@ -602,7 +711,16 @@ const MAPS_DATA = [
       entryPoints: "进入点集中在机身两端和机翼",
       sightLines: "走廊形成超长视线",
       lessonLearned: "线性地图设计天然不适合攻防对抗型玩法"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/plane/",
+      floors: [
+        { id: "2f", name: "中层", file: "2f.jpg" },
+        { id: "3f", name: "上层", file: "3f.jpg" },
+      ],
+      note: "部分楼层缺失(1F/下层)",
+      source: "capajon/r6maps"
+    },
   },
   {
     id: "yacht",
@@ -631,16 +749,16 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["游艇", "北极", "冰雪", "线性", "视觉惊艳", "平衡问题", "已移出竞技"],
-    communityRating: {
-      overall: 5.5,
-      competitiveViability: 3.5,
-      casualFun: 6.5,
-      visualDesign: 9.0,
-      balancedSides: 4.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "中性", text: "Yacht视觉上非常棒但玩起来很无聊，线性布局限制了策略" },
-        { source: "社区投票", sentiment: "中性偏负面", text: "概念很好但执行不佳，噪音问题也很严重" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 5,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      rankedBanRate: "N/A",
+      rankedPickRate: "0.04%（Quick Match极低）",
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "Y2S2移出排位后从未重返竞技舞台" } },
+      esportsWinRate: null,
+      mapTier: "D",
+      tags: ["已移出排位", "线性布局", "视觉惊艳", "噪音问题"]
     },
     levelDesignNotes: {
       verticalPlay: "多层结构但垂直互动有限",
@@ -648,7 +766,17 @@ const MAPS_DATA = [
       entryPoints: "甲板提供了较好的进入点",
       sightLines: "狭长走廊产生极长视线",
       lessonLearned: "视觉设计优秀不等于玩法设计优秀，环境噪音对体验影响很大"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/yacht/",
+      floors: [
+        { id: "2f", name: "二层", file: "2f.jpg" },
+        { id: "3f", name: "三层", file: "3f.jpg" },
+        { id: "4f", name: "四层", file: "4f.jpg" },
+      ],
+      note: "部分楼层缺失(1F/底层)",
+      source: "capajon/r6maps"
+    },
   },
   // ==================== Year 1 Season 2-4 ====================
   {
@@ -683,17 +811,16 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["贫民窟", "巴西", "软墙", "极端可破坏", "防守噩梦", "重做改善", "里约"],
-    communityRating: {
-      overall: 5.0,
-      competitiveViability: 3.0,
-      casualFun: 6.5,
-      visualDesign: 8.0,
-      balancedSides: 4.0,
-      comments: [
-        { source: "Reddit社区（重做前）", sentiment: "负面", text: "老Favela是游戏中最不平衡的地图，防守方几乎不可能赢" },
-        { source: "Reddit社区（重做后）", sentiment: "中性", text: "重做后好了一些但仍然不是竞技级别" },
-        { source: "社区投票", sentiment: "负面", text: "软墙太多是原罪，重做也无法完全修复" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 8,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      rankedBanRate: "N/A（不在排位池）",
+      rankedPickRate: "0.15%（Quick Match极低）",
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "从未进入职业赛事地图池，重做后仍被认为不适合竞技" } },
+      esportsWinRate: null,
+      mapTier: "D",
+      tags: ["已移出排位", "极端软墙", "偏进攻方", "重做未达标"]
     },
     levelDesignNotes: {
       verticalPlay: "垂直空间存在但被大量软墙问题掩盖",
@@ -701,7 +828,16 @@ const MAPS_DATA = [
       entryPoints: "几乎所有外墙都可作为进入点",
       sightLines: "由于软墙可破坏性，视线不可预测",
       lessonLearned: "可破坏性设计需要适度，过多软墙会破坏攻防平衡"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/favela/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+        { id: "3f", name: "三楼", file: "3f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "skyscraper",
@@ -736,23 +872,34 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["日式建筑", "高层顶部", "阳台", "屋顶花园", "名古屋", "日本风格", "跑酷", "围攻X翻新"],
-    communityRating: {
-      overall: 6.5,
-      competitiveViability: 6.0,
-      casualFun: 7.0,
-      visualDesign: 8.5,
-      balancedSides: 6.0,
-      comments: [
-        { source: "Reddit社区（重做前）", sentiment: "负面", text: "老Skyscraper的阳台太强了，进攻方可以无脑阳台peek" },
-        { source: "Reddit社区（重做后）", sentiment: "中性偏正面", text: "重做后室内进攻路线增加了，但地图仍不是最优选择" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 16,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "22.9%（排位第三高Ban率）",
+      rankedPickRate: "3.62%",
+      proLeague: {
+        si2024: { picked: 20, banned: 45, atkWinRate: 29.9, defWinRate: 70.1, totalRounds: 184 },
+        overall: { pickTier: "B", banTier: "A", description: "六邀赛2024中防守方胜率高达70.1%，全场最不平衡的地图" }
+      },
+      esportsWinRate: { attack: 40.09, defense: 59.91, sampleSize: 15309, source: "Liquipedia历史赛事数据" },
+      mapTier: "B",
+      tags: ["高Ban率", "极端偏防守（赛事）", "阳台设计", "排位争议"]
     },
     levelDesignNotes: {
       verticalPlay: "两层之间有垂直对抗空间",
       rotationOptions: "重做后轮转路线有所改善",
       entryPoints: "阳台系统是最大特色，提供独特的进入角度",
       sightLines: "外部阳台到室内有多个关键视线"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/skyscraper/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   // ==================== Year 2 ====================
   {
@@ -782,17 +929,18 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["海滨", "夜店", "伊维萨", "环形布局", "庭院", "竞技经典", "最受欢迎", "围攻X翻新"],
-    communityRating: {
-      overall: 9.0,
-      competitiveViability: 9.5,
-      casualFun: 8.5,
-      visualDesign: 9.5,
-      balancedSides: 8.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Coastline是Siege最好的地图之一，从未需要重做" },
-        { source: "Pro League分析", sentiment: "正面", text: "Coastline一直是职业比赛中最高选取率的地图" },
-        { source: "社区投票", sentiment: "正面", text: "视觉出色、平衡优秀、策略丰富，完美地图" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 26,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "3.5%（几乎不被Ban）",
+      rankedPickRate: "8.87%（排位第二高）",
+      proLeague: {
+        overall: { pickTier: "A", banTier: "D", description: "长期是职业赛场最受欢迎的地图之一，攻防最平衡的地图" }
+      },
+      esportsWinRate: { attack: 50.58, defense: 49.42, sampleSize: 15570, source: "Liquipedia历史赛事数据" },
+      mapTier: "S",
+      tags: ["排位超高人气", "攻防最平衡", "从未被重做", "庭院设计典范"]
     },
     levelDesignNotes: {
       verticalPlay: "屋顶到二楼有重要的垂直关系",
@@ -800,7 +948,15 @@ const MAPS_DATA = [
       entryPoints: "庭院、阳台、窗户提供了丰富的进入系统",
       sightLines: "中距离为主，庭院区域有较长视线",
       designHighlight: "中央庭院设计是该地图成功的关键——创造了攻守双方都需要争夺的中心区域"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/coastline/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "theme_park",
@@ -841,16 +997,16 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["游乐园", "香港", "鬼屋", "废弃", "光照问题", "两次重做", "亚洲风格", "围攻X翻新"],
-    communityRating: {
-      overall: 7.0,
-      competitiveViability: 7.0,
-      casualFun: 7.5,
-      visualDesign: 8.0,
-      balancedSides: 7.0,
-      comments: [
-        { source: "Reddit社区（原版）", sentiment: "负面", text: "原版Theme Park太暗了，根本看不见敌人" },
-        { source: "Reddit社区（二次重做后）", sentiment: "正面", text: "经过两次重做终于变成了一张不错的竞技地图" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 18,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "22.4%（排位第四高Ban率）",
+      rankedPickRate: "4.18%",
+      proLeague: { overall: { pickTier: "B", banTier: "A", description: "经过两次重做后进入竞技池，但赛事中防守方优势较大" } },
+      esportsWinRate: { attack: 39.35, defense: 60.65, sampleSize: 8153, source: "Liquipedia历史赛事数据" },
+      mapTier: "B",
+      tags: ["高Ban率", "两次重做", "偏防守方", "光照曾是问题"]
     },
     levelDesignNotes: {
       verticalPlay: "重做后增强了垂直空间利用",
@@ -858,7 +1014,15 @@ const MAPS_DATA = [
       entryPoints: "多个窗口和门作为进入点",
       sightLines: "混合型视线设计",
       lessonLearned: "光照和可读性是地图设计的基础要素，不能因为视觉效果牺牲功能性"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/theme_park/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "capajon/r6maps + otariga"
+    },
   },
   {
     id: "tower",
@@ -880,17 +1044,16 @@ const MAPS_DATA = [
     backgroundReference: "参考首尔江南区的高端商业综合体",
     reworkHistory: [],
     keywords: ["塔楼", "首尔", "过大", "无外墙", "不受欢迎", "迷路", "内部封闭"],
-    communityRating: {
-      overall: 3.5,
-      competitiveViability: 2.0,
-      casualFun: 3.5,
-      visualDesign: 7.5,
-      balancedSides: 3.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "负面", text: "Tower是Siege中最不受欢迎的地图之一，面积太大容易迷路" },
-        { source: "社区投票", sentiment: "负面", text: "没有可破坏外墙意味着进攻方完全失去了远距离peek的能力" },
-        { source: "设计讨论", sentiment: "负面", text: "地图太大导致信息获取困难，防守方可以随意遁走" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 1,
+      currentlyInRanked: false,
+      everInCompetitive: false,
+      rankedBanRate: "N/A",
+      rankedPickRate: "0.09%（Quick Match极低）",
+      proLeague: { overall: { pickTier: "N/A", banTier: "N/A", description: "从未进入职业赛事地图池，排位中仅存在了1个赛季" } },
+      esportsWinRate: null,
+      mapTier: "F",
+      tags: ["最短排位寿命", "面积过大", "无外墙", "社区最不受欢迎"]
     },
     levelDesignNotes: {
       verticalPlay: "有限的垂直互动",
@@ -898,7 +1061,15 @@ const MAPS_DATA = [
       entryPoints: "所有入口都在建筑内部，无法从外部突破",
       sightLines: "大型开放空间产生不可控的视线",
       lessonLearned: "缺乏可破坏外墙严重限制了战术多样性，地图面积需要控制"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/tower/",
+      floors: [
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      note: "部分楼层缺失(1F)",
+      source: "capajon/r6maps"
+    },
   },
   // ==================== Year 3 ====================
   {
@@ -928,24 +1099,34 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["别墅", "意大利", "托斯卡纳", "庄园", "豪华", "竞技地图", "原创新图", "围攻X翻新"],
-    communityRating: {
-      overall: 7.5,
-      competitiveViability: 8.0,
-      casualFun: 7.0,
-      visualDesign: 9.0,
-      balancedSides: 7.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Villa是Y3最好的内容，地图设计精美且平衡" },
-        { source: "Pro League分析", sentiment: "正面", text: "Villa在竞技中表现良好，但面积略大" },
-        { source: "社区投票", sentiment: "正面", text: "视觉最优秀的地图之一" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 18,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "8%",
+      rankedPickRate: "7.78%（排位第三高）",
+      proLeague: {
+        overall: { pickTier: "A", banTier: "B", description: "职业赛事中的常规选择，地区间攻防差异较大（LATAM偏攻、EU偏防）" }
+      },
+      esportsWinRate: { attack: 43.19, defense: 56.81, sampleSize: 33279, source: "Liquipedia历史赛事数据" },
+      mapTier: "A",
+      tags: ["排位高人气", "略偏防守", "地区差异大", "视觉设计优秀"]
     },
     levelDesignNotes: {
       verticalPlay: "二楼到一楼有不少垂直控制点",
       rotationOptions: "面积较大但轮转路线设计合理",
       entryPoints: "窗户和门提供了标准的进入系统",
       sightLines: "长走廊产生了一些远距离对枪位置"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/villa/",
+      floors: [
+        { id: "basement", name: "地下室", file: "basement.jpg" },
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "otariga"
+    },
   },
   {
     id: "fortress",
@@ -974,23 +1155,31 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["堡垒", "摩洛哥", "军事", "大型", "Kasbah", "沙漠", "围攻X重做", "加入排位"],
-    communityRating: {
-      overall: 4.5,
-      competitiveViability: 3.0,
-      casualFun: 5.0,
-      visualDesign: 7.5,
-      balancedSides: 4.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "负面", text: "Fortress面积太大，学习成本高且回报低" },
-        { source: "社区投票", sentiment: "负面", text: "不如Villa，同样是新图但设计差距明显" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 2,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "N/A（新加入）",
+      rankedPickRate: "0.09%（Y10S4完全重做后加入排位）",
+      proLeague: { overall: { pickTier: "C", banTier: "C", description: "Y10S4完全重做后首次进入排位池，赛事数据尚在积累中" } },
+      esportsWinRate: { attack: 41.9, defense: 58.1, sampleSize: 671, source: "Liquipedia（少量赛事数据）" },
+      mapTier: "B",
+      tags: ["完全重做", "新加入排位", "休闲转竞技", "偏防守"]
     },
     levelDesignNotes: {
       verticalPlay: "有限",
       rotationOptions: "过大的面积导致轮转效率低",
       entryPoints: "堡垒厚墙减少了有效进入点",
       sightLines: "内部走廊过长"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/fortress/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "otariga"
+    },
   },
   // ==================== Year 4 ====================
   {
@@ -1013,23 +1202,31 @@ const MAPS_DATA = [
     backgroundReference: "参考澳洲内陆公路旁的Roadhouse和小镇建筑",
     reworkHistory: [],
     keywords: ["澳洲", "内陆", "加油站", "Roadhouse", "中型", "澳洲风情"],
-    communityRating: {
-      overall: 6.5,
-      competitiveViability: 6.5,
-      casualFun: 6.5,
-      visualDesign: 7.5,
-      balancedSides: 6.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "中性", text: "Outback不好不坏，是一张中规中矩的地图" },
-        { source: "社区投票", sentiment: "中性", text: "主题有趣但地图设计缺乏亮点" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 12,
+      currentlyInRanked: false,
+      everInCompetitive: true,
+      rankedBanRate: "N/A（已移出排位池）",
+      rankedPickRate: "0.87%（仅Quick Match）",
+      proLeague: { overall: { pickTier: "D", banTier: "D", description: "曾短暂进入排位池，但因设计缺乏亮点被移出" } },
+      esportsWinRate: { attack: 40.28, defense: 59.72, sampleSize: 86, source: "Liquipedia（极少量赛事数据）" },
+      mapTier: "C",
+      tags: ["已移出排位", "偏防守", "中规中矩", "缺乏亮点"]
     },
     levelDesignNotes: {
       verticalPlay: "标准的双层垂直空间",
       rotationOptions: "中等复杂度的轮转路线",
       entryPoints: "标准的窗口/门入口系统",
       sightLines: "中距离为主"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/outback/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "ivanyeungtc/r6calls"
+    },
   },
   // ==================== Year 5 ====================
   {
@@ -1059,15 +1256,19 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["实验室", "高科技", "Nighthaven", "极地", "科幻风格", "现代设计", "围攻X翻新"],
-    communityRating: {
-      overall: 6.5,
-      competitiveViability: 6.5,
-      casualFun: 6.0,
-      visualDesign: 7.5,
-      balancedSides: 6.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "中性", text: "Nighthaven Labs设计中规中矩，不算突出但也不差" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 8,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "16.7%",
+      rankedPickRate: "5.52%",
+      proLeague: {
+        si2024: { picked: 15, banned: 50, atkWinRate: 45.7, defWinRate: 54.3, totalRounds: 127 },
+        overall: { pickTier: "C", banTier: "S", description: "六邀赛2024中Ban率最高的地图之一（50次），职业队伍普遍回避" }
+      },
+      esportsWinRate: { attack: 45.7, defense: 54.3, sampleSize: 127, source: "SI 2024" },
+      mapTier: "B",
+      tags: ["赛事超高Ban率", "排位中等热度", "新地图学习成本高", "略偏防守"]
     },
     levelDesignNotes: {
       verticalPlay: "标准的双层结构垂直空间",
@@ -1096,23 +1297,31 @@ const MAPS_DATA = [
     backgroundReference: "参考爱尔兰传统乡间大庄园和城堡",
     reworkHistory: [],
     keywords: ["爱尔兰", "庄园", "翡翠", "绿色", "高质量新图", "乡间别墅"],
-    communityRating: {
-      overall: 7.5,
-      competitiveViability: 7.5,
-      casualFun: 7.5,
-      visualDesign: 9.0,
-      balancedSides: 7.5,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Emerald Plains是近年来最好的新地图，设计精美" },
-        { source: "Pro League分析", sentiment: "正面", text: "地图设计成熟，适合竞技使用" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 8,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "24.4%（排位第二高Ban率）",
+      rankedPickRate: "3.71%",
+      proLeague: { overall: { pickTier: "B", banTier: "A", description: "新地图学习成本高导致Ban率极高，但实际平衡性尚可" } },
+      esportsWinRate: null,
+      mapTier: "B+",
+      tags: ["超高Ban率", "新地图抗拒", "缓冲房设计争议", "视觉优秀"]
     },
     levelDesignNotes: {
       verticalPlay: "良好的垂直空间利用",
       rotationOptions: "平衡的轮转路线设计",
       entryPoints: "多样化的进入点",
       sightLines: "混合型视线，外部有较长视线"
-    }
+    },
+    layoutImages: {
+      basePath: "data/map_layouts/emerald_plains/",
+      floors: [
+        { id: "1f", name: "一楼", file: "1f.jpg" },
+        { id: "2f", name: "二楼", file: "2f.jpg" },
+      ],
+      source: "otariga"
+    },
   },
   {
     id: "lair",
@@ -1134,15 +1343,16 @@ const MAPS_DATA = [
     backgroundReference: "参考东欧地下犯罪组织的秘密据点",
     reworkHistory: [],
     keywords: ["巢穴", "克罗地亚", "犯罪据点", "地下", "Y8新图", "东欧"],
-    communityRating: {
-      overall: 7.0,
-      competitiveViability: 7.0,
-      casualFun: 7.0,
-      visualDesign: 7.5,
-      balancedSides: 7.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "中性偏正面", text: "Lair是一张不错的新地图，设计中规中矩但比较solid" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 6,
+      currentlyInRanked: true,
+      everInCompetitive: true,
+      rankedBanRate: "32.3%（排位最高Ban率）",
+      rankedPickRate: "2.67%（排位最低）",
+      proLeague: { overall: { pickTier: "C", banTier: "S", description: "排位中Ban率最高、Pick率最低的地图，社区最不愿意游玩" } },
+      esportsWinRate: null,
+      mapTier: "C+",
+      tags: ["排位最高Ban率", "最低Pick率", "偏防守", "新地图学习抗拒"]
     },
     levelDesignNotes: {
       verticalPlay: "独特的地下结构垂直空间",
@@ -1185,15 +1395,16 @@ const MAPS_DATA = [
       }
     ],
     keywords: ["体育场", "虚拟训练", "半透明墙", "电竞", "限时转永久", "创新概念", "围攻X翻新"],
-    communityRating: {
-      overall: 6.5,
-      competitiveViability: 7.0,
-      casualFun: 6.0,
-      visualDesign: 7.0,
-      balancedSides: 7.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "中性", text: "Stadium的半透明墙是有趣的创新但不太符合Siege的整体风格" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 6,
+      currentlyInRanked: false,
+      everInCompetitive: true,
+      rankedBanRate: "N/A（已移出排位池）",
+      rankedPickRate: "0.13%（Quick Match极低）",
+      proLeague: { overall: { pickTier: "D", banTier: "D", description: "限时活动转永久后进入排位，但半透明墙设计争议较大" } },
+      esportsWinRate: null,
+      mapTier: "C",
+      tags: ["已移出排位", "半透明墙创新", "限时转永久", "概念实验"]
     },
     levelDesignNotes: {
       verticalPlay: "标准双层结构",
@@ -1223,15 +1434,16 @@ const MAPS_DATA = [
     backgroundReference: "参考希腊地中海建筑风格",
     reworkHistory: [],
     keywords: ["希腊", "地中海", "紧凑", "近距离", "小型地图", "Y8新图"],
-    communityRating: {
-      overall: 7.0,
-      competitiveViability: 7.0,
-      casualFun: 7.5,
-      visualDesign: 8.0,
-      balancedSides: 7.0,
-      comments: [
-        { source: "Reddit社区", sentiment: "正面", text: "Close Quarter的紧凑设计回归了Siege的核心体验" }
-      ]
+    competitiveData: {
+      rankedPoolSeasons: 4,
+      currentlyInRanked: false,
+      everInCompetitive: true,
+      rankedBanRate: "N/A（已移出排位池）",
+      rankedPickRate: "N/A",
+      proLeague: { overall: { pickTier: "C", banTier: "C", description: "短暂进入排位池后被移出，紧凑设计回归Siege核心体验" } },
+      esportsWinRate: null,
+      mapTier: "B",
+      tags: ["已移出排位", "紧凑设计", "近距离战斗", "Y8新图"]
     },
     levelDesignNotes: {
       verticalPlay: "紧凑空间内的密集垂直互动",
@@ -1242,27 +1454,36 @@ const MAPS_DATA = [
   }
 ].filter(m => !m.skipEntry);
 
-// 地图评价体系定义
-const MAP_RATING_SYSTEM = {
-  dimensions: [
-    { id: "overall", name: "综合评分", weight: 1.0, description: "地图的整体质量评估" },
-    { id: "competitiveViability", name: "竞技适用性", weight: 0.25, description: "地图在排位赛/职业比赛中的表现" },
-    { id: "casualFun", name: "休闲趣味", weight: 0.15, description: "地图在休闲模式中的乐趣程度" },
-    { id: "visualDesign", name: "视觉设计", weight: 0.15, description: "地图的美术和环境设计质量" },
-    { id: "balancedSides", name: "攻防平衡", weight: 0.25, description: "攻击方和防守方的胜率平衡程度" },
-    { id: "mapFlow", name: "地图流畅度", weight: 0.10, description: "地图内移动和轮转的流畅程度" },
-    { id: "readability", name: "可读性", weight: 0.10, description: "地图信息的清晰度和易理解程度" }
+// 地图数据说明
+const MAP_DATA_SOURCES = {
+  description: "所有数据均来自客观来源，不含主观评分",
+  sources: [
+    { name: "Liquipedia", type: "赛事数据", url: "liquipedia.net/rainbowsix", data: "职业赛事地图pick/ban率、攻防回合胜率" },
+    { name: "Esports Tales", type: "排位数据", url: "esportstales.com", data: "排位模式地图pick/ban率（基于R6 Analyst数据）" },
+    { name: "SiegeGG", type: "赛事分析", url: "siege.gg", data: "各赛区赛事地图统计、点位胜率" },
+    { name: "Ubisoft Designer Notes", type: "官方数据", url: "ubisoft.com", data: "干员平衡数据（地图数据官方不直接公开）" }
   ],
-  ratingScale: "1-10分制，10分为最优",
-  sentimentCategories: ["正面", "中性", "中性偏正面", "中性偏负面", "负面"],
-  evaluationSources: [
-    "Reddit社区投票",
-    "Pro League/竞技分析",
-    "YouTube内容创作者评价",
-    "Steam评论",
-    "官方设计师笔记",
-    "职业选手访谈"
-  ]
+  tierSystem: {
+    description: "地图Tier根据以下客观指标综合判定",
+    factors: [
+      "排位池在池赛季数（越多说明越稳定）",
+      "排位模式Pick率（玩家实际选择意愿）",
+      "排位模式Ban率（负向指标，越高说明越不受欢迎）",
+      "职业赛事选用率",
+      "赛事攻防胜率平衡度（越接近50:50越好）"
+    ],
+    tiers: [
+      { tier: "S", description: "竞技标杆 — 长期排位/赛事高选率+攻防平衡", examples: "Club House, Coastline, Oregon" },
+      { tier: "A", description: "竞技优秀 — 稳定在排位/赛事池，数据表现良好", examples: "Bank, Border, Chalet, Kafe, Villa" },
+      { tier: "B+", description: "竞技可用 — 在排位池但存在争议或数据偏向", examples: "Consulate, Emerald Plains" },
+      { tier: "B", description: "竞技边缘 — 在排位池但Ban率高或数据不佳", examples: "Skyscraper, Theme Park, Kanal, Fortress, Nighthaven Labs" },
+      { tier: "C+", description: "排位争议 — 在排位池但玩家普遍回避", examples: "Lair" },
+      { tier: "C", description: "休闲/边缘 — 已移出或从未进入排位", examples: "House, Outback, Stadium, Close Quarter" },
+      { tier: "D", description: "仅休闲 — 从不适合竞技", examples: "Plane, Yacht, Favela, Hereford Base" },
+      { tier: "F", description: "已移除/设计失败", examples: "Bartlett University, Tower" }
+    ]
+  },
+  lastUpdated: "Y10S2 (2025年7月) 排位数据 / SI 2024 赛事数据"
 };
 
 // 地图重做时间线
@@ -1361,4 +1582,4 @@ const SIEGE_X_FEATURES = {
   }
 };
 
-if (typeof module !== 'undefined') module.exports = { MAPS_DATA, MAP_RATING_SYSTEM, MAP_REWORK_TIMELINE, SIEGE_X_FEATURES };
+if (typeof module !== 'undefined') module.exports = { MAPS_DATA, MAP_DATA_SOURCES, MAP_REWORK_TIMELINE, SIEGE_X_FEATURES };

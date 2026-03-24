@@ -1,0 +1,374 @@
+{
+  "version": "1.0",
+  "generated": "2026-03-24 14:30:47",
+  "description": "R6 Siege 地图楼层平面图索引",
+  "sources": [
+    "irestone/r6s-maps (GitHub)",
+    "capajon/r6maps (GitHub)",
+    "otariga/R6TAC_ALLMAPS (GitHub)"
+  ],
+  "maps": {
+    "bank": {
+      "name": "Bank / 银行",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg",
+        "roof.jpg",
+        "preview.jpg"
+      ],
+      "source": "irestone/r6s-maps",
+      "total_files": 5
+    },
+    "bartlett_u": {
+      "name": "Bartlett U. / 巴特利特大学",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "2f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 2
+    },
+    "border": {
+      "name": "Border / 边境",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "2f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 2
+    },
+    "chalet": {
+      "name": "Chalet / 别墅",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg",
+        "roof.jpg",
+        "preview.jpg"
+      ],
+      "source": "irestone/r6s-maps",
+      "total_files": 5
+    },
+    "club_house": {
+      "name": "Club House / 俱乐部",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg"
+      ],
+      "source": "capajon/r6maps",
+      "total_files": 3
+    },
+    "consulate": {
+      "name": "Consulate / 领事馆",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg",
+        "roof.jpg",
+        "preview.jpg"
+      ],
+      "source": "irestone/r6s-maps",
+      "total_files": 5
+    },
+    "hereford_base": {
+      "name": "Hereford Base / 赫里福德基地",
+      "floors": [
+        "basement",
+        "1f",
+        "2f",
+        "3f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg",
+        "3f.jpg"
+      ],
+      "source": "capajon/r6maps",
+      "total_files": 4
+    },
+    "house": {
+      "name": "House / 木屋",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg"
+      ],
+      "source": "capajon/r6maps",
+      "total_files": 3
+    },
+    "kafe_dostoyevsky": {
+      "name": "Kafe Dostoyevsky / 咖啡馆",
+      "floors": [
+        "1f",
+        "2f",
+        "3f"
+      ],
+      "files": [
+        "2f.jpg",
+        "3f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 3
+    },
+    "kanal": {
+      "name": "Kanal / 运河",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "1f.jpg",
+        "2f.jpg",
+        "basement.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 3
+    },
+    "oregon": {
+      "name": "Oregon / 俄勒冈",
+      "floors": [
+        "basement",
+        "1f",
+        "2f",
+        "3f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg",
+        "3f.jpg"
+      ],
+      "source": "capajon/r6maps",
+      "total_files": 4
+    },
+    "plane": {
+      "name": "Plane / 总统专机",
+      "floors": [
+        "1f",
+        "2f",
+        "3f"
+      ],
+      "files": [
+        "2f.jpg",
+        "3f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 2
+    },
+    "yacht": {
+      "name": "Yacht / 游艇",
+      "floors": [
+        "1f",
+        "2f",
+        "3f",
+        "4f"
+      ],
+      "files": [
+        "2f.jpg",
+        "3f.jpg",
+        "4f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 3
+    },
+    "favela": {
+      "name": "Favela / 贫民窟",
+      "floors": [
+        "1f",
+        "2f",
+        "3f"
+      ],
+      "files": [
+        "2f.jpg",
+        "3f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 3
+    },
+    "skyscraper": {
+      "name": "Skyscraper / 摩天大楼",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "2f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 2
+    },
+    "coastline": {
+      "name": "Coastline / 海岸线",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "2f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 2
+    },
+    "theme_park": {
+      "name": "Theme Park / 游乐园",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "2f.jpg",
+        "1f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 2
+    },
+    "tower": {
+      "name": "Tower / 塔楼",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "2f.jpg"
+      ],
+      "source": "capajon/r6maps + otariga",
+      "total_files": 1
+    },
+    "villa": {
+      "name": "Villa / 庄园",
+      "floors": [
+        "basement",
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "basement.jpg",
+        "1f.jpg",
+        "2f.jpg"
+      ],
+      "source": "otariga",
+      "total_files": 3
+    },
+    "fortress": {
+      "name": "Fortress / 要塞",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "1f.jpg",
+        "2f.jpg"
+      ],
+      "source": "otariga",
+      "total_files": 2
+    },
+    "outback": {
+      "name": "Outback / 内陆",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "1f.jpg",
+        "2f.jpg",
+        "3f.jpg"
+      ],
+      "source": "ivanyeungtc/r6calls",
+      "total_files": 3
+    },
+    "nighthaven_labs": {
+      "name": "Nighthaven Labs / 夜港实验室",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [],
+      "source": "none",
+      "total_files": 0
+    },
+    "emerald_plains": {
+      "name": "Emerald Plains / 翡翠平原",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [
+        "1f.jpg",
+        "2f.jpg"
+      ],
+      "source": "otariga",
+      "total_files": 2
+    },
+    "lair": {
+      "name": "Lair / 巢穴",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [],
+      "source": "none",
+      "total_files": 0
+    },
+    "stadium": {
+      "name": "Stadium / 竞技场",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [],
+      "source": "none",
+      "total_files": 0
+    },
+    "close_quarter": {
+      "name": "Close Quarter / 近距离",
+      "floors": [
+        "1f",
+        "2f"
+      ],
+      "files": [],
+      "source": "none",
+      "total_files": 0
+    }
+  }
+}
