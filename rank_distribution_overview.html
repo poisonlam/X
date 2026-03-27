@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>R6S 段位分布分析报告</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0a0a0f;
+    color: #e0e0e0;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1 { 
+    text-align: center;
+    font-size: 2em;
+    margin: 30px 0;
+    background: linear-gradient(135deg, #FFD700, #b9f2ff, #50C878);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.subtitle { text-align: center; color: #888; margin-bottom: 30px; }
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin: 20px 0 30px 0;
+}
+.stat-card {
+    background: #1a1a2e;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+}
+.stat-card .number {
+    font-size: 2em;
+    font-weight: bold;
+    color: #FFD700;
+}
+.stat-card .label {
+    color: #888;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+.section { 
+    background: #12121e;
+    border: 1px solid #2a2a3e;
+    border-radius: 12px;
+    padding: 25px;
+    margin: 20px 0;
+}
+.section h2 {
+    font-size: 1.3em;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #333;
+}
+table { 
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td { 
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 1px solid #1e1e2e;
+}
+th { 
+    color: #888;
+    font-weight: 600;
+    font-size: 0.85em;
+    text-transform: uppercase;
+}
+.rank-badge {
+    display: inline-block;
+    padding: 3px 12px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 600;
+}
+.rank-key { color: #666; font-family: monospace; font-size: 0.85em; }
+.count { font-weight: 600; text-align: right; }
+.pct { color: #aaa; text-align: right; }
+.bar { 
+    height: 20px;
+    border-radius: 4px;
+    min-width: 3px;
+    opacity: 0.8;
+}
+.progress-section {
+    background: #12121e;
+    border: 1px solid #2a2a3e;
+    border-radius: 12px;
+    padding: 25px;
+    margin: 20px 0;
+}
+.progress-bar-container {
+    background: #1a1a2e;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 30px;
+    margin: 10px 0;
+}
+.progress-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #50C878, #FFD700);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #000;
+    transition: width 0.5s;
+}
+.note {
+    background: #1a1a2e;
+    border-left: 3px solid #FFD700;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 0 8px 8px 0;
+    color: #ccc;
+    font-size: 0.9em;
+}
+.note strong { color: #FFD700; }
+.rp-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.rp-item { text-align: center; padding: 10px; background: #1a1a2e; border-radius: 8px; }
+.rp-item .value { font-size: 1.5em; font-weight: bold; color: #b9f2ff; }
+.rp-item .label { color: #888; font-size: 0.8em; }
+</style>
+</head>
+<body>
+
+<h1>🏆 Rainbow Six Siege 段位分布分析</h1>
+<p class="subtitle">生成时间: 2026-03-24 12:15:14 | 数据来源: stats.cc 排行榜 + 对局数据</p>
+
+<div class="stats-grid">
+    <div class="stat-card">
+        <div class="number">9,915</div>
+        <div class="label">已知段位玩家</div>
+    </div>
+    <div class="stat-card">
+        <div class="number">63,199</div>
+        <div class="label">待查段位玩家</div>
+    </div>
+    <div class="stat-card">
+        <div class="number">73,114</div>
+        <div class="label">总玩家数</div>
+    </div>
+    <div class="stat-card">
+        <div class="number">13.6%</div>
+        <div class="label">段位覆盖率</div>
+    </div>
+</div>
+
+<div class="note">
+    <strong>⚠️ 数据说明:</strong> 当前已知段位数据主要来自 stats.cc 排行榜 (PC Top 10,000)，
+    因此分布高度集中在 Diamond III+ 段位。63,199 个从对局中发现的额外玩家尚未获取段位信息。
+    这些额外玩家大多是排行榜玩家的对手和队友，预计包含更多低段位玩家（Platinum、Gold 甚至更低），
+    完整分布需等待采集完成或 Ubisoft API 限速解除后批量查询。
+</div>
+
+<div class="section">
+    <h2>📊 已知玩家段位分布</h2>
+    <table>
+        <thead>
+            <tr><th>段位</th><th>ID</th><th style="text-align:right">人数</th><th style="text-align:right">占比</th><th>分布</th></tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td><span class="rank-badge" style="background:#FFD700;color:#000">冠军</span></td>
+                <td class="rank-key">champion</td>
+                <td class="count">2,067</td>
+                <td class="pct">20.85%</td>
+                <td><div class="bar" style="width:62.54160363086233px;background:#FFD700"></div></td>
+            </tr>
+            <tr>
+                <td><span class="rank-badge" style="background:#b9f2ff;color:#000">钻石 I</span></td>
+                <td class="rank-key">diamond-i</td>
+                <td class="count">1,732</td>
+                <td class="pct">17.47%</td>
+                <td><div class="bar" style="width:52.405446293494705px;background:#b9f2ff"></div></td>
+            </tr>
+            <tr>
+                <td><span class="rank-badge" style="background:#7dd8f0;color:#000">钻石 II</span></td>
+                <td class="rank-key">diamond-ii</td>
+                <td class="count">3,292</td>
+                <td class="pct">33.20%</td>
+                <td><div class="bar" style="width:99.606656580938px;background:#7dd8f0"></div></td>
+            </tr>
+            <tr>
+                <td><span class="rank-badge" style="background:#4cb8d9;color:#fff">钻石 III</span></td>
+                <td class="rank-key">diamond-iii</td>
+                <td class="count">2,824</td>
+                <td class="pct">28.48%</td>
+                <td><div class="bar" style="width:85.446293494705px;background:#4cb8d9"></div></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="section">
+    <h2>📈 RP (排名分数) 分布</h2>
+    <div class="rp-stats">
+        <div class="rp-item"><div class="value">4,200</div><div class="label">最低 RP</div></div>
+        <div class="rp-item"><div class="value">5,421</div><div class="label">最高 RP</div></div>
+        <div class="rp-item"><div class="value">4,390</div><div class="label">平均 RP</div></div>
+        <div class="rp-item"><div class="value">4,346</div><div class="label">中位 RP</div></div>
+    </div>
+</div>
+
+<div class="progress-section">
+    <h2>📋 数据采集进度</h2>
+    
+    <h3 style="margin:15px 0 5px 0;">PC 排行榜玩家 (对局数据)</h3>
+    <div class="progress-bar-container">
+        <div class="progress-bar-fill" style="width:47.7%">
+            4,778/10,015 (47.7%)
+        </div>
+    </div>
+    
+    <h3 style="margin:15px 0 5px 0;">额外玩家 (对局数据 + 段位)</h3>
+    <div class="progress-bar-container">
+        <div class="progress-bar-fill" style="width:2.8%">
+            1,782/63,199 (2.8%)
+        </div>
+    </div>
+    
+    <p style="margin-top:15px;color:#888;font-size:0.85em;">
+        采集进程会同时获取每个玩家的段位信息，完成后即可看到完整段位分布。
+    </p>
+</div>
+
+<div class="section">
+    <h2>💡 数据来源说明</h2>
+    <table>
+        <thead><tr><th>来源</th><th style="text-align:right">玩家数</th><th>说明</th></tr></thead>
+        <tbody>
+            <tr><td>排行榜 (leaderboard)</td><td class="count">9,915</td><td>stats.cc PC 排行榜 Top 10,000 (Diamond III+)</td></tr>
+            <tr><td>对局数据 (match_data)</td><td class="count">0</td><td>已采集对局中的 source_player 段位</td></tr>
+            <tr><td>待获取</td><td class="count">63,199</td><td>额外发现的对手/队友，段位尚未获取</td></tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="note">
+    <strong>🔄 快速段位查询:</strong> 已创建 <code>fast_rank_fetch.py</code> 脚本使用 Ubisoft 官方 API 批量查询段位。
+    目前 IP 因多次认证尝试被限速 (429)，等限速解除后（约 10-30 分钟）重新运行即可在 ~20 分钟内获取所有 63,199 个额外玩家的段位。
+    <br><br>
+    运行方式: <code>python data/scraper/fast_rank_fetch.py</code>
+</div>
+
+</body>
+</html>

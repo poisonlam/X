@@ -1,2 +1,8 @@
 .codebuddy/
 R6_关卡设计信息平台_分享版.html
+$null
+creds/
+data/scraper/output/
+data/scraper/node_modules/
+data/scraper/__pycache__/
+data/map_layouts/
