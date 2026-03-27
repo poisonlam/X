@@ -12900,7 +12900,278 @@ const PLAYER_MATCH_STATS = {
       "winRate": 56.0
     }
   },
-  "topCombos": [],
+  "topCombos": [
+    {
+      "operators": [
+        "ash",
+        "twitch"
+      ],
+      "side": "attack",
+      "pickCount": 267574,
+      "winRate": 45.3
+    },
+    {
+      "operators": [
+        "ash",
+        "solid-snake"
+      ],
+      "side": "attack",
+      "pickCount": 256700,
+      "winRate": 43.7
+    },
+    {
+      "operators": [
+        "ash",
+        "dokkaebi"
+      ],
+      "side": "attack",
+      "pickCount": 256427,
+      "winRate": 44.9
+    },
+    {
+      "operators": [
+        "ash",
+        "buck"
+      ],
+      "side": "attack",
+      "pickCount": 214547,
+      "winRate": 44.0
+    },
+    {
+      "operators": [
+        "ash",
+        "thermite"
+      ],
+      "side": "attack",
+      "pickCount": 202279,
+      "winRate": 45.1
+    },
+    {
+      "operators": [
+        "ash",
+        "nomad"
+      ],
+      "side": "attack",
+      "pickCount": 182200,
+      "winRate": 45.1
+    },
+    {
+      "operators": [
+        "ash",
+        "grim"
+      ],
+      "side": "attack",
+      "pickCount": 181669,
+      "winRate": 44.1
+    },
+    {
+      "operators": [
+        "thatcher",
+        "thermite"
+      ],
+      "side": "attack",
+      "pickCount": 178330,
+      "winRate": 45.2
+    },
+    {
+      "operators": [
+        "solid-snake",
+        "twitch"
+      ],
+      "side": "attack",
+      "pickCount": 166338,
+      "winRate": 44.0
+    },
+    {
+      "operators": [
+        "dokkaebi",
+        "solid-snake"
+      ],
+      "side": "attack",
+      "pickCount": 161504,
+      "winRate": 43.6
+    },
+    {
+      "operators": [
+        "dokkaebi",
+        "twitch"
+      ],
+      "side": "attack",
+      "pickCount": 159644,
+      "winRate": 45.0
+    },
+    {
+      "operators": [
+        "ash",
+        "hibana"
+      ],
+      "side": "attack",
+      "pickCount": 157106,
+      "winRate": 44.5
+    },
+    {
+      "operators": [
+        "thermite",
+        "twitch"
+      ],
+      "side": "attack",
+      "pickCount": 141722,
+      "winRate": 45.3
+    },
+    {
+      "operators": [
+        "ash",
+        "striker"
+      ],
+      "side": "attack",
+      "pickCount": 136539,
+      "winRate": 45.2
+    },
+    {
+      "operators": [
+        "dokkaebi",
+        "thermite"
+      ],
+      "side": "attack",
+      "pickCount": 136460,
+      "winRate": 44.8
+    },
+    {
+      "operators": [
+        "aruni",
+        "mute"
+      ],
+      "side": "defense",
+      "pickCount": 231683,
+      "winRate": 56.7
+    },
+    {
+      "operators": [
+        "aruni",
+        "azami"
+      ],
+      "side": "defense",
+      "pickCount": 219466,
+      "winRate": 57.0
+    },
+    {
+      "operators": [
+        "aruni",
+        "thorn"
+      ],
+      "side": "defense",
+      "pickCount": 205377,
+      "winRate": 58.6
+    },
+    {
+      "operators": [
+        "azami",
+        "mute"
+      ],
+      "side": "defense",
+      "pickCount": 193092,
+      "winRate": 55.2
+    },
+    {
+      "operators": [
+        "aruni",
+        "valkyrie"
+      ],
+      "side": "defense",
+      "pickCount": 180148,
+      "winRate": 57.9
+    },
+    {
+      "operators": [
+        "mute",
+        "thorn"
+      ],
+      "side": "defense",
+      "pickCount": 172720,
+      "winRate": 56.8
+    },
+    {
+      "operators": [
+        "aruni",
+        "bandit"
+      ],
+      "side": "defense",
+      "pickCount": 172348,
+      "winRate": 57.1
+    },
+    {
+      "operators": [
+        "bandit",
+        "mute"
+      ],
+      "side": "defense",
+      "pickCount": 164569,
+      "winRate": 55.1
+    },
+    {
+      "operators": [
+        "aruni",
+        "lesion"
+      ],
+      "side": "defense",
+      "pickCount": 160785,
+      "winRate": 57.6
+    },
+    {
+      "operators": [
+        "azami",
+        "bandit"
+      ],
+      "side": "defense",
+      "pickCount": 159174,
+      "winRate": 55.1
+    },
+    {
+      "operators": [
+        "azami",
+        "thorn"
+      ],
+      "side": "defense",
+      "pickCount": 151649,
+      "winRate": 57.0
+    },
+    {
+      "operators": [
+        "aruni",
+        "kaid"
+      ],
+      "side": "defense",
+      "pickCount": 151645,
+      "winRate": 57.0
+    },
+    {
+      "operators": [
+        "aruni",
+        "vigil"
+      ],
+      "side": "defense",
+      "pickCount": 149394,
+      "winRate": 56.7
+    },
+    {
+      "operators": [
+        "mute",
+        "valkyrie"
+      ],
+      "side": "defense",
+      "pickCount": 149209,
+      "winRate": 56.1
+    },
+    {
+      "operators": [
+        "aruni",
+        "tubarao"
+      ],
+      "side": "defense",
+      "pickCount": 144923,
+      "winRate": 57.5
+    }
+  ],
   "topPlayers": [
     {
       "profileId": "282760a3-d8c4-43dd-aada-cca1cfc50b82",
@@ -13452,5 +13723,8065 @@ const PLAYER_MATCH_STATS = {
       "openingKills": 8,
       "headshots": 34
     }
-  ]
+  ],
+  "mapTeamComps": {
+    "bank": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 16102,
+            "winRate": 45.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 15061,
+            "winRate": 45.2
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 14001,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 13034,
+            "winRate": 45.4
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 11442,
+            "winRate": 44.7
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 10658,
+            "winRate": 45.6
+          },
+          {
+            "operators": [
+              "hibana",
+              "twitch"
+            ],
+            "pickCount": 10038,
+            "winRate": 45.4
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 9894,
+            "winRate": 44.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 9642,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 9554,
+            "winRate": 44.8
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 9543,
+            "winRate": 45.3
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 9436,
+            "winRate": 43.4
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "hibana"
+            ],
+            "pickCount": 9336,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "grim",
+              "twitch"
+            ],
+            "pickCount": 9119,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 9032,
+            "winRate": 46.3
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 67,
+            "winRate": 44.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 66,
+            "winRate": 47.0
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "hibana",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 54,
+            "winRate": 44.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 54,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "lion",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 52,
+            "winRate": 36.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "lion",
+              "twitch"
+            ],
+            "pickCount": 44,
+            "winRate": 36.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 40,
+            "winRate": 45.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 39,
+            "winRate": 41.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 37,
+            "winRate": 45.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "hibana",
+              "twitch"
+            ],
+            "pickCount": 37,
+            "winRate": 27.0
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 18014,
+            "winRate": 57.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 17382,
+            "winRate": 58.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 15743,
+            "winRate": 58.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 13419,
+            "winRate": 57.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "vigil"
+            ],
+            "pickCount": 12453,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "smoke"
+            ],
+            "pickCount": 12034,
+            "winRate": 55.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 11581,
+            "winRate": 57.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "castle"
+            ],
+            "pickCount": 11524,
+            "winRate": 55.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 11302,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "goyo"
+            ],
+            "pickCount": 11281,
+            "winRate": 57.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 11007,
+            "winRate": 58.7
+          },
+          {
+            "operators": [
+              "azami",
+              "valkyrie"
+            ],
+            "pickCount": 10990,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "azami",
+              "thorn"
+            ],
+            "pickCount": 9519,
+            "winRate": 57.4
+          },
+          {
+            "operators": [
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 9320,
+            "winRate": 57.8
+          },
+          {
+            "operators": [
+              "goyo",
+              "smoke"
+            ],
+            "pickCount": 9208,
+            "winRate": 54.2
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "goyo",
+              "kaid",
+              "smoke",
+              "tubarao"
+            ],
+            "pickCount": 65,
+            "winRate": 61.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "castle",
+              "valkyrie"
+            ],
+            "pickCount": 64,
+            "winRate": 46.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 57,
+            "winRate": 64.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 57,
+            "winRate": 73.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 54,
+            "winRate": 63.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "kaid",
+              "valkyrie"
+            ],
+            "pickCount": 54,
+            "winRate": 61.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "goyo",
+              "kaid",
+              "smoke",
+              "vigil"
+            ],
+            "pickCount": 53,
+            "winRate": 77.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "goyo",
+              "kaid",
+              "smoke"
+            ],
+            "pickCount": 52,
+            "winRate": 67.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 51,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 50,
+            "winRate": 58.0
+          }
+        ]
+      }
+    },
+    "border": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 27258,
+            "winRate": 46.2
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 27113,
+            "winRate": 47.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 26521,
+            "winRate": 48.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 25943,
+            "winRate": 46.2
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 21106,
+            "winRate": 46.7
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 19713,
+            "winRate": 47.8
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 17795,
+            "winRate": 46.3
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 17566,
+            "winRate": 45.7
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 16846,
+            "winRate": 46.0
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 16741,
+            "winRate": 46.9
+          },
+          {
+            "operators": [
+              "buck",
+              "solid-snake"
+            ],
+            "pickCount": 16091,
+            "winRate": 44.3
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 15856,
+            "winRate": 47.9
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 15214,
+            "winRate": 46.3
+          },
+          {
+            "operators": [
+              "buck",
+              "dokkaebi"
+            ],
+            "pickCount": 15072,
+            "winRate": 46.5
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 14952,
+            "winRate": 47.0
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 130,
+            "winRate": 57.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 109,
+            "winRate": 50.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 108,
+            "winRate": 43.5
+          },
+          {
+            "operators": [
+              "capitao",
+              "glaz",
+              "montagne",
+              "thatcher",
+              "ying"
+            ],
+            "pickCount": 106,
+            "winRate": 52.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 103,
+            "winRate": 45.6
+          },
+          {
+            "operators": [
+              "capitao",
+              "glaz",
+              "gridlock",
+              "montagne",
+              "ying"
+            ],
+            "pickCount": 99,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 89,
+            "winRate": 39.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 85,
+            "winRate": 48.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 81,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 78,
+            "winRate": 37.2
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 20932,
+            "winRate": 53.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 19661,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 19146,
+            "winRate": 54.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 18340,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 17234,
+            "winRate": 54.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 17097,
+            "winRate": 54.7
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 16293,
+            "winRate": 53.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 16000,
+            "winRate": 52.9
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 15534,
+            "winRate": 53.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "vigil"
+            ],
+            "pickCount": 15384,
+            "winRate": 54.8
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 14802,
+            "winRate": 51.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "warden"
+            ],
+            "pickCount": 14627,
+            "winRate": 53.5
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 14366,
+            "winRate": 52.2
+          },
+          {
+            "operators": [
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 14330,
+            "winRate": 54.5
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 14221,
+            "winRate": 52.8
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 79,
+            "winRate": 51.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 66,
+            "winRate": 54.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 59,
+            "winRate": 49.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "warden"
+            ],
+            "pickCount": 53,
+            "winRate": 47.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 53,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 52,
+            "winRate": 59.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 51,
+            "winRate": 56.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 48,
+            "winRate": 58.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 48,
+            "winRate": 56.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 48,
+            "winRate": 54.2
+          }
+        ]
+      }
+    },
+    "chalet": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 29034,
+            "winRate": 45.8
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 28014,
+            "winRate": 46.5
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 27357,
+            "winRate": 47.0
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 27117,
+            "winRate": 47.5
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 26442,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 21139,
+            "winRate": 46.2
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 21121,
+            "winRate": 47.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 19913,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 19902,
+            "winRate": 46.5
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 19478,
+            "winRate": 45.7
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 18758,
+            "winRate": 46.3
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 18577,
+            "winRate": 45.0
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 18492,
+            "winRate": 46.3
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 18068,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 17660,
+            "winRate": 45.2
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 155,
+            "winRate": 49.7
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 123,
+            "winRate": 47.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 122,
+            "winRate": 44.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 109,
+            "winRate": 40.4
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 107,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 106,
+            "winRate": 47.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 104,
+            "winRate": 45.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 99,
+            "winRate": 41.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 99,
+            "winRate": 49.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 95,
+            "winRate": 48.4
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 28600,
+            "winRate": 55.7
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 27683,
+            "winRate": 53.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 27055,
+            "winRate": 55.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 26802,
+            "winRate": 53.4
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 26667,
+            "winRate": 54.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 24378,
+            "winRate": 55.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 23328,
+            "winRate": 58.1
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 22893,
+            "winRate": 53.3
+          },
+          {
+            "operators": [
+              "azami",
+              "thorn"
+            ],
+            "pickCount": 21383,
+            "winRate": 56.2
+          },
+          {
+            "operators": [
+              "azami",
+              "tubarao"
+            ],
+            "pickCount": 20992,
+            "winRate": 53.5
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 20680,
+            "winRate": 55.9
+          },
+          {
+            "operators": [
+              "bandit",
+              "thorn"
+            ],
+            "pickCount": 20370,
+            "winRate": 56.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 19578,
+            "winRate": 55.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 19495,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "azami",
+              "kaid"
+            ],
+            "pickCount": 19070,
+            "winRate": 53.7
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 192,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 157,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "jager",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 157,
+            "winRate": 52.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 155,
+            "winRate": 57.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "jager",
+              "tubarao"
+            ],
+            "pickCount": 125,
+            "winRate": 49.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 123,
+            "winRate": 54.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 119,
+            "winRate": 58.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 111,
+            "winRate": 57.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 110,
+            "winRate": 66.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 108,
+            "winRate": 48.1
+          }
+        ]
+      }
+    },
+    "club-house": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 34560,
+            "winRate": 47.4
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 30339,
+            "winRate": 46.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 27261,
+            "winRate": 44.7
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 24352,
+            "winRate": 45.2
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 24325,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 22520,
+            "winRate": 44.2
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 22430,
+            "winRate": 43.1
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 20742,
+            "winRate": 46.6
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 20573,
+            "winRate": 46.6
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "hibana"
+            ],
+            "pickCount": 19191,
+            "winRate": 41.7
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 18798,
+            "winRate": 43.5
+          },
+          {
+            "operators": [
+              "ash",
+              "thatcher"
+            ],
+            "pickCount": 18324,
+            "winRate": 47.1
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 17440,
+            "winRate": 44.8
+          },
+          {
+            "operators": [
+              "buck",
+              "thermite"
+            ],
+            "pickCount": 16920,
+            "winRate": 45.2
+          },
+          {
+            "operators": [
+              "hibana",
+              "solid-snake"
+            ],
+            "pickCount": 16016,
+            "winRate": 41.3
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 183,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 180,
+            "winRate": 49.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 175,
+            "winRate": 45.1
+          },
+          {
+            "operators": [
+              "ash",
+              "capitao",
+              "montagne",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 144,
+            "winRate": 48.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 141,
+            "winRate": 43.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 137,
+            "winRate": 52.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 136,
+            "winRate": 47.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 133,
+            "winRate": 51.9
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 131,
+            "winRate": 50.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 119,
+            "winRate": 51.3
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 34499,
+            "winRate": 54.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "castle"
+            ],
+            "pickCount": 33688,
+            "winRate": 53.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 27886,
+            "winRate": 53.1
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 26393,
+            "winRate": 54.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 24424,
+            "winRate": 56.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 23295,
+            "winRate": 57.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 23200,
+            "winRate": 54.4
+          },
+          {
+            "operators": [
+              "castle",
+              "mute"
+            ],
+            "pickCount": 23162,
+            "winRate": 52.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 22458,
+            "winRate": 56.4
+          },
+          {
+            "operators": [
+              "azami",
+              "kaid"
+            ],
+            "pickCount": 22260,
+            "winRate": 55.4
+          },
+          {
+            "operators": [
+              "azami",
+              "tubarao"
+            ],
+            "pickCount": 20951,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 20560,
+            "winRate": 59.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 20457,
+            "winRate": 58.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "castle"
+            ],
+            "pickCount": 20170,
+            "winRate": 55.3
+          },
+          {
+            "operators": [
+              "azami",
+              "castle"
+            ],
+            "pickCount": 20109,
+            "winRate": 53.6
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "castle",
+              "jager",
+              "mute"
+            ],
+            "pickCount": 297,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "castle",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 274,
+            "winRate": 52.2
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "castle",
+              "jager",
+              "tubarao"
+            ],
+            "pickCount": 273,
+            "winRate": 56.0
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "jager",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 263,
+            "winRate": 54.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 254,
+            "winRate": 61.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "castle",
+              "mute"
+            ],
+            "pickCount": 229,
+            "winRate": 58.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "jager",
+              "tubarao"
+            ],
+            "pickCount": 182,
+            "winRate": 56.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "castle",
+              "tubarao"
+            ],
+            "pickCount": 181,
+            "winRate": 57.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "castle",
+              "jager",
+              "mute"
+            ],
+            "pickCount": 177,
+            "winRate": 50.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "castle",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 151,
+            "winRate": 53.6
+          }
+        ]
+      }
+    },
+    "coastline": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 24883,
+            "winRate": 49.4
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 24194,
+            "winRate": 47.4
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 22778,
+            "winRate": 48.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 21284,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 20012,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 15784,
+            "winRate": 47.6
+          },
+          {
+            "operators": [
+              "buck",
+              "solid-snake"
+            ],
+            "pickCount": 14421,
+            "winRate": 46.4
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 14399,
+            "winRate": 49.7
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 14047,
+            "winRate": 48.3
+          },
+          {
+            "operators": [
+              "buck",
+              "twitch"
+            ],
+            "pickCount": 13799,
+            "winRate": 48.7
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 13546,
+            "winRate": 47.3
+          },
+          {
+            "operators": [
+              "ash",
+              "brava"
+            ],
+            "pickCount": 13484,
+            "winRate": 49.3
+          },
+          {
+            "operators": [
+              "nomad",
+              "solid-snake"
+            ],
+            "pickCount": 13470,
+            "winRate": 47.4
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 13330,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 13016,
+            "winRate": 49.4
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 100,
+            "winRate": 52.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 79,
+            "winRate": 51.9
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "nomad",
+              "solid-snake"
+            ],
+            "pickCount": 68,
+            "winRate": 47.1
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 68,
+            "winRate": 39.7
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 66,
+            "winRate": 28.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 62,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 61,
+            "winRate": 44.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "lion",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 57,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "lion",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 41.1
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "fuze",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 54,
+            "winRate": 46.3
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 21986,
+            "winRate": 53.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 21671,
+            "winRate": 53.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 18978,
+            "winRate": 53.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 18793,
+            "winRate": 53.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 18588,
+            "winRate": 51.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "vigil"
+            ],
+            "pickCount": 17268,
+            "winRate": 53.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "castle"
+            ],
+            "pickCount": 16193,
+            "winRate": 51.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "melusi"
+            ],
+            "pickCount": 15370,
+            "winRate": 53.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 15072,
+            "winRate": 54.4
+          },
+          {
+            "operators": [
+              "azami",
+              "thorn"
+            ],
+            "pickCount": 14093,
+            "winRate": 52.1
+          },
+          {
+            "operators": [
+              "azami",
+              "valkyrie"
+            ],
+            "pickCount": 13139,
+            "winRate": 52.6
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 12979,
+            "winRate": 51.0
+          },
+          {
+            "operators": [
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 12939,
+            "winRate": 52.9
+          },
+          {
+            "operators": [
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 12525,
+            "winRate": 52.8
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 12219,
+            "winRate": 50.8
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 65,
+            "winRate": 56.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 63,
+            "winRate": 50.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 60,
+            "winRate": 43.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 56,
+            "winRate": 53.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "melusi",
+              "valkyrie"
+            ],
+            "pickCount": 54,
+            "winRate": 59.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 51,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 51,
+            "winRate": 37.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 49,
+            "winRate": 51.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "melusi",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 49,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 46,
+            "winRate": 52.2
+          }
+        ]
+      }
+    },
+    "consulate": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 18168,
+            "winRate": 40.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 17145,
+            "winRate": 42.1
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 17053,
+            "winRate": 42.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 15972,
+            "winRate": 41.9
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 12948,
+            "winRate": 40.8
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 12859,
+            "winRate": 41.4
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 12741,
+            "winRate": 41.1
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 11853,
+            "winRate": 42.1
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 11524,
+            "winRate": 42.4
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 11085,
+            "winRate": 42.3
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 10672,
+            "winRate": 42.5
+          },
+          {
+            "operators": [
+              "buck",
+              "solid-snake"
+            ],
+            "pickCount": 10430,
+            "winRate": 40.3
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 10353,
+            "winRate": 43.0
+          },
+          {
+            "operators": [
+              "buck",
+              "thermite"
+            ],
+            "pickCount": 9903,
+            "winRate": 40.6
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 9461,
+            "winRate": 40.7
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 98,
+            "winRate": 53.1
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 91,
+            "winRate": 39.6
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 80,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 60,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "grim",
+              "solid-snake"
+            ],
+            "pickCount": 58,
+            "winRate": 48.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 32.1
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "solid-snake",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 55,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 53,
+            "winRate": 37.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "striker"
+            ],
+            "pickCount": 52,
+            "winRate": 42.3
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 14370,
+            "winRate": 58.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 14115,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 13053,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 12848,
+            "winRate": 59.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 12739,
+            "winRate": 59.9
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 12477,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 10749,
+            "winRate": 59.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 10618,
+            "winRate": 60.3
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 10356,
+            "winRate": 57.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 10356,
+            "winRate": 60.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 10106,
+            "winRate": 59.0
+          },
+          {
+            "operators": [
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 9926,
+            "winRate": 60.0
+          },
+          {
+            "operators": [
+              "bandit",
+              "thorn"
+            ],
+            "pickCount": 9921,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 9875,
+            "winRate": 58.8
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 9765,
+            "winRate": 57.1
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 71,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 58,
+            "winRate": 58.6
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 50,
+            "winRate": 66.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 50,
+            "winRate": 70.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 50,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 47,
+            "winRate": 61.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 41,
+            "winRate": 48.8
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 41,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 38,
+            "winRate": 78.9
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 38,
+            "winRate": 55.3
+          }
+        ]
+      }
+    },
+    "emerald-plains": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 9477,
+            "winRate": 47.5
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 8980,
+            "winRate": 49.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 8050,
+            "winRate": 48.8
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 6969,
+            "winRate": 47.9
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 6403,
+            "winRate": 48.3
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 6289,
+            "winRate": 47.9
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 5716,
+            "winRate": 47.8
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 5356,
+            "winRate": 46.9
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 5114,
+            "winRate": 48.5
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 5076,
+            "winRate": 49.0
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 5004,
+            "winRate": 47.4
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 4962,
+            "winRate": 47.3
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 4954,
+            "winRate": 49.2
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 4934,
+            "winRate": 47.0
+          },
+          {
+            "operators": [
+              "buck",
+              "solid-snake"
+            ],
+            "pickCount": 4709,
+            "winRate": 47.4
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 57,
+            "winRate": 42.1
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "lion",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 51,
+            "winRate": 51.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 46,
+            "winRate": 45.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 46,
+            "winRate": 41.3
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 41,
+            "winRate": 41.5
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 40,
+            "winRate": 60.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 37,
+            "winRate": 40.5
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "lion",
+              "solid-snake"
+            ],
+            "pickCount": 30,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 30,
+            "winRate": 60.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 30,
+            "winRate": 56.7
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 6052,
+            "winRate": 54.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 5871,
+            "winRate": 52.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 5514,
+            "winRate": 51.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 5482,
+            "winRate": 54.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 5280,
+            "winRate": 54.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion"
+            ],
+            "pickCount": 5139,
+            "winRate": 54.4
+          },
+          {
+            "operators": [
+              "bandit",
+              "thorn"
+            ],
+            "pickCount": 5114,
+            "winRate": 53.8
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 4960,
+            "winRate": 52.6
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 4855,
+            "winRate": 52.0
+          },
+          {
+            "operators": [
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 4563,
+            "winRate": 54.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 4490,
+            "winRate": 53.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "vigil"
+            ],
+            "pickCount": 4462,
+            "winRate": 54.2
+          },
+          {
+            "operators": [
+              "bandit",
+              "vigil"
+            ],
+            "pickCount": 4297,
+            "winRate": 53.8
+          },
+          {
+            "operators": [
+              "mute",
+              "vigil"
+            ],
+            "pickCount": 4234,
+            "winRate": 52.1
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 4146,
+            "winRate": 51.7
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 25,
+            "winRate": 60.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 23,
+            "winRate": 65.2
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion",
+              "mute",
+              "thorn",
+              "vigil"
+            ],
+            "pickCount": 18,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 17,
+            "winRate": 47.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "lesion",
+              "mute",
+              "vigil"
+            ],
+            "pickCount": 16,
+            "winRate": 37.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 16,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 16,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "vigil"
+            ],
+            "pickCount": 15,
+            "winRate": 40.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 15,
+            "winRate": 26.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "thorn",
+              "vigil"
+            ],
+            "pickCount": 15,
+            "winRate": 46.7
+          }
+        ]
+      }
+    },
+    "fortress": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 12943,
+            "winRate": 41.2
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 12703,
+            "winRate": 43.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 11992,
+            "winRate": 42.6
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 9529,
+            "winRate": 42.6
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 8908,
+            "winRate": 41.6
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 8513,
+            "winRate": 41.0
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 8156,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 8082,
+            "winRate": 42.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 7905,
+            "winRate": 41.8
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 7902,
+            "winRate": 42.2
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 7901,
+            "winRate": 42.2
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 7425,
+            "winRate": 40.3
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 7271,
+            "winRate": 42.7
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 6772,
+            "winRate": 42.7
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 6739,
+            "winRate": 43.9
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 68,
+            "winRate": 36.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 64,
+            "winRate": 46.9
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 54,
+            "winRate": 59.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 53,
+            "winRate": 52.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 52,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 49,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 48,
+            "winRate": 45.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 46,
+            "winRate": 41.3
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 45,
+            "winRate": 42.2
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 8366,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 8109,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 7943,
+            "winRate": 60.7
+          },
+          {
+            "operators": [
+              "bandit",
+              "thorn"
+            ],
+            "pickCount": 7706,
+            "winRate": 59.9
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 7614,
+            "winRate": 59.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 7535,
+            "winRate": 59.5
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 7205,
+            "winRate": 57.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 7075,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 6856,
+            "winRate": 58.4
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 6680,
+            "winRate": 57.5
+          },
+          {
+            "operators": [
+              "azami",
+              "thorn"
+            ],
+            "pickCount": 6649,
+            "winRate": 59.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 6507,
+            "winRate": 59.3
+          },
+          {
+            "operators": [
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 6467,
+            "winRate": 59.4
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion"
+            ],
+            "pickCount": 6149,
+            "winRate": 58.6
+          },
+          {
+            "operators": [
+              "azami",
+              "lesion"
+            ],
+            "pickCount": 5655,
+            "winRate": 57.6
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 34,
+            "winRate": 76.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 27,
+            "winRate": 70.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 26,
+            "winRate": 61.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "vigil"
+            ],
+            "pickCount": 26,
+            "winRate": 69.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 26,
+            "winRate": 69.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 24,
+            "winRate": 54.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 24,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 23,
+            "winRate": 52.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kapkan",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 23,
+            "winRate": 56.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "thorn",
+              "warden"
+            ],
+            "pickCount": 22,
+            "winRate": 63.6
+          }
+        ]
+      }
+    },
+    "kafe-dostoyevsky": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 21785,
+            "winRate": 43.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 18935,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 18843,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 17590,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 15950,
+            "winRate": 44.5
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 14873,
+            "winRate": 42.7
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 13599,
+            "winRate": 44.1
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 12708,
+            "winRate": 43.4
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 12462,
+            "winRate": 43.4
+          },
+          {
+            "operators": [
+              "ash",
+              "brava"
+            ],
+            "pickCount": 11982,
+            "winRate": 44.0
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 11673,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "buck",
+              "twitch"
+            ],
+            "pickCount": 11667,
+            "winRate": 41.9
+          },
+          {
+            "operators": [
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 11024,
+            "winRate": 43.6
+          },
+          {
+            "operators": [
+              "buck",
+              "dokkaebi"
+            ],
+            "pickCount": 10780,
+            "winRate": 42.3
+          },
+          {
+            "operators": [
+              "buck",
+              "solid-snake"
+            ],
+            "pickCount": 10433,
+            "winRate": 40.2
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 88,
+            "winRate": 39.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 58,
+            "winRate": 48.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "grim",
+              "twitch"
+            ],
+            "pickCount": 58,
+            "winRate": 48.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 48.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 53.6
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 55,
+            "winRate": 38.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "hibana",
+              "twitch"
+            ],
+            "pickCount": 52,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 50,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 48,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "buck",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 48,
+            "winRate": 29.2
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 25047,
+            "winRate": 59.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 24446,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 24011,
+            "winRate": 59.7
+          },
+          {
+            "operators": [
+              "azami",
+              "valkyrie"
+            ],
+            "pickCount": 19471,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 19000,
+            "winRate": 60.1
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 18916,
+            "winRate": 57.7
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 18072,
+            "winRate": 58.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "castle"
+            ],
+            "pickCount": 16824,
+            "winRate": 58.3
+          },
+          {
+            "operators": [
+              "castle",
+              "mute"
+            ],
+            "pickCount": 16161,
+            "winRate": 56.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 14637,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 14561,
+            "winRate": 59.9
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 14482,
+            "winRate": 58.8
+          },
+          {
+            "operators": [
+              "azami",
+              "thorn"
+            ],
+            "pickCount": 13955,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 13353,
+            "winRate": 59.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "vigil"
+            ],
+            "pickCount": 13213,
+            "winRate": 57.8
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 190,
+            "winRate": 65.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 152,
+            "winRate": 61.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 135,
+            "winRate": 60.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "castle",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 122,
+            "winRate": 66.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "jager",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 117,
+            "winRate": 56.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "melusi",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 116,
+            "winRate": 65.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 112,
+            "winRate": 76.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 85,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "valkyrie",
+              "vigil"
+            ],
+            "pickCount": 85,
+            "winRate": 64.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "valkyrie",
+              "wamai"
+            ],
+            "pickCount": 84,
+            "winRate": 64.3
+          }
+        ]
+      }
+    },
+    "kanal": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 667,
+            "winRate": 43.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 587,
+            "winRate": 42.8
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 584,
+            "winRate": 42.5
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 557,
+            "winRate": 43.4
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 518,
+            "winRate": 45.9
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 499,
+            "winRate": 46.1
+          },
+          {
+            "operators": [
+              "nomad",
+              "thermite"
+            ],
+            "pickCount": 381,
+            "winRate": 45.7
+          },
+          {
+            "operators": [
+              "buck",
+              "dokkaebi"
+            ],
+            "pickCount": 376,
+            "winRate": 39.9
+          },
+          {
+            "operators": [
+              "ash",
+              "thatcher"
+            ],
+            "pickCount": 375,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 373,
+            "winRate": 46.1
+          },
+          {
+            "operators": [
+              "ash",
+              "iq"
+            ],
+            "pickCount": 324,
+            "winRate": 45.7
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "nomad"
+            ],
+            "pickCount": 324,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 317,
+            "winRate": 44.2
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 310,
+            "winRate": 40.6
+          },
+          {
+            "operators": [
+              "ace",
+              "ash"
+            ],
+            "pickCount": 302,
+            "winRate": 45.0
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "nomad",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 8,
+            "winRate": 37.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "finka",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 7,
+            "winRate": 28.6
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 6,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 6,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 5,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "nomad",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 5,
+            "winRate": 40.0
+          },
+          {
+            "operators": [
+              "ace",
+              "ash",
+              "buck",
+              "dokkaebi",
+              "nomad"
+            ],
+            "pickCount": 4,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "zero"
+            ],
+            "pickCount": 4,
+            "winRate": 25.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 4,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 4,
+            "winRate": 0.0
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 468,
+            "winRate": 60.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 465,
+            "winRate": 59.1
+          },
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 443,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 398,
+            "winRate": 60.8
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 378,
+            "winRate": 58.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 376,
+            "winRate": 63.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 359,
+            "winRate": 60.2
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 350,
+            "winRate": 59.4
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 332,
+            "winRate": 55.1
+          },
+          {
+            "operators": [
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 329,
+            "winRate": 55.9
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 318,
+            "winRate": 66.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 317,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "lesion",
+              "valkyrie"
+            ],
+            "pickCount": 316,
+            "winRate": 56.6
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 307,
+            "winRate": 54.7
+          },
+          {
+            "operators": [
+              "bandit",
+              "valkyrie"
+            ],
+            "pickCount": 307,
+            "winRate": 59.6
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "lesion",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 4,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "alibi",
+              "aruni",
+              "bandit",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 4,
+            "winRate": 75.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mozzie",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 4,
+            "winRate": 25.0
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 4,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 4,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "solis",
+              "tubarao"
+            ],
+            "pickCount": 4,
+            "winRate": 75.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "fenrir",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 4,
+            "winRate": 75.0
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "lesion",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 4,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 4,
+            "winRate": 75.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 3,
+            "winRate": 66.7
+          }
+        ]
+      }
+    },
+    "lair": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 9005,
+            "winRate": 44.1
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 8799,
+            "winRate": 41.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 8674,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 7369,
+            "winRate": 43.3
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 6994,
+            "winRate": 42.1
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 6312,
+            "winRate": 43.1
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 5918,
+            "winRate": 42.6
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 5883,
+            "winRate": 42.8
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 5818,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 5732,
+            "winRate": 41.3
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 5638,
+            "winRate": 44.2
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 5587,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 5350,
+            "winRate": 42.6
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 4568,
+            "winRate": 44.0
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "grim"
+            ],
+            "pickCount": 4563,
+            "winRate": 42.8
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 56,
+            "winRate": 46.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 56,
+            "winRate": 44.6
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 53,
+            "winRate": 47.2
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 45,
+            "winRate": 51.1
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 43,
+            "winRate": 37.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 43,
+            "winRate": 51.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 37,
+            "winRate": 32.4
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 36,
+            "winRate": 36.1
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 34,
+            "winRate": 26.5
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 33,
+            "winRate": 39.4
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 6646,
+            "winRate": 59.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 6463,
+            "winRate": 58.6
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 5851,
+            "winRate": 57.1
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 5703,
+            "winRate": 58.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 5421,
+            "winRate": 58.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 5121,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 4898,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 4743,
+            "winRate": 56.7
+          },
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 4721,
+            "winRate": 58.9
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion"
+            ],
+            "pickCount": 4661,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 4622,
+            "winRate": 56.7
+          },
+          {
+            "operators": [
+              "bandit",
+              "smoke"
+            ],
+            "pickCount": 4615,
+            "winRate": 58.0
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 4544,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 4509,
+            "winRate": 58.5
+          },
+          {
+            "operators": [
+              "bandit",
+              "thorn"
+            ],
+            "pickCount": 4481,
+            "winRate": 58.9
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 32,
+            "winRate": 59.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 29,
+            "winRate": 51.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 26,
+            "winRate": 65.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 25,
+            "winRate": 68.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 25,
+            "winRate": 60.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "smoke",
+              "valkyrie"
+            ],
+            "pickCount": 24,
+            "winRate": 75.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 23,
+            "winRate": 69.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 21,
+            "winRate": 71.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 21,
+            "winRate": 52.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 20,
+            "winRate": 50.0
+          }
+        ]
+      }
+    },
+    "nighthaven-labs": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 37540,
+            "winRate": 44.7
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 31716,
+            "winRate": 44.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 22316,
+            "winRate": 43.6
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 21770,
+            "winRate": 43.7
+          },
+          {
+            "operators": [
+              "ash",
+              "thatcher"
+            ],
+            "pickCount": 19776,
+            "winRate": 44.6
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 19504,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 19468,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 19355,
+            "winRate": 44.7
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 19274,
+            "winRate": 44.3
+          },
+          {
+            "operators": [
+              "buck",
+              "thermite"
+            ],
+            "pickCount": 17463,
+            "winRate": 43.4
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 17305,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "ace",
+              "ash"
+            ],
+            "pickCount": 14847,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ace",
+              "thatcher"
+            ],
+            "pickCount": 14344,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thatcher"
+            ],
+            "pickCount": 13899,
+            "winRate": 44.8
+          },
+          {
+            "operators": [
+              "grim",
+              "thermite"
+            ],
+            "pickCount": 13689,
+            "winRate": 43.8
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 261,
+            "winRate": 46.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 244,
+            "winRate": 46.3
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 224,
+            "winRate": 41.1
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 197,
+            "winRate": 46.2
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 181,
+            "winRate": 40.3
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 165,
+            "winRate": 42.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 160,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 158,
+            "winRate": 43.0
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "solid-snake",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 149,
+            "winRate": 43.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 147,
+            "winRate": 40.1
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 26366,
+            "winRate": 57.0
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 23137,
+            "winRate": 56.8
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 22643,
+            "winRate": 56.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 22330,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 21803,
+            "winRate": 55.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 19470,
+            "winRate": 57.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 18443,
+            "winRate": 57.3
+          },
+          {
+            "operators": [
+              "kaid",
+              "mute"
+            ],
+            "pickCount": 16654,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "bandit",
+              "vigil"
+            ],
+            "pickCount": 16613,
+            "winRate": 56.7
+          },
+          {
+            "operators": [
+              "azami",
+              "kaid"
+            ],
+            "pickCount": 16397,
+            "winRate": 56.3
+          },
+          {
+            "operators": [
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 15879,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "bandit",
+              "thorn"
+            ],
+            "pickCount": 15662,
+            "winRate": 58.1
+          },
+          {
+            "operators": [
+              "kaid",
+              "tubarao"
+            ],
+            "pickCount": 15531,
+            "winRate": 56.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 15333,
+            "winRate": 57.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 15031,
+            "winRate": 57.9
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 180,
+            "winRate": 56.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 140,
+            "winRate": 50.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 128,
+            "winRate": 60.2
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "mute",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 121,
+            "winRate": 57.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 120,
+            "winRate": 60.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 98,
+            "winRate": 60.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 97,
+            "winRate": 67.0
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 96,
+            "winRate": 60.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 96,
+            "winRate": 51.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 94,
+            "winRate": 60.6
+          }
+        ]
+      }
+    },
+    "oregon": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 30069,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 27562,
+            "winRate": 44.1
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 25815,
+            "winRate": 44.2
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 22926,
+            "winRate": 44.7
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 22639,
+            "winRate": 44.1
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 21947,
+            "winRate": 43.8
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 20044,
+            "winRate": 43.5
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 19946,
+            "winRate": 44.9
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 17961,
+            "winRate": 44.2
+          },
+          {
+            "operators": [
+              "ace",
+              "ash"
+            ],
+            "pickCount": 16983,
+            "winRate": 45.2
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 15730,
+            "winRate": 44.5
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 15297,
+            "winRate": 44.4
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 15244,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 15123,
+            "winRate": 44.1
+          },
+          {
+            "operators": [
+              "grim",
+              "twitch"
+            ],
+            "pickCount": 14962,
+            "winRate": 43.1
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 86,
+            "winRate": 41.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 83,
+            "winRate": 43.4
+          },
+          {
+            "operators": [
+              "ace",
+              "ash",
+              "dokkaebi",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 83,
+            "winRate": 50.6
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 82,
+            "winRate": 37.8
+          },
+          {
+            "operators": [
+              "ash",
+              "maverick",
+              "nomad",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 81,
+            "winRate": 39.5
+          },
+          {
+            "operators": [
+              "ash",
+              "maverick",
+              "nomad",
+              "solid-snake",
+              "thermite"
+            ],
+            "pickCount": 77,
+            "winRate": 28.6
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "striker",
+              "twitch"
+            ],
+            "pickCount": 76,
+            "winRate": 47.4
+          },
+          {
+            "operators": [
+              "ash",
+              "maverick",
+              "nomad",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 73,
+            "winRate": 31.5
+          },
+          {
+            "operators": [
+              "ace",
+              "ash",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 72,
+            "winRate": 56.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 70,
+            "winRate": 48.6
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 30016,
+            "winRate": 58.1
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 24374,
+            "winRate": 58.0
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 23226,
+            "winRate": 56.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 22046,
+            "winRate": 59.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 20042,
+            "winRate": 57.6
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 19494,
+            "winRate": 56.9
+          },
+          {
+            "operators": [
+              "kaid",
+              "mute"
+            ],
+            "pickCount": 19364,
+            "winRate": 56.0
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 19344,
+            "winRate": 56.3
+          },
+          {
+            "operators": [
+              "mute",
+              "warden"
+            ],
+            "pickCount": 19023,
+            "winRate": 55.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "warden"
+            ],
+            "pickCount": 18993,
+            "winRate": 57.9
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 17064,
+            "winRate": 56.4
+          },
+          {
+            "operators": [
+              "mute",
+              "smoke"
+            ],
+            "pickCount": 16676,
+            "winRate": 55.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 16636,
+            "winRate": 57.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "smoke"
+            ],
+            "pickCount": 16457,
+            "winRate": 57.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 16077,
+            "winRate": 57.7
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 92,
+            "winRate": 65.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 88,
+            "winRate": 58.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 79,
+            "winRate": 59.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 79,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 70,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 69,
+            "winRate": 65.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "fenrir",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 67,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 66,
+            "winRate": 65.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "fenrir",
+              "mute"
+            ],
+            "pickCount": 63,
+            "winRate": 55.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "fenrir",
+              "kaid",
+              "mute"
+            ],
+            "pickCount": 62,
+            "winRate": 51.6
+          }
+        ]
+      }
+    },
+    "outback": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 534,
+            "winRate": 41.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 517,
+            "winRate": 42.7
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 426,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 422,
+            "winRate": 46.2
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 353,
+            "winRate": 46.2
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 332,
+            "winRate": 42.8
+          },
+          {
+            "operators": [
+              "ash",
+              "iq"
+            ],
+            "pickCount": 288,
+            "winRate": 48.6
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 283,
+            "winRate": 40.6
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 267,
+            "winRate": 49.1
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 265,
+            "winRate": 38.5
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 257,
+            "winRate": 44.0
+          },
+          {
+            "operators": [
+              "buck",
+              "dokkaebi"
+            ],
+            "pickCount": 253,
+            "winRate": 45.8
+          },
+          {
+            "operators": [
+              "ash",
+              "deimos"
+            ],
+            "pickCount": 247,
+            "winRate": 40.9
+          },
+          {
+            "operators": [
+              "ash",
+              "finka"
+            ],
+            "pickCount": 247,
+            "winRate": 45.7
+          },
+          {
+            "operators": [
+              "ash",
+              "thatcher"
+            ],
+            "pickCount": 235,
+            "winRate": 39.6
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 8,
+            "winRate": 12.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 4,
+            "winRate": 25.0
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 3,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "buck",
+              "grim",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "blackbeard",
+              "blitz",
+              "fuze",
+              "montagne",
+              "osa"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "ace",
+              "ash",
+              "buck",
+              "dokkaebi",
+              "iana"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "ace",
+              "ash",
+              "buck",
+              "lion",
+              "twitch"
+            ],
+            "pickCount": 3,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "ram",
+              "thermite"
+            ],
+            "pickCount": 3,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "iq",
+              "thermite"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "buck",
+              "deimos",
+              "dokkaebi",
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 3,
+            "winRate": 100.0
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 289,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion"
+            ],
+            "pickCount": 287,
+            "winRate": 60.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 276,
+            "winRate": 64.5
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 274,
+            "winRate": 55.8
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 265,
+            "winRate": 63.8
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 252,
+            "winRate": 56.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 249,
+            "winRate": 53.8
+          },
+          {
+            "operators": [
+              "bandit",
+              "valkyrie"
+            ],
+            "pickCount": 241,
+            "winRate": 61.0
+          },
+          {
+            "operators": [
+              "azami",
+              "lesion"
+            ],
+            "pickCount": 234,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid"
+            ],
+            "pickCount": 230,
+            "winRate": 59.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 229,
+            "winRate": 55.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "tubarao"
+            ],
+            "pickCount": 227,
+            "winRate": 66.1
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 217,
+            "winRate": 55.3
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 217,
+            "winRate": 54.4
+          },
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 208,
+            "winRate": 60.1
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "kapkan",
+              "lesion",
+              "valkyrie"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "goyo",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 3,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "mute",
+              "solis",
+              "valkyrie"
+            ],
+            "pickCount": 3,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "valkyrie",
+              "vigil",
+              "warden"
+            ],
+            "pickCount": 3,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "lesion",
+              "solis",
+              "thorn"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "fenrir",
+              "mute",
+              "vigil"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "jager",
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "bandit",
+              "jager",
+              "kapkan",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "thorn",
+              "valkyrie",
+              "warden"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "alibi",
+              "aruni",
+              "kaid",
+              "smoke",
+              "thorn"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          }
+        ]
+      }
+    },
+    "skyscraper": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 379,
+            "winRate": 42.7
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 375,
+            "winRate": 39.2
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 369,
+            "winRate": 38.8
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 288,
+            "winRate": 44.8
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 261,
+            "winRate": 37.5
+          },
+          {
+            "operators": [
+              "ash",
+              "iq"
+            ],
+            "pickCount": 249,
+            "winRate": 42.6
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 215,
+            "winRate": 43.3
+          },
+          {
+            "operators": [
+              "buck",
+              "nomad"
+            ],
+            "pickCount": 205,
+            "winRate": 40.5
+          },
+          {
+            "operators": [
+              "ash",
+              "deimos"
+            ],
+            "pickCount": 203,
+            "winRate": 39.9
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 193,
+            "winRate": 38.3
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 190,
+            "winRate": 37.4
+          },
+          {
+            "operators": [
+              "ash",
+              "finka"
+            ],
+            "pickCount": 185,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "buck",
+              "dokkaebi"
+            ],
+            "pickCount": 183,
+            "winRate": 43.2
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 183,
+            "winRate": 39.3
+          },
+          {
+            "operators": [
+              "ace",
+              "ash"
+            ],
+            "pickCount": 181,
+            "winRate": 40.3
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "nomad",
+              "thatcher",
+              "thermite",
+              "zofia"
+            ],
+            "pickCount": 4,
+            "winRate": 25.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "jackal",
+              "sledge"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "lion",
+              "nomad",
+              "striker"
+            ],
+            "pickCount": 3,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "iq",
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "finka",
+              "osa"
+            ],
+            "pickCount": 3,
+            "winRate": 66.7
+          },
+          {
+            "operators": [
+              "blackbeard",
+              "finka",
+              "grim",
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "deimos",
+              "grim",
+              "hibana",
+              "nomad"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "grim",
+              "maverick",
+              "twitch"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "finka",
+              "thermite"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "grim",
+              "lion",
+              "nomad"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 240,
+            "winRate": 62.5
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion"
+            ],
+            "pickCount": 202,
+            "winRate": 59.4
+          },
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 197,
+            "winRate": 56.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 189,
+            "winRate": 63.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 179,
+            "winRate": 69.8
+          },
+          {
+            "operators": [
+              "azami",
+              "lesion"
+            ],
+            "pickCount": 164,
+            "winRate": 66.5
+          },
+          {
+            "operators": [
+              "bandit",
+              "tubarao"
+            ],
+            "pickCount": 161,
+            "winRate": 61.5
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 159,
+            "winRate": 59.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 159,
+            "winRate": 59.7
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 158,
+            "winRate": 60.8
+          },
+          {
+            "operators": [
+              "lesion",
+              "valkyrie"
+            ],
+            "pickCount": 155,
+            "winRate": 61.3
+          },
+          {
+            "operators": [
+              "lesion",
+              "smoke"
+            ],
+            "pickCount": 152,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "mute",
+              "smoke"
+            ],
+            "pickCount": 151,
+            "winRate": 57.0
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 142,
+            "winRate": 59.9
+          },
+          {
+            "operators": [
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 141,
+            "winRate": 62.4
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "azami",
+              "mira",
+              "valkyrie",
+              "vigil",
+              "warden"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "smoke",
+              "warden"
+            ],
+            "pickCount": 2,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "doc",
+              "lesion",
+              "mira",
+              "mute"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "castle",
+              "echo",
+              "jager"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "jager",
+              "kaid",
+              "mute",
+              "pulse",
+              "tubarao"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "castle",
+              "lesion",
+              "mute",
+              "smoke"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "bandit",
+              "kaid",
+              "smoke",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "alibi",
+              "aruni",
+              "azami",
+              "bandit",
+              "kaid"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "melusi",
+              "mozzie",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "warden"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          }
+        ]
+      }
+    },
+    "theme-park": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 301,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 272,
+            "winRate": 44.5
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 231,
+            "winRate": 41.6
+          },
+          {
+            "operators": [
+              "ash",
+              "thermite"
+            ],
+            "pickCount": 223,
+            "winRate": 43.9
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 188,
+            "winRate": 37.8
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 176,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "thatcher",
+              "thermite"
+            ],
+            "pickCount": 170,
+            "winRate": 41.8
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "thermite"
+            ],
+            "pickCount": 168,
+            "winRate": 41.7
+          },
+          {
+            "operators": [
+              "ash",
+              "iq"
+            ],
+            "pickCount": 163,
+            "winRate": 43.6
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 161,
+            "winRate": 37.9
+          },
+          {
+            "operators": [
+              "buck",
+              "dokkaebi"
+            ],
+            "pickCount": 149,
+            "winRate": 43.6
+          },
+          {
+            "operators": [
+              "ash",
+              "striker"
+            ],
+            "pickCount": 148,
+            "winRate": 39.9
+          },
+          {
+            "operators": [
+              "ash",
+              "deimos"
+            ],
+            "pickCount": 146,
+            "winRate": 35.6
+          },
+          {
+            "operators": [
+              "ash",
+              "finka"
+            ],
+            "pickCount": 142,
+            "winRate": 45.1
+          },
+          {
+            "operators": [
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 126,
+            "winRate": 40.5
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "buck",
+              "finka",
+              "fuze",
+              "lion",
+              "nomad"
+            ],
+            "pickCount": 3,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "gridlock",
+              "hibana",
+              "thatcher",
+              "thermite",
+              "twitch"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "finka",
+              "grim",
+              "nomad",
+              "sledge"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "amaru",
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "thermite"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "blitz",
+              "brava",
+              "deimos",
+              "montagne"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "dokkaebi",
+              "iq",
+              "thermite"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "buck",
+              "hibana",
+              "ram"
+            ],
+            "pickCount": 2,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "ash",
+              "brava",
+              "deimos",
+              "jackal",
+              "sledge"
+            ],
+            "pickCount": 2,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "iq",
+              "nomad",
+              "ram",
+              "striker"
+            ],
+            "pickCount": 2,
+            "winRate": 0.0
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "hibana",
+              "iq"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "bandit",
+              "mute"
+            ],
+            "pickCount": 259,
+            "winRate": 65.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit"
+            ],
+            "pickCount": 215,
+            "winRate": 66.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 190,
+            "winRate": 61.6
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 174,
+            "winRate": 63.2
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit"
+            ],
+            "pickCount": 172,
+            "winRate": 60.5
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 171,
+            "winRate": 63.2
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 170,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 161,
+            "winRate": 62.1
+          },
+          {
+            "operators": [
+              "bandit",
+              "lesion"
+            ],
+            "pickCount": 157,
+            "winRate": 59.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 151,
+            "winRate": 56.3
+          },
+          {
+            "operators": [
+              "bandit",
+              "valkyrie"
+            ],
+            "pickCount": 150,
+            "winRate": 66.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 147,
+            "winRate": 55.1
+          },
+          {
+            "operators": [
+              "azami",
+              "lesion"
+            ],
+            "pickCount": 144,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "bandit",
+              "kaid"
+            ],
+            "pickCount": 141,
+            "winRate": 63.1
+          },
+          {
+            "operators": [
+              "lesion",
+              "valkyrie"
+            ],
+            "pickCount": 138,
+            "winRate": 58.7
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "mute",
+              "tubarao"
+            ],
+            "pickCount": 4,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "doc",
+              "mute",
+              "smoke"
+            ],
+            "pickCount": 3,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "azami",
+              "bandit",
+              "doc",
+              "kaid",
+              "vigil"
+            ],
+            "pickCount": 3,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "doc",
+              "jager",
+              "lesion",
+              "warden"
+            ],
+            "pickCount": 3,
+            "winRate": 33.3
+          },
+          {
+            "operators": [
+              "jager",
+              "mozzie",
+              "mute",
+              "tubarao",
+              "valkyrie"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "bandit",
+              "kaid",
+              "lesion",
+              "tubarao",
+              "vigil"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "goyo",
+              "lesion",
+              "pulse",
+              "smoke",
+              "valkyrie"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "tubarao"
+            ],
+            "pickCount": 2,
+            "winRate": 100.0
+          },
+          {
+            "operators": [
+              "aruni",
+              "bandit",
+              "lesion",
+              "sentry",
+              "vigil"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          },
+          {
+            "operators": [
+              "doc",
+              "lesion",
+              "melusi",
+              "vigil",
+              "warden"
+            ],
+            "pickCount": 2,
+            "winRate": 50.0
+          }
+        ]
+      }
+    },
+    "villa": {
+      "attack": {
+        "duoCombos": [
+          {
+            "operators": [
+              "ash",
+              "solid-snake"
+            ],
+            "pickCount": 28368,
+            "winRate": 41.2
+          },
+          {
+            "operators": [
+              "ash",
+              "twitch"
+            ],
+            "pickCount": 26801,
+            "winRate": 42.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi"
+            ],
+            "pickCount": 22485,
+            "winRate": 42.7
+          },
+          {
+            "operators": [
+              "ash",
+              "nomad"
+            ],
+            "pickCount": 22166,
+            "winRate": 42.1
+          },
+          {
+            "operators": [
+              "ash",
+              "buck"
+            ],
+            "pickCount": 19209,
+            "winRate": 40.9
+          },
+          {
+            "operators": [
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 19102,
+            "winRate": 41.1
+          },
+          {
+            "operators": [
+              "nomad",
+              "solid-snake"
+            ],
+            "pickCount": 17238,
+            "winRate": 40.3
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "solid-snake"
+            ],
+            "pickCount": 16652,
+            "winRate": 41.2
+          },
+          {
+            "operators": [
+              "ash",
+              "grim"
+            ],
+            "pickCount": 15927,
+            "winRate": 41.1
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana"
+            ],
+            "pickCount": 15541,
+            "winRate": 41.8
+          },
+          {
+            "operators": [
+              "ash",
+              "lion"
+            ],
+            "pickCount": 15132,
+            "winRate": 41.6
+          },
+          {
+            "operators": [
+              "nomad",
+              "twitch"
+            ],
+            "pickCount": 14890,
+            "winRate": 42.0
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "twitch"
+            ],
+            "pickCount": 14573,
+            "winRate": 42.3
+          },
+          {
+            "operators": [
+              "ash",
+              "brava"
+            ],
+            "pickCount": 14124,
+            "winRate": 41.6
+          },
+          {
+            "operators": [
+              "dokkaebi",
+              "nomad"
+            ],
+            "pickCount": 13422,
+            "winRate": 41.0
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 132,
+            "winRate": 43.9
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 124,
+            "winRate": 46.8
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "dokkaebi",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 115,
+            "winRate": 37.4
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 99,
+            "winRate": 45.5
+          },
+          {
+            "operators": [
+              "ash",
+              "hibana",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 95,
+            "winRate": 41.1
+          },
+          {
+            "operators": [
+              "ash",
+              "buck",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 91,
+            "winRate": 44.0
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "hibana",
+              "nomad",
+              "solid-snake"
+            ],
+            "pickCount": 91,
+            "winRate": 42.9
+          },
+          {
+            "operators": [
+              "ash",
+              "grim",
+              "nomad",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 86,
+            "winRate": 40.7
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "grim",
+              "nomad",
+              "solid-snake"
+            ],
+            "pickCount": 80,
+            "winRate": 52.5
+          },
+          {
+            "operators": [
+              "ash",
+              "dokkaebi",
+              "lion",
+              "solid-snake",
+              "twitch"
+            ],
+            "pickCount": 78,
+            "winRate": 41.0
+          }
+        ]
+      },
+      "defense": {
+        "duoCombos": [
+          {
+            "operators": [
+              "aruni",
+              "mute"
+            ],
+            "pickCount": 20864,
+            "winRate": 59.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "thorn"
+            ],
+            "pickCount": 18833,
+            "winRate": 62.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami"
+            ],
+            "pickCount": 17800,
+            "winRate": 60.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "valkyrie"
+            ],
+            "pickCount": 17634,
+            "winRate": 61.9
+          },
+          {
+            "operators": [
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 16040,
+            "winRate": 59.4
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion"
+            ],
+            "pickCount": 15649,
+            "winRate": 60.6
+          },
+          {
+            "operators": [
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 14977,
+            "winRate": 59.0
+          },
+          {
+            "operators": [
+              "azami",
+              "mute"
+            ],
+            "pickCount": 14750,
+            "winRate": 58.3
+          },
+          {
+            "operators": [
+              "lesion",
+              "mute"
+            ],
+            "pickCount": 13653,
+            "winRate": 58.2
+          },
+          {
+            "operators": [
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 13121,
+            "winRate": 61.9
+          },
+          {
+            "operators": [
+              "azami",
+              "valkyrie"
+            ],
+            "pickCount": 12957,
+            "winRate": 59.9
+          },
+          {
+            "operators": [
+              "azami",
+              "thorn"
+            ],
+            "pickCount": 12898,
+            "winRate": 60.3
+          },
+          {
+            "operators": [
+              "lesion",
+              "thorn"
+            ],
+            "pickCount": 12760,
+            "winRate": 60.6
+          },
+          {
+            "operators": [
+              "aruni",
+              "vigil"
+            ],
+            "pickCount": 12724,
+            "winRate": 59.9
+          },
+          {
+            "operators": [
+              "lesion",
+              "valkyrie"
+            ],
+            "pickCount": 11323,
+            "winRate": 60.1
+          }
+        ],
+        "fullLineups": [
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 92,
+            "winRate": 64.1
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "lesion",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 69,
+            "winRate": 65.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "jager",
+              "mute",
+              "thorn",
+              "warden"
+            ],
+            "pickCount": 60,
+            "winRate": 53.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "thorn"
+            ],
+            "pickCount": 60,
+            "winRate": 63.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 57,
+            "winRate": 50.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "kaid",
+              "mute",
+              "thorn",
+              "valkyrie"
+            ],
+            "pickCount": 53,
+            "winRate": 54.7
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "bandit",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 51,
+            "winRate": 54.9
+          },
+          {
+            "operators": [
+              "aruni",
+              "castle",
+              "jager",
+              "mute",
+              "warden"
+            ],
+            "pickCount": 49,
+            "winRate": 61.2
+          },
+          {
+            "operators": [
+              "aruni",
+              "azami",
+              "kaid",
+              "mute",
+              "valkyrie"
+            ],
+            "pickCount": 49,
+            "winRate": 67.3
+          },
+          {
+            "operators": [
+              "aruni",
+              "lesion",
+              "mute",
+              "valkyrie",
+              "vigil"
+            ],
+            "pickCount": 46,
+            "winRate": 52.2
+          }
+        ]
+      }
+    }
+  }
 };

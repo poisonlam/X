@@ -462,23 +462,42 @@
             </div>
         </div>
 
-        <!-- 7. 热门组合 -->
+        <!-- 7. 地图阵容分析 -->
         <div class="section">
             <div class="section-header" onclick="toggleSection(this)">
-                <h2>🤝 热门干员搭配</h2>
+                <h2>🤝 地图阵容搭配分析</h2>
                 <span class="toggle">▼</span>
             </div>
             <div class="section-body">
+                <p style="color:var(--text-secondary);margin-bottom:16px">基于 429K 场高段位对局，分析每张地图攻防方的热门干员搭配和五人阵容</p>
+                <!-- 地图选择 -->
+                <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px" id="comboMapSelect"></div>
+                <!-- 攻防切换 -->
+                <div style="display:flex;gap:8px;margin-bottom:16px" id="comboSideFilter">
+                    <button class="tab active" data-side="attack" onclick="switchComboSide('attack')">⚔️ 进攻方</button>
+                    <button class="tab" data-side="defense" onclick="switchComboSide('defense')">🛡️ 防守方</button>
+                </div>
+                <!-- 双人搭配 -->
+                <h3 style="color:var(--accent);margin-bottom:8px;font-size:16px">🔗 热门双人搭配 Top 15</h3>
+                <div class="table-wrapper" style="margin-bottom:20px">
+                    <table class="data-table" id="duoComboTable">
+                        <thead><tr><th>#</th><th>干员搭配</th><th class="num">同队次数</th><th class="num">胜率</th></tr></thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <!-- 五人阵容 -->
+                <h3 style="color:var(--accent-purple);margin-bottom:8px;font-size:16px">👥 热门五人阵容 Top 10</h3>
+                <div class="table-wrapper">
+                    <table class="data-table" id="fullLineupTable">
+                        <thead><tr><th>#</th><th>完整阵容</th><th class="num">出场次数</th><th class="num">胜率</th></tr></thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <!-- 全局热门搭配 -->
+                <h3 style="color:var(--accent-green);margin:20px 0 8px;font-size:16px">🌍 全局热门搭配 (跨地图 Top 30)</h3>
                 <div class="table-wrapper">
                     <table class="data-table" id="comboTable">
-                        <thead>
-                            <tr>
-                                <th>#</th>
-                                <th>干员组合</th>
-                                <th class="num">同队次数</th>
-                                <th class="num">胜率</th>
-                            </tr>
-                        </thead>
+                        <thead><tr><th>#</th><th>干员组合</th><th class="num">阵营</th><th class="num">同队次数</th><th class="num">胜率</th></tr></thead>
                         <tbody></tbody>
                     </table>
                 </div>
@@ -706,16 +725,76 @@
         }
 
         // ===== 7. Combos =====
-        function renderCombos() {
-            const tbody = document.querySelector('#comboTable tbody');
-            tbody.innerHTML = D.topCombos.map((c, i) => `
+        let currentComboMap = null;
+        let currentComboSide = 'attack';
+
+        function renderComboMapSelect() {
+            const maps = D.mapTeamComps ? Object.keys(D.mapTeamComps) : [];
+            const container = document.getElementById('comboMapSelect');
+            container.innerHTML = maps.map(m =>
+                `<button class="tab ${m === currentComboMap ? 'active' : ''}" onclick="selectComboMap('${m}')">${capFirst(m.replace(/-/g,' '))}</button>`
+            ).join('');
+            if (!currentComboMap && maps.length > 0) selectComboMap(maps[0]);
+        }
+
+        function selectComboMap(mapName) {
+            currentComboMap = mapName;
+            document.querySelectorAll('#comboMapSelect .tab').forEach(t => t.classList.toggle('active', t.textContent.toLowerCase().replace(/\s/g,'-') === mapName || t.onclick.toString().includes(`'${mapName}'`)));
+            renderComboMapSelect();
+            renderMapCombos();
+        }
+
+        function switchComboSide(side) {
+            currentComboSide = side;
+            document.querySelectorAll('#comboSideFilter .tab').forEach(t => t.classList.toggle('active', t.dataset.side === side));
+            renderMapCombos();
+        }
+
+        function renderMapCombos() {
+            if (!D.mapTeamComps || !currentComboMap) return;
+            const comps = D.mapTeamComps[currentComboMap]?.[currentComboSide] || {};
+
+            // 双人搭配
+            const duoBody = document.querySelector('#duoComboTable tbody');
+            const duos = comps.duoCombos || [];
+            duoBody.innerHTML = duos.map((c, i) => `
                 <tr>
                     <td class="center">${i + 1}</td>
                     <td>${c.operators.map(o => `<strong>${capFirst(o)}</strong>`).join(' + ')}</td>
                     <td class="num">${formatNum(c.pickCount)}</td>
                     <td class="num"><span class="win-rate ${wrClass(c.winRate)}">${c.winRate}%</span></td>
                 </tr>
+            `).join('') || '<tr><td colspan="4" style="text-align:center;color:var(--text-muted)">暂无数据</td></tr>';
+
+            // 五人阵容
+            const fullBody = document.querySelector('#fullLineupTable tbody');
+            const fulls = comps.fullLineups || [];
+            fullBody.innerHTML = fulls.map((c, i) => `
+                <tr>
+                    <td class="center">${i + 1}</td>
+                    <td>${c.operators.map(o => `<strong>${capFirst(o)}</strong>`).join(' + ')}</td>
+                    <td class="num">${formatNum(c.pickCount)}</td>
+                    <td class="num"><span class="win-rate ${wrClass(c.winRate)}">${c.winRate}%</span></td>
+                </tr>
+            `).join('') || '<tr><td colspan="4" style="text-align:center;color:var(--text-muted)">暂无数据</td></tr>';
+        }
+
+        function renderGlobalCombos() {
+            const tbody = document.querySelector('#comboTable tbody');
+            tbody.innerHTML = (D.topCombos || []).map((c, i) => `
+                <tr>
+                    <td class="center">${i + 1}</td>
+                    <td>${c.operators.map(o => `<strong>${capFirst(o)}</strong>`).join(' + ')}</td>
+                    <td class="num">${c.side === 'attack' ? '⚔️ 进攻' : '🛡️ 防守'}</td>
+                    <td class="num">${formatNum(c.pickCount)}</td>
+                    <td class="num"><span class="win-rate ${wrClass(c.winRate)}">${c.winRate}%</span></td>
+                </tr>
             `).join('');
+        }
+
+        function renderCombos() {
+            renderComboMapSelect();
+            renderGlobalCombos();
         }
 
         // ===== 8. Top Players =====
