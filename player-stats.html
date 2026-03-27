@@ -571,48 +571,78 @@
 
         // ===== 2. Rank Distribution =====
         function renderRankDist() {
-            const colors = {
-                'champion': '#ff4500', 'diamond-i': '#00bfff', 'diamond-ii': '#1e90ff',
-                'emerald-i': '#10b981', 'emerald-ii': '#059669',
-                'platinum-i': '#8b5cf6', 'platinum-ii': '#7c3aed',
-                'gold-i': '#f59e0b', 'gold-ii': '#d97706',
-                'silver-i': '#9ca3af', 'silver-ii': '#6b7280',
-            };
-            const rd = D.rankDistribution;
-            const maxVal = Math.max(...Object.values(rd));
-            
-            document.getElementById('rankDistChart').innerHTML = Object.entries(rd)
-                .sort((a, b) => b[1] - a[1])
-                .map(([rank, count]) => {
-                    const pct = (count / maxVal * 100).toFixed(1);
-                    const color = colors[rank] || '#6b7280';
-                    return `<div class="bar-row">
-                        <div class="bar-label">${capFirst(rank)}</div>
-                        <div class="bar-track">
-                            <div class="bar-fill" style="width:${pct}%; background:${color}">${count}</div>
-                        </div>
-                        <div class="bar-value">${count}</div>
-                    </div>`;
-                }).join('');
+            // 完整的 R6 段位谱系（从高到低）
+            const allRanks = [
+                { key: 'champion',    name: 'Champion',    color: '#ff4500', icon: '👑' },
+                { key: 'diamond-i',   name: 'Diamond I',   color: '#00bfff', icon: '💎' },
+                { key: 'diamond-ii',  name: 'Diamond II',  color: '#1e90ff', icon: '💎' },
+                { key: 'diamond-iii', name: 'Diamond III', color: '#4169e1', icon: '💎' },
+                { key: 'emerald-i',   name: 'Emerald I',   color: '#10b981', icon: '💚' },
+                { key: 'emerald-ii',  name: 'Emerald II',  color: '#059669', icon: '💚' },
+                { key: 'emerald-iii', name: 'Emerald III', color: '#047857', icon: '💚' },
+                { key: 'platinum-i',  name: 'Platinum I',  color: '#8b5cf6', icon: '🔮' },
+                { key: 'platinum-ii', name: 'Platinum II', color: '#7c3aed', icon: '🔮' },
+                { key: 'platinum-iii',name: 'Platinum III',color: '#6d28d9', icon: '🔮' },
+                { key: 'gold-i',      name: 'Gold I',      color: '#f59e0b', icon: '🥇' },
+                { key: 'gold-ii',     name: 'Gold II',     color: '#d97706', icon: '🥇' },
+                { key: 'gold-iii',    name: 'Gold III',    color: '#b45309', icon: '🥇' },
+                { key: 'silver-i',    name: 'Silver I',    color: '#9ca3af', icon: '🥈' },
+                { key: 'silver-ii',   name: 'Silver II',   color: '#6b7280', icon: '🥈' },
+                { key: 'silver-iii',  name: 'Silver III',  color: '#4b5563', icon: '🥈' },
+                { key: 'bronze-i',    name: 'Bronze I',    color: '#b87333', icon: '🥉' },
+                { key: 'bronze-ii',   name: 'Bronze II',   color: '#8b6914', icon: '🥉' },
+                { key: 'bronze-iii',  name: 'Bronze III',  color: '#7a5c1e', icon: '🥉' },
+                { key: 'copper-i',    name: 'Copper I',    color: '#d2691e', icon: '🪙' },
+                { key: 'copper-ii',   name: 'Copper II',   color: '#a0522d', icon: '🪙' },
+                { key: 'copper-iii',  name: 'Copper III',  color: '#8b4513', icon: '🪙' },
+            ];
 
-            // RP ranges
+            const rd = D.rankDistribution;
+            const maxVal = Math.max(...Object.values(rd), 1);
+            const totalPlayers = Object.values(rd).reduce((a, b) => a + b, 0);
+
+            document.getElementById('rankDistChart').innerHTML = allRanks.map(r => {
+                const count = rd[r.key] || 0;
+                const pct = (count / maxVal * 100).toFixed(1);
+                const pctTotal = (count / totalPlayers * 100).toFixed(1);
+                const hasData = count > 0;
+                const opacity = hasData ? '1' : '0.35';
+                return `<div class="bar-row" style="opacity:${opacity}">
+                    <div class="bar-label" style="min-width:120px">${r.icon} ${r.name}</div>
+                    <div class="bar-track">
+                        ${hasData ? `<div class="bar-fill" style="width:${pct}%; background:${r.color}">${formatNum(count)}</div>` : ''}
+                    </div>
+                    <div class="bar-value" style="min-width:80px;text-align:right">${hasData ? `${formatNum(count)} (${pctTotal}%)` : '—'}</div>
+                </div>`;
+            }).join('');
+
+            // RP ranges - 更细的区间
             const rp = D.rpRanges;
-            const rpMax = Math.max(...Object.values(rp));
-            const rpOrder = ['5000+', '4800-4999', '4600-4799', '4400-4599', '4200-4399', '4000-4199', '3800-3999', '3600-3799', '3400-3599', '3200-3399', '<3200'];
-            
-            document.getElementById('rpDistChart').innerHTML = rpOrder
-                .filter(k => rp[k])
-                .map(range => {
-                    const count = rp[range] || 0;
-                    const pct = (count / rpMax * 100).toFixed(1);
-                    return `<div class="bar-row">
-                        <div class="bar-label">${range} RP</div>
-                        <div class="bar-track">
-                            <div class="bar-fill" style="width:${pct}%; background:var(--accent-blue)">${count}</div>
-                        </div>
-                        <div class="bar-value">${count}</div>
-                    </div>`;
-                }).join('');
+            const rpMax = Math.max(...Object.values(rp), 1);
+            const rpOrder = ['5000+', '4800-4999', '4600-4799', '4400-4599', '4200-4399', '4000-4199', '3800-3999', '3600-3799', '3400-3599', '3200-3399', '3000-3199', '2800-2999', '2600-2799', '2400-2599', '2200-2399', '2000-2199', '<2000'];
+            const rpColors = {
+                '5000+': '#ff4500', '4800-4999': '#00bfff', '4600-4799': '#1e90ff',
+                '4400-4599': '#4169e1', '4200-4399': '#10b981', '4000-4199': '#059669',
+                '3800-3999': '#8b5cf6', '3600-3799': '#7c3aed', '3400-3599': '#6d28d9',
+                '3200-3399': '#f59e0b', '3000-3199': '#d97706', '2800-2999': '#b45309',
+                '2600-2799': '#9ca3af', '2400-2599': '#6b7280', '2200-2399': '#4b5563',
+                '2000-2199': '#b87333', '<2000': '#8b4513'
+            };
+
+            document.getElementById('rpDistChart').innerHTML = rpOrder.map(range => {
+                const count = rp[range] || 0;
+                const pct = (count / rpMax * 100).toFixed(1);
+                const hasData = count > 0;
+                const opacity = hasData ? '1' : '0.35';
+                const color = rpColors[range] || 'var(--accent-blue)';
+                return `<div class="bar-row" style="opacity:${opacity}">
+                    <div class="bar-label">${range} RP</div>
+                    <div class="bar-track">
+                        ${hasData ? `<div class="bar-fill" style="width:${pct}%; background:${color}">${count}</div>` : ''}
+                    </div>
+                    <div class="bar-value">${hasData ? formatNum(count) : '—'}</div>
+                </div>`;
+            }).join('');
         }
 
         // ===== 3. Side Compare =====
