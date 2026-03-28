@@ -571,30 +571,44 @@
 
         // ===== 2. Rank Distribution =====
         function renderRankDist() {
-            // 完整的 R6 段位谱系（从高到低）
+            // 完整的 R6 段位谱系 5级制（从高到低 V→I）
             const allRanks = [
-                { key: 'champion',    name: 'Champion',    color: '#ff4500', icon: '👑' },
-                { key: 'diamond-i',   name: 'Diamond I',   color: '#00bfff', icon: '💎' },
-                { key: 'diamond-ii',  name: 'Diamond II',  color: '#1e90ff', icon: '💎' },
-                { key: 'diamond-iii', name: 'Diamond III', color: '#4169e1', icon: '💎' },
-                { key: 'emerald-i',   name: 'Emerald I',   color: '#10b981', icon: '💚' },
-                { key: 'emerald-ii',  name: 'Emerald II',  color: '#059669', icon: '💚' },
-                { key: 'emerald-iii', name: 'Emerald III', color: '#047857', icon: '💚' },
-                { key: 'platinum-i',  name: 'Platinum I',  color: '#8b5cf6', icon: '🔮' },
-                { key: 'platinum-ii', name: 'Platinum II', color: '#7c3aed', icon: '🔮' },
-                { key: 'platinum-iii',name: 'Platinum III',color: '#6d28d9', icon: '🔮' },
-                { key: 'gold-i',      name: 'Gold I',      color: '#f59e0b', icon: '🥇' },
-                { key: 'gold-ii',     name: 'Gold II',     color: '#d97706', icon: '🥇' },
-                { key: 'gold-iii',    name: 'Gold III',    color: '#b45309', icon: '🥇' },
-                { key: 'silver-i',    name: 'Silver I',    color: '#9ca3af', icon: '🥈' },
-                { key: 'silver-ii',   name: 'Silver II',   color: '#6b7280', icon: '🥈' },
-                { key: 'silver-iii',  name: 'Silver III',  color: '#4b5563', icon: '🥈' },
-                { key: 'bronze-i',    name: 'Bronze I',    color: '#b87333', icon: '🥉' },
-                { key: 'bronze-ii',   name: 'Bronze II',   color: '#8b6914', icon: '🥉' },
-                { key: 'bronze-iii',  name: 'Bronze III',  color: '#7a5c1e', icon: '🥉' },
-                { key: 'copper-i',    name: 'Copper I',    color: '#d2691e', icon: '🪙' },
-                { key: 'copper-ii',   name: 'Copper II',   color: '#a0522d', icon: '🪙' },
-                { key: 'copper-iii',  name: 'Copper III',  color: '#8b4513', icon: '🪙' },
+                { key: 'champion',     name: 'Champion',      color: '#ff4500', icon: '👑' },
+                { key: 'diamond-i',    name: 'Diamond I',     color: '#00bfff', icon: '💎' },
+                { key: 'diamond-ii',   name: 'Diamond II',    color: '#0db8e8', icon: '💎' },
+                { key: 'diamond-iii',  name: 'Diamond III',   color: '#1ab0d1', icon: '💎' },
+                { key: 'diamond-iv',   name: 'Diamond IV',    color: '#28a8ba', icon: '💎' },
+                { key: 'diamond-v',    name: 'Diamond V',     color: '#35a0a3', icon: '💎' },
+                { key: 'emerald-i',    name: 'Emerald I',     color: '#10b981', icon: '💚' },
+                { key: 'emerald-ii',   name: 'Emerald II',    color: '#0fa573', icon: '💚' },
+                { key: 'emerald-iii',  name: 'Emerald III',   color: '#0e9165', icon: '💚' },
+                { key: 'emerald-iv',   name: 'Emerald IV',    color: '#0d7d57', icon: '💚' },
+                { key: 'emerald-v',    name: 'Emerald V',     color: '#0c6949', icon: '💚' },
+                { key: 'platinum-i',   name: 'Platinum I',    color: '#8b5cf6', icon: '🔮' },
+                { key: 'platinum-ii',  name: 'Platinum II',   color: '#7c4fed', icon: '🔮' },
+                { key: 'platinum-iii', name: 'Platinum III',  color: '#6d42e4', icon: '🔮' },
+                { key: 'platinum-iv',  name: 'Platinum IV',   color: '#5e35db', icon: '🔮' },
+                { key: 'platinum-v',   name: 'Platinum V',    color: '#4f28d2', icon: '🔮' },
+                { key: 'gold-i',       name: 'Gold I',        color: '#f59e0b', icon: '🥇' },
+                { key: 'gold-ii',      name: 'Gold II',       color: '#e8920a', icon: '🥇' },
+                { key: 'gold-iii',     name: 'Gold III',      color: '#db8609', icon: '🥇' },
+                { key: 'gold-iv',      name: 'Gold IV',       color: '#ce7a08', icon: '🥇' },
+                { key: 'gold-v',       name: 'Gold V',        color: '#c16e07', icon: '🥇' },
+                { key: 'silver-i',     name: 'Silver I',      color: '#9ca3af', icon: '🥈' },
+                { key: 'silver-ii',    name: 'Silver II',     color: '#8b929e', icon: '🥈' },
+                { key: 'silver-iii',   name: 'Silver III',    color: '#7a818d', icon: '🥈' },
+                { key: 'silver-iv',    name: 'Silver IV',     color: '#69707c', icon: '🥈' },
+                { key: 'silver-v',     name: 'Silver V',      color: '#585f6b', icon: '🥈' },
+                { key: 'bronze-i',     name: 'Bronze I',      color: '#b87333', icon: '🥉' },
+                { key: 'bronze-ii',    name: 'Bronze II',     color: '#a6682e', icon: '🥉' },
+                { key: 'bronze-iii',   name: 'Bronze III',    color: '#945d29', icon: '🥉' },
+                { key: 'bronze-iv',    name: 'Bronze IV',     color: '#825224', icon: '🥉' },
+                { key: 'bronze-v',     name: 'Bronze V',      color: '#70471f', icon: '🥉' },
+                { key: 'copper-i',     name: 'Copper I',      color: '#d2691e', icon: '🪙' },
+                { key: 'copper-ii',    name: 'Copper II',     color: '#bf5f1b', icon: '🪙' },
+                { key: 'copper-iii',   name: 'Copper III',    color: '#ac5518', icon: '🪙' },
+                { key: 'copper-iv',    name: 'Copper IV',     color: '#994b15', icon: '🪙' },
+                { key: 'copper-v',     name: 'Copper V',      color: '#864112', icon: '🪙' },
             ];
 
             const rd = D.rankDistribution;
@@ -616,31 +630,35 @@
                 </div>`;
             }).join('');
 
-            // RP ranges - 更细的区间
+            // RP ranges — 直接用数据中的 key，按 RP 从高到低排
             const rp = D.rpRanges;
             const rpMax = Math.max(...Object.values(rp), 1);
-            const rpOrder = ['5000+', '4800-4999', '4600-4799', '4400-4599', '4200-4399', '4000-4199', '3800-3999', '3600-3799', '3400-3599', '3200-3399', '3000-3199', '2800-2999', '2600-2799', '2400-2599', '2200-2399', '2000-2199', '<2000'];
-            const rpColors = {
-                '5000+': '#ff4500', '4800-4999': '#00bfff', '4600-4799': '#1e90ff',
-                '4400-4599': '#4169e1', '4200-4399': '#10b981', '4000-4199': '#059669',
-                '3800-3999': '#8b5cf6', '3600-3799': '#7c3aed', '3400-3599': '#6d28d9',
-                '3200-3399': '#f59e0b', '3000-3199': '#d97706', '2800-2999': '#b45309',
-                '2600-2799': '#9ca3af', '2400-2599': '#6b7280', '2200-2399': '#4b5563',
-                '2000-2199': '#b87333', '<2000': '#8b4513'
+            const rpKeys = Object.keys(rp).sort((a, b) => {
+                const na = a === '<1000' ? 0 : a.startsWith('5000') ? 9999 : parseInt(a);
+                const nb = b === '<1000' ? 0 : b.startsWith('5000') ? 9999 : parseInt(b);
+                return nb - na;
+            });
+            const rpColor = range => {
+                const v = range === '<1000' ? 500 : range.startsWith('5000') ? 5000 : parseInt(range);
+                if(v >= 5000) return '#ff4500';
+                if(v >= 4000) return '#00bfff';
+                if(v >= 3500) return '#10b981';
+                if(v >= 3000) return '#8b5cf6';
+                if(v >= 2500) return '#f59e0b';
+                if(v >= 2000) return '#9ca3af';
+                if(v >= 1500) return '#b87333';
+                return '#d2691e';
             };
 
-            document.getElementById('rpDistChart').innerHTML = rpOrder.map(range => {
+            document.getElementById('rpDistChart').innerHTML = rpKeys.map(range => {
                 const count = rp[range] || 0;
                 const pct = (count / rpMax * 100).toFixed(1);
-                const hasData = count > 0;
-                const opacity = hasData ? '1' : '0.35';
-                const color = rpColors[range] || 'var(--accent-blue)';
-                return `<div class="bar-row" style="opacity:${opacity}">
+                return `<div class="bar-row">
                     <div class="bar-label">${range} RP</div>
                     <div class="bar-track">
-                        ${hasData ? `<div class="bar-fill" style="width:${pct}%; background:${color}">${count}</div>` : ''}
+                        <div class="bar-fill" style="width:${pct}%; background:${rpColor(range)}">${formatNum(count)}</div>
                     </div>
-                    <div class="bar-value">${hasData ? formatNum(count) : '—'}</div>
+                    <div class="bar-value">${formatNum(count)}</div>
                 </div>`;
             }).join('');
         }
