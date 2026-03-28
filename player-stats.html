@@ -504,7 +504,64 @@
             </div>
         </div>
 
-        <!-- 8. 玩家表现排名 -->
+        <!-- 8. 段位 Meta 分析 -->
+        <div class="section">
+            <div class="section-header" onclick="toggleSection(this)">
+                <h2>🎖️ 段位干员 Meta 差异</h2>
+                <span class="toggle">▼</span>
+            </div>
+            <div class="section-body">
+                <p style="color:var(--text-secondary);margin-bottom:16px">不同段位的热门干员对比 — 看看高段位和低段位的 Meta 有何不同</p>
+                <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px" id="rankMetaTierSelect"></div>
+                <div style="display:flex;gap:8px;margin-bottom:16px" id="rankMetaSideFilter">
+                    <button class="tab active" data-side="attackers" onclick="switchRankMetaSide('attackers')">⚔️ 进攻方 Top 20</button>
+                    <button class="tab" data-side="defenders" onclick="switchRankMetaSide('defenders')">🛡️ 防守方 Top 20</button>
+                </div>
+                <div id="rankMetaInfo" style="color:var(--text-muted);font-size:13px;margin-bottom:8px"></div>
+                <div class="table-wrapper">
+                    <table class="data-table" id="rankMetaTable">
+                        <thead><tr><th>#</th><th>干员</th><th class="num">选取率</th><th class="num">胜率</th><th class="num">K/D</th><th class="num">选取次数</th></tr></thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- 9. 段位×地图×干员 -->
+        <div class="section">
+            <div class="section-header" onclick="toggleSection(this)">
+                <h2>🗺️ 段位 × 地图 干员推荐</h2>
+                <span class="toggle">▼</span>
+            </div>
+            <div class="section-body">
+                <p style="color:var(--text-secondary);margin-bottom:16px">选择段位和地图，查看该段位在该地图上最热门的干员和攻防胜率</p>
+                <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px" id="rmm_tierSelect"></div>
+                <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px" id="rmm_mapSelect"></div>
+                <div id="rmm_info" style="margin-bottom:12px"></div>
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+                    <div>
+                        <h3 style="color:#60a5fa;margin-bottom:8px;font-size:15px">⚔️ 进攻方 Top 15</h3>
+                        <div class="table-wrapper">
+                            <table class="data-table" id="rmm_atkTable">
+                                <thead><tr><th>#</th><th>干员</th><th class="num">选取率</th><th class="num">胜率</th><th class="num">K/D</th></tr></thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 style="color:#fbbf24;margin-bottom:8px;font-size:15px">🛡️ 防守方 Top 15</h3>
+                        <div class="table-wrapper">
+                            <table class="data-table" id="rmm_defTable">
+                                <thead><tr><th>#</th><th>干员</th><th class="num">选取率</th><th class="num">胜率</th><th class="num">K/D</th></tr></thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 10. 玩家表现排名 -->
         <div class="section">
             <div class="section-header" onclick="toggleSection(this)">
                 <h2>🏆 玩家表现排行（K/D Top 50）</h2>
@@ -845,7 +902,95 @@
             renderGlobalCombos();
         }
 
-        // ===== 8. Top Players =====
+        // ===== 8. Rank Meta =====
+        const TIERS = ['Champion','Diamond','Emerald','Platinum','Gold','Silver','Bronze','Copper'];
+        const TIER_COLORS = {'Champion':'#ff4500','Diamond':'#00bfff','Emerald':'#10b981','Platinum':'#8b5cf6','Gold':'#f59e0b','Silver':'#9ca3af','Bronze':'#b87333','Copper':'#d2691e'};
+        let currentRankMetaTier = 'Diamond';
+        let currentRankMetaSide = 'attackers';
+
+        function renderRankMeta() {
+            if (!D.rankMeta) return;
+            document.getElementById('rankMetaTierSelect').innerHTML = TIERS.map(t => {
+                const c = TIER_COLORS[t];
+                const active = t === currentRankMetaTier;
+                return `<button class="tab ${active?'active':''}" style="${active?'border-color:'+c+';color:'+c:''}" onclick="selectRankMetaTier('${t}')">${t}</button>`;
+            }).join('');
+            renderRankMetaTable();
+        }
+
+        function selectRankMetaTier(tier) {
+            currentRankMetaTier = tier;
+            renderRankMeta();
+        }
+
+        function switchRankMetaSide(side) {
+            currentRankMetaSide = side;
+            document.querySelectorAll('#rankMetaSideFilter .tab').forEach(t => t.classList.toggle('active', t.dataset.side === side));
+            renderRankMetaTable();
+        }
+
+        function renderRankMetaTable() {
+            const meta = D.rankMeta?.[currentRankMetaTier];
+            if (!meta) return;
+            document.getElementById('rankMetaInfo').textContent = `${currentRankMetaTier} 段位 — ${formatNum(meta.totalRounds)} 回合数据`;
+            const list = meta[currentRankMetaSide] || [];
+            document.querySelector('#rankMetaTable tbody').innerHTML = list.map((o, i) => `
+                <tr>
+                    <td class="center">${i+1}</td>
+                    <td><strong>${capFirst(o.name)}</strong></td>
+                    <td class="num" style="font-weight:700;color:var(--accent)">${o.pickRate}%</td>
+                    <td class="num"><span class="win-rate ${wrClass(o.winRate)}">${o.winRate}%</span></td>
+                    <td class="num">${o.kd}</td>
+                    <td class="num">${formatNum(o.picks)}</td>
+                </tr>
+            `).join('');
+        }
+
+        // ===== 9. Rank × Map × Operator =====
+        let rmm_tier = 'Diamond';
+        let rmm_map = null;
+
+        function renderRankMapMeta() {
+            if (!D.rankMapMeta) return;
+            document.getElementById('rmm_tierSelect').innerHTML = TIERS.map(t => {
+                const active = t === rmm_tier;
+                const c = TIER_COLORS[t];
+                return `<button class="tab ${active?'active':''}" style="${active?'border-color:'+c+';color:'+c:''}" onclick="selectRmmTier('${t}')">${t}</button>`;
+            }).join('');
+            const maps = D.rankMapMeta?.[rmm_tier] ? Object.keys(D.rankMapMeta[rmm_tier]).sort() : [];
+            if (!rmm_map && maps.length) rmm_map = maps[0];
+            document.getElementById('rmm_mapSelect').innerHTML = maps.map(m =>
+                `<button class="tab ${m===rmm_map?'active':''}" onclick="selectRmmMap('${m}')">${capFirst(m.replace(/-/g,' '))}</button>`
+            ).join('');
+            renderRmmTable();
+        }
+
+        function selectRmmTier(t) { rmm_tier = t; rmm_map = null; renderRankMapMeta(); }
+        function selectRmmMap(m) { rmm_map = m; renderRankMapMeta(); }
+
+        function renderRmmTable() {
+            const data = D.rankMapMeta?.[rmm_tier]?.[rmm_map];
+            if (!data) { document.getElementById('rmm_info').innerHTML = ''; return; }
+            document.getElementById('rmm_info').innerHTML =
+                `<span style="color:var(--text-secondary)">${rmm_tier} × ${capFirst(rmm_map||'')} — ${formatNum(data.totalRounds)} 回合</span>` +
+                ` | <span style="color:#60a5fa">攻击胜率 ${data.atkWinRate}%</span>` +
+                ` | <span style="color:#fbbf24">防守胜率 ${data.defWinRate}%</span>`;
+            const renderList = (list, tbodyId) => {
+                document.querySelector(`#${tbodyId} tbody`).innerHTML = (list||[]).map((o,i) => `
+                    <tr>
+                        <td class="center">${i+1}</td>
+                        <td><strong>${capFirst(o.name)}</strong></td>
+                        <td class="num" style="font-weight:700;color:var(--accent)">${o.pickRate}%</td>
+                        <td class="num"><span class="win-rate ${wrClass(o.winRate)}">${o.winRate}%</span></td>
+                        <td class="num">${o.kd}</td>
+                    </tr>
+                `).join('');
+            };
+            renderList(data.attackers, 'rmm_atkTable');
+            renderList(data.defenders, 'rmm_defTable');
+        }
+
+        // ===== 10. Top Players =====
         function renderTopPlayers() {
             const tbody = document.querySelector('#playerTable tbody');
             tbody.innerHTML = D.topPlayers.map((p, i) => `
@@ -901,6 +1046,8 @@
         renderOperatorTable('all', '');
         renderMapSelect();
         renderCombos();
+        renderRankMeta();
+        renderRankMapMeta();
         renderTopPlayers();
     </script>
 </body>

@@ -21860,5 +21860,31811 @@ const PLAYER_MATCH_STATS = {
         ]
       }
     }
+  },
+  "rankMeta": {
+    "Champion": {
+      "totalRounds": 16335,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 889,
+          "pickRate": 5.44,
+          "winRate": 69.5,
+          "kd": 1.63
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 562,
+          "pickRate": 3.44,
+          "winRate": 69.4,
+          "kd": 1.46
+        },
+        {
+          "name": "twitch",
+          "picks": 512,
+          "pickRate": 3.13,
+          "winRate": 70.9,
+          "kd": 1.69
+        },
+        {
+          "name": "solid-snake",
+          "picks": 509,
+          "pickRate": 3.12,
+          "winRate": 67.8,
+          "kd": 1.42
+        },
+        {
+          "name": "grim",
+          "picks": 436,
+          "pickRate": 2.67,
+          "winRate": 63.5,
+          "kd": 1.35
+        },
+        {
+          "name": "nomad",
+          "picks": 419,
+          "pickRate": 2.57,
+          "winRate": 67.3,
+          "kd": 1.54
+        },
+        {
+          "name": "striker",
+          "picks": 332,
+          "pickRate": 2.03,
+          "winRate": 69.9,
+          "kd": 1.66
+        },
+        {
+          "name": "deimos",
+          "picks": 313,
+          "pickRate": 1.92,
+          "winRate": 67.7,
+          "kd": 1.33
+        },
+        {
+          "name": "lion",
+          "picks": 271,
+          "pickRate": 1.66,
+          "winRate": 70.8,
+          "kd": 1.42
+        },
+        {
+          "name": "buck",
+          "picks": 254,
+          "pickRate": 1.55,
+          "winRate": 71.3,
+          "kd": 1.64
+        },
+        {
+          "name": "iq",
+          "picks": 252,
+          "pickRate": 1.54,
+          "winRate": 68.7,
+          "kd": 1.48
+        },
+        {
+          "name": "thermite",
+          "picks": 252,
+          "pickRate": 1.54,
+          "winRate": 67.5,
+          "kd": 1.41
+        },
+        {
+          "name": "blackbeard",
+          "picks": 227,
+          "pickRate": 1.39,
+          "winRate": 63.4,
+          "kd": 1.08
+        },
+        {
+          "name": "gridlock",
+          "picks": 218,
+          "pickRate": 1.33,
+          "winRate": 64.2,
+          "kd": 1.33
+        },
+        {
+          "name": "blitz",
+          "picks": 214,
+          "pickRate": 1.31,
+          "winRate": 68.7,
+          "kd": 1.09
+        },
+        {
+          "name": "glaz",
+          "picks": 211,
+          "pickRate": 1.29,
+          "winRate": 60.7,
+          "kd": 1.42
+        },
+        {
+          "name": "montagne",
+          "picks": 203,
+          "pickRate": 1.24,
+          "winRate": 65.0,
+          "kd": 0.82
+        },
+        {
+          "name": "hibana",
+          "picks": 195,
+          "pickRate": 1.19,
+          "winRate": 68.7,
+          "kd": 1.5
+        },
+        {
+          "name": "ace",
+          "picks": 188,
+          "pickRate": 1.15,
+          "winRate": 72.9,
+          "kd": 1.59
+        },
+        {
+          "name": "sledge",
+          "picks": 160,
+          "pickRate": 0.98,
+          "winRate": 73.8,
+          "kd": 1.29
+        }
+      ],
+      "defenders": [
+        {
+          "name": "azami",
+          "picks": 591,
+          "pickRate": 3.62,
+          "winRate": 79.2,
+          "kd": 1.5
+        },
+        {
+          "name": "aruni",
+          "picks": 550,
+          "pickRate": 3.37,
+          "winRate": 81.1,
+          "kd": 1.91
+        },
+        {
+          "name": "warden",
+          "picks": 532,
+          "pickRate": 3.26,
+          "winRate": 77.3,
+          "kd": 1.65
+        },
+        {
+          "name": "mute",
+          "picks": 513,
+          "pickRate": 3.14,
+          "winRate": 78.6,
+          "kd": 1.51
+        },
+        {
+          "name": "solis",
+          "picks": 443,
+          "pickRate": 2.71,
+          "winRate": 81.0,
+          "kd": 1.61
+        },
+        {
+          "name": "tubarao",
+          "picks": 436,
+          "pickRate": 2.67,
+          "winRate": 79.4,
+          "kd": 1.76
+        },
+        {
+          "name": "bandit",
+          "picks": 395,
+          "pickRate": 2.42,
+          "winRate": 78.2,
+          "kd": 1.54
+        },
+        {
+          "name": "ela",
+          "picks": 378,
+          "pickRate": 2.31,
+          "winRate": 81.2,
+          "kd": 1.65
+        },
+        {
+          "name": "valkyrie",
+          "picks": 360,
+          "pickRate": 2.2,
+          "winRate": 79.4,
+          "kd": 1.97
+        },
+        {
+          "name": "smoke",
+          "picks": 352,
+          "pickRate": 2.15,
+          "winRate": 80.7,
+          "kd": 1.65
+        },
+        {
+          "name": "vigil",
+          "picks": 334,
+          "pickRate": 2.04,
+          "winRate": 76.3,
+          "kd": 1.62
+        },
+        {
+          "name": "melusi",
+          "picks": 329,
+          "pickRate": 2.01,
+          "winRate": 80.2,
+          "kd": 1.89
+        },
+        {
+          "name": "goyo",
+          "picks": 295,
+          "pickRate": 1.81,
+          "winRate": 80.7,
+          "kd": 1.79
+        },
+        {
+          "name": "kaid",
+          "picks": 272,
+          "pickRate": 1.67,
+          "winRate": 78.7,
+          "kd": 2.05
+        },
+        {
+          "name": "thorn",
+          "picks": 243,
+          "pickRate": 1.49,
+          "winRate": 77.4,
+          "kd": 1.82
+        },
+        {
+          "name": "lesion",
+          "picks": 232,
+          "pickRate": 1.42,
+          "winRate": 75.9,
+          "kd": 1.31
+        },
+        {
+          "name": "fenrir",
+          "picks": 225,
+          "pickRate": 1.38,
+          "winRate": 79.1,
+          "kd": 1.66
+        },
+        {
+          "name": "skopos",
+          "picks": 217,
+          "pickRate": 1.33,
+          "winRate": 78.3,
+          "kd": 1.96
+        },
+        {
+          "name": "jager",
+          "picks": 173,
+          "pickRate": 1.06,
+          "winRate": 78.0,
+          "kd": 1.25
+        },
+        {
+          "name": "castle",
+          "picks": 145,
+          "pickRate": 0.89,
+          "winRate": 74.5,
+          "kd": 1.69
+        }
+      ]
+    },
+    "Diamond": {
+      "totalRounds": 6839022,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 330558,
+          "pickRate": 4.83,
+          "winRate": 45.7,
+          "kd": 1.13
+        },
+        {
+          "name": "solid-snake",
+          "picks": 225126,
+          "pickRate": 3.29,
+          "winRate": 44.4,
+          "kd": 1.0
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 210779,
+          "pickRate": 3.08,
+          "winRate": 45.9,
+          "kd": 1.05
+        },
+        {
+          "name": "twitch",
+          "picks": 200883,
+          "pickRate": 2.94,
+          "winRate": 46.4,
+          "kd": 1.14
+        },
+        {
+          "name": "grim",
+          "picks": 174282,
+          "pickRate": 2.55,
+          "winRate": 45.3,
+          "kd": 0.96
+        },
+        {
+          "name": "nomad",
+          "picks": 153550,
+          "pickRate": 2.25,
+          "winRate": 46.1,
+          "kd": 1.1
+        },
+        {
+          "name": "thermite",
+          "picks": 148917,
+          "pickRate": 2.18,
+          "winRate": 46.1,
+          "kd": 0.96
+        },
+        {
+          "name": "striker",
+          "picks": 135875,
+          "pickRate": 1.99,
+          "winRate": 45.9,
+          "kd": 1.11
+        },
+        {
+          "name": "hibana",
+          "picks": 135646,
+          "pickRate": 1.98,
+          "winRate": 46.0,
+          "kd": 1.06
+        },
+        {
+          "name": "buck",
+          "picks": 131803,
+          "pickRate": 1.93,
+          "winRate": 44.8,
+          "kd": 1.0
+        },
+        {
+          "name": "lion",
+          "picks": 97562,
+          "pickRate": 1.43,
+          "winRate": 45.9,
+          "kd": 1.01
+        },
+        {
+          "name": "deimos",
+          "picks": 95631,
+          "pickRate": 1.4,
+          "winRate": 46.1,
+          "kd": 1.02
+        },
+        {
+          "name": "ace",
+          "picks": 87742,
+          "pickRate": 1.28,
+          "winRate": 45.8,
+          "kd": 1.1
+        },
+        {
+          "name": "iq",
+          "picks": 87610,
+          "pickRate": 1.28,
+          "winRate": 46.0,
+          "kd": 1.14
+        },
+        {
+          "name": "sledge",
+          "picks": 76715,
+          "pickRate": 1.12,
+          "winRate": 45.7,
+          "kd": 1.05
+        },
+        {
+          "name": "blackbeard",
+          "picks": 75636,
+          "pickRate": 1.11,
+          "winRate": 45.8,
+          "kd": 0.83
+        },
+        {
+          "name": "thatcher",
+          "picks": 75231,
+          "pickRate": 1.1,
+          "winRate": 46.4,
+          "kd": 1.06
+        },
+        {
+          "name": "brava",
+          "picks": 75157,
+          "pickRate": 1.1,
+          "winRate": 46.0,
+          "kd": 1.14
+        },
+        {
+          "name": "finka",
+          "picks": 74552,
+          "pickRate": 1.09,
+          "winRate": 46.6,
+          "kd": 1.11
+        },
+        {
+          "name": "capitao",
+          "picks": 62454,
+          "pickRate": 0.91,
+          "winRate": 45.8,
+          "kd": 0.97
+        }
+      ],
+      "defenders": [
+        {
+          "name": "aruni",
+          "picks": 266344,
+          "pickRate": 3.89,
+          "winRate": 58.5,
+          "kd": 1.39
+        },
+        {
+          "name": "azami",
+          "picks": 220840,
+          "pickRate": 3.23,
+          "winRate": 57.0,
+          "kd": 1.15
+        },
+        {
+          "name": "mute",
+          "picks": 205003,
+          "pickRate": 3.0,
+          "winRate": 57.4,
+          "kd": 1.15
+        },
+        {
+          "name": "bandit",
+          "picks": 161048,
+          "pickRate": 2.35,
+          "winRate": 57.6,
+          "kd": 1.18
+        },
+        {
+          "name": "tubarao",
+          "picks": 160180,
+          "pickRate": 2.34,
+          "winRate": 57.7,
+          "kd": 1.31
+        },
+        {
+          "name": "valkyrie",
+          "picks": 159515,
+          "pickRate": 2.33,
+          "winRate": 58.6,
+          "kd": 1.31
+        },
+        {
+          "name": "warden",
+          "picks": 158239,
+          "pickRate": 2.31,
+          "winRate": 57.0,
+          "kd": 1.2
+        },
+        {
+          "name": "vigil",
+          "picks": 156178,
+          "pickRate": 2.28,
+          "winRate": 56.5,
+          "kd": 1.2
+        },
+        {
+          "name": "thorn",
+          "picks": 153882,
+          "pickRate": 2.25,
+          "winRate": 59.0,
+          "kd": 1.26
+        },
+        {
+          "name": "lesion",
+          "picks": 147673,
+          "pickRate": 2.16,
+          "winRate": 57.6,
+          "kd": 1.18
+        },
+        {
+          "name": "solis",
+          "picks": 140966,
+          "pickRate": 2.06,
+          "winRate": 57.6,
+          "kd": 1.27
+        },
+        {
+          "name": "smoke",
+          "picks": 137160,
+          "pickRate": 2.01,
+          "winRate": 56.8,
+          "kd": 1.06
+        },
+        {
+          "name": "kaid",
+          "picks": 119374,
+          "pickRate": 1.75,
+          "winRate": 57.5,
+          "kd": 1.13
+        },
+        {
+          "name": "castle",
+          "picks": 97753,
+          "pickRate": 1.43,
+          "winRate": 55.8,
+          "kd": 1.03
+        },
+        {
+          "name": "melusi",
+          "picks": 95130,
+          "pickRate": 1.39,
+          "winRate": 58.3,
+          "kd": 1.14
+        },
+        {
+          "name": "goyo",
+          "picks": 93698,
+          "pickRate": 1.37,
+          "winRate": 56.6,
+          "kd": 1.13
+        },
+        {
+          "name": "ela",
+          "picks": 89299,
+          "pickRate": 1.31,
+          "winRate": 58.8,
+          "kd": 1.2
+        },
+        {
+          "name": "jager",
+          "picks": 85709,
+          "pickRate": 1.25,
+          "winRate": 56.1,
+          "kd": 1.06
+        },
+        {
+          "name": "fenrir",
+          "picks": 84750,
+          "pickRate": 1.24,
+          "winRate": 57.3,
+          "kd": 1.13
+        },
+        {
+          "name": "kapkan",
+          "picks": 79003,
+          "pickRate": 1.16,
+          "winRate": 59.4,
+          "kd": 1.39
+        }
+      ]
+    },
+    "Emerald": {
+      "totalRounds": 5950226,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 259877,
+          "pickRate": 4.37,
+          "winRate": 44.5,
+          "kd": 1.06
+        },
+        {
+          "name": "solid-snake",
+          "picks": 185465,
+          "pickRate": 3.12,
+          "winRate": 43.4,
+          "kd": 0.93
+        },
+        {
+          "name": "twitch",
+          "picks": 171123,
+          "pickRate": 2.88,
+          "winRate": 44.6,
+          "kd": 1.06
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 165952,
+          "pickRate": 2.79,
+          "winRate": 44.4,
+          "kd": 0.97
+        },
+        {
+          "name": "thermite",
+          "picks": 146384,
+          "pickRate": 2.46,
+          "winRate": 45.1,
+          "kd": 0.89
+        },
+        {
+          "name": "buck",
+          "picks": 137256,
+          "pickRate": 2.31,
+          "winRate": 43.8,
+          "kd": 0.95
+        },
+        {
+          "name": "nomad",
+          "picks": 133463,
+          "pickRate": 2.24,
+          "winRate": 44.5,
+          "kd": 1.01
+        },
+        {
+          "name": "grim",
+          "picks": 132119,
+          "pickRate": 2.22,
+          "winRate": 43.6,
+          "kd": 0.89
+        },
+        {
+          "name": "hibana",
+          "picks": 117445,
+          "pickRate": 1.97,
+          "winRate": 44.0,
+          "kd": 0.99
+        },
+        {
+          "name": "striker",
+          "picks": 99000,
+          "pickRate": 1.66,
+          "winRate": 44.5,
+          "kd": 1.04
+        },
+        {
+          "name": "lion",
+          "picks": 83019,
+          "pickRate": 1.4,
+          "winRate": 44.2,
+          "kd": 0.93
+        },
+        {
+          "name": "brava",
+          "picks": 82875,
+          "pickRate": 1.39,
+          "winRate": 45.0,
+          "kd": 1.06
+        },
+        {
+          "name": "thatcher",
+          "picks": 76182,
+          "pickRate": 1.28,
+          "winRate": 44.9,
+          "kd": 0.98
+        },
+        {
+          "name": "ace",
+          "picks": 70491,
+          "pickRate": 1.18,
+          "winRate": 45.0,
+          "kd": 1.04
+        },
+        {
+          "name": "finka",
+          "picks": 66161,
+          "pickRate": 1.11,
+          "winRate": 45.7,
+          "kd": 1.02
+        },
+        {
+          "name": "iq",
+          "picks": 63781,
+          "pickRate": 1.07,
+          "winRate": 44.5,
+          "kd": 1.07
+        },
+        {
+          "name": "deimos",
+          "picks": 63363,
+          "pickRate": 1.06,
+          "winRate": 43.5,
+          "kd": 0.92
+        },
+        {
+          "name": "blackbeard",
+          "picks": 62837,
+          "pickRate": 1.06,
+          "winRate": 44.0,
+          "kd": 0.78
+        },
+        {
+          "name": "sledge",
+          "picks": 62621,
+          "pickRate": 1.05,
+          "winRate": 44.3,
+          "kd": 1.0
+        },
+        {
+          "name": "fuze",
+          "picks": 58698,
+          "pickRate": 0.99,
+          "winRate": 45.1,
+          "kd": 1.02
+        }
+      ],
+      "defenders": [
+        {
+          "name": "aruni",
+          "picks": 234844,
+          "pickRate": 3.95,
+          "winRate": 57.5,
+          "kd": 1.31
+        },
+        {
+          "name": "mute",
+          "picks": 190181,
+          "pickRate": 3.2,
+          "winRate": 55.8,
+          "kd": 1.03
+        },
+        {
+          "name": "azami",
+          "picks": 181426,
+          "pickRate": 3.05,
+          "winRate": 55.7,
+          "kd": 1.07
+        },
+        {
+          "name": "thorn",
+          "picks": 161516,
+          "pickRate": 2.71,
+          "winRate": 57.7,
+          "kd": 1.18
+        },
+        {
+          "name": "bandit",
+          "picks": 147665,
+          "pickRate": 2.48,
+          "winRate": 55.9,
+          "kd": 1.07
+        },
+        {
+          "name": "valkyrie",
+          "picks": 140311,
+          "pickRate": 2.36,
+          "winRate": 57.2,
+          "kd": 1.21
+        },
+        {
+          "name": "vigil",
+          "picks": 134423,
+          "pickRate": 2.26,
+          "winRate": 55.7,
+          "kd": 1.14
+        },
+        {
+          "name": "tubarao",
+          "picks": 130116,
+          "pickRate": 2.19,
+          "winRate": 56.2,
+          "kd": 1.23
+        },
+        {
+          "name": "lesion",
+          "picks": 128438,
+          "pickRate": 2.16,
+          "winRate": 56.3,
+          "kd": 1.1
+        },
+        {
+          "name": "kaid",
+          "picks": 118484,
+          "pickRate": 1.99,
+          "winRate": 56.0,
+          "kd": 1.03
+        },
+        {
+          "name": "warden",
+          "picks": 115578,
+          "pickRate": 1.94,
+          "winRate": 55.0,
+          "kd": 1.11
+        },
+        {
+          "name": "smoke",
+          "picks": 105355,
+          "pickRate": 1.77,
+          "winRate": 54.5,
+          "kd": 0.95
+        },
+        {
+          "name": "castle",
+          "picks": 92905,
+          "pickRate": 1.56,
+          "winRate": 54.4,
+          "kd": 0.96
+        },
+        {
+          "name": "melusi",
+          "picks": 89244,
+          "pickRate": 1.5,
+          "winRate": 57.1,
+          "kd": 1.06
+        },
+        {
+          "name": "solis",
+          "picks": 81810,
+          "pickRate": 1.37,
+          "winRate": 56.0,
+          "kd": 1.19
+        },
+        {
+          "name": "fenrir",
+          "picks": 76100,
+          "pickRate": 1.28,
+          "winRate": 55.9,
+          "kd": 1.05
+        },
+        {
+          "name": "jager",
+          "picks": 74593,
+          "pickRate": 1.25,
+          "winRate": 54.3,
+          "kd": 0.98
+        },
+        {
+          "name": "goyo",
+          "picks": 73837,
+          "pickRate": 1.24,
+          "winRate": 54.3,
+          "kd": 1.02
+        },
+        {
+          "name": "kapkan",
+          "picks": 69602,
+          "pickRate": 1.17,
+          "winRate": 58.9,
+          "kd": 1.31
+        },
+        {
+          "name": "ela",
+          "picks": 64716,
+          "pickRate": 1.09,
+          "winRate": 56.6,
+          "kd": 1.12
+        }
+      ]
+    },
+    "Platinum": {
+      "totalRounds": 3866274,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 153240,
+          "pickRate": 3.96,
+          "winRate": 44.4,
+          "kd": 1.02
+        },
+        {
+          "name": "solid-snake",
+          "picks": 110363,
+          "pickRate": 2.85,
+          "winRate": 43.2,
+          "kd": 0.88
+        },
+        {
+          "name": "twitch",
+          "picks": 106026,
+          "pickRate": 2.74,
+          "winRate": 44.5,
+          "kd": 1.02
+        },
+        {
+          "name": "thermite",
+          "picks": 103359,
+          "pickRate": 2.67,
+          "winRate": 44.6,
+          "kd": 0.85
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 103330,
+          "pickRate": 2.67,
+          "winRate": 44.2,
+          "kd": 0.92
+        },
+        {
+          "name": "buck",
+          "picks": 89512,
+          "pickRate": 2.32,
+          "winRate": 43.4,
+          "kd": 0.9
+        },
+        {
+          "name": "nomad",
+          "picks": 86281,
+          "pickRate": 2.23,
+          "winRate": 44.5,
+          "kd": 0.97
+        },
+        {
+          "name": "grim",
+          "picks": 80147,
+          "pickRate": 2.07,
+          "winRate": 43.6,
+          "kd": 0.85
+        },
+        {
+          "name": "hibana",
+          "picks": 75801,
+          "pickRate": 1.96,
+          "winRate": 43.9,
+          "kd": 0.94
+        },
+        {
+          "name": "brava",
+          "picks": 61722,
+          "pickRate": 1.6,
+          "winRate": 44.5,
+          "kd": 1.01
+        },
+        {
+          "name": "lion",
+          "picks": 58231,
+          "pickRate": 1.51,
+          "winRate": 44.3,
+          "kd": 0.89
+        },
+        {
+          "name": "thatcher",
+          "picks": 55710,
+          "pickRate": 1.44,
+          "winRate": 44.8,
+          "kd": 0.93
+        },
+        {
+          "name": "striker",
+          "picks": 54321,
+          "pickRate": 1.4,
+          "winRate": 44.8,
+          "kd": 1.0
+        },
+        {
+          "name": "ace",
+          "picks": 45831,
+          "pickRate": 1.19,
+          "winRate": 45.0,
+          "kd": 1.01
+        },
+        {
+          "name": "fuze",
+          "picks": 43889,
+          "pickRate": 1.14,
+          "winRate": 44.4,
+          "kd": 0.95
+        },
+        {
+          "name": "finka",
+          "picks": 43119,
+          "pickRate": 1.12,
+          "winRate": 45.5,
+          "kd": 0.97
+        },
+        {
+          "name": "sledge",
+          "picks": 41320,
+          "pickRate": 1.07,
+          "winRate": 43.8,
+          "kd": 0.95
+        },
+        {
+          "name": "blackbeard",
+          "picks": 39702,
+          "pickRate": 1.03,
+          "winRate": 44.5,
+          "kd": 0.75
+        },
+        {
+          "name": "deimos",
+          "picks": 38716,
+          "pickRate": 1.0,
+          "winRate": 43.2,
+          "kd": 0.86
+        },
+        {
+          "name": "capitao",
+          "picks": 37766,
+          "pickRate": 0.98,
+          "winRate": 43.7,
+          "kd": 0.86
+        }
+      ],
+      "defenders": [
+        {
+          "name": "aruni",
+          "picks": 146404,
+          "pickRate": 3.79,
+          "winRate": 57.2,
+          "kd": 1.26
+        },
+        {
+          "name": "mute",
+          "picks": 126253,
+          "pickRate": 3.27,
+          "winRate": 55.4,
+          "kd": 0.96
+        },
+        {
+          "name": "thorn",
+          "picks": 117231,
+          "pickRate": 3.03,
+          "winRate": 57.8,
+          "kd": 1.12
+        },
+        {
+          "name": "azami",
+          "picks": 111715,
+          "pickRate": 2.89,
+          "winRate": 55.5,
+          "kd": 1.03
+        },
+        {
+          "name": "bandit",
+          "picks": 98654,
+          "pickRate": 2.55,
+          "winRate": 55.5,
+          "kd": 0.99
+        },
+        {
+          "name": "valkyrie",
+          "picks": 91478,
+          "pickRate": 2.37,
+          "winRate": 56.3,
+          "kd": 1.12
+        },
+        {
+          "name": "kaid",
+          "picks": 85766,
+          "pickRate": 2.22,
+          "winRate": 55.5,
+          "kd": 0.97
+        },
+        {
+          "name": "lesion",
+          "picks": 83794,
+          "pickRate": 2.17,
+          "winRate": 56.3,
+          "kd": 1.05
+        },
+        {
+          "name": "vigil",
+          "picks": 81517,
+          "pickRate": 2.11,
+          "winRate": 55.3,
+          "kd": 1.09
+        },
+        {
+          "name": "tubarao",
+          "picks": 77089,
+          "pickRate": 1.99,
+          "winRate": 55.6,
+          "kd": 1.16
+        },
+        {
+          "name": "warden",
+          "picks": 65997,
+          "pickRate": 1.71,
+          "winRate": 54.8,
+          "kd": 1.05
+        },
+        {
+          "name": "smoke",
+          "picks": 65777,
+          "pickRate": 1.7,
+          "winRate": 54.5,
+          "kd": 0.9
+        },
+        {
+          "name": "castle",
+          "picks": 63290,
+          "pickRate": 1.64,
+          "winRate": 54.0,
+          "kd": 0.9
+        },
+        {
+          "name": "melusi",
+          "picks": 60762,
+          "pickRate": 1.57,
+          "winRate": 56.7,
+          "kd": 0.99
+        },
+        {
+          "name": "fenrir",
+          "picks": 51924,
+          "pickRate": 1.34,
+          "winRate": 55.5,
+          "kd": 0.98
+        },
+        {
+          "name": "goyo",
+          "picks": 48168,
+          "pickRate": 1.25,
+          "winRate": 53.9,
+          "kd": 0.96
+        },
+        {
+          "name": "kapkan",
+          "picks": 46940,
+          "pickRate": 1.21,
+          "winRate": 58.4,
+          "kd": 1.23
+        },
+        {
+          "name": "jager",
+          "picks": 46762,
+          "pickRate": 1.21,
+          "winRate": 54.1,
+          "kd": 0.93
+        },
+        {
+          "name": "doc",
+          "picks": 45767,
+          "pickRate": 1.18,
+          "winRate": 55.8,
+          "kd": 0.95
+        },
+        {
+          "name": "solis",
+          "picks": 41886,
+          "pickRate": 1.08,
+          "winRate": 55.9,
+          "kd": 1.15
+        }
+      ]
+    },
+    "Gold": {
+      "totalRounds": 3154857,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 119355,
+          "pickRate": 3.78,
+          "winRate": 44.2,
+          "kd": 1.0
+        },
+        {
+          "name": "twitch",
+          "picks": 85217,
+          "pickRate": 2.7,
+          "winRate": 44.3,
+          "kd": 0.99
+        },
+        {
+          "name": "thermite",
+          "picks": 84936,
+          "pickRate": 2.69,
+          "winRate": 44.6,
+          "kd": 0.82
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 82027,
+          "pickRate": 2.6,
+          "winRate": 44.1,
+          "kd": 0.87
+        },
+        {
+          "name": "solid-snake",
+          "picks": 80828,
+          "pickRate": 2.56,
+          "winRate": 42.8,
+          "kd": 0.82
+        },
+        {
+          "name": "buck",
+          "picks": 74278,
+          "pickRate": 2.35,
+          "winRate": 43.5,
+          "kd": 0.86
+        },
+        {
+          "name": "nomad",
+          "picks": 70872,
+          "pickRate": 2.25,
+          "winRate": 44.4,
+          "kd": 0.92
+        },
+        {
+          "name": "hibana",
+          "picks": 60223,
+          "pickRate": 1.91,
+          "winRate": 43.5,
+          "kd": 0.91
+        },
+        {
+          "name": "grim",
+          "picks": 59970,
+          "pickRate": 1.9,
+          "winRate": 43.3,
+          "kd": 0.81
+        },
+        {
+          "name": "lion",
+          "picks": 53985,
+          "pickRate": 1.71,
+          "winRate": 44.2,
+          "kd": 0.83
+        },
+        {
+          "name": "brava",
+          "picks": 53936,
+          "pickRate": 1.71,
+          "winRate": 44.2,
+          "kd": 0.96
+        },
+        {
+          "name": "thatcher",
+          "picks": 48758,
+          "pickRate": 1.55,
+          "winRate": 44.4,
+          "kd": 0.88
+        },
+        {
+          "name": "fuze",
+          "picks": 38445,
+          "pickRate": 1.22,
+          "winRate": 44.4,
+          "kd": 0.91
+        },
+        {
+          "name": "striker",
+          "picks": 38301,
+          "pickRate": 1.21,
+          "winRate": 43.9,
+          "kd": 0.98
+        },
+        {
+          "name": "ace",
+          "picks": 36998,
+          "pickRate": 1.17,
+          "winRate": 44.5,
+          "kd": 0.97
+        },
+        {
+          "name": "finka",
+          "picks": 36618,
+          "pickRate": 1.16,
+          "winRate": 45.2,
+          "kd": 0.93
+        },
+        {
+          "name": "sledge",
+          "picks": 33593,
+          "pickRate": 1.06,
+          "winRate": 44.1,
+          "kd": 0.9
+        },
+        {
+          "name": "osa",
+          "picks": 32090,
+          "pickRate": 1.02,
+          "winRate": 44.9,
+          "kd": 0.89
+        },
+        {
+          "name": "blackbeard",
+          "picks": 31716,
+          "pickRate": 1.01,
+          "winRate": 44.2,
+          "kd": 0.72
+        },
+        {
+          "name": "deimos",
+          "picks": 31554,
+          "pickRate": 1.0,
+          "winRate": 43.3,
+          "kd": 0.83
+        }
+      ],
+      "defenders": [
+        {
+          "name": "aruni",
+          "picks": 112633,
+          "pickRate": 3.57,
+          "winRate": 56.5,
+          "kd": 1.18
+        },
+        {
+          "name": "mute",
+          "picks": 103204,
+          "pickRate": 3.27,
+          "winRate": 54.7,
+          "kd": 0.91
+        },
+        {
+          "name": "thorn",
+          "picks": 102045,
+          "pickRate": 3.23,
+          "winRate": 57.2,
+          "kd": 1.05
+        },
+        {
+          "name": "azami",
+          "picks": 85200,
+          "pickRate": 2.7,
+          "winRate": 55.1,
+          "kd": 0.98
+        },
+        {
+          "name": "bandit",
+          "picks": 80708,
+          "pickRate": 2.56,
+          "winRate": 55.1,
+          "kd": 0.94
+        },
+        {
+          "name": "valkyrie",
+          "picks": 74482,
+          "pickRate": 2.36,
+          "winRate": 56.3,
+          "kd": 1.07
+        },
+        {
+          "name": "kaid",
+          "picks": 74180,
+          "pickRate": 2.35,
+          "winRate": 54.8,
+          "kd": 0.9
+        },
+        {
+          "name": "lesion",
+          "picks": 70746,
+          "pickRate": 2.24,
+          "winRate": 56.3,
+          "kd": 0.98
+        },
+        {
+          "name": "vigil",
+          "picks": 62317,
+          "pickRate": 1.98,
+          "winRate": 54.9,
+          "kd": 1.07
+        },
+        {
+          "name": "tubarao",
+          "picks": 57564,
+          "pickRate": 1.82,
+          "winRate": 55.4,
+          "kd": 1.1
+        },
+        {
+          "name": "castle",
+          "picks": 53332,
+          "pickRate": 1.69,
+          "winRate": 54.3,
+          "kd": 0.84
+        },
+        {
+          "name": "smoke",
+          "picks": 51153,
+          "pickRate": 1.62,
+          "winRate": 53.9,
+          "kd": 0.85
+        },
+        {
+          "name": "warden",
+          "picks": 50586,
+          "pickRate": 1.6,
+          "winRate": 55.0,
+          "kd": 1.03
+        },
+        {
+          "name": "melusi",
+          "picks": 49990,
+          "pickRate": 1.58,
+          "winRate": 56.2,
+          "kd": 0.95
+        },
+        {
+          "name": "fenrir",
+          "picks": 42926,
+          "pickRate": 1.36,
+          "winRate": 55.2,
+          "kd": 0.94
+        },
+        {
+          "name": "doc",
+          "picks": 41694,
+          "pickRate": 1.32,
+          "winRate": 54.9,
+          "kd": 0.88
+        },
+        {
+          "name": "kapkan",
+          "picks": 41241,
+          "pickRate": 1.31,
+          "winRate": 58.0,
+          "kd": 1.16
+        },
+        {
+          "name": "jager",
+          "picks": 39607,
+          "pickRate": 1.26,
+          "winRate": 54.1,
+          "kd": 0.9
+        },
+        {
+          "name": "goyo",
+          "picks": 38778,
+          "pickRate": 1.23,
+          "winRate": 53.6,
+          "kd": 0.91
+        },
+        {
+          "name": "ela",
+          "picks": 32430,
+          "pickRate": 1.03,
+          "winRate": 56.0,
+          "kd": 1.0
+        }
+      ]
+    },
+    "Silver": {
+      "totalRounds": 2588448,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 98201,
+          "pickRate": 3.79,
+          "winRate": 44.6,
+          "kd": 0.99
+        },
+        {
+          "name": "twitch",
+          "picks": 69371,
+          "pickRate": 2.68,
+          "winRate": 44.6,
+          "kd": 0.97
+        },
+        {
+          "name": "thermite",
+          "picks": 68494,
+          "pickRate": 2.65,
+          "winRate": 44.2,
+          "kd": 0.78
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 65306,
+          "pickRate": 2.52,
+          "winRate": 44.0,
+          "kd": 0.84
+        },
+        {
+          "name": "buck",
+          "picks": 62866,
+          "pickRate": 2.43,
+          "winRate": 43.2,
+          "kd": 0.84
+        },
+        {
+          "name": "solid-snake",
+          "picks": 59591,
+          "pickRate": 2.3,
+          "winRate": 42.3,
+          "kd": 0.78
+        },
+        {
+          "name": "nomad",
+          "picks": 56957,
+          "pickRate": 2.2,
+          "winRate": 43.9,
+          "kd": 0.87
+        },
+        {
+          "name": "hibana",
+          "picks": 48797,
+          "pickRate": 1.89,
+          "winRate": 43.4,
+          "kd": 0.88
+        },
+        {
+          "name": "lion",
+          "picks": 48640,
+          "pickRate": 1.88,
+          "winRate": 43.8,
+          "kd": 0.77
+        },
+        {
+          "name": "grim",
+          "picks": 47524,
+          "pickRate": 1.84,
+          "winRate": 43.0,
+          "kd": 0.77
+        },
+        {
+          "name": "brava",
+          "picks": 44010,
+          "pickRate": 1.7,
+          "winRate": 43.9,
+          "kd": 0.9
+        },
+        {
+          "name": "thatcher",
+          "picks": 41072,
+          "pickRate": 1.59,
+          "winRate": 44.1,
+          "kd": 0.84
+        },
+        {
+          "name": "finka",
+          "picks": 33051,
+          "pickRate": 1.28,
+          "winRate": 45.2,
+          "kd": 0.85
+        },
+        {
+          "name": "fuze",
+          "picks": 32557,
+          "pickRate": 1.26,
+          "winRate": 44.0,
+          "kd": 0.86
+        },
+        {
+          "name": "ace",
+          "picks": 30599,
+          "pickRate": 1.18,
+          "winRate": 44.9,
+          "kd": 0.93
+        },
+        {
+          "name": "striker",
+          "picks": 29756,
+          "pickRate": 1.15,
+          "winRate": 44.2,
+          "kd": 0.95
+        },
+        {
+          "name": "sledge",
+          "picks": 28090,
+          "pickRate": 1.09,
+          "winRate": 43.1,
+          "kd": 0.87
+        },
+        {
+          "name": "osa",
+          "picks": 27328,
+          "pickRate": 1.06,
+          "winRate": 44.9,
+          "kd": 0.84
+        },
+        {
+          "name": "blackbeard",
+          "picks": 25440,
+          "pickRate": 0.98,
+          "winRate": 43.5,
+          "kd": 0.69
+        },
+        {
+          "name": "iq",
+          "picks": 25291,
+          "pickRate": 0.98,
+          "winRate": 43.7,
+          "kd": 0.97
+        }
+      ],
+      "defenders": [
+        {
+          "name": "aruni",
+          "picks": 85029,
+          "pickRate": 3.28,
+          "winRate": 56.3,
+          "kd": 1.14
+        },
+        {
+          "name": "thorn",
+          "picks": 84363,
+          "pickRate": 3.26,
+          "winRate": 56.5,
+          "kd": 0.97
+        },
+        {
+          "name": "mute",
+          "picks": 83682,
+          "pickRate": 3.23,
+          "winRate": 54.4,
+          "kd": 0.86
+        },
+        {
+          "name": "azami",
+          "picks": 66426,
+          "pickRate": 2.57,
+          "winRate": 54.5,
+          "kd": 0.95
+        },
+        {
+          "name": "bandit",
+          "picks": 64348,
+          "pickRate": 2.49,
+          "winRate": 55.0,
+          "kd": 0.91
+        },
+        {
+          "name": "lesion",
+          "picks": 61988,
+          "pickRate": 2.39,
+          "winRate": 55.7,
+          "kd": 0.96
+        },
+        {
+          "name": "valkyrie",
+          "picks": 61285,
+          "pickRate": 2.37,
+          "winRate": 55.3,
+          "kd": 1.02
+        },
+        {
+          "name": "kaid",
+          "picks": 60520,
+          "pickRate": 2.34,
+          "winRate": 54.9,
+          "kd": 0.87
+        },
+        {
+          "name": "vigil",
+          "picks": 48961,
+          "pickRate": 1.89,
+          "winRate": 54.3,
+          "kd": 1.04
+        },
+        {
+          "name": "castle",
+          "picks": 45060,
+          "pickRate": 1.74,
+          "winRate": 53.6,
+          "kd": 0.79
+        },
+        {
+          "name": "smoke",
+          "picks": 42615,
+          "pickRate": 1.65,
+          "winRate": 54.1,
+          "kd": 0.83
+        },
+        {
+          "name": "tubarao",
+          "picks": 42566,
+          "pickRate": 1.64,
+          "winRate": 54.8,
+          "kd": 1.06
+        },
+        {
+          "name": "melusi",
+          "picks": 41322,
+          "pickRate": 1.6,
+          "winRate": 55.5,
+          "kd": 0.89
+        },
+        {
+          "name": "warden",
+          "picks": 39909,
+          "pickRate": 1.54,
+          "winRate": 54.1,
+          "kd": 1.0
+        },
+        {
+          "name": "doc",
+          "picks": 37798,
+          "pickRate": 1.46,
+          "winRate": 55.0,
+          "kd": 0.84
+        },
+        {
+          "name": "kapkan",
+          "picks": 36337,
+          "pickRate": 1.4,
+          "winRate": 57.4,
+          "kd": 1.09
+        },
+        {
+          "name": "fenrir",
+          "picks": 35315,
+          "pickRate": 1.36,
+          "winRate": 54.5,
+          "kd": 0.87
+        },
+        {
+          "name": "jager",
+          "picks": 34176,
+          "pickRate": 1.32,
+          "winRate": 53.7,
+          "kd": 0.86
+        },
+        {
+          "name": "goyo",
+          "picks": 33137,
+          "pickRate": 1.28,
+          "winRate": 53.4,
+          "kd": 0.87
+        },
+        {
+          "name": "ela",
+          "picks": 27840,
+          "pickRate": 1.08,
+          "winRate": 56.4,
+          "kd": 0.99
+        }
+      ]
+    },
+    "Bronze": {
+      "totalRounds": 1995285,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 78615,
+          "pickRate": 3.94,
+          "winRate": 44.2,
+          "kd": 0.96
+        },
+        {
+          "name": "twitch",
+          "picks": 54446,
+          "pickRate": 2.73,
+          "winRate": 43.9,
+          "kd": 0.95
+        },
+        {
+          "name": "thermite",
+          "picks": 50729,
+          "pickRate": 2.54,
+          "winRate": 44.0,
+          "kd": 0.76
+        },
+        {
+          "name": "buck",
+          "picks": 50356,
+          "pickRate": 2.52,
+          "winRate": 42.8,
+          "kd": 0.81
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 49387,
+          "pickRate": 2.48,
+          "winRate": 43.6,
+          "kd": 0.8
+        },
+        {
+          "name": "nomad",
+          "picks": 42432,
+          "pickRate": 2.13,
+          "winRate": 43.5,
+          "kd": 0.84
+        },
+        {
+          "name": "solid-snake",
+          "picks": 41755,
+          "pickRate": 2.09,
+          "winRate": 42.1,
+          "kd": 0.74
+        },
+        {
+          "name": "lion",
+          "picks": 40476,
+          "pickRate": 2.03,
+          "winRate": 43.1,
+          "kd": 0.72
+        },
+        {
+          "name": "hibana",
+          "picks": 36713,
+          "pickRate": 1.84,
+          "winRate": 43.2,
+          "kd": 0.85
+        },
+        {
+          "name": "grim",
+          "picks": 33634,
+          "pickRate": 1.69,
+          "winRate": 43.1,
+          "kd": 0.75
+        },
+        {
+          "name": "brava",
+          "picks": 31363,
+          "pickRate": 1.57,
+          "winRate": 43.5,
+          "kd": 0.85
+        },
+        {
+          "name": "thatcher",
+          "picks": 30795,
+          "pickRate": 1.54,
+          "winRate": 43.7,
+          "kd": 0.8
+        },
+        {
+          "name": "finka",
+          "picks": 27947,
+          "pickRate": 1.4,
+          "winRate": 44.3,
+          "kd": 0.8
+        },
+        {
+          "name": "fuze",
+          "picks": 25767,
+          "pickRate": 1.29,
+          "winRate": 43.0,
+          "kd": 0.8
+        },
+        {
+          "name": "ace",
+          "picks": 23460,
+          "pickRate": 1.18,
+          "winRate": 44.3,
+          "kd": 0.92
+        },
+        {
+          "name": "sledge",
+          "picks": 23342,
+          "pickRate": 1.17,
+          "winRate": 43.4,
+          "kd": 0.84
+        },
+        {
+          "name": "striker",
+          "picks": 20987,
+          "pickRate": 1.05,
+          "winRate": 43.4,
+          "kd": 0.92
+        },
+        {
+          "name": "osa",
+          "picks": 20684,
+          "pickRate": 1.04,
+          "winRate": 44.0,
+          "kd": 0.8
+        },
+        {
+          "name": "iq",
+          "picks": 20100,
+          "pickRate": 1.01,
+          "winRate": 43.5,
+          "kd": 0.94
+        },
+        {
+          "name": "blackbeard",
+          "picks": 19704,
+          "pickRate": 0.99,
+          "winRate": 43.6,
+          "kd": 0.67
+        }
+      ],
+      "defenders": [
+        {
+          "name": "thorn",
+          "picks": 64070,
+          "pickRate": 3.21,
+          "winRate": 56.1,
+          "kd": 0.9
+        },
+        {
+          "name": "mute",
+          "picks": 62892,
+          "pickRate": 3.15,
+          "winRate": 54.0,
+          "kd": 0.83
+        },
+        {
+          "name": "aruni",
+          "picks": 59726,
+          "pickRate": 2.99,
+          "winRate": 56.2,
+          "kd": 1.09
+        },
+        {
+          "name": "lesion",
+          "picks": 51105,
+          "pickRate": 2.56,
+          "winRate": 55.5,
+          "kd": 0.93
+        },
+        {
+          "name": "azami",
+          "picks": 49247,
+          "pickRate": 2.47,
+          "winRate": 54.2,
+          "kd": 0.92
+        },
+        {
+          "name": "bandit",
+          "picks": 48349,
+          "pickRate": 2.42,
+          "winRate": 54.3,
+          "kd": 0.87
+        },
+        {
+          "name": "valkyrie",
+          "picks": 47502,
+          "pickRate": 2.38,
+          "winRate": 55.1,
+          "kd": 0.97
+        },
+        {
+          "name": "kaid",
+          "picks": 44115,
+          "pickRate": 2.21,
+          "winRate": 54.4,
+          "kd": 0.82
+        },
+        {
+          "name": "vigil",
+          "picks": 36817,
+          "pickRate": 1.85,
+          "winRate": 54.0,
+          "kd": 1.01
+        },
+        {
+          "name": "castle",
+          "picks": 35067,
+          "pickRate": 1.76,
+          "winRate": 53.5,
+          "kd": 0.75
+        },
+        {
+          "name": "doc",
+          "picks": 33722,
+          "pickRate": 1.69,
+          "winRate": 54.2,
+          "kd": 0.8
+        },
+        {
+          "name": "smoke",
+          "picks": 33540,
+          "pickRate": 1.68,
+          "winRate": 53.3,
+          "kd": 0.8
+        },
+        {
+          "name": "warden",
+          "picks": 32312,
+          "pickRate": 1.62,
+          "winRate": 53.8,
+          "kd": 0.98
+        },
+        {
+          "name": "melusi",
+          "picks": 31255,
+          "pickRate": 1.57,
+          "winRate": 55.8,
+          "kd": 0.86
+        },
+        {
+          "name": "tubarao",
+          "picks": 29918,
+          "pickRate": 1.5,
+          "winRate": 54.4,
+          "kd": 1.02
+        },
+        {
+          "name": "kapkan",
+          "picks": 29576,
+          "pickRate": 1.48,
+          "winRate": 57.1,
+          "kd": 1.04
+        },
+        {
+          "name": "jager",
+          "picks": 27606,
+          "pickRate": 1.38,
+          "winRate": 53.5,
+          "kd": 0.84
+        },
+        {
+          "name": "fenrir",
+          "picks": 26789,
+          "pickRate": 1.34,
+          "winRate": 54.5,
+          "kd": 0.83
+        },
+        {
+          "name": "goyo",
+          "picks": 26478,
+          "pickRate": 1.33,
+          "winRate": 53.1,
+          "kd": 0.85
+        },
+        {
+          "name": "ela",
+          "picks": 22108,
+          "pickRate": 1.11,
+          "winRate": 55.6,
+          "kd": 0.95
+        }
+      ]
+    },
+    "Copper": {
+      "totalRounds": 1556680,
+      "attackers": [
+        {
+          "name": "ash",
+          "picks": 68033,
+          "pickRate": 4.37,
+          "winRate": 41.4,
+          "kd": 0.89
+        },
+        {
+          "name": "buck",
+          "picks": 43190,
+          "pickRate": 2.77,
+          "winRate": 40.5,
+          "kd": 0.73
+        },
+        {
+          "name": "twitch",
+          "picks": 43058,
+          "pickRate": 2.77,
+          "winRate": 41.6,
+          "kd": 0.9
+        },
+        {
+          "name": "thermite",
+          "picks": 36447,
+          "pickRate": 2.34,
+          "winRate": 41.9,
+          "kd": 0.69
+        },
+        {
+          "name": "dokkaebi",
+          "picks": 35902,
+          "pickRate": 2.31,
+          "winRate": 41.1,
+          "kd": 0.77
+        },
+        {
+          "name": "lion",
+          "picks": 33835,
+          "pickRate": 2.17,
+          "winRate": 40.8,
+          "kd": 0.63
+        },
+        {
+          "name": "nomad",
+          "picks": 32975,
+          "pickRate": 2.12,
+          "winRate": 41.2,
+          "kd": 0.78
+        },
+        {
+          "name": "hibana",
+          "picks": 27761,
+          "pickRate": 1.78,
+          "winRate": 40.9,
+          "kd": 0.78
+        },
+        {
+          "name": "solid-snake",
+          "picks": 27261,
+          "pickRate": 1.75,
+          "winRate": 40.0,
+          "kd": 0.69
+        },
+        {
+          "name": "finka",
+          "picks": 24764,
+          "pickRate": 1.59,
+          "winRate": 42.2,
+          "kd": 0.71
+        },
+        {
+          "name": "grim",
+          "picks": 24000,
+          "pickRate": 1.54,
+          "winRate": 40.3,
+          "kd": 0.71
+        },
+        {
+          "name": "thatcher",
+          "picks": 22299,
+          "pickRate": 1.43,
+          "winRate": 41.3,
+          "kd": 0.74
+        },
+        {
+          "name": "brava",
+          "picks": 21326,
+          "pickRate": 1.37,
+          "winRate": 41.6,
+          "kd": 0.81
+        },
+        {
+          "name": "sledge",
+          "picks": 20631,
+          "pickRate": 1.33,
+          "winRate": 40.5,
+          "kd": 0.76
+        },
+        {
+          "name": "fuze",
+          "picks": 20047,
+          "pickRate": 1.29,
+          "winRate": 41.6,
+          "kd": 0.72
+        },
+        {
+          "name": "ace",
+          "picks": 18147,
+          "pickRate": 1.17,
+          "winRate": 42.3,
+          "kd": 0.85
+        },
+        {
+          "name": "iq",
+          "picks": 18014,
+          "pickRate": 1.16,
+          "winRate": 40.8,
+          "kd": 0.87
+        },
+        {
+          "name": "striker",
+          "picks": 15493,
+          "pickRate": 1.0,
+          "winRate": 41.5,
+          "kd": 0.89
+        },
+        {
+          "name": "deimos",
+          "picks": 15306,
+          "pickRate": 0.98,
+          "winRate": 40.1,
+          "kd": 0.71
+        },
+        {
+          "name": "iana",
+          "picks": 15250,
+          "pickRate": 0.98,
+          "winRate": 41.2,
+          "kd": 0.78
+        }
+      ],
+      "defenders": [
+        {
+          "name": "mute",
+          "picks": 46605,
+          "pickRate": 2.99,
+          "winRate": 51.5,
+          "kd": 0.76
+        },
+        {
+          "name": "lesion",
+          "picks": 44760,
+          "pickRate": 2.88,
+          "winRate": 53.0,
+          "kd": 0.85
+        },
+        {
+          "name": "aruni",
+          "picks": 41575,
+          "pickRate": 2.67,
+          "winRate": 53.9,
+          "kd": 1.03
+        },
+        {
+          "name": "thorn",
+          "picks": 41332,
+          "pickRate": 2.66,
+          "winRate": 53.3,
+          "kd": 0.82
+        },
+        {
+          "name": "valkyrie",
+          "picks": 37540,
+          "pickRate": 2.41,
+          "winRate": 52.4,
+          "kd": 0.88
+        },
+        {
+          "name": "azami",
+          "picks": 36483,
+          "pickRate": 2.34,
+          "winRate": 52.1,
+          "kd": 0.86
+        },
+        {
+          "name": "bandit",
+          "picks": 35444,
+          "pickRate": 2.28,
+          "winRate": 52.4,
+          "kd": 0.82
+        },
+        {
+          "name": "doc",
+          "picks": 31600,
+          "pickRate": 2.03,
+          "winRate": 51.8,
+          "kd": 0.71
+        },
+        {
+          "name": "kaid",
+          "picks": 30881,
+          "pickRate": 1.98,
+          "winRate": 52.1,
+          "kd": 0.75
+        },
+        {
+          "name": "vigil",
+          "picks": 30369,
+          "pickRate": 1.95,
+          "winRate": 52.0,
+          "kd": 0.94
+        },
+        {
+          "name": "warden",
+          "picks": 27435,
+          "pickRate": 1.76,
+          "winRate": 51.3,
+          "kd": 0.9
+        },
+        {
+          "name": "castle",
+          "picks": 26976,
+          "pickRate": 1.73,
+          "winRate": 51.1,
+          "kd": 0.68
+        },
+        {
+          "name": "smoke",
+          "picks": 26393,
+          "pickRate": 1.7,
+          "winRate": 51.6,
+          "kd": 0.75
+        },
+        {
+          "name": "kapkan",
+          "picks": 24850,
+          "pickRate": 1.6,
+          "winRate": 54.4,
+          "kd": 0.9
+        },
+        {
+          "name": "jager",
+          "picks": 23731,
+          "pickRate": 1.52,
+          "winRate": 50.9,
+          "kd": 0.76
+        },
+        {
+          "name": "melusi",
+          "picks": 23667,
+          "pickRate": 1.52,
+          "winRate": 53.4,
+          "kd": 0.82
+        },
+        {
+          "name": "tubarao",
+          "picks": 21125,
+          "pickRate": 1.36,
+          "winRate": 52.3,
+          "kd": 0.97
+        },
+        {
+          "name": "goyo",
+          "picks": 20600,
+          "pickRate": 1.32,
+          "winRate": 50.4,
+          "kd": 0.79
+        },
+        {
+          "name": "fenrir",
+          "picks": 20178,
+          "pickRate": 1.3,
+          "winRate": 52.3,
+          "kd": 0.79
+        },
+        {
+          "name": "ela",
+          "picks": 18503,
+          "pickRate": 1.19,
+          "winRate": 53.0,
+          "kd": 0.85
+        }
+      ]
+    }
+  },
+  "rankMapMeta": {
+    "Champion": {
+      "kafe-dostoyevsky": {
+        "totalRounds": 1165,
+        "atkWinRate": 72.7,
+        "defWinRate": 80.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 68,
+            "pickRate": 5.84,
+            "winRate": 77.9,
+            "kd": 1.95
+          },
+          {
+            "name": "twitch",
+            "picks": 37,
+            "pickRate": 3.18,
+            "winRate": 64.9,
+            "kd": 1.26
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 35,
+            "pickRate": 3.0,
+            "winRate": 68.6,
+            "kd": 1.62
+          },
+          {
+            "name": "solid-snake",
+            "picks": 34,
+            "pickRate": 2.92,
+            "winRate": 67.6,
+            "kd": 1.17
+          },
+          {
+            "name": "lion",
+            "picks": 32,
+            "pickRate": 2.75,
+            "winRate": 78.1,
+            "kd": 1.3
+          },
+          {
+            "name": "sledge",
+            "picks": 30,
+            "pickRate": 2.58,
+            "winRate": 76.7,
+            "kd": 1.31
+          },
+          {
+            "name": "gridlock",
+            "picks": 28,
+            "pickRate": 2.4,
+            "winRate": 75.0,
+            "kd": 1.25
+          },
+          {
+            "name": "deimos",
+            "picks": 25,
+            "pickRate": 2.15,
+            "winRate": 84.0,
+            "kd": 0.79
+          },
+          {
+            "name": "nomad",
+            "picks": 25,
+            "pickRate": 2.15,
+            "winRate": 72.0,
+            "kd": 2.0
+          },
+          {
+            "name": "striker",
+            "picks": 24,
+            "pickRate": 2.06,
+            "winRate": 66.7,
+            "kd": 1.57
+          },
+          {
+            "name": "grim",
+            "picks": 24,
+            "pickRate": 2.06,
+            "winRate": 66.7,
+            "kd": 2.18
+          },
+          {
+            "name": "iq",
+            "picks": 19,
+            "pickRate": 1.63,
+            "winRate": 84.2,
+            "kd": 3.14
+          },
+          {
+            "name": "buck",
+            "picks": 19,
+            "pickRate": 1.63,
+            "winRate": 73.7,
+            "kd": 2.09
+          },
+          {
+            "name": "glaz",
+            "picks": 16,
+            "pickRate": 1.37,
+            "winRate": 75.0,
+            "kd": 5.4
+          },
+          {
+            "name": "blackbeard",
+            "picks": 15,
+            "pickRate": 1.29,
+            "winRate": 46.7,
+            "kd": 0.45
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 61,
+            "pickRate": 5.24,
+            "winRate": 78.7,
+            "kd": 1.18
+          },
+          {
+            "name": "aruni",
+            "picks": 57,
+            "pickRate": 4.89,
+            "winRate": 82.5,
+            "kd": 2.28
+          },
+          {
+            "name": "valkyrie",
+            "picks": 45,
+            "pickRate": 3.86,
+            "winRate": 80.0,
+            "kd": 2.4
+          },
+          {
+            "name": "azami",
+            "picks": 42,
+            "pickRate": 3.61,
+            "winRate": 78.6,
+            "kd": 1.5
+          },
+          {
+            "name": "solis",
+            "picks": 31,
+            "pickRate": 2.66,
+            "winRate": 74.2,
+            "kd": 1.88
+          },
+          {
+            "name": "warden",
+            "picks": 29,
+            "pickRate": 2.49,
+            "winRate": 72.4,
+            "kd": 0.8
+          },
+          {
+            "name": "vigil",
+            "picks": 29,
+            "pickRate": 2.49,
+            "winRate": 82.8,
+            "kd": 1.3
+          },
+          {
+            "name": "goyo",
+            "picks": 27,
+            "pickRate": 2.32,
+            "winRate": 77.8,
+            "kd": 0.95
+          },
+          {
+            "name": "skopos",
+            "picks": 25,
+            "pickRate": 2.15,
+            "winRate": 92.0,
+            "kd": 3.1
+          },
+          {
+            "name": "tubarao",
+            "picks": 22,
+            "pickRate": 1.89,
+            "winRate": 90.9,
+            "kd": 1.77
+          },
+          {
+            "name": "lesion",
+            "picks": 20,
+            "pickRate": 1.72,
+            "winRate": 75.0,
+            "kd": 0.87
+          },
+          {
+            "name": "thorn",
+            "picks": 19,
+            "pickRate": 1.63,
+            "winRate": 89.5,
+            "kd": 1.78
+          },
+          {
+            "name": "ela",
+            "picks": 19,
+            "pickRate": 1.63,
+            "winRate": 84.2,
+            "kd": 1.5
+          },
+          {
+            "name": "smoke",
+            "picks": 17,
+            "pickRate": 1.46,
+            "winRate": 94.1,
+            "kd": 3.0
+          },
+          {
+            "name": "melusi",
+            "picks": 17,
+            "pickRate": 1.46,
+            "winRate": 76.5,
+            "kd": 1.22
+          }
+        ]
+      },
+      "villa": {
+        "totalRounds": 747,
+        "atkWinRate": 66.6,
+        "defWinRate": 79.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 42,
+            "pickRate": 5.62,
+            "winRate": 61.9,
+            "kd": 1.9
+          },
+          {
+            "name": "solid-snake",
+            "picks": 38,
+            "pickRate": 5.09,
+            "winRate": 68.4,
+            "kd": 1.67
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 30,
+            "pickRate": 4.02,
+            "winRate": 66.7,
+            "kd": 0.95
+          },
+          {
+            "name": "twitch",
+            "picks": 26,
+            "pickRate": 3.48,
+            "winRate": 57.7,
+            "kd": 1.13
+          },
+          {
+            "name": "gridlock",
+            "picks": 24,
+            "pickRate": 3.21,
+            "winRate": 58.3,
+            "kd": 1.0
+          },
+          {
+            "name": "grim",
+            "picks": 23,
+            "pickRate": 3.08,
+            "winRate": 56.5,
+            "kd": 1.31
+          },
+          {
+            "name": "hibana",
+            "picks": 22,
+            "pickRate": 2.95,
+            "winRate": 72.7,
+            "kd": 2.22
+          },
+          {
+            "name": "deimos",
+            "picks": 18,
+            "pickRate": 2.41,
+            "winRate": 72.2,
+            "kd": 1.55
+          },
+          {
+            "name": "sledge",
+            "picks": 16,
+            "pickRate": 2.14,
+            "winRate": 50.0,
+            "kd": 1.6
+          },
+          {
+            "name": "striker",
+            "picks": 16,
+            "pickRate": 2.14,
+            "winRate": 62.5,
+            "kd": 0.5
+          },
+          {
+            "name": "lion",
+            "picks": 15,
+            "pickRate": 2.01,
+            "winRate": 73.3,
+            "kd": 1.78
+          },
+          {
+            "name": "buck",
+            "picks": 15,
+            "pickRate": 2.01,
+            "winRate": 93.3,
+            "kd": 2.17
+          },
+          {
+            "name": "iq",
+            "picks": 14,
+            "pickRate": 1.87,
+            "winRate": 71.4,
+            "kd": 1.44
+          },
+          {
+            "name": "flores",
+            "picks": 14,
+            "pickRate": 1.87,
+            "winRate": 85.7,
+            "kd": 2.11
+          },
+          {
+            "name": "nomad",
+            "picks": 11,
+            "pickRate": 1.47,
+            "winRate": 72.7,
+            "kd": 1.6
+          }
+        ],
+        "defenders": [
+          {
+            "name": "warden",
+            "picks": 38,
+            "pickRate": 5.09,
+            "winRate": 73.7,
+            "kd": 2.0
+          },
+          {
+            "name": "mute",
+            "picks": 23,
+            "pickRate": 3.08,
+            "winRate": 78.3,
+            "kd": 0.92
+          },
+          {
+            "name": "azami",
+            "picks": 21,
+            "pickRate": 2.81,
+            "winRate": 81.0,
+            "kd": 2.18
+          },
+          {
+            "name": "aruni",
+            "picks": 20,
+            "pickRate": 2.68,
+            "winRate": 65.0,
+            "kd": 2.45
+          },
+          {
+            "name": "kaid",
+            "picks": 17,
+            "pickRate": 2.28,
+            "winRate": 70.6,
+            "kd": 1.18
+          },
+          {
+            "name": "valkyrie",
+            "picks": 16,
+            "pickRate": 2.14,
+            "winRate": 81.2,
+            "kd": 2.29
+          },
+          {
+            "name": "thorn",
+            "picks": 15,
+            "pickRate": 2.01,
+            "winRate": 86.7,
+            "kd": 2.86
+          },
+          {
+            "name": "vigil",
+            "picks": 14,
+            "pickRate": 1.87,
+            "winRate": 78.6,
+            "kd": 1.75
+          },
+          {
+            "name": "ela",
+            "picks": 14,
+            "pickRate": 1.87,
+            "winRate": 92.9,
+            "kd": 1.71
+          },
+          {
+            "name": "solis",
+            "picks": 14,
+            "pickRate": 1.87,
+            "winRate": 78.6,
+            "kd": 2.62
+          },
+          {
+            "name": "jager",
+            "picks": 13,
+            "pickRate": 1.74,
+            "winRate": 84.6,
+            "kd": 1.71
+          },
+          {
+            "name": "smoke",
+            "picks": 13,
+            "pickRate": 1.74,
+            "winRate": 84.6,
+            "kd": 2.33
+          },
+          {
+            "name": "lesion",
+            "picks": 12,
+            "pickRate": 1.61,
+            "winRate": 75.0,
+            "kd": 0.7
+          },
+          {
+            "name": "caveira",
+            "picks": 12,
+            "pickRate": 1.61,
+            "winRate": 91.7,
+            "kd": 1.33
+          },
+          {
+            "name": "mozzie",
+            "picks": 12,
+            "pickRate": 1.61,
+            "winRate": 83.3,
+            "kd": 2.0
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 896,
+        "atkWinRate": 75.1,
+        "defWinRate": 73.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 40,
+            "pickRate": 4.46,
+            "winRate": 90.0,
+            "kd": 2.33
+          },
+          {
+            "name": "capitao",
+            "picks": 35,
+            "pickRate": 3.91,
+            "winRate": 65.7,
+            "kd": 0.83
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 34,
+            "pickRate": 3.79,
+            "winRate": 88.2,
+            "kd": 2.53
+          },
+          {
+            "name": "twitch",
+            "picks": 28,
+            "pickRate": 3.12,
+            "winRate": 82.1,
+            "kd": 1.35
+          },
+          {
+            "name": "grim",
+            "picks": 27,
+            "pickRate": 3.01,
+            "winRate": 63.0,
+            "kd": 1.05
+          },
+          {
+            "name": "glaz",
+            "picks": 26,
+            "pickRate": 2.9,
+            "winRate": 53.8,
+            "kd": 1.15
+          },
+          {
+            "name": "lion",
+            "picks": 26,
+            "pickRate": 2.9,
+            "winRate": 76.9,
+            "kd": 3.3
+          },
+          {
+            "name": "montagne",
+            "picks": 22,
+            "pickRate": 2.46,
+            "winRate": 68.2,
+            "kd": 0.38
+          },
+          {
+            "name": "thermite",
+            "picks": 20,
+            "pickRate": 2.23,
+            "winRate": 70.0,
+            "kd": 1.08
+          },
+          {
+            "name": "nomad",
+            "picks": 19,
+            "pickRate": 2.12,
+            "winRate": 78.9,
+            "kd": 2.5
+          },
+          {
+            "name": "hibana",
+            "picks": 19,
+            "pickRate": 2.12,
+            "winRate": 89.5,
+            "kd": 3.0
+          },
+          {
+            "name": "striker",
+            "picks": 19,
+            "pickRate": 2.12,
+            "winRate": 84.2,
+            "kd": 1.7
+          },
+          {
+            "name": "solid-snake",
+            "picks": 17,
+            "pickRate": 1.9,
+            "winRate": 76.5,
+            "kd": 0.83
+          },
+          {
+            "name": "thatcher",
+            "picks": 15,
+            "pickRate": 1.67,
+            "winRate": 60.0,
+            "kd": 1.43
+          },
+          {
+            "name": "deimos",
+            "picks": 12,
+            "pickRate": 1.34,
+            "winRate": 66.7,
+            "kd": 1.11
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 53,
+            "pickRate": 5.92,
+            "winRate": 77.4,
+            "kd": 2.08
+          },
+          {
+            "name": "goyo",
+            "picks": 38,
+            "pickRate": 4.24,
+            "winRate": 81.6,
+            "kd": 2.4
+          },
+          {
+            "name": "valkyrie",
+            "picks": 29,
+            "pickRate": 3.24,
+            "winRate": 65.5,
+            "kd": 1.22
+          },
+          {
+            "name": "solis",
+            "picks": 26,
+            "pickRate": 2.9,
+            "winRate": 65.4,
+            "kd": 2.4
+          },
+          {
+            "name": "smoke",
+            "picks": 26,
+            "pickRate": 2.9,
+            "winRate": 69.2,
+            "kd": 1.27
+          },
+          {
+            "name": "azami",
+            "picks": 21,
+            "pickRate": 2.34,
+            "winRate": 81.0,
+            "kd": 2.0
+          },
+          {
+            "name": "kaid",
+            "picks": 21,
+            "pickRate": 2.34,
+            "winRate": 76.2,
+            "kd": 2.25
+          },
+          {
+            "name": "tubarao",
+            "picks": 21,
+            "pickRate": 2.34,
+            "winRate": 71.4,
+            "kd": 1.55
+          },
+          {
+            "name": "vigil",
+            "picks": 20,
+            "pickRate": 2.23,
+            "winRate": 85.0,
+            "kd": 1.75
+          },
+          {
+            "name": "warden",
+            "picks": 20,
+            "pickRate": 2.23,
+            "winRate": 50.0,
+            "kd": 1.33
+          },
+          {
+            "name": "castle",
+            "picks": 16,
+            "pickRate": 1.79,
+            "winRate": 75.0,
+            "kd": 1.88
+          },
+          {
+            "name": "mute",
+            "picks": 15,
+            "pickRate": 1.67,
+            "winRate": 73.3,
+            "kd": 0.56
+          },
+          {
+            "name": "skopos",
+            "picks": 12,
+            "pickRate": 1.34,
+            "winRate": 83.3,
+            "kd": 1.29
+          },
+          {
+            "name": "wamai",
+            "picks": 11,
+            "pickRate": 1.23,
+            "winRate": 63.6,
+            "kd": 1.29
+          },
+          {
+            "name": "melusi",
+            "picks": 11,
+            "pickRate": 1.23,
+            "winRate": 72.7,
+            "kd": 0.71
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 1586,
+        "atkWinRate": 73.0,
+        "defWinRate": 79.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 91,
+            "pickRate": 5.74,
+            "winRate": 75.8,
+            "kd": 1.64
+          },
+          {
+            "name": "thermite",
+            "picks": 64,
+            "pickRate": 4.04,
+            "winRate": 79.7,
+            "kd": 1.69
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 55,
+            "pickRate": 3.47,
+            "winRate": 69.1,
+            "kd": 1.7
+          },
+          {
+            "name": "grim",
+            "picks": 54,
+            "pickRate": 3.4,
+            "winRate": 63.0,
+            "kd": 2.21
+          },
+          {
+            "name": "nomad",
+            "picks": 53,
+            "pickRate": 3.34,
+            "winRate": 62.3,
+            "kd": 1.0
+          },
+          {
+            "name": "thatcher",
+            "picks": 51,
+            "pickRate": 3.22,
+            "winRate": 72.5,
+            "kd": 1.5
+          },
+          {
+            "name": "twitch",
+            "picks": 49,
+            "pickRate": 3.09,
+            "winRate": 81.6,
+            "kd": 2.11
+          },
+          {
+            "name": "solid-snake",
+            "picks": 37,
+            "pickRate": 2.33,
+            "winRate": 73.0,
+            "kd": 1.25
+          },
+          {
+            "name": "ace",
+            "picks": 34,
+            "pickRate": 2.14,
+            "winRate": 82.4,
+            "kd": 1.87
+          },
+          {
+            "name": "blitz",
+            "picks": 27,
+            "pickRate": 1.7,
+            "winRate": 85.2,
+            "kd": 1.73
+          },
+          {
+            "name": "iq",
+            "picks": 26,
+            "pickRate": 1.64,
+            "winRate": 76.9,
+            "kd": 1.93
+          },
+          {
+            "name": "glaz",
+            "picks": 26,
+            "pickRate": 1.64,
+            "winRate": 53.8,
+            "kd": 0.95
+          },
+          {
+            "name": "buck",
+            "picks": 25,
+            "pickRate": 1.58,
+            "winRate": 72.0,
+            "kd": 1.41
+          },
+          {
+            "name": "deimos",
+            "picks": 25,
+            "pickRate": 1.58,
+            "winRate": 64.0,
+            "kd": 1.11
+          },
+          {
+            "name": "blackbeard",
+            "picks": 22,
+            "pickRate": 1.39,
+            "winRate": 72.7,
+            "kd": 1.58
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 70,
+            "pickRate": 4.41,
+            "winRate": 75.7,
+            "kd": 1.46
+          },
+          {
+            "name": "tubarao",
+            "picks": 69,
+            "pickRate": 4.35,
+            "winRate": 84.1,
+            "kd": 2.34
+          },
+          {
+            "name": "azami",
+            "picks": 61,
+            "pickRate": 3.85,
+            "winRate": 80.3,
+            "kd": 1.22
+          },
+          {
+            "name": "mute",
+            "picks": 49,
+            "pickRate": 3.09,
+            "winRate": 81.6,
+            "kd": 1.96
+          },
+          {
+            "name": "warden",
+            "picks": 46,
+            "pickRate": 2.9,
+            "winRate": 78.3,
+            "kd": 1.3
+          },
+          {
+            "name": "vigil",
+            "picks": 43,
+            "pickRate": 2.71,
+            "winRate": 74.4,
+            "kd": 1.78
+          },
+          {
+            "name": "aruni",
+            "picks": 42,
+            "pickRate": 2.65,
+            "winRate": 78.6,
+            "kd": 2.38
+          },
+          {
+            "name": "ela",
+            "picks": 41,
+            "pickRate": 2.59,
+            "winRate": 78.0,
+            "kd": 3.05
+          },
+          {
+            "name": "kaid",
+            "picks": 40,
+            "pickRate": 2.52,
+            "winRate": 77.5,
+            "kd": 2.76
+          },
+          {
+            "name": "solis",
+            "picks": 39,
+            "pickRate": 2.46,
+            "winRate": 87.2,
+            "kd": 2.22
+          },
+          {
+            "name": "valkyrie",
+            "picks": 34,
+            "pickRate": 2.14,
+            "winRate": 70.6,
+            "kd": 1.61
+          },
+          {
+            "name": "fenrir",
+            "picks": 26,
+            "pickRate": 1.64,
+            "winRate": 92.3,
+            "kd": 1.21
+          },
+          {
+            "name": "melusi",
+            "picks": 25,
+            "pickRate": 1.58,
+            "winRate": 72.0,
+            "kd": 1.86
+          },
+          {
+            "name": "mira",
+            "picks": 23,
+            "pickRate": 1.45,
+            "winRate": 91.3,
+            "kd": 2.3
+          },
+          {
+            "name": "lesion",
+            "picks": 20,
+            "pickRate": 1.26,
+            "winRate": 70.0,
+            "kd": 1.23
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 1284,
+        "atkWinRate": 74.5,
+        "defWinRate": 70.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 68,
+            "pickRate": 5.3,
+            "winRate": 79.4,
+            "kd": 1.85
+          },
+          {
+            "name": "nomad",
+            "picks": 50,
+            "pickRate": 3.89,
+            "winRate": 74.0,
+            "kd": 1.92
+          },
+          {
+            "name": "twitch",
+            "picks": 50,
+            "pickRate": 3.89,
+            "winRate": 76.0,
+            "kd": 1.54
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 46,
+            "pickRate": 3.58,
+            "winRate": 71.7,
+            "kd": 1.36
+          },
+          {
+            "name": "iana",
+            "picks": 40,
+            "pickRate": 3.12,
+            "winRate": 87.5,
+            "kd": 2.0
+          },
+          {
+            "name": "buck",
+            "picks": 39,
+            "pickRate": 3.04,
+            "winRate": 76.9,
+            "kd": 1.46
+          },
+          {
+            "name": "lion",
+            "picks": 37,
+            "pickRate": 2.88,
+            "winRate": 70.3,
+            "kd": 1.32
+          },
+          {
+            "name": "deimos",
+            "picks": 28,
+            "pickRate": 2.18,
+            "winRate": 67.9,
+            "kd": 1.93
+          },
+          {
+            "name": "solid-snake",
+            "picks": 27,
+            "pickRate": 2.1,
+            "winRate": 74.1,
+            "kd": 1.33
+          },
+          {
+            "name": "ace",
+            "picks": 23,
+            "pickRate": 1.79,
+            "winRate": 73.9,
+            "kd": 2.12
+          },
+          {
+            "name": "iq",
+            "picks": 21,
+            "pickRate": 1.64,
+            "winRate": 81.0,
+            "kd": 1.67
+          },
+          {
+            "name": "striker",
+            "picks": 20,
+            "pickRate": 1.56,
+            "winRate": 90.0,
+            "kd": 3.0
+          },
+          {
+            "name": "osa",
+            "picks": 19,
+            "pickRate": 1.48,
+            "winRate": 73.7,
+            "kd": 0.69
+          },
+          {
+            "name": "glaz",
+            "picks": 17,
+            "pickRate": 1.32,
+            "winRate": 64.7,
+            "kd": 0.8
+          },
+          {
+            "name": "flores",
+            "picks": 17,
+            "pickRate": 1.32,
+            "winRate": 76.5,
+            "kd": 1.7
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 82,
+            "pickRate": 6.39,
+            "winRate": 73.2,
+            "kd": 1.83
+          },
+          {
+            "name": "tubarao",
+            "picks": 63,
+            "pickRate": 4.91,
+            "winRate": 71.4,
+            "kd": 2.11
+          },
+          {
+            "name": "azami",
+            "picks": 50,
+            "pickRate": 3.89,
+            "winRate": 68.0,
+            "kd": 1.32
+          },
+          {
+            "name": "valkyrie",
+            "picks": 45,
+            "pickRate": 3.5,
+            "winRate": 77.8,
+            "kd": 2.57
+          },
+          {
+            "name": "melusi",
+            "picks": 38,
+            "pickRate": 2.96,
+            "winRate": 81.6,
+            "kd": 1.85
+          },
+          {
+            "name": "bandit",
+            "picks": 35,
+            "pickRate": 2.73,
+            "winRate": 82.9,
+            "kd": 1.73
+          },
+          {
+            "name": "solis",
+            "picks": 31,
+            "pickRate": 2.41,
+            "winRate": 74.2,
+            "kd": 0.75
+          },
+          {
+            "name": "kaid",
+            "picks": 26,
+            "pickRate": 2.02,
+            "winRate": 69.2,
+            "kd": 1.39
+          },
+          {
+            "name": "vigil",
+            "picks": 24,
+            "pickRate": 1.87,
+            "winRate": 41.7,
+            "kd": 0.83
+          },
+          {
+            "name": "skopos",
+            "picks": 20,
+            "pickRate": 1.56,
+            "winRate": 60.0,
+            "kd": 0.86
+          },
+          {
+            "name": "goyo",
+            "picks": 19,
+            "pickRate": 1.48,
+            "winRate": 78.9,
+            "kd": 1.1
+          },
+          {
+            "name": "ela",
+            "picks": 17,
+            "pickRate": 1.32,
+            "winRate": 47.1,
+            "kd": 0.36
+          },
+          {
+            "name": "castle",
+            "picks": 16,
+            "pickRate": 1.25,
+            "winRate": 62.5,
+            "kd": 2.33
+          },
+          {
+            "name": "warden",
+            "picks": 16,
+            "pickRate": 1.25,
+            "winRate": 68.8,
+            "kd": 1.11
+          },
+          {
+            "name": "mute",
+            "picks": 15,
+            "pickRate": 1.17,
+            "winRate": 73.3,
+            "kd": 0.89
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 1826,
+        "atkWinRate": 62.7,
+        "defWinRate": 80.0,
+        "attackers": [
+          {
+            "name": "grim",
+            "picks": 83,
+            "pickRate": 4.55,
+            "winRate": 60.2,
+            "kd": 1.14
+          },
+          {
+            "name": "ash",
+            "picks": 83,
+            "pickRate": 4.55,
+            "winRate": 56.6,
+            "kd": 1.32
+          },
+          {
+            "name": "twitch",
+            "picks": 69,
+            "pickRate": 3.78,
+            "winRate": 60.9,
+            "kd": 1.36
+          },
+          {
+            "name": "nomad",
+            "picks": 66,
+            "pickRate": 3.61,
+            "winRate": 60.6,
+            "kd": 1.34
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 59,
+            "pickRate": 3.23,
+            "winRate": 62.7,
+            "kd": 1.31
+          },
+          {
+            "name": "lion",
+            "picks": 48,
+            "pickRate": 2.63,
+            "winRate": 62.5,
+            "kd": 1.45
+          },
+          {
+            "name": "solid-snake",
+            "picks": 44,
+            "pickRate": 2.41,
+            "winRate": 68.2,
+            "kd": 1.93
+          },
+          {
+            "name": "striker",
+            "picks": 39,
+            "pickRate": 2.14,
+            "winRate": 66.7,
+            "kd": 1.6
+          },
+          {
+            "name": "thermite",
+            "picks": 37,
+            "pickRate": 2.03,
+            "winRate": 56.8,
+            "kd": 0.85
+          },
+          {
+            "name": "blackbeard",
+            "picks": 36,
+            "pickRate": 1.97,
+            "winRate": 63.9,
+            "kd": 1.24
+          },
+          {
+            "name": "buck",
+            "picks": 34,
+            "pickRate": 1.86,
+            "winRate": 61.8,
+            "kd": 1.84
+          },
+          {
+            "name": "hibana",
+            "picks": 31,
+            "pickRate": 1.7,
+            "winRate": 54.8,
+            "kd": 1.1
+          },
+          {
+            "name": "capitao",
+            "picks": 27,
+            "pickRate": 1.48,
+            "winRate": 70.4,
+            "kd": 1.62
+          },
+          {
+            "name": "blitz",
+            "picks": 23,
+            "pickRate": 1.26,
+            "winRate": 65.2,
+            "kd": 0.76
+          },
+          {
+            "name": "deimos",
+            "picks": 23,
+            "pickRate": 1.26,
+            "winRate": 82.6,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 70,
+            "pickRate": 3.83,
+            "winRate": 75.7,
+            "kd": 1.44
+          },
+          {
+            "name": "aruni",
+            "picks": 64,
+            "pickRate": 3.5,
+            "winRate": 92.2,
+            "kd": 2.03
+          },
+          {
+            "name": "tubarao",
+            "picks": 62,
+            "pickRate": 3.4,
+            "winRate": 72.6,
+            "kd": 1.33
+          },
+          {
+            "name": "thorn",
+            "picks": 58,
+            "pickRate": 3.18,
+            "winRate": 70.7,
+            "kd": 1.59
+          },
+          {
+            "name": "azami",
+            "picks": 58,
+            "pickRate": 3.18,
+            "winRate": 86.2,
+            "kd": 1.15
+          },
+          {
+            "name": "fenrir",
+            "picks": 55,
+            "pickRate": 3.01,
+            "winRate": 81.8,
+            "kd": 1.38
+          },
+          {
+            "name": "ela",
+            "picks": 51,
+            "pickRate": 2.79,
+            "winRate": 78.4,
+            "kd": 2.7
+          },
+          {
+            "name": "melusi",
+            "picks": 48,
+            "pickRate": 2.63,
+            "winRate": 77.1,
+            "kd": 2.16
+          },
+          {
+            "name": "warden",
+            "picks": 45,
+            "pickRate": 2.46,
+            "winRate": 80.0,
+            "kd": 1.2
+          },
+          {
+            "name": "bandit",
+            "picks": 42,
+            "pickRate": 2.3,
+            "winRate": 78.6,
+            "kd": 1.4
+          },
+          {
+            "name": "solis",
+            "picks": 39,
+            "pickRate": 2.14,
+            "winRate": 84.6,
+            "kd": 1.32
+          },
+          {
+            "name": "kaid",
+            "picks": 33,
+            "pickRate": 1.81,
+            "winRate": 81.8,
+            "kd": 1.94
+          },
+          {
+            "name": "valkyrie",
+            "picks": 31,
+            "pickRate": 1.7,
+            "winRate": 90.3,
+            "kd": 2.07
+          },
+          {
+            "name": "vigil",
+            "picks": 28,
+            "pickRate": 1.53,
+            "winRate": 75.0,
+            "kd": 2.67
+          },
+          {
+            "name": "jager",
+            "picks": 24,
+            "pickRate": 1.31,
+            "winRate": 70.8,
+            "kd": 0.88
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 878,
+        "atkWinRate": 61.6,
+        "defWinRate": 80.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 51,
+            "pickRate": 5.81,
+            "winRate": 56.9,
+            "kd": 1.9
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 36,
+            "pickRate": 4.1,
+            "winRate": 69.4,
+            "kd": 1.26
+          },
+          {
+            "name": "twitch",
+            "picks": 29,
+            "pickRate": 3.3,
+            "winRate": 65.5,
+            "kd": 1.88
+          },
+          {
+            "name": "solid-snake",
+            "picks": 29,
+            "pickRate": 3.3,
+            "winRate": 69.0,
+            "kd": 1.19
+          },
+          {
+            "name": "grim",
+            "picks": 26,
+            "pickRate": 2.96,
+            "winRate": 57.7,
+            "kd": 1.26
+          },
+          {
+            "name": "deimos",
+            "picks": 23,
+            "pickRate": 2.62,
+            "winRate": 65.2,
+            "kd": 2.42
+          },
+          {
+            "name": "brava",
+            "picks": 20,
+            "pickRate": 2.28,
+            "winRate": 65.0,
+            "kd": 1.92
+          },
+          {
+            "name": "gridlock",
+            "picks": 19,
+            "pickRate": 2.16,
+            "winRate": 57.9,
+            "kd": 0.73
+          },
+          {
+            "name": "blackbeard",
+            "picks": 17,
+            "pickRate": 1.94,
+            "winRate": 58.8,
+            "kd": 0.5
+          },
+          {
+            "name": "maverick",
+            "picks": 15,
+            "pickRate": 1.71,
+            "winRate": 66.7,
+            "kd": 0.82
+          },
+          {
+            "name": "iq",
+            "picks": 15,
+            "pickRate": 1.71,
+            "winRate": 53.3,
+            "kd": 1.7
+          },
+          {
+            "name": "lion",
+            "picks": 15,
+            "pickRate": 1.71,
+            "winRate": 73.3,
+            "kd": 1.4
+          },
+          {
+            "name": "blitz",
+            "picks": 14,
+            "pickRate": 1.59,
+            "winRate": 57.1,
+            "kd": 1.44
+          },
+          {
+            "name": "ace",
+            "picks": 12,
+            "pickRate": 1.37,
+            "winRate": 58.3,
+            "kd": 0.86
+          },
+          {
+            "name": "striker",
+            "picks": 11,
+            "pickRate": 1.25,
+            "winRate": 63.6,
+            "kd": 1.2
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 39,
+            "pickRate": 4.44,
+            "winRate": 87.2,
+            "kd": 1.64
+          },
+          {
+            "name": "warden",
+            "picks": 38,
+            "pickRate": 4.33,
+            "winRate": 81.6,
+            "kd": 2.5
+          },
+          {
+            "name": "smoke",
+            "picks": 33,
+            "pickRate": 3.76,
+            "winRate": 90.9,
+            "kd": 1.33
+          },
+          {
+            "name": "aruni",
+            "picks": 29,
+            "pickRate": 3.3,
+            "winRate": 86.2,
+            "kd": 1.75
+          },
+          {
+            "name": "mute",
+            "picks": 29,
+            "pickRate": 3.3,
+            "winRate": 79.3,
+            "kd": 1.17
+          },
+          {
+            "name": "solis",
+            "picks": 26,
+            "pickRate": 2.96,
+            "winRate": 84.6,
+            "kd": 1.5
+          },
+          {
+            "name": "goyo",
+            "picks": 24,
+            "pickRate": 2.73,
+            "winRate": 70.8,
+            "kd": 1.22
+          },
+          {
+            "name": "azami",
+            "picks": 23,
+            "pickRate": 2.62,
+            "winRate": 82.6,
+            "kd": 1.31
+          },
+          {
+            "name": "tubarao",
+            "picks": 21,
+            "pickRate": 2.39,
+            "winRate": 81.0,
+            "kd": 2.0
+          },
+          {
+            "name": "melusi",
+            "picks": 18,
+            "pickRate": 2.05,
+            "winRate": 83.3,
+            "kd": 1.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 18,
+            "pickRate": 2.05,
+            "winRate": 66.7,
+            "kd": 1.0
+          },
+          {
+            "name": "vigil",
+            "picks": 18,
+            "pickRate": 2.05,
+            "winRate": 77.8,
+            "kd": 1.83
+          },
+          {
+            "name": "ela",
+            "picks": 18,
+            "pickRate": 2.05,
+            "winRate": 88.9,
+            "kd": 0.91
+          },
+          {
+            "name": "lesion",
+            "picks": 14,
+            "pickRate": 1.59,
+            "winRate": 78.6,
+            "kd": 0.4
+          },
+          {
+            "name": "mira",
+            "picks": 12,
+            "pickRate": 1.37,
+            "winRate": 50.0,
+            "kd": 1.0
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 1105,
+        "atkWinRate": 64.9,
+        "defWinRate": 85.2,
+        "attackers": [
+          {
+            "name": "solid-snake",
+            "picks": 65,
+            "pickRate": 5.88,
+            "winRate": 69.2,
+            "kd": 1.48
+          },
+          {
+            "name": "ash",
+            "picks": 54,
+            "pickRate": 4.89,
+            "winRate": 63.0,
+            "kd": 1.53
+          },
+          {
+            "name": "twitch",
+            "picks": 46,
+            "pickRate": 4.16,
+            "winRate": 65.2,
+            "kd": 1.46
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 46,
+            "pickRate": 4.16,
+            "winRate": 58.7,
+            "kd": 1.17
+          },
+          {
+            "name": "grim",
+            "picks": 34,
+            "pickRate": 3.08,
+            "winRate": 52.9,
+            "kd": 0.96
+          },
+          {
+            "name": "gridlock",
+            "picks": 30,
+            "pickRate": 2.71,
+            "winRate": 60.0,
+            "kd": 1.14
+          },
+          {
+            "name": "blackbeard",
+            "picks": 24,
+            "pickRate": 2.17,
+            "winRate": 62.5,
+            "kd": 0.61
+          },
+          {
+            "name": "iq",
+            "picks": 22,
+            "pickRate": 1.99,
+            "winRate": 77.3,
+            "kd": 2.33
+          },
+          {
+            "name": "deimos",
+            "picks": 20,
+            "pickRate": 1.81,
+            "winRate": 55.0,
+            "kd": 1.13
+          },
+          {
+            "name": "nomad",
+            "picks": 19,
+            "pickRate": 1.72,
+            "winRate": 78.9,
+            "kd": 2.11
+          },
+          {
+            "name": "glaz",
+            "picks": 17,
+            "pickRate": 1.54,
+            "winRate": 88.2,
+            "kd": 2.33
+          },
+          {
+            "name": "maverick",
+            "picks": 17,
+            "pickRate": 1.54,
+            "winRate": 82.4,
+            "kd": 1.5
+          },
+          {
+            "name": "buck",
+            "picks": 17,
+            "pickRate": 1.54,
+            "winRate": 64.7,
+            "kd": 1.64
+          },
+          {
+            "name": "striker",
+            "picks": 16,
+            "pickRate": 1.45,
+            "winRate": 68.8,
+            "kd": 3.14
+          },
+          {
+            "name": "montagne",
+            "picks": 14,
+            "pickRate": 1.27,
+            "winRate": 64.3,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "ela",
+            "picks": 47,
+            "pickRate": 4.25,
+            "winRate": 89.4,
+            "kd": 1.86
+          },
+          {
+            "name": "azami",
+            "picks": 45,
+            "pickRate": 4.07,
+            "winRate": 82.2,
+            "kd": 1.57
+          },
+          {
+            "name": "solis",
+            "picks": 39,
+            "pickRate": 3.53,
+            "winRate": 84.6,
+            "kd": 1.64
+          },
+          {
+            "name": "aruni",
+            "picks": 37,
+            "pickRate": 3.35,
+            "winRate": 91.9,
+            "kd": 2.12
+          },
+          {
+            "name": "warden",
+            "picks": 30,
+            "pickRate": 2.71,
+            "winRate": 86.7,
+            "kd": 2.75
+          },
+          {
+            "name": "thorn",
+            "picks": 27,
+            "pickRate": 2.44,
+            "winRate": 81.5,
+            "kd": 1.94
+          },
+          {
+            "name": "mute",
+            "picks": 27,
+            "pickRate": 2.44,
+            "winRate": 92.6,
+            "kd": 1.59
+          },
+          {
+            "name": "tubarao",
+            "picks": 26,
+            "pickRate": 2.35,
+            "winRate": 96.2,
+            "kd": 3.0
+          },
+          {
+            "name": "melusi",
+            "picks": 25,
+            "pickRate": 2.26,
+            "winRate": 76.0,
+            "kd": 0.93
+          },
+          {
+            "name": "bandit",
+            "picks": 23,
+            "pickRate": 2.08,
+            "winRate": 78.3,
+            "kd": 1.77
+          },
+          {
+            "name": "smoke",
+            "picks": 21,
+            "pickRate": 1.9,
+            "winRate": 85.7,
+            "kd": 0.86
+          },
+          {
+            "name": "fenrir",
+            "picks": 19,
+            "pickRate": 1.72,
+            "winRate": 84.2,
+            "kd": 1.38
+          },
+          {
+            "name": "vigil",
+            "picks": 17,
+            "pickRate": 1.54,
+            "winRate": 88.2,
+            "kd": 1.62
+          },
+          {
+            "name": "valkyrie",
+            "picks": 17,
+            "pickRate": 1.54,
+            "winRate": 70.6,
+            "kd": 1.5
+          },
+          {
+            "name": "lesion",
+            "picks": 16,
+            "pickRate": 1.45,
+            "winRate": 81.2,
+            "kd": 0.69
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 1661,
+        "atkWinRate": 66.2,
+        "defWinRate": 81.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 83,
+            "pickRate": 5.0,
+            "winRate": 68.7,
+            "kd": 1.38
+          },
+          {
+            "name": "nomad",
+            "picks": 69,
+            "pickRate": 4.15,
+            "winRate": 60.9,
+            "kd": 1.24
+          },
+          {
+            "name": "solid-snake",
+            "picks": 57,
+            "pickRate": 3.43,
+            "winRate": 57.9,
+            "kd": 1.32
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 45,
+            "pickRate": 2.71,
+            "winRate": 73.3,
+            "kd": 1.36
+          },
+          {
+            "name": "grim",
+            "picks": 42,
+            "pickRate": 2.53,
+            "winRate": 66.7,
+            "kd": 1.52
+          },
+          {
+            "name": "gridlock",
+            "picks": 41,
+            "pickRate": 2.47,
+            "winRate": 65.9,
+            "kd": 1.69
+          },
+          {
+            "name": "striker",
+            "picks": 39,
+            "pickRate": 2.35,
+            "winRate": 69.2,
+            "kd": 1.95
+          },
+          {
+            "name": "twitch",
+            "picks": 39,
+            "pickRate": 2.35,
+            "winRate": 74.4,
+            "kd": 1.6
+          },
+          {
+            "name": "maverick",
+            "picks": 28,
+            "pickRate": 1.69,
+            "winRate": 60.7,
+            "kd": 1.0
+          },
+          {
+            "name": "deimos",
+            "picks": 27,
+            "pickRate": 1.63,
+            "winRate": 55.6,
+            "kd": 1.05
+          },
+          {
+            "name": "flores",
+            "picks": 25,
+            "pickRate": 1.51,
+            "winRate": 52.0,
+            "kd": 1.17
+          },
+          {
+            "name": "ram",
+            "picks": 25,
+            "pickRate": 1.51,
+            "winRate": 72.0,
+            "kd": 1.57
+          },
+          {
+            "name": "thermite",
+            "picks": 23,
+            "pickRate": 1.38,
+            "winRate": 56.5,
+            "kd": 0.81
+          },
+          {
+            "name": "iq",
+            "picks": 20,
+            "pickRate": 1.2,
+            "winRate": 55.0,
+            "kd": 0.73
+          },
+          {
+            "name": "glaz",
+            "picks": 20,
+            "pickRate": 1.2,
+            "winRate": 60.0,
+            "kd": 1.29
+          }
+        ],
+        "defenders": [
+          {
+            "name": "warden",
+            "picks": 96,
+            "pickRate": 5.78,
+            "winRate": 88.5,
+            "kd": 1.77
+          },
+          {
+            "name": "mute",
+            "picks": 84,
+            "pickRate": 5.06,
+            "winRate": 73.8,
+            "kd": 1.86
+          },
+          {
+            "name": "azami",
+            "picks": 62,
+            "pickRate": 3.73,
+            "winRate": 82.3,
+            "kd": 1.36
+          },
+          {
+            "name": "smoke",
+            "picks": 60,
+            "pickRate": 3.61,
+            "winRate": 81.7,
+            "kd": 2.2
+          },
+          {
+            "name": "aruni",
+            "picks": 46,
+            "pickRate": 2.77,
+            "winRate": 84.8,
+            "kd": 2.0
+          },
+          {
+            "name": "melusi",
+            "picks": 44,
+            "pickRate": 2.65,
+            "winRate": 88.6,
+            "kd": 3.71
+          },
+          {
+            "name": "solis",
+            "picks": 42,
+            "pickRate": 2.53,
+            "winRate": 85.7,
+            "kd": 1.3
+          },
+          {
+            "name": "tubarao",
+            "picks": 35,
+            "pickRate": 2.11,
+            "winRate": 82.9,
+            "kd": 1.5
+          },
+          {
+            "name": "vigil",
+            "picks": 34,
+            "pickRate": 2.05,
+            "winRate": 79.4,
+            "kd": 1.89
+          },
+          {
+            "name": "kaid",
+            "picks": 33,
+            "pickRate": 1.99,
+            "winRate": 87.9,
+            "kd": 2.71
+          },
+          {
+            "name": "fenrir",
+            "picks": 29,
+            "pickRate": 1.75,
+            "winRate": 69.0,
+            "kd": 1.88
+          },
+          {
+            "name": "ela",
+            "picks": 29,
+            "pickRate": 1.75,
+            "winRate": 89.7,
+            "kd": 1.59
+          },
+          {
+            "name": "valkyrie",
+            "picks": 28,
+            "pickRate": 1.69,
+            "winRate": 82.1,
+            "kd": 3.0
+          },
+          {
+            "name": "skopos",
+            "picks": 25,
+            "pickRate": 1.51,
+            "winRate": 80.0,
+            "kd": 1.38
+          },
+          {
+            "name": "thorn",
+            "picks": 23,
+            "pickRate": 1.38,
+            "winRate": 60.9,
+            "kd": 1.46
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 1769,
+        "atkWinRate": 69.5,
+        "defWinRate": 76.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 96,
+            "pickRate": 5.43,
+            "winRate": 67.7,
+            "kd": 1.49
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 66,
+            "pickRate": 3.73,
+            "winRate": 66.7,
+            "kd": 1.48
+          },
+          {
+            "name": "solid-snake",
+            "picks": 58,
+            "pickRate": 3.28,
+            "winRate": 69.0,
+            "kd": 1.53
+          },
+          {
+            "name": "twitch",
+            "picks": 57,
+            "pickRate": 3.22,
+            "winRate": 78.9,
+            "kd": 2.33
+          },
+          {
+            "name": "nomad",
+            "picks": 52,
+            "pickRate": 2.94,
+            "winRate": 71.2,
+            "kd": 1.62
+          },
+          {
+            "name": "blitz",
+            "picks": 51,
+            "pickRate": 2.88,
+            "winRate": 70.6,
+            "kd": 1.17
+          },
+          {
+            "name": "iq",
+            "picks": 38,
+            "pickRate": 2.15,
+            "winRate": 65.8,
+            "kd": 1.04
+          },
+          {
+            "name": "blackbeard",
+            "picks": 34,
+            "pickRate": 1.92,
+            "winRate": 64.7,
+            "kd": 1.39
+          },
+          {
+            "name": "montagne",
+            "picks": 33,
+            "pickRate": 1.87,
+            "winRate": 72.7,
+            "kd": 0.42
+          },
+          {
+            "name": "striker",
+            "picks": 33,
+            "pickRate": 1.87,
+            "winRate": 72.7,
+            "kd": 1.27
+          },
+          {
+            "name": "sledge",
+            "picks": 31,
+            "pickRate": 1.75,
+            "winRate": 74.2,
+            "kd": 1.0
+          },
+          {
+            "name": "glaz",
+            "picks": 29,
+            "pickRate": 1.64,
+            "winRate": 65.5,
+            "kd": 1.84
+          },
+          {
+            "name": "lion",
+            "picks": 28,
+            "pickRate": 1.58,
+            "winRate": 75.0,
+            "kd": 1.22
+          },
+          {
+            "name": "deimos",
+            "picks": 28,
+            "pickRate": 1.58,
+            "winRate": 71.4,
+            "kd": 1.94
+          },
+          {
+            "name": "buck",
+            "picks": 27,
+            "pickRate": 1.53,
+            "winRate": 66.7,
+            "kd": 1.73
+          }
+        ],
+        "defenders": [
+          {
+            "name": "azami",
+            "picks": 71,
+            "pickRate": 4.01,
+            "winRate": 74.6,
+            "kd": 1.62
+          },
+          {
+            "name": "solis",
+            "picks": 62,
+            "pickRate": 3.5,
+            "winRate": 82.3,
+            "kd": 1.56
+          },
+          {
+            "name": "smoke",
+            "picks": 54,
+            "pickRate": 3.05,
+            "winRate": 75.9,
+            "kd": 1.42
+          },
+          {
+            "name": "aruni",
+            "picks": 53,
+            "pickRate": 3.0,
+            "winRate": 79.2,
+            "kd": 1.33
+          },
+          {
+            "name": "ela",
+            "picks": 53,
+            "pickRate": 3.0,
+            "winRate": 77.4,
+            "kd": 1.33
+          },
+          {
+            "name": "warden",
+            "picks": 50,
+            "pickRate": 2.83,
+            "winRate": 86.0,
+            "kd": 3.11
+          },
+          {
+            "name": "mute",
+            "picks": 45,
+            "pickRate": 2.54,
+            "winRate": 80.0,
+            "kd": 1.36
+          },
+          {
+            "name": "valkyrie",
+            "picks": 43,
+            "pickRate": 2.43,
+            "winRate": 83.7,
+            "kd": 1.71
+          },
+          {
+            "name": "vigil",
+            "picks": 40,
+            "pickRate": 2.26,
+            "winRate": 85.0,
+            "kd": 1.68
+          },
+          {
+            "name": "lesion",
+            "picks": 37,
+            "pickRate": 2.09,
+            "winRate": 67.6,
+            "kd": 1.74
+          },
+          {
+            "name": "fenrir",
+            "picks": 32,
+            "pickRate": 1.81,
+            "winRate": 71.9,
+            "kd": 1.44
+          },
+          {
+            "name": "skopos",
+            "picks": 31,
+            "pickRate": 1.75,
+            "winRate": 77.4,
+            "kd": 1.61
+          },
+          {
+            "name": "tubarao",
+            "picks": 31,
+            "pickRate": 1.75,
+            "winRate": 77.4,
+            "kd": 1.47
+          },
+          {
+            "name": "melusi",
+            "picks": 28,
+            "pickRate": 1.58,
+            "winRate": 75.0,
+            "kd": 1.33
+          },
+          {
+            "name": "oryx",
+            "picks": 28,
+            "pickRate": 1.58,
+            "winRate": 60.7,
+            "kd": 1.94
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 1627,
+        "atkWinRate": 68.4,
+        "defWinRate": 77.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 100,
+            "pickRate": 6.15,
+            "winRate": 69.0,
+            "kd": 1.51
+          },
+          {
+            "name": "grim",
+            "picks": 59,
+            "pickRate": 3.63,
+            "winRate": 72.9,
+            "kd": 1.38
+          },
+          {
+            "name": "hibana",
+            "picks": 49,
+            "pickRate": 3.01,
+            "winRate": 65.3,
+            "kd": 1.61
+          },
+          {
+            "name": "deimos",
+            "picks": 47,
+            "pickRate": 2.89,
+            "winRate": 59.6,
+            "kd": 1.06
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 42,
+            "pickRate": 2.58,
+            "winRate": 78.6,
+            "kd": 1.19
+          },
+          {
+            "name": "thermite",
+            "picks": 42,
+            "pickRate": 2.58,
+            "winRate": 71.4,
+            "kd": 2.0
+          },
+          {
+            "name": "solid-snake",
+            "picks": 41,
+            "pickRate": 2.52,
+            "winRate": 63.4,
+            "kd": 1.26
+          },
+          {
+            "name": "ram",
+            "picks": 34,
+            "pickRate": 2.09,
+            "winRate": 58.8,
+            "kd": 1.1
+          },
+          {
+            "name": "twitch",
+            "picks": 34,
+            "pickRate": 2.09,
+            "winRate": 64.7,
+            "kd": 1.63
+          },
+          {
+            "name": "striker",
+            "picks": 31,
+            "pickRate": 1.91,
+            "winRate": 61.3,
+            "kd": 1.29
+          },
+          {
+            "name": "montagne",
+            "picks": 29,
+            "pickRate": 1.78,
+            "winRate": 72.4,
+            "kd": 1.39
+          },
+          {
+            "name": "capitao",
+            "picks": 24,
+            "pickRate": 1.48,
+            "winRate": 75.0,
+            "kd": 0.88
+          },
+          {
+            "name": "ace",
+            "picks": 22,
+            "pickRate": 1.35,
+            "winRate": 77.3,
+            "kd": 1.64
+          },
+          {
+            "name": "blackbeard",
+            "picks": 19,
+            "pickRate": 1.17,
+            "winRate": 57.9,
+            "kd": 1.33
+          },
+          {
+            "name": "buck",
+            "picks": 19,
+            "pickRate": 1.17,
+            "winRate": 68.4,
+            "kd": 1.9
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 73,
+            "pickRate": 4.49,
+            "winRate": 78.1,
+            "kd": 1.3
+          },
+          {
+            "name": "azami",
+            "picks": 69,
+            "pickRate": 4.24,
+            "winRate": 76.8,
+            "kd": 1.39
+          },
+          {
+            "name": "goyo",
+            "picks": 49,
+            "pickRate": 3.01,
+            "winRate": 83.7,
+            "kd": 2.08
+          },
+          {
+            "name": "solis",
+            "picks": 48,
+            "pickRate": 2.95,
+            "winRate": 79.2,
+            "kd": 1.21
+          },
+          {
+            "name": "castle",
+            "picks": 46,
+            "pickRate": 2.83,
+            "winRate": 76.1,
+            "kd": 1.79
+          },
+          {
+            "name": "mute",
+            "picks": 46,
+            "pickRate": 2.83,
+            "winRate": 82.6,
+            "kd": 2.18
+          },
+          {
+            "name": "tubarao",
+            "picks": 45,
+            "pickRate": 2.77,
+            "winRate": 75.6,
+            "kd": 1.48
+          },
+          {
+            "name": "kaid",
+            "picks": 37,
+            "pickRate": 2.27,
+            "winRate": 78.4,
+            "kd": 2.27
+          },
+          {
+            "name": "smoke",
+            "picks": 36,
+            "pickRate": 2.21,
+            "winRate": 75.0,
+            "kd": 1.14
+          },
+          {
+            "name": "warden",
+            "picks": 33,
+            "pickRate": 2.03,
+            "winRate": 63.6,
+            "kd": 0.82
+          },
+          {
+            "name": "aruni",
+            "picks": 32,
+            "pickRate": 1.97,
+            "winRate": 75.0,
+            "kd": 1.94
+          },
+          {
+            "name": "melusi",
+            "picks": 30,
+            "pickRate": 1.84,
+            "winRate": 86.7,
+            "kd": 1.71
+          },
+          {
+            "name": "vigil",
+            "picks": 30,
+            "pickRate": 1.84,
+            "winRate": 73.3,
+            "kd": 1.24
+          },
+          {
+            "name": "ela",
+            "picks": 29,
+            "pickRate": 1.78,
+            "winRate": 75.9,
+            "kd": 1.37
+          },
+          {
+            "name": "valkyrie",
+            "picks": 28,
+            "pickRate": 1.72,
+            "winRate": 92.9,
+            "kd": 2.23
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 1355,
+        "atkWinRate": 67.2,
+        "defWinRate": 80.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 74,
+            "pickRate": 5.46,
+            "winRate": 67.6,
+            "kd": 1.43
+          },
+          {
+            "name": "solid-snake",
+            "picks": 51,
+            "pickRate": 3.76,
+            "winRate": 64.7,
+            "kd": 1.55
+          },
+          {
+            "name": "striker",
+            "picks": 49,
+            "pickRate": 3.62,
+            "winRate": 67.3,
+            "kd": 1.72
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 46,
+            "pickRate": 3.39,
+            "winRate": 67.4,
+            "kd": 2.04
+          },
+          {
+            "name": "twitch",
+            "picks": 39,
+            "pickRate": 2.88,
+            "winRate": 74.4,
+            "kd": 2.74
+          },
+          {
+            "name": "nomad",
+            "picks": 38,
+            "pickRate": 2.8,
+            "winRate": 65.8,
+            "kd": 1.76
+          },
+          {
+            "name": "buck",
+            "picks": 33,
+            "pickRate": 2.44,
+            "winRate": 69.7,
+            "kd": 1.33
+          },
+          {
+            "name": "deimos",
+            "picks": 28,
+            "pickRate": 2.07,
+            "winRate": 71.4,
+            "kd": 1.73
+          },
+          {
+            "name": "sledge",
+            "picks": 25,
+            "pickRate": 1.85,
+            "winRate": 80.0,
+            "kd": 1.21
+          },
+          {
+            "name": "iq",
+            "picks": 22,
+            "pickRate": 1.62,
+            "winRate": 59.1,
+            "kd": 0.78
+          },
+          {
+            "name": "grim",
+            "picks": 21,
+            "pickRate": 1.55,
+            "winRate": 71.4,
+            "kd": 1.0
+          },
+          {
+            "name": "blackbeard",
+            "picks": 20,
+            "pickRate": 1.48,
+            "winRate": 55.0,
+            "kd": 1.17
+          },
+          {
+            "name": "thermite",
+            "picks": 18,
+            "pickRate": 1.33,
+            "winRate": 66.7,
+            "kd": 2.09
+          },
+          {
+            "name": "ace",
+            "picks": 17,
+            "pickRate": 1.25,
+            "winRate": 64.7,
+            "kd": 2.71
+          },
+          {
+            "name": "blitz",
+            "picks": 16,
+            "pickRate": 1.18,
+            "winRate": 81.2,
+            "kd": 1.33
+          }
+        ],
+        "defenders": [
+          {
+            "name": "warden",
+            "picks": 65,
+            "pickRate": 4.8,
+            "winRate": 70.8,
+            "kd": 1.91
+          },
+          {
+            "name": "azami",
+            "picks": 56,
+            "pickRate": 4.13,
+            "winRate": 80.4,
+            "kd": 2.19
+          },
+          {
+            "name": "bandit",
+            "picks": 48,
+            "pickRate": 3.54,
+            "winRate": 79.2,
+            "kd": 1.93
+          },
+          {
+            "name": "ela",
+            "picks": 41,
+            "pickRate": 3.03,
+            "winRate": 80.5,
+            "kd": 1.33
+          },
+          {
+            "name": "smoke",
+            "picks": 38,
+            "pickRate": 2.8,
+            "winRate": 81.6,
+            "kd": 2.62
+          },
+          {
+            "name": "mute",
+            "picks": 37,
+            "pickRate": 2.73,
+            "winRate": 86.5,
+            "kd": 2.17
+          },
+          {
+            "name": "solis",
+            "picks": 37,
+            "pickRate": 2.73,
+            "winRate": 81.1,
+            "kd": 2.38
+          },
+          {
+            "name": "melusi",
+            "picks": 35,
+            "pickRate": 2.58,
+            "winRate": 85.7,
+            "kd": 3.09
+          },
+          {
+            "name": "goyo",
+            "picks": 30,
+            "pickRate": 2.21,
+            "winRate": 80.0,
+            "kd": 1.94
+          },
+          {
+            "name": "aruni",
+            "picks": 28,
+            "pickRate": 2.07,
+            "winRate": 82.1,
+            "kd": 1.47
+          },
+          {
+            "name": "tubarao",
+            "picks": 27,
+            "pickRate": 1.99,
+            "winRate": 85.2,
+            "kd": 1.85
+          },
+          {
+            "name": "vigil",
+            "picks": 23,
+            "pickRate": 1.7,
+            "winRate": 78.3,
+            "kd": 2.0
+          },
+          {
+            "name": "thorn",
+            "picks": 21,
+            "pickRate": 1.55,
+            "winRate": 85.7,
+            "kd": 1.73
+          },
+          {
+            "name": "jager",
+            "picks": 20,
+            "pickRate": 1.48,
+            "winRate": 80.0,
+            "kd": 1.7
+          },
+          {
+            "name": "valkyrie",
+            "picks": 20,
+            "pickRate": 1.48,
+            "winRate": 95.0,
+            "kd": 3.43
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 306,
+        "atkWinRate": 77.0,
+        "defWinRate": 79.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 26,
+            "pickRate": 8.5,
+            "winRate": 80.8,
+            "kd": 2.08
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 16,
+            "pickRate": 5.23,
+            "winRate": 81.2,
+            "kd": 1.09
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11,
+            "pickRate": 3.59,
+            "winRate": 81.8,
+            "kd": 1.43
+          },
+          {
+            "name": "striker",
+            "picks": 9,
+            "pickRate": 2.94,
+            "winRate": 88.9,
+            "kd": 2.5
+          },
+          {
+            "name": "grim",
+            "picks": 8,
+            "pickRate": 2.61,
+            "winRate": 75.0,
+            "kd": 4.0
+          },
+          {
+            "name": "iq",
+            "picks": 7,
+            "pickRate": 2.29,
+            "winRate": 57.1,
+            "kd": 1.0
+          },
+          {
+            "name": "deimos",
+            "picks": 6,
+            "pickRate": 1.96,
+            "winRate": 66.7,
+            "kd": 0.25
+          },
+          {
+            "name": "blitz",
+            "picks": 6,
+            "pickRate": 1.96,
+            "winRate": 83.3,
+            "kd": 1.0
+          },
+          {
+            "name": "nomad",
+            "picks": 6,
+            "pickRate": 1.96,
+            "winRate": 50.0,
+            "kd": 2.33
+          },
+          {
+            "name": "montagne",
+            "picks": 5,
+            "pickRate": 1.63,
+            "winRate": 80.0,
+            "kd": 0.67
+          },
+          {
+            "name": "twitch",
+            "picks": 5,
+            "pickRate": 1.63,
+            "winRate": 80.0,
+            "kd": 3.0
+          },
+          {
+            "name": "lion",
+            "picks": 5,
+            "pickRate": 1.63,
+            "winRate": 60.0,
+            "kd": 0.5
+          },
+          {
+            "name": "blackbeard",
+            "picks": 4,
+            "pickRate": 1.31,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "kali",
+            "picks": 4,
+            "pickRate": 1.31,
+            "winRate": 50.0,
+            "kd": 1.33
+          },
+          {
+            "name": "brava",
+            "picks": 4,
+            "pickRate": 1.31,
+            "winRate": 50.0,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "warden",
+            "picks": 18,
+            "pickRate": 5.88,
+            "winRate": 72.2,
+            "kd": 1.18
+          },
+          {
+            "name": "vigil",
+            "picks": 11,
+            "pickRate": 3.59,
+            "winRate": 72.7,
+            "kd": 1.12
+          },
+          {
+            "name": "azami",
+            "picks": 11,
+            "pickRate": 3.59,
+            "winRate": 81.8,
+            "kd": 2.75
+          },
+          {
+            "name": "bandit",
+            "picks": 9,
+            "pickRate": 2.94,
+            "winRate": 66.7,
+            "kd": 2.0
+          },
+          {
+            "name": "ela",
+            "picks": 9,
+            "pickRate": 2.94,
+            "winRate": 88.9,
+            "kd": 1.33
+          },
+          {
+            "name": "solis",
+            "picks": 8,
+            "pickRate": 2.61,
+            "winRate": 87.5,
+            "kd": 1.0
+          },
+          {
+            "name": "melusi",
+            "picks": 7,
+            "pickRate": 2.29,
+            "winRate": 71.4,
+            "kd": 4.5
+          },
+          {
+            "name": "mute",
+            "picks": 6,
+            "pickRate": 1.96,
+            "winRate": 83.3,
+            "kd": 0.33
+          },
+          {
+            "name": "smoke",
+            "picks": 6,
+            "pickRate": 1.96,
+            "winRate": 83.3,
+            "kd": 3.67
+          },
+          {
+            "name": "kaid",
+            "picks": 6,
+            "pickRate": 1.96,
+            "winRate": 100.0,
+            "kd": 8.0
+          },
+          {
+            "name": "clash",
+            "picks": 5,
+            "pickRate": 1.63,
+            "winRate": 100.0,
+            "kd": 6.0
+          },
+          {
+            "name": "lesion",
+            "picks": 5,
+            "pickRate": 1.63,
+            "winRate": 60.0,
+            "kd": 1.67
+          },
+          {
+            "name": "goyo",
+            "picks": 4,
+            "pickRate": 1.31,
+            "winRate": 75.0,
+            "kd": 1.33
+          },
+          {
+            "name": "tubarao",
+            "picks": 4,
+            "pickRate": 1.31,
+            "winRate": 75.0,
+            "kd": 0.5
+          },
+          {
+            "name": "aruni",
+            "picks": 3,
+            "pickRate": 0.98,
+            "winRate": 100.0,
+            "kd": 0.0
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 52,
+        "atkWinRate": 66.7,
+        "defWinRate": 57.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 5,
+            "pickRate": 9.62,
+            "winRate": 60.0,
+            "kd": 2.33
+          },
+          {
+            "name": "twitch",
+            "picks": 4,
+            "pickRate": 7.69,
+            "winRate": 75.0,
+            "kd": 6.0
+          },
+          {
+            "name": "ace",
+            "picks": 3,
+            "pickRate": 5.77,
+            "winRate": 66.7,
+            "kd": 0.5
+          },
+          {
+            "name": "striker",
+            "picks": 3,
+            "pickRate": 5.77,
+            "winRate": 33.3,
+            "kd": 1.5
+          },
+          {
+            "name": "glaz",
+            "picks": 2,
+            "pickRate": 3.85,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "capitao",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "montagne",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "ram",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 0.0,
+            "kd": 2.0
+          },
+          {
+            "name": "buck",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 4.0
+          },
+          {
+            "name": "nomad",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 4.0
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "gridlock",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "warden",
+            "picks": 4,
+            "pickRate": 7.69,
+            "winRate": 25.0,
+            "kd": 0.67
+          },
+          {
+            "name": "mute",
+            "picks": 4,
+            "pickRate": 7.69,
+            "winRate": 0.0,
+            "kd": 0.5
+          },
+          {
+            "name": "tubarao",
+            "picks": 3,
+            "pickRate": 5.77,
+            "winRate": 66.7,
+            "kd": 0.33
+          },
+          {
+            "name": "kaid",
+            "picks": 2,
+            "pickRate": 3.85,
+            "winRate": 50.0,
+            "kd": 0.0
+          },
+          {
+            "name": "lesion",
+            "picks": 2,
+            "pickRate": 3.85,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "vigil",
+            "picks": 2,
+            "pickRate": 3.85,
+            "winRate": 50.0,
+            "kd": 1.0
+          },
+          {
+            "name": "skopos",
+            "picks": 2,
+            "pickRate": 3.85,
+            "winRate": 100.0,
+            "kd": 6.0
+          },
+          {
+            "name": "pulse",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "solis",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "frost",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "clash",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "melusi",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "bandit",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "mozzie",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "aruni",
+            "picks": 1,
+            "pickRate": 1.92,
+            "winRate": 100.0,
+            "kd": 0.0
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 31,
+        "atkWinRate": 44.4,
+        "defWinRate": 69.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7,
+            "pickRate": 22.58,
+            "winRate": 57.1,
+            "kd": 2.0
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3,
+            "pickRate": 9.68,
+            "winRate": 0.0,
+            "kd": 0.67
+          },
+          {
+            "name": "deimos",
+            "picks": 2,
+            "pickRate": 6.45,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "ying",
+            "picks": 2,
+            "pickRate": 6.45,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "iq",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 0.0,
+            "kd": 2.0
+          },
+          {
+            "name": "thermite",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "ace",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 0.0,
+            "kd": 0.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 4,
+            "pickRate": 12.9,
+            "winRate": 50.0,
+            "kd": 1.0
+          },
+          {
+            "name": "smoke",
+            "picks": 2,
+            "pickRate": 6.45,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "oryx",
+            "picks": 2,
+            "pickRate": 6.45,
+            "winRate": 50.0,
+            "kd": 0.0
+          },
+          {
+            "name": "doc",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "thorn",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "mute",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 0.0,
+            "kd": 2.0
+          },
+          {
+            "name": "lesion",
+            "picks": 1,
+            "pickRate": 3.23,
+            "winRate": 100.0,
+            "kd": 4.0
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 30,
+        "atkWinRate": 60.0,
+        "defWinRate": 66.7,
+        "attackers": [
+          {
+            "name": "lion",
+            "picks": 3,
+            "pickRate": 10.0,
+            "winRate": 33.3,
+            "kd": 0.33
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2,
+            "pickRate": 6.67,
+            "winRate": 100.0,
+            "kd": 4.0
+          },
+          {
+            "name": "grim",
+            "picks": 2,
+            "pickRate": 6.67,
+            "winRate": 100.0,
+            "kd": 0.5
+          },
+          {
+            "name": "ram",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "hibana",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "ash",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "deimos",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "ace",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "striker",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "jackal",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 0.0,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "warden",
+            "picks": 3,
+            "pickRate": 10.0,
+            "winRate": 66.7,
+            "kd": 1.5
+          },
+          {
+            "name": "aruni",
+            "picks": 2,
+            "pickRate": 6.67,
+            "winRate": 50.0,
+            "kd": 3.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2,
+            "pickRate": 6.67,
+            "winRate": 50.0,
+            "kd": 0.0
+          },
+          {
+            "name": "doc",
+            "picks": 2,
+            "pickRate": 6.67,
+            "winRate": 50.0,
+            "kd": 3.0
+          },
+          {
+            "name": "skopos",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "lesion",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "mute",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "azami",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "vigil",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "mira",
+            "picks": 1,
+            "pickRate": 3.33,
+            "winRate": 100.0,
+            "kd": 0.0
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 17,
+        "atkWinRate": 66.7,
+        "defWinRate": 81.8,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 2,
+            "pickRate": 11.76,
+            "winRate": 50.0,
+            "kd": 3.0
+          },
+          {
+            "name": "ram",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 3.0
+          },
+          {
+            "name": "lion",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "glaz",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "striker",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 0.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "doc",
+            "picks": 3,
+            "pickRate": 17.65,
+            "winRate": 66.7,
+            "kd": 0.33
+          },
+          {
+            "name": "pulse",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 1.0
+          },
+          {
+            "name": "jager",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "warden",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 2.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 3.0
+          },
+          {
+            "name": "aruni",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "frost",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 0.0,
+            "kd": 0.0
+          },
+          {
+            "name": "smoke",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 0.0
+          },
+          {
+            "name": "kaid",
+            "picks": 1,
+            "pickRate": 5.88,
+            "winRate": 100.0,
+            "kd": 1.0
+          }
+        ]
+      }
+    },
+    "Diamond": {
+      "villa": {
+        "totalRounds": 550149,
+        "atkWinRate": 43.1,
+        "defWinRate": 60.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 28943,
+            "pickRate": 5.26,
+            "winRate": 43.3,
+            "kd": 1.1
+          },
+          {
+            "name": "solid-snake",
+            "picks": 23440,
+            "pickRate": 4.26,
+            "winRate": 41.5,
+            "kd": 0.95
+          },
+          {
+            "name": "twitch",
+            "picks": 18474,
+            "pickRate": 3.36,
+            "winRate": 43.9,
+            "kd": 1.1
+          },
+          {
+            "name": "nomad",
+            "picks": 16599,
+            "pickRate": 3.02,
+            "winRate": 42.7,
+            "kd": 1.03
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 16439,
+            "pickRate": 2.99,
+            "winRate": 43.4,
+            "kd": 1.0
+          },
+          {
+            "name": "grim",
+            "picks": 12620,
+            "pickRate": 2.29,
+            "winRate": 41.8,
+            "kd": 0.91
+          },
+          {
+            "name": "hibana",
+            "picks": 10680,
+            "pickRate": 1.94,
+            "winRate": 42.9,
+            "kd": 1.01
+          },
+          {
+            "name": "buck",
+            "picks": 10151,
+            "pickRate": 1.85,
+            "winRate": 41.9,
+            "kd": 0.97
+          },
+          {
+            "name": "lion",
+            "picks": 9928,
+            "pickRate": 1.8,
+            "winRate": 43.6,
+            "kd": 0.96
+          },
+          {
+            "name": "iq",
+            "picks": 9611,
+            "pickRate": 1.75,
+            "winRate": 43.4,
+            "kd": 1.1
+          },
+          {
+            "name": "deimos",
+            "picks": 8819,
+            "pickRate": 1.6,
+            "winRate": 42.9,
+            "kd": 0.99
+          },
+          {
+            "name": "brava",
+            "picks": 8709,
+            "pickRate": 1.58,
+            "winRate": 44.1,
+            "kd": 1.12
+          },
+          {
+            "name": "striker",
+            "picks": 8593,
+            "pickRate": 1.56,
+            "winRate": 42.8,
+            "kd": 1.08
+          },
+          {
+            "name": "finka",
+            "picks": 8012,
+            "pickRate": 1.46,
+            "winRate": 44.1,
+            "kd": 1.05
+          },
+          {
+            "name": "flores",
+            "picks": 6985,
+            "pickRate": 1.27,
+            "winRate": 44.5,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 22361,
+            "pickRate": 4.06,
+            "winRate": 61.7,
+            "kd": 1.46
+          },
+          {
+            "name": "mute",
+            "picks": 17930,
+            "pickRate": 3.26,
+            "winRate": 60.0,
+            "kd": 1.2
+          },
+          {
+            "name": "azami",
+            "picks": 16380,
+            "pickRate": 2.98,
+            "winRate": 59.8,
+            "kd": 1.22
+          },
+          {
+            "name": "valkyrie",
+            "picks": 15642,
+            "pickRate": 2.84,
+            "winRate": 61.8,
+            "kd": 1.42
+          },
+          {
+            "name": "warden",
+            "picks": 14082,
+            "pickRate": 2.56,
+            "winRate": 59.0,
+            "kd": 1.2
+          },
+          {
+            "name": "lesion",
+            "picks": 14042,
+            "pickRate": 2.55,
+            "winRate": 60.2,
+            "kd": 1.22
+          },
+          {
+            "name": "thorn",
+            "picks": 13940,
+            "pickRate": 2.53,
+            "winRate": 62.3,
+            "kd": 1.35
+          },
+          {
+            "name": "vigil",
+            "picks": 12351,
+            "pickRate": 2.25,
+            "winRate": 59.2,
+            "kd": 1.25
+          },
+          {
+            "name": "solis",
+            "picks": 10068,
+            "pickRate": 1.83,
+            "winRate": 59.6,
+            "kd": 1.27
+          },
+          {
+            "name": "jager",
+            "picks": 9929,
+            "pickRate": 1.8,
+            "winRate": 59.6,
+            "kd": 1.11
+          },
+          {
+            "name": "smoke",
+            "picks": 9736,
+            "pickRate": 1.77,
+            "winRate": 59.6,
+            "kd": 1.09
+          },
+          {
+            "name": "kapkan",
+            "picks": 8929,
+            "pickRate": 1.62,
+            "winRate": 62.5,
+            "kd": 1.44
+          },
+          {
+            "name": "tubarao",
+            "picks": 8585,
+            "pickRate": 1.56,
+            "winRate": 60.4,
+            "kd": 1.37
+          },
+          {
+            "name": "melusi",
+            "picks": 8060,
+            "pickRate": 1.47,
+            "winRate": 61.3,
+            "kd": 1.2
+          },
+          {
+            "name": "ela",
+            "picks": 7852,
+            "pickRate": 1.43,
+            "winRate": 60.3,
+            "kd": 1.21
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 447745,
+        "atkWinRate": 42.7,
+        "defWinRate": 60.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 21310,
+            "pickRate": 4.76,
+            "winRate": 42.8,
+            "kd": 1.09
+          },
+          {
+            "name": "solid-snake",
+            "picks": 16370,
+            "pickRate": 3.66,
+            "winRate": 42.0,
+            "kd": 0.97
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 13813,
+            "pickRate": 3.09,
+            "winRate": 42.5,
+            "kd": 0.96
+          },
+          {
+            "name": "grim",
+            "picks": 12195,
+            "pickRate": 2.72,
+            "winRate": 42.3,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 11993,
+            "pickRate": 2.68,
+            "winRate": 42.9,
+            "kd": 1.05
+          },
+          {
+            "name": "buck",
+            "picks": 11255,
+            "pickRate": 2.51,
+            "winRate": 42.6,
+            "kd": 0.99
+          },
+          {
+            "name": "striker",
+            "picks": 11034,
+            "pickRate": 2.46,
+            "winRate": 42.8,
+            "kd": 1.04
+          },
+          {
+            "name": "thermite",
+            "picks": 10142,
+            "pickRate": 2.27,
+            "winRate": 42.6,
+            "kd": 0.87
+          },
+          {
+            "name": "nomad",
+            "picks": 9661,
+            "pickRate": 2.16,
+            "winRate": 42.4,
+            "kd": 1.0
+          },
+          {
+            "name": "sledge",
+            "picks": 7547,
+            "pickRate": 1.69,
+            "winRate": 42.3,
+            "kd": 1.01
+          },
+          {
+            "name": "deimos",
+            "picks": 6949,
+            "pickRate": 1.55,
+            "winRate": 43.1,
+            "kd": 0.95
+          },
+          {
+            "name": "lion",
+            "picks": 6469,
+            "pickRate": 1.44,
+            "winRate": 42.7,
+            "kd": 0.91
+          },
+          {
+            "name": "iq",
+            "picks": 5583,
+            "pickRate": 1.25,
+            "winRate": 42.7,
+            "kd": 1.1
+          },
+          {
+            "name": "blackbeard",
+            "picks": 5491,
+            "pickRate": 1.23,
+            "winRate": 43.0,
+            "kd": 0.75
+          },
+          {
+            "name": "ace",
+            "picks": 5064,
+            "pickRate": 1.13,
+            "winRate": 41.3,
+            "kd": 1.01
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 14824,
+            "pickRate": 3.31,
+            "winRate": 60.5,
+            "kd": 1.27
+          },
+          {
+            "name": "aruni",
+            "picks": 14762,
+            "pickRate": 3.3,
+            "winRate": 61.0,
+            "kd": 1.48
+          },
+          {
+            "name": "bandit",
+            "picks": 12465,
+            "pickRate": 2.78,
+            "winRate": 60.1,
+            "kd": 1.23
+          },
+          {
+            "name": "tubarao",
+            "picks": 11713,
+            "pickRate": 2.62,
+            "winRate": 60.7,
+            "kd": 1.34
+          },
+          {
+            "name": "azami",
+            "picks": 11565,
+            "pickRate": 2.58,
+            "winRate": 60.2,
+            "kd": 1.24
+          },
+          {
+            "name": "solis",
+            "picks": 11014,
+            "pickRate": 2.46,
+            "winRate": 60.8,
+            "kd": 1.37
+          },
+          {
+            "name": "warden",
+            "picks": 10897,
+            "pickRate": 2.43,
+            "winRate": 60.5,
+            "kd": 1.32
+          },
+          {
+            "name": "vigil",
+            "picks": 10880,
+            "pickRate": 2.43,
+            "winRate": 58.9,
+            "kd": 1.27
+          },
+          {
+            "name": "lesion",
+            "picks": 10846,
+            "pickRate": 2.42,
+            "winRate": 60.7,
+            "kd": 1.25
+          },
+          {
+            "name": "smoke",
+            "picks": 10513,
+            "pickRate": 2.35,
+            "winRate": 60.4,
+            "kd": 1.17
+          },
+          {
+            "name": "thorn",
+            "picks": 10511,
+            "pickRate": 2.35,
+            "winRate": 61.1,
+            "kd": 1.28
+          },
+          {
+            "name": "valkyrie",
+            "picks": 8195,
+            "pickRate": 1.83,
+            "winRate": 61.1,
+            "kd": 1.32
+          },
+          {
+            "name": "goyo",
+            "picks": 7448,
+            "pickRate": 1.66,
+            "winRate": 59.7,
+            "kd": 1.21
+          },
+          {
+            "name": "melusi",
+            "picks": 6867,
+            "pickRate": 1.53,
+            "winRate": 61.1,
+            "kd": 1.21
+          },
+          {
+            "name": "ela",
+            "picks": 6762,
+            "pickRate": 1.51,
+            "winRate": 62.6,
+            "kd": 1.3
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 330279,
+        "atkWinRate": 43.8,
+        "defWinRate": 59.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 16906,
+            "pickRate": 5.12,
+            "winRate": 43.1,
+            "kd": 1.06
+          },
+          {
+            "name": "solid-snake",
+            "picks": 13156,
+            "pickRate": 3.98,
+            "winRate": 42.2,
+            "kd": 0.98
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 11407,
+            "pickRate": 3.45,
+            "winRate": 43.6,
+            "kd": 0.99
+          },
+          {
+            "name": "twitch",
+            "picks": 10706,
+            "pickRate": 3.24,
+            "winRate": 44.6,
+            "kd": 1.1
+          },
+          {
+            "name": "thermite",
+            "picks": 8775,
+            "pickRate": 2.66,
+            "winRate": 44.3,
+            "kd": 0.93
+          },
+          {
+            "name": "grim",
+            "picks": 8596,
+            "pickRate": 2.6,
+            "winRate": 43.5,
+            "kd": 0.94
+          },
+          {
+            "name": "nomad",
+            "picks": 7375,
+            "pickRate": 2.23,
+            "winRate": 43.2,
+            "kd": 1.04
+          },
+          {
+            "name": "striker",
+            "picks": 6776,
+            "pickRate": 2.05,
+            "winRate": 44.4,
+            "kd": 1.11
+          },
+          {
+            "name": "deimos",
+            "picks": 5388,
+            "pickRate": 1.63,
+            "winRate": 45.1,
+            "kd": 0.98
+          },
+          {
+            "name": "blackbeard",
+            "picks": 5128,
+            "pickRate": 1.55,
+            "winRate": 44.4,
+            "kd": 0.76
+          },
+          {
+            "name": "buck",
+            "picks": 4888,
+            "pickRate": 1.48,
+            "winRate": 42.3,
+            "kd": 0.97
+          },
+          {
+            "name": "hibana",
+            "picks": 4858,
+            "pickRate": 1.47,
+            "winRate": 45.3,
+            "kd": 1.03
+          },
+          {
+            "name": "ace",
+            "picks": 4745,
+            "pickRate": 1.44,
+            "winRate": 44.4,
+            "kd": 1.08
+          },
+          {
+            "name": "thatcher",
+            "picks": 4428,
+            "pickRate": 1.34,
+            "winRate": 45.3,
+            "kd": 1.04
+          },
+          {
+            "name": "lion",
+            "picks": 4349,
+            "pickRate": 1.32,
+            "winRate": 43.2,
+            "kd": 0.91
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 10350,
+            "pickRate": 3.13,
+            "winRate": 60.0,
+            "kd": 1.39
+          },
+          {
+            "name": "mute",
+            "picks": 10309,
+            "pickRate": 3.12,
+            "winRate": 59.5,
+            "kd": 1.18
+          },
+          {
+            "name": "bandit",
+            "picks": 10289,
+            "pickRate": 3.12,
+            "winRate": 60.5,
+            "kd": 1.26
+          },
+          {
+            "name": "azami",
+            "picks": 10040,
+            "pickRate": 3.04,
+            "winRate": 59.5,
+            "kd": 1.24
+          },
+          {
+            "name": "thorn",
+            "picks": 9128,
+            "pickRate": 2.76,
+            "winRate": 60.7,
+            "kd": 1.23
+          },
+          {
+            "name": "lesion",
+            "picks": 8334,
+            "pickRate": 2.52,
+            "winRate": 60.3,
+            "kd": 1.19
+          },
+          {
+            "name": "warden",
+            "picks": 8275,
+            "pickRate": 2.51,
+            "winRate": 59.4,
+            "kd": 1.21
+          },
+          {
+            "name": "smoke",
+            "picks": 8248,
+            "pickRate": 2.5,
+            "winRate": 59.4,
+            "kd": 1.12
+          },
+          {
+            "name": "vigil",
+            "picks": 7049,
+            "pickRate": 2.13,
+            "winRate": 58.9,
+            "kd": 1.25
+          },
+          {
+            "name": "solis",
+            "picks": 6928,
+            "pickRate": 2.1,
+            "winRate": 59.1,
+            "kd": 1.27
+          },
+          {
+            "name": "ela",
+            "picks": 6629,
+            "pickRate": 2.01,
+            "winRate": 61.2,
+            "kd": 1.24
+          },
+          {
+            "name": "tubarao",
+            "picks": 5953,
+            "pickRate": 1.8,
+            "winRate": 59.7,
+            "kd": 1.28
+          },
+          {
+            "name": "kaid",
+            "picks": 5674,
+            "pickRate": 1.72,
+            "winRate": 58.2,
+            "kd": 1.17
+          },
+          {
+            "name": "fenrir",
+            "picks": 4902,
+            "pickRate": 1.48,
+            "winRate": 59.2,
+            "kd": 1.16
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4859,
+            "pickRate": 1.47,
+            "winRate": 59.3,
+            "kd": 1.26
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 742640,
+        "atkWinRate": 45.2,
+        "defWinRate": 58.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 37309,
+            "pickRate": 5.02,
+            "winRate": 45.6,
+            "kd": 1.13
+          },
+          {
+            "name": "solid-snake",
+            "picks": 23918,
+            "pickRate": 3.22,
+            "winRate": 44.3,
+            "kd": 1.01
+          },
+          {
+            "name": "twitch",
+            "picks": 23109,
+            "pickRate": 3.11,
+            "winRate": 45.9,
+            "kd": 1.13
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 20663,
+            "pickRate": 2.78,
+            "winRate": 44.6,
+            "kd": 1.02
+          },
+          {
+            "name": "grim",
+            "picks": 20333,
+            "pickRate": 2.74,
+            "winRate": 44.9,
+            "kd": 0.94
+          },
+          {
+            "name": "striker",
+            "picks": 19519,
+            "pickRate": 2.63,
+            "winRate": 45.5,
+            "kd": 1.1
+          },
+          {
+            "name": "nomad",
+            "picks": 19369,
+            "pickRate": 2.61,
+            "winRate": 45.1,
+            "kd": 1.1
+          },
+          {
+            "name": "thermite",
+            "picks": 13291,
+            "pickRate": 1.79,
+            "winRate": 45.0,
+            "kd": 0.92
+          },
+          {
+            "name": "ace",
+            "picks": 13069,
+            "pickRate": 1.76,
+            "winRate": 45.3,
+            "kd": 1.07
+          },
+          {
+            "name": "hibana",
+            "picks": 11549,
+            "pickRate": 1.56,
+            "winRate": 45.1,
+            "kd": 1.05
+          },
+          {
+            "name": "flores",
+            "picks": 10745,
+            "pickRate": 1.45,
+            "winRate": 45.0,
+            "kd": 1.01
+          },
+          {
+            "name": "buck",
+            "picks": 10673,
+            "pickRate": 1.44,
+            "winRate": 44.6,
+            "kd": 0.97
+          },
+          {
+            "name": "maverick",
+            "picks": 9988,
+            "pickRate": 1.34,
+            "winRate": 44.4,
+            "kd": 1.09
+          },
+          {
+            "name": "lion",
+            "picks": 9570,
+            "pickRate": 1.29,
+            "winRate": 44.9,
+            "kd": 0.97
+          },
+          {
+            "name": "deimos",
+            "picks": 9455,
+            "pickRate": 1.27,
+            "winRate": 46.1,
+            "kd": 1.02
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 29026,
+            "pickRate": 3.91,
+            "winRate": 58.0,
+            "kd": 1.18
+          },
+          {
+            "name": "aruni",
+            "picks": 27869,
+            "pickRate": 3.75,
+            "winRate": 59.9,
+            "kd": 1.4
+          },
+          {
+            "name": "warden",
+            "picks": 24681,
+            "pickRate": 3.32,
+            "winRate": 57.7,
+            "kd": 1.24
+          },
+          {
+            "name": "azami",
+            "picks": 21229,
+            "pickRate": 2.86,
+            "winRate": 58.0,
+            "kd": 1.17
+          },
+          {
+            "name": "smoke",
+            "picks": 18330,
+            "pickRate": 2.47,
+            "winRate": 57.8,
+            "kd": 1.1
+          },
+          {
+            "name": "thorn",
+            "picks": 16845,
+            "pickRate": 2.27,
+            "winRate": 59.4,
+            "kd": 1.27
+          },
+          {
+            "name": "vigil",
+            "picks": 14697,
+            "pickRate": 1.98,
+            "winRate": 56.4,
+            "kd": 1.23
+          },
+          {
+            "name": "lesion",
+            "picks": 14193,
+            "pickRate": 1.91,
+            "winRate": 57.8,
+            "kd": 1.17
+          },
+          {
+            "name": "valkyrie",
+            "picks": 14170,
+            "pickRate": 1.91,
+            "winRate": 59.0,
+            "kd": 1.32
+          },
+          {
+            "name": "bandit",
+            "picks": 13853,
+            "pickRate": 1.87,
+            "winRate": 58.0,
+            "kd": 1.18
+          },
+          {
+            "name": "kaid",
+            "picks": 13368,
+            "pickRate": 1.8,
+            "winRate": 58.0,
+            "kd": 1.13
+          },
+          {
+            "name": "jager",
+            "picks": 12501,
+            "pickRate": 1.68,
+            "winRate": 56.2,
+            "kd": 1.09
+          },
+          {
+            "name": "solis",
+            "picks": 12009,
+            "pickRate": 1.62,
+            "winRate": 58.5,
+            "kd": 1.31
+          },
+          {
+            "name": "fenrir",
+            "picks": 11977,
+            "pickRate": 1.61,
+            "winRate": 57.9,
+            "kd": 1.14
+          },
+          {
+            "name": "tubarao",
+            "picks": 11900,
+            "pickRate": 1.6,
+            "winRate": 57.9,
+            "kd": 1.3
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 549921,
+        "atkWinRate": 49.3,
+        "defWinRate": 53.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 27550,
+            "pickRate": 5.01,
+            "winRate": 49.4,
+            "kd": 1.2
+          },
+          {
+            "name": "solid-snake",
+            "picks": 19059,
+            "pickRate": 3.47,
+            "winRate": 48.3,
+            "kd": 1.05
+          },
+          {
+            "name": "twitch",
+            "picks": 17091,
+            "pickRate": 3.11,
+            "winRate": 49.8,
+            "kd": 1.2
+          },
+          {
+            "name": "nomad",
+            "picks": 15640,
+            "pickRate": 2.84,
+            "winRate": 50.4,
+            "kd": 1.21
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 15570,
+            "pickRate": 2.83,
+            "winRate": 49.9,
+            "kd": 1.14
+          },
+          {
+            "name": "buck",
+            "picks": 13559,
+            "pickRate": 2.47,
+            "winRate": 48.7,
+            "kd": 1.08
+          },
+          {
+            "name": "grim",
+            "picks": 10799,
+            "pickRate": 1.96,
+            "winRate": 47.8,
+            "kd": 1.01
+          },
+          {
+            "name": "lion",
+            "picks": 9865,
+            "pickRate": 1.79,
+            "winRate": 49.2,
+            "kd": 1.09
+          },
+          {
+            "name": "glaz",
+            "picks": 8301,
+            "pickRate": 1.51,
+            "winRate": 49.5,
+            "kd": 1.22
+          },
+          {
+            "name": "hibana",
+            "picks": 8273,
+            "pickRate": 1.5,
+            "winRate": 49.9,
+            "kd": 1.18
+          },
+          {
+            "name": "brava",
+            "picks": 8167,
+            "pickRate": 1.49,
+            "winRate": 49.9,
+            "kd": 1.27
+          },
+          {
+            "name": "deimos",
+            "picks": 7842,
+            "pickRate": 1.43,
+            "winRate": 49.3,
+            "kd": 1.06
+          },
+          {
+            "name": "sledge",
+            "picks": 7543,
+            "pickRate": 1.37,
+            "winRate": 48.7,
+            "kd": 1.13
+          },
+          {
+            "name": "iq",
+            "picks": 7383,
+            "pickRate": 1.34,
+            "winRate": 50.7,
+            "kd": 1.23
+          },
+          {
+            "name": "striker",
+            "picks": 6892,
+            "pickRate": 1.25,
+            "winRate": 49.5,
+            "kd": 1.21
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 25725,
+            "pickRate": 4.68,
+            "winRate": 55.0,
+            "kd": 1.36
+          },
+          {
+            "name": "tubarao",
+            "picks": 15939,
+            "pickRate": 2.9,
+            "winRate": 54.7,
+            "kd": 1.31
+          },
+          {
+            "name": "azami",
+            "picks": 15506,
+            "pickRate": 2.82,
+            "winRate": 54.2,
+            "kd": 1.11
+          },
+          {
+            "name": "vigil",
+            "picks": 14413,
+            "pickRate": 2.62,
+            "winRate": 53.2,
+            "kd": 1.13
+          },
+          {
+            "name": "valkyrie",
+            "picks": 14407,
+            "pickRate": 2.62,
+            "winRate": 54.7,
+            "kd": 1.27
+          },
+          {
+            "name": "solis",
+            "picks": 13666,
+            "pickRate": 2.49,
+            "winRate": 54.1,
+            "kd": 1.22
+          },
+          {
+            "name": "lesion",
+            "picks": 13327,
+            "pickRate": 2.42,
+            "winRate": 54.5,
+            "kd": 1.15
+          },
+          {
+            "name": "thorn",
+            "picks": 12385,
+            "pickRate": 2.25,
+            "winRate": 54.6,
+            "kd": 1.14
+          },
+          {
+            "name": "mute",
+            "picks": 11172,
+            "pickRate": 2.03,
+            "winRate": 53.2,
+            "kd": 1.04
+          },
+          {
+            "name": "castle",
+            "picks": 10537,
+            "pickRate": 1.92,
+            "winRate": 52.8,
+            "kd": 0.97
+          },
+          {
+            "name": "warden",
+            "picks": 10524,
+            "pickRate": 1.91,
+            "winRate": 52.9,
+            "kd": 1.1
+          },
+          {
+            "name": "melusi",
+            "picks": 10025,
+            "pickRate": 1.82,
+            "winRate": 53.6,
+            "kd": 1.03
+          },
+          {
+            "name": "smoke",
+            "picks": 9226,
+            "pickRate": 1.68,
+            "winRate": 52.8,
+            "kd": 0.96
+          },
+          {
+            "name": "goyo",
+            "picks": 7549,
+            "pickRate": 1.37,
+            "winRate": 52.5,
+            "kd": 1.02
+          },
+          {
+            "name": "ela",
+            "picks": 7407,
+            "pickRate": 1.35,
+            "winRate": 54.8,
+            "kd": 1.16
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 619751,
+        "atkWinRate": 45.3,
+        "defWinRate": 58.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 29280,
+            "pickRate": 4.72,
+            "winRate": 44.8,
+            "kd": 1.1
+          },
+          {
+            "name": "thermite",
+            "picks": 24853,
+            "pickRate": 4.01,
+            "winRate": 45.8,
+            "kd": 0.98
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 20086,
+            "pickRate": 3.24,
+            "winRate": 45.1,
+            "kd": 1.04
+          },
+          {
+            "name": "solid-snake",
+            "picks": 19344,
+            "pickRate": 3.12,
+            "winRate": 44.3,
+            "kd": 1.01
+          },
+          {
+            "name": "thatcher",
+            "picks": 17797,
+            "pickRate": 2.87,
+            "winRate": 45.6,
+            "kd": 1.03
+          },
+          {
+            "name": "twitch",
+            "picks": 14445,
+            "pickRate": 2.33,
+            "winRate": 46.1,
+            "kd": 1.14
+          },
+          {
+            "name": "grim",
+            "picks": 14375,
+            "pickRate": 2.32,
+            "winRate": 45.2,
+            "kd": 0.93
+          },
+          {
+            "name": "buck",
+            "picks": 14321,
+            "pickRate": 2.31,
+            "winRate": 44.2,
+            "kd": 0.96
+          },
+          {
+            "name": "ace",
+            "picks": 13938,
+            "pickRate": 2.25,
+            "winRate": 45.1,
+            "kd": 1.09
+          },
+          {
+            "name": "striker",
+            "picks": 11056,
+            "pickRate": 1.78,
+            "winRate": 46.0,
+            "kd": 1.11
+          },
+          {
+            "name": "nomad",
+            "picks": 10653,
+            "pickRate": 1.72,
+            "winRate": 45.5,
+            "kd": 1.1
+          },
+          {
+            "name": "maverick",
+            "picks": 9636,
+            "pickRate": 1.55,
+            "winRate": 45.3,
+            "kd": 0.97
+          },
+          {
+            "name": "hibana",
+            "picks": 9393,
+            "pickRate": 1.52,
+            "winRate": 44.9,
+            "kd": 1.04
+          },
+          {
+            "name": "ram",
+            "picks": 8656,
+            "pickRate": 1.4,
+            "winRate": 46.2,
+            "kd": 1.09
+          },
+          {
+            "name": "deimos",
+            "picks": 7884,
+            "pickRate": 1.27,
+            "winRate": 45.4,
+            "kd": 0.99
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 24674,
+            "pickRate": 3.98,
+            "winRate": 59.0,
+            "kd": 1.2
+          },
+          {
+            "name": "azami",
+            "picks": 23994,
+            "pickRate": 3.87,
+            "winRate": 57.5,
+            "kd": 1.1
+          },
+          {
+            "name": "tubarao",
+            "picks": 21653,
+            "pickRate": 3.49,
+            "winRate": 58.5,
+            "kd": 1.32
+          },
+          {
+            "name": "mute",
+            "picks": 20446,
+            "pickRate": 3.3,
+            "winRate": 57.6,
+            "kd": 1.2
+          },
+          {
+            "name": "aruni",
+            "picks": 19551,
+            "pickRate": 3.15,
+            "winRate": 58.4,
+            "kd": 1.36
+          },
+          {
+            "name": "vigil",
+            "picks": 16134,
+            "pickRate": 2.6,
+            "winRate": 57.1,
+            "kd": 1.23
+          },
+          {
+            "name": "warden",
+            "picks": 15076,
+            "pickRate": 2.43,
+            "winRate": 57.2,
+            "kd": 1.23
+          },
+          {
+            "name": "kaid",
+            "picks": 14584,
+            "pickRate": 2.35,
+            "winRate": 58.1,
+            "kd": 1.11
+          },
+          {
+            "name": "valkyrie",
+            "picks": 14030,
+            "pickRate": 2.26,
+            "winRate": 59.0,
+            "kd": 1.39
+          },
+          {
+            "name": "solis",
+            "picks": 13227,
+            "pickRate": 2.13,
+            "winRate": 58.0,
+            "kd": 1.28
+          },
+          {
+            "name": "lesion",
+            "picks": 12108,
+            "pickRate": 1.95,
+            "winRate": 57.1,
+            "kd": 1.18
+          },
+          {
+            "name": "smoke",
+            "picks": 11197,
+            "pickRate": 1.81,
+            "winRate": 57.1,
+            "kd": 1.06
+          },
+          {
+            "name": "thorn",
+            "picks": 11119,
+            "pickRate": 1.79,
+            "winRate": 60.1,
+            "kd": 1.3
+          },
+          {
+            "name": "fenrir",
+            "picks": 7917,
+            "pickRate": 1.28,
+            "winRate": 57.4,
+            "kd": 1.11
+          },
+          {
+            "name": "ela",
+            "picks": 7199,
+            "pickRate": 1.16,
+            "winRate": 59.7,
+            "kd": 1.18
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 552603,
+        "atkWinRate": 44.6,
+        "defWinRate": 58.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 26012,
+            "pickRate": 4.71,
+            "winRate": 44.5,
+            "kd": 1.11
+          },
+          {
+            "name": "twitch",
+            "picks": 17256,
+            "pickRate": 3.12,
+            "winRate": 44.2,
+            "kd": 1.09
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 16116,
+            "pickRate": 2.92,
+            "winRate": 45.1,
+            "kd": 1.04
+          },
+          {
+            "name": "solid-snake",
+            "picks": 14970,
+            "pickRate": 2.71,
+            "winRate": 42.8,
+            "kd": 0.99
+          },
+          {
+            "name": "nomad",
+            "picks": 14294,
+            "pickRate": 2.59,
+            "winRate": 45.9,
+            "kd": 1.12
+          },
+          {
+            "name": "grim",
+            "picks": 13666,
+            "pickRate": 2.47,
+            "winRate": 44.3,
+            "kd": 0.93
+          },
+          {
+            "name": "hibana",
+            "picks": 13238,
+            "pickRate": 2.4,
+            "winRate": 45.5,
+            "kd": 1.05
+          },
+          {
+            "name": "buck",
+            "picks": 11386,
+            "pickRate": 2.06,
+            "winRate": 43.3,
+            "kd": 0.98
+          },
+          {
+            "name": "lion",
+            "picks": 10341,
+            "pickRate": 1.87,
+            "winRate": 45.1,
+            "kd": 1.04
+          },
+          {
+            "name": "brava",
+            "picks": 8928,
+            "pickRate": 1.62,
+            "winRate": 45.1,
+            "kd": 1.08
+          },
+          {
+            "name": "thermite",
+            "picks": 8616,
+            "pickRate": 1.56,
+            "winRate": 45.1,
+            "kd": 0.95
+          },
+          {
+            "name": "striker",
+            "picks": 8601,
+            "pickRate": 1.56,
+            "winRate": 44.5,
+            "kd": 1.08
+          },
+          {
+            "name": "sledge",
+            "picks": 8374,
+            "pickRate": 1.52,
+            "winRate": 44.8,
+            "kd": 1.04
+          },
+          {
+            "name": "gridlock",
+            "picks": 7581,
+            "pickRate": 1.37,
+            "winRate": 44.5,
+            "kd": 1.06
+          },
+          {
+            "name": "iq",
+            "picks": 7535,
+            "pickRate": 1.36,
+            "winRate": 45.7,
+            "kd": 1.17
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 26877,
+            "pickRate": 4.86,
+            "winRate": 59.8,
+            "kd": 1.43
+          },
+          {
+            "name": "mute",
+            "picks": 19675,
+            "pickRate": 3.56,
+            "winRate": 58.7,
+            "kd": 1.14
+          },
+          {
+            "name": "azami",
+            "picks": 19494,
+            "pickRate": 3.53,
+            "winRate": 58.6,
+            "kd": 1.22
+          },
+          {
+            "name": "valkyrie",
+            "picks": 17642,
+            "pickRate": 3.19,
+            "winRate": 59.8,
+            "kd": 1.35
+          },
+          {
+            "name": "castle",
+            "picks": 15075,
+            "pickRate": 2.73,
+            "winRate": 58.0,
+            "kd": 1.05
+          },
+          {
+            "name": "tubarao",
+            "picks": 12741,
+            "pickRate": 2.31,
+            "winRate": 59.3,
+            "kd": 1.41
+          },
+          {
+            "name": "thorn",
+            "picks": 11376,
+            "pickRate": 2.06,
+            "winRate": 60.1,
+            "kd": 1.3
+          },
+          {
+            "name": "solis",
+            "picks": 11341,
+            "pickRate": 2.05,
+            "winRate": 59.2,
+            "kd": 1.29
+          },
+          {
+            "name": "vigil",
+            "picks": 11289,
+            "pickRate": 2.04,
+            "winRate": 57.7,
+            "kd": 1.19
+          },
+          {
+            "name": "lesion",
+            "picks": 11005,
+            "pickRate": 1.99,
+            "winRate": 59.6,
+            "kd": 1.24
+          },
+          {
+            "name": "warden",
+            "picks": 9433,
+            "pickRate": 1.71,
+            "winRate": 58.5,
+            "kd": 1.18
+          },
+          {
+            "name": "jager",
+            "picks": 7961,
+            "pickRate": 1.44,
+            "winRate": 57.0,
+            "kd": 1.04
+          },
+          {
+            "name": "smoke",
+            "picks": 7663,
+            "pickRate": 1.39,
+            "winRate": 58.0,
+            "kd": 1.05
+          },
+          {
+            "name": "melusi",
+            "picks": 7497,
+            "pickRate": 1.36,
+            "winRate": 59.3,
+            "kd": 1.21
+          },
+          {
+            "name": "kaid",
+            "picks": 7176,
+            "pickRate": 1.3,
+            "winRate": 58.0,
+            "kd": 1.17
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 710011,
+        "atkWinRate": 48.7,
+        "defWinRate": 54.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 34716,
+            "pickRate": 4.89,
+            "winRate": 48.3,
+            "kd": 1.16
+          },
+          {
+            "name": "solid-snake",
+            "picks": 24066,
+            "pickRate": 3.39,
+            "winRate": 47.4,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 21516,
+            "pickRate": 3.03,
+            "winRate": 49.7,
+            "kd": 1.13
+          },
+          {
+            "name": "twitch",
+            "picks": 20162,
+            "pickRate": 2.84,
+            "winRate": 48.5,
+            "kd": 1.16
+          },
+          {
+            "name": "nomad",
+            "picks": 17672,
+            "pickRate": 2.49,
+            "winRate": 48.8,
+            "kd": 1.15
+          },
+          {
+            "name": "grim",
+            "picks": 16867,
+            "pickRate": 2.38,
+            "winRate": 48.7,
+            "kd": 1.03
+          },
+          {
+            "name": "buck",
+            "picks": 16544,
+            "pickRate": 2.33,
+            "winRate": 47.0,
+            "kd": 1.05
+          },
+          {
+            "name": "thermite",
+            "picks": 14091,
+            "pickRate": 1.98,
+            "winRate": 47.3,
+            "kd": 0.96
+          },
+          {
+            "name": "striker",
+            "picks": 12443,
+            "pickRate": 1.75,
+            "winRate": 49.3,
+            "kd": 1.15
+          },
+          {
+            "name": "deimos",
+            "picks": 11064,
+            "pickRate": 1.56,
+            "winRate": 49.5,
+            "kd": 1.07
+          },
+          {
+            "name": "hibana",
+            "picks": 10701,
+            "pickRate": 1.51,
+            "winRate": 49.3,
+            "kd": 1.11
+          },
+          {
+            "name": "lion",
+            "picks": 10577,
+            "pickRate": 1.49,
+            "winRate": 49.5,
+            "kd": 1.06
+          },
+          {
+            "name": "iq",
+            "picks": 9677,
+            "pickRate": 1.36,
+            "winRate": 48.1,
+            "kd": 1.16
+          },
+          {
+            "name": "sledge",
+            "picks": 9015,
+            "pickRate": 1.27,
+            "winRate": 49.5,
+            "kd": 1.11
+          },
+          {
+            "name": "blackbeard",
+            "picks": 8074,
+            "pickRate": 1.14,
+            "winRate": 48.9,
+            "kd": 0.84
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 26881,
+            "pickRate": 3.79,
+            "winRate": 55.8,
+            "kd": 1.31
+          },
+          {
+            "name": "azami",
+            "picks": 20169,
+            "pickRate": 2.84,
+            "winRate": 54.0,
+            "kd": 1.1
+          },
+          {
+            "name": "mute",
+            "picks": 18732,
+            "pickRate": 2.64,
+            "winRate": 54.6,
+            "kd": 1.11
+          },
+          {
+            "name": "warden",
+            "picks": 18187,
+            "pickRate": 2.56,
+            "winRate": 53.8,
+            "kd": 1.13
+          },
+          {
+            "name": "solis",
+            "picks": 18140,
+            "pickRate": 2.55,
+            "winRate": 55.2,
+            "kd": 1.21
+          },
+          {
+            "name": "valkyrie",
+            "picks": 18130,
+            "pickRate": 2.55,
+            "winRate": 56.5,
+            "kd": 1.25
+          },
+          {
+            "name": "vigil",
+            "picks": 17820,
+            "pickRate": 2.51,
+            "winRate": 54.1,
+            "kd": 1.16
+          },
+          {
+            "name": "lesion",
+            "picks": 17772,
+            "pickRate": 2.5,
+            "winRate": 54.5,
+            "kd": 1.12
+          },
+          {
+            "name": "thorn",
+            "picks": 16434,
+            "pickRate": 2.31,
+            "winRate": 55.3,
+            "kd": 1.16
+          },
+          {
+            "name": "smoke",
+            "picks": 15559,
+            "pickRate": 2.19,
+            "winRate": 53.1,
+            "kd": 0.99
+          },
+          {
+            "name": "kapkan",
+            "picks": 14472,
+            "pickRate": 2.04,
+            "winRate": 57.6,
+            "kd": 1.39
+          },
+          {
+            "name": "bandit",
+            "picks": 13994,
+            "pickRate": 1.97,
+            "winRate": 54.0,
+            "kd": 1.16
+          },
+          {
+            "name": "tubarao",
+            "picks": 12457,
+            "pickRate": 1.75,
+            "winRate": 54.1,
+            "kd": 1.21
+          },
+          {
+            "name": "kaid",
+            "picks": 11574,
+            "pickRate": 1.63,
+            "winRate": 53.5,
+            "kd": 1.08
+          },
+          {
+            "name": "castle",
+            "picks": 11289,
+            "pickRate": 1.59,
+            "winRate": 53.7,
+            "kd": 1.01
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 752765,
+        "atkWinRate": 45.2,
+        "defWinRate": 58.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 34219,
+            "pickRate": 4.55,
+            "winRate": 45.3,
+            "kd": 1.12
+          },
+          {
+            "name": "hibana",
+            "picks": 24520,
+            "pickRate": 3.26,
+            "winRate": 43.9,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 23334,
+            "pickRate": 3.1,
+            "winRate": 44.9,
+            "kd": 1.04
+          },
+          {
+            "name": "thermite",
+            "picks": 21169,
+            "pickRate": 2.81,
+            "winRate": 48.1,
+            "kd": 1.04
+          },
+          {
+            "name": "grim",
+            "picks": 21060,
+            "pickRate": 2.8,
+            "winRate": 44.3,
+            "kd": 0.96
+          },
+          {
+            "name": "solid-snake",
+            "picks": 20557,
+            "pickRate": 2.73,
+            "winRate": 43.1,
+            "kd": 1.0
+          },
+          {
+            "name": "twitch",
+            "picks": 18382,
+            "pickRate": 2.44,
+            "winRate": 45.9,
+            "kd": 1.12
+          },
+          {
+            "name": "striker",
+            "picks": 17361,
+            "pickRate": 2.31,
+            "winRate": 43.8,
+            "kd": 1.07
+          },
+          {
+            "name": "thatcher",
+            "picks": 14603,
+            "pickRate": 1.94,
+            "winRate": 47.9,
+            "kd": 1.1
+          },
+          {
+            "name": "capitao",
+            "picks": 14220,
+            "pickRate": 1.89,
+            "winRate": 46.2,
+            "kd": 0.97
+          },
+          {
+            "name": "buck",
+            "picks": 14137,
+            "pickRate": 1.88,
+            "winRate": 44.5,
+            "kd": 0.98
+          },
+          {
+            "name": "ace",
+            "picks": 13137,
+            "pickRate": 1.75,
+            "winRate": 46.8,
+            "kd": 1.17
+          },
+          {
+            "name": "maverick",
+            "picks": 10372,
+            "pickRate": 1.38,
+            "winRate": 45.3,
+            "kd": 1.0
+          },
+          {
+            "name": "montagne",
+            "picks": 10130,
+            "pickRate": 1.35,
+            "winRate": 49.3,
+            "kd": 0.84
+          },
+          {
+            "name": "nomad",
+            "picks": 9818,
+            "pickRate": 1.3,
+            "winRate": 44.9,
+            "kd": 1.05
+          }
+        ],
+        "defenders": [
+          {
+            "name": "azami",
+            "picks": 28376,
+            "pickRate": 3.77,
+            "winRate": 56.3,
+            "kd": 1.14
+          },
+          {
+            "name": "aruni",
+            "picks": 26062,
+            "pickRate": 3.46,
+            "winRate": 59.6,
+            "kd": 1.42
+          },
+          {
+            "name": "bandit",
+            "picks": 24502,
+            "pickRate": 3.25,
+            "winRate": 56.3,
+            "kd": 1.12
+          },
+          {
+            "name": "castle",
+            "picks": 23416,
+            "pickRate": 3.11,
+            "winRate": 55.5,
+            "kd": 1.02
+          },
+          {
+            "name": "mute",
+            "picks": 20563,
+            "pickRate": 2.73,
+            "winRate": 56.5,
+            "kd": 1.15
+          },
+          {
+            "name": "tubarao",
+            "picks": 18809,
+            "pickRate": 2.5,
+            "winRate": 58.1,
+            "kd": 1.3
+          },
+          {
+            "name": "kaid",
+            "picks": 17628,
+            "pickRate": 2.34,
+            "winRate": 59.9,
+            "kd": 1.18
+          },
+          {
+            "name": "valkyrie",
+            "picks": 17110,
+            "pickRate": 2.27,
+            "winRate": 60.3,
+            "kd": 1.33
+          },
+          {
+            "name": "vigil",
+            "picks": 15691,
+            "pickRate": 2.08,
+            "winRate": 58.2,
+            "kd": 1.2
+          },
+          {
+            "name": "thorn",
+            "picks": 15588,
+            "pickRate": 2.07,
+            "winRate": 61.1,
+            "kd": 1.38
+          },
+          {
+            "name": "lesion",
+            "picks": 13101,
+            "pickRate": 1.74,
+            "winRate": 58.5,
+            "kd": 1.22
+          },
+          {
+            "name": "smoke",
+            "picks": 12824,
+            "pickRate": 1.7,
+            "winRate": 56.8,
+            "kd": 1.07
+          },
+          {
+            "name": "solis",
+            "picks": 12734,
+            "pickRate": 1.69,
+            "winRate": 58.7,
+            "kd": 1.31
+          },
+          {
+            "name": "warden",
+            "picks": 12316,
+            "pickRate": 1.64,
+            "winRate": 57.8,
+            "kd": 1.2
+          },
+          {
+            "name": "jager",
+            "picks": 11646,
+            "pickRate": 1.55,
+            "winRate": 55.9,
+            "kd": 1.06
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 389453,
+        "atkWinRate": 46.8,
+        "defWinRate": 56.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 17219,
+            "pickRate": 4.42,
+            "winRate": 46.8,
+            "kd": 1.15
+          },
+          {
+            "name": "twitch",
+            "picks": 13030,
+            "pickRate": 3.35,
+            "winRate": 47.8,
+            "kd": 1.21
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 12592,
+            "pickRate": 3.23,
+            "winRate": 46.7,
+            "kd": 1.09
+          },
+          {
+            "name": "grim",
+            "picks": 11607,
+            "pickRate": 2.98,
+            "winRate": 45.9,
+            "kd": 0.99
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11373,
+            "pickRate": 2.92,
+            "winRate": 44.6,
+            "kd": 0.98
+          },
+          {
+            "name": "striker",
+            "picks": 10422,
+            "pickRate": 2.68,
+            "winRate": 47.3,
+            "kd": 1.15
+          },
+          {
+            "name": "hibana",
+            "picks": 10345,
+            "pickRate": 2.66,
+            "winRate": 48.1,
+            "kd": 1.12
+          },
+          {
+            "name": "lion",
+            "picks": 7715,
+            "pickRate": 1.98,
+            "winRate": 46.9,
+            "kd": 1.09
+          },
+          {
+            "name": "nomad",
+            "picks": 7386,
+            "pickRate": 1.9,
+            "winRate": 46.6,
+            "kd": 1.14
+          },
+          {
+            "name": "deimos",
+            "picks": 5974,
+            "pickRate": 1.53,
+            "winRate": 48.3,
+            "kd": 1.09
+          },
+          {
+            "name": "thermite",
+            "picks": 5919,
+            "pickRate": 1.52,
+            "winRate": 46.5,
+            "kd": 0.91
+          },
+          {
+            "name": "iq",
+            "picks": 5548,
+            "pickRate": 1.42,
+            "winRate": 46.9,
+            "kd": 1.16
+          },
+          {
+            "name": "brava",
+            "picks": 5079,
+            "pickRate": 1.3,
+            "winRate": 47.6,
+            "kd": 1.17
+          },
+          {
+            "name": "buck",
+            "picks": 4469,
+            "pickRate": 1.15,
+            "winRate": 44.6,
+            "kd": 1.02
+          },
+          {
+            "name": "capitao",
+            "picks": 4459,
+            "pickRate": 1.14,
+            "winRate": 46.7,
+            "kd": 1.04
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 20504,
+            "pickRate": 5.26,
+            "winRate": 57.7,
+            "kd": 1.44
+          },
+          {
+            "name": "azami",
+            "picks": 13048,
+            "pickRate": 3.35,
+            "winRate": 56.3,
+            "kd": 1.13
+          },
+          {
+            "name": "valkyrie",
+            "picks": 10585,
+            "pickRate": 2.72,
+            "winRate": 57.0,
+            "kd": 1.25
+          },
+          {
+            "name": "smoke",
+            "picks": 10427,
+            "pickRate": 2.68,
+            "winRate": 56.0,
+            "kd": 1.02
+          },
+          {
+            "name": "goyo",
+            "picks": 9983,
+            "pickRate": 2.56,
+            "winRate": 56.6,
+            "kd": 1.08
+          },
+          {
+            "name": "vigil",
+            "picks": 9819,
+            "pickRate": 2.52,
+            "winRate": 55.0,
+            "kd": 1.15
+          },
+          {
+            "name": "tubarao",
+            "picks": 9070,
+            "pickRate": 2.33,
+            "winRate": 57.9,
+            "kd": 1.34
+          },
+          {
+            "name": "kaid",
+            "picks": 8696,
+            "pickRate": 2.23,
+            "winRate": 57.6,
+            "kd": 1.17
+          },
+          {
+            "name": "thorn",
+            "picks": 7796,
+            "pickRate": 2.0,
+            "winRate": 58.3,
+            "kd": 1.22
+          },
+          {
+            "name": "warden",
+            "picks": 7765,
+            "pickRate": 1.99,
+            "winRate": 55.6,
+            "kd": 1.13
+          },
+          {
+            "name": "lesion",
+            "picks": 7006,
+            "pickRate": 1.8,
+            "winRate": 56.1,
+            "kd": 1.13
+          },
+          {
+            "name": "castle",
+            "picks": 6909,
+            "pickRate": 1.77,
+            "winRate": 54.6,
+            "kd": 1.04
+          },
+          {
+            "name": "solis",
+            "picks": 6713,
+            "pickRate": 1.72,
+            "winRate": 57.3,
+            "kd": 1.24
+          },
+          {
+            "name": "mute",
+            "picks": 6243,
+            "pickRate": 1.6,
+            "winRate": 56.9,
+            "kd": 1.1
+          },
+          {
+            "name": "skopos",
+            "picks": 4173,
+            "pickRate": 1.07,
+            "winRate": 57.9,
+            "kd": 1.46
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 756583,
+        "atkWinRate": 47.2,
+        "defWinRate": 56.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 34772,
+            "pickRate": 4.6,
+            "winRate": 46.7,
+            "kd": 1.16
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 24326,
+            "pickRate": 3.22,
+            "winRate": 47.2,
+            "kd": 1.08
+          },
+          {
+            "name": "solid-snake",
+            "picks": 23175,
+            "pickRate": 3.06,
+            "winRate": 45.8,
+            "kd": 1.03
+          },
+          {
+            "name": "twitch",
+            "picks": 22260,
+            "pickRate": 2.94,
+            "winRate": 48.1,
+            "kd": 1.19
+          },
+          {
+            "name": "thermite",
+            "picks": 21886,
+            "pickRate": 2.89,
+            "winRate": 47.4,
+            "kd": 0.97
+          },
+          {
+            "name": "hibana",
+            "picks": 20876,
+            "pickRate": 2.76,
+            "winRate": 47.7,
+            "kd": 1.1
+          },
+          {
+            "name": "grim",
+            "picks": 20774,
+            "pickRate": 2.75,
+            "winRate": 47.1,
+            "kd": 1.0
+          },
+          {
+            "name": "nomad",
+            "picks": 17145,
+            "pickRate": 2.27,
+            "winRate": 48.3,
+            "kd": 1.17
+          },
+          {
+            "name": "striker",
+            "picks": 14446,
+            "pickRate": 1.91,
+            "winRate": 48.1,
+            "kd": 1.18
+          },
+          {
+            "name": "buck",
+            "picks": 12389,
+            "pickRate": 1.64,
+            "winRate": 46.0,
+            "kd": 1.02
+          },
+          {
+            "name": "lion",
+            "picks": 10582,
+            "pickRate": 1.4,
+            "winRate": 46.7,
+            "kd": 1.05
+          },
+          {
+            "name": "thatcher",
+            "picks": 9913,
+            "pickRate": 1.31,
+            "winRate": 48.7,
+            "kd": 1.09
+          },
+          {
+            "name": "iq",
+            "picks": 9375,
+            "pickRate": 1.24,
+            "winRate": 47.5,
+            "kd": 1.16
+          },
+          {
+            "name": "deimos",
+            "picks": 9258,
+            "pickRate": 1.22,
+            "winRate": 47.1,
+            "kd": 1.04
+          },
+          {
+            "name": "ram",
+            "picks": 8954,
+            "pickRate": 1.18,
+            "winRate": 48.2,
+            "kd": 1.1
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 29171,
+            "pickRate": 3.86,
+            "winRate": 56.4,
+            "kd": 1.3
+          },
+          {
+            "name": "azami",
+            "picks": 28535,
+            "pickRate": 3.77,
+            "winRate": 55.6,
+            "kd": 1.12
+          },
+          {
+            "name": "mute",
+            "picks": 23256,
+            "pickRate": 3.07,
+            "winRate": 56.0,
+            "kd": 1.12
+          },
+          {
+            "name": "bandit",
+            "picks": 21058,
+            "pickRate": 2.78,
+            "winRate": 56.2,
+            "kd": 1.12
+          },
+          {
+            "name": "tubarao",
+            "picks": 20992,
+            "pickRate": 2.77,
+            "winRate": 55.9,
+            "kd": 1.24
+          },
+          {
+            "name": "thorn",
+            "picks": 19578,
+            "pickRate": 2.59,
+            "winRate": 58.1,
+            "kd": 1.29
+          },
+          {
+            "name": "warden",
+            "picks": 17449,
+            "pickRate": 2.31,
+            "winRate": 56.0,
+            "kd": 1.18
+          },
+          {
+            "name": "valkyrie",
+            "picks": 15831,
+            "pickRate": 2.09,
+            "winRate": 56.9,
+            "kd": 1.24
+          },
+          {
+            "name": "solis",
+            "picks": 15737,
+            "pickRate": 2.08,
+            "winRate": 56.3,
+            "kd": 1.24
+          },
+          {
+            "name": "kaid",
+            "picks": 15602,
+            "pickRate": 2.06,
+            "winRate": 55.6,
+            "kd": 1.08
+          },
+          {
+            "name": "vigil",
+            "picks": 15447,
+            "pickRate": 2.04,
+            "winRate": 55.3,
+            "kd": 1.17
+          },
+          {
+            "name": "lesion",
+            "picks": 14019,
+            "pickRate": 1.85,
+            "winRate": 57.4,
+            "kd": 1.17
+          },
+          {
+            "name": "smoke",
+            "picks": 13290,
+            "pickRate": 1.76,
+            "winRate": 55.6,
+            "kd": 1.07
+          },
+          {
+            "name": "fenrir",
+            "picks": 11162,
+            "pickRate": 1.48,
+            "winRate": 56.2,
+            "kd": 1.13
+          },
+          {
+            "name": "melusi",
+            "picks": 11059,
+            "pickRate": 1.46,
+            "winRate": 57.1,
+            "kd": 1.12
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 249883,
+        "atkWinRate": 44.3,
+        "defWinRate": 59.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 12058,
+            "pickRate": 4.83,
+            "winRate": 43.9,
+            "kd": 1.1
+          },
+          {
+            "name": "solid-snake",
+            "picks": 9051,
+            "pickRate": 3.62,
+            "winRate": 43.8,
+            "kd": 0.98
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 8638,
+            "pickRate": 3.46,
+            "winRate": 45.0,
+            "kd": 1.04
+          },
+          {
+            "name": "twitch",
+            "picks": 7968,
+            "pickRate": 3.19,
+            "winRate": 45.0,
+            "kd": 1.13
+          },
+          {
+            "name": "grim",
+            "picks": 7287,
+            "pickRate": 2.92,
+            "winRate": 45.1,
+            "kd": 0.92
+          },
+          {
+            "name": "thermite",
+            "picks": 7164,
+            "pickRate": 2.87,
+            "winRate": 44.0,
+            "kd": 0.94
+          },
+          {
+            "name": "striker",
+            "picks": 4937,
+            "pickRate": 1.98,
+            "winRate": 44.9,
+            "kd": 1.1
+          },
+          {
+            "name": "nomad",
+            "picks": 4132,
+            "pickRate": 1.65,
+            "winRate": 43.2,
+            "kd": 1.03
+          },
+          {
+            "name": "deimos",
+            "picks": 4076,
+            "pickRate": 1.63,
+            "winRate": 44.8,
+            "kd": 0.98
+          },
+          {
+            "name": "buck",
+            "picks": 4074,
+            "pickRate": 1.63,
+            "winRate": 42.7,
+            "kd": 0.93
+          },
+          {
+            "name": "hibana",
+            "picks": 3878,
+            "pickRate": 1.55,
+            "winRate": 45.0,
+            "kd": 1.01
+          },
+          {
+            "name": "iq",
+            "picks": 3810,
+            "pickRate": 1.52,
+            "winRate": 44.7,
+            "kd": 1.11
+          },
+          {
+            "name": "blackbeard",
+            "picks": 3749,
+            "pickRate": 1.5,
+            "winRate": 44.4,
+            "kd": 0.78
+          },
+          {
+            "name": "lion",
+            "picks": 3557,
+            "pickRate": 1.42,
+            "winRate": 44.0,
+            "kd": 0.95
+          },
+          {
+            "name": "thatcher",
+            "picks": 3541,
+            "pickRate": 1.42,
+            "winRate": 42.5,
+            "kd": 1.02
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 9424,
+            "pickRate": 3.77,
+            "winRate": 60.4,
+            "kd": 1.37
+          },
+          {
+            "name": "bandit",
+            "picks": 8260,
+            "pickRate": 3.31,
+            "winRate": 60.0,
+            "kd": 1.21
+          },
+          {
+            "name": "azami",
+            "picks": 7528,
+            "pickRate": 3.01,
+            "winRate": 59.8,
+            "kd": 1.17
+          },
+          {
+            "name": "mute",
+            "picks": 7359,
+            "pickRate": 2.94,
+            "winRate": 57.8,
+            "kd": 1.13
+          },
+          {
+            "name": "smoke",
+            "picks": 7000,
+            "pickRate": 2.8,
+            "winRate": 58.9,
+            "kd": 1.08
+          },
+          {
+            "name": "tubarao",
+            "picks": 6143,
+            "pickRate": 2.46,
+            "winRate": 60.5,
+            "kd": 1.35
+          },
+          {
+            "name": "lesion",
+            "picks": 6143,
+            "pickRate": 2.46,
+            "winRate": 58.9,
+            "kd": 1.16
+          },
+          {
+            "name": "warden",
+            "picks": 5713,
+            "pickRate": 2.29,
+            "winRate": 59.3,
+            "kd": 1.24
+          },
+          {
+            "name": "valkyrie",
+            "picks": 5451,
+            "pickRate": 2.18,
+            "winRate": 60.3,
+            "kd": 1.4
+          },
+          {
+            "name": "vigil",
+            "picks": 5267,
+            "pickRate": 2.11,
+            "winRate": 57.9,
+            "kd": 1.25
+          },
+          {
+            "name": "solis",
+            "picks": 5129,
+            "pickRate": 2.05,
+            "winRate": 59.9,
+            "kd": 1.29
+          },
+          {
+            "name": "thorn",
+            "picks": 5085,
+            "pickRate": 2.03,
+            "winRate": 60.4,
+            "kd": 1.23
+          },
+          {
+            "name": "kaid",
+            "picks": 4498,
+            "pickRate": 1.8,
+            "winRate": 58.3,
+            "kd": 1.15
+          },
+          {
+            "name": "goyo",
+            "picks": 4089,
+            "pickRate": 1.64,
+            "winRate": 58.2,
+            "kd": 1.12
+          },
+          {
+            "name": "ela",
+            "picks": 4083,
+            "pickRate": 1.63,
+            "winRate": 59.7,
+            "kd": 1.13
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 159320,
+        "atkWinRate": 48.7,
+        "defWinRate": 54.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 8543,
+            "pickRate": 5.36,
+            "winRate": 48.7,
+            "kd": 1.21
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6647,
+            "pickRate": 4.17,
+            "winRate": 47.6,
+            "kd": 1.01
+          },
+          {
+            "name": "twitch",
+            "picks": 5363,
+            "pickRate": 3.37,
+            "winRate": 50.5,
+            "kd": 1.22
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5327,
+            "pickRate": 3.34,
+            "winRate": 49.2,
+            "kd": 1.11
+          },
+          {
+            "name": "thermite",
+            "picks": 3825,
+            "pickRate": 2.4,
+            "winRate": 47.8,
+            "kd": 1.04
+          },
+          {
+            "name": "grim",
+            "picks": 3524,
+            "pickRate": 2.21,
+            "winRate": 47.7,
+            "kd": 1.06
+          },
+          {
+            "name": "striker",
+            "picks": 3352,
+            "pickRate": 2.1,
+            "winRate": 50.2,
+            "kd": 1.18
+          },
+          {
+            "name": "buck",
+            "picks": 3254,
+            "pickRate": 2.04,
+            "winRate": 47.4,
+            "kd": 1.11
+          },
+          {
+            "name": "nomad",
+            "picks": 2990,
+            "pickRate": 1.88,
+            "winRate": 48.3,
+            "kd": 1.14
+          },
+          {
+            "name": "lion",
+            "picks": 2645,
+            "pickRate": 1.66,
+            "winRate": 50.2,
+            "kd": 1.07
+          },
+          {
+            "name": "deimos",
+            "picks": 2341,
+            "pickRate": 1.47,
+            "winRate": 47.7,
+            "kd": 1.02
+          },
+          {
+            "name": "finka",
+            "picks": 2220,
+            "pickRate": 1.39,
+            "winRate": 51.6,
+            "kd": 1.19
+          },
+          {
+            "name": "iq",
+            "picks": 2100,
+            "pickRate": 1.32,
+            "winRate": 49.2,
+            "kd": 1.18
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1992,
+            "pickRate": 1.25,
+            "winRate": 45.9,
+            "kd": 0.79
+          },
+          {
+            "name": "hibana",
+            "picks": 1985,
+            "pickRate": 1.25,
+            "winRate": 47.3,
+            "kd": 1.15
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 5890,
+            "pickRate": 3.7,
+            "winRate": 55.3,
+            "kd": 1.34
+          },
+          {
+            "name": "bandit",
+            "picks": 5459,
+            "pickRate": 3.43,
+            "winRate": 55.1,
+            "kd": 1.14
+          },
+          {
+            "name": "lesion",
+            "picks": 4822,
+            "pickRate": 3.03,
+            "winRate": 54.3,
+            "kd": 1.16
+          },
+          {
+            "name": "vigil",
+            "picks": 4781,
+            "pickRate": 3.0,
+            "winRate": 54.1,
+            "kd": 1.21
+          },
+          {
+            "name": "mute",
+            "picks": 4501,
+            "pickRate": 2.83,
+            "winRate": 52.9,
+            "kd": 1.01
+          },
+          {
+            "name": "azami",
+            "picks": 4185,
+            "pickRate": 2.63,
+            "winRate": 54.1,
+            "kd": 1.14
+          },
+          {
+            "name": "solis",
+            "picks": 3718,
+            "pickRate": 2.33,
+            "winRate": 55.3,
+            "kd": 1.2
+          },
+          {
+            "name": "thorn",
+            "picks": 3654,
+            "pickRate": 2.29,
+            "winRate": 54.9,
+            "kd": 1.14
+          },
+          {
+            "name": "tubarao",
+            "picks": 3490,
+            "pickRate": 2.19,
+            "winRate": 56.3,
+            "kd": 1.32
+          },
+          {
+            "name": "warden",
+            "picks": 3271,
+            "pickRate": 2.05,
+            "winRate": 52.7,
+            "kd": 1.14
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2834,
+            "pickRate": 1.78,
+            "winRate": 54.9,
+            "kd": 1.22
+          },
+          {
+            "name": "ela",
+            "picks": 2764,
+            "pickRate": 1.73,
+            "winRate": 56.0,
+            "kd": 1.2
+          },
+          {
+            "name": "kaid",
+            "picks": 2671,
+            "pickRate": 1.68,
+            "winRate": 55.1,
+            "kd": 1.09
+          },
+          {
+            "name": "smoke",
+            "picks": 2558,
+            "pickRate": 1.61,
+            "winRate": 50.0,
+            "kd": 0.95
+          },
+          {
+            "name": "kapkan",
+            "picks": 2472,
+            "pickRate": 1.55,
+            "winRate": 55.3,
+            "kd": 1.31
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 7431,
+        "atkWinRate": 45.8,
+        "defWinRate": 59.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 467,
+            "pickRate": 6.28,
+            "winRate": 42.0,
+            "kd": 1.1
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 251,
+            "pickRate": 3.38,
+            "winRate": 47.4,
+            "kd": 1.11
+          },
+          {
+            "name": "buck",
+            "picks": 193,
+            "pickRate": 2.6,
+            "winRate": 49.7,
+            "kd": 1.0
+          },
+          {
+            "name": "nomad",
+            "picks": 191,
+            "pickRate": 2.57,
+            "winRate": 51.8,
+            "kd": 1.09
+          },
+          {
+            "name": "twitch",
+            "picks": 183,
+            "pickRate": 2.46,
+            "winRate": 47.5,
+            "kd": 0.99
+          },
+          {
+            "name": "thermite",
+            "picks": 182,
+            "pickRate": 2.45,
+            "winRate": 46.2,
+            "kd": 0.86
+          },
+          {
+            "name": "iq",
+            "picks": 165,
+            "pickRate": 2.22,
+            "winRate": 47.3,
+            "kd": 1.55
+          },
+          {
+            "name": "grim",
+            "picks": 138,
+            "pickRate": 1.86,
+            "winRate": 50.7,
+            "kd": 1.1
+          },
+          {
+            "name": "hibana",
+            "picks": 135,
+            "pickRate": 1.82,
+            "winRate": 40.7,
+            "kd": 0.94
+          },
+          {
+            "name": "striker",
+            "picks": 134,
+            "pickRate": 1.8,
+            "winRate": 44.8,
+            "kd": 1.1
+          },
+          {
+            "name": "lion",
+            "picks": 123,
+            "pickRate": 1.66,
+            "winRate": 43.9,
+            "kd": 1.01
+          },
+          {
+            "name": "thatcher",
+            "picks": 119,
+            "pickRate": 1.6,
+            "winRate": 36.1,
+            "kd": 1.14
+          },
+          {
+            "name": "deimos",
+            "picks": 115,
+            "pickRate": 1.55,
+            "winRate": 43.5,
+            "kd": 0.62
+          },
+          {
+            "name": "finka",
+            "picks": 103,
+            "pickRate": 1.39,
+            "winRate": 49.5,
+            "kd": 1.24
+          },
+          {
+            "name": "blackbeard",
+            "picks": 98,
+            "pickRate": 1.32,
+            "winRate": 57.1,
+            "kd": 0.67
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 272,
+            "pickRate": 3.66,
+            "winRate": 59.6,
+            "kd": 1.06
+          },
+          {
+            "name": "aruni",
+            "picks": 264,
+            "pickRate": 3.55,
+            "winRate": 61.4,
+            "kd": 1.57
+          },
+          {
+            "name": "mute",
+            "picks": 221,
+            "pickRate": 2.97,
+            "winRate": 58.8,
+            "kd": 1.28
+          },
+          {
+            "name": "tubarao",
+            "picks": 205,
+            "pickRate": 2.76,
+            "winRate": 63.9,
+            "kd": 1.46
+          },
+          {
+            "name": "bandit",
+            "picks": 198,
+            "pickRate": 2.66,
+            "winRate": 57.6,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 198,
+            "pickRate": 2.66,
+            "winRate": 50.5,
+            "kd": 0.94
+          },
+          {
+            "name": "valkyrie",
+            "picks": 184,
+            "pickRate": 2.48,
+            "winRate": 61.4,
+            "kd": 1.33
+          },
+          {
+            "name": "warden",
+            "picks": 171,
+            "pickRate": 2.3,
+            "winRate": 60.8,
+            "kd": 1.27
+          },
+          {
+            "name": "solis",
+            "picks": 150,
+            "pickRate": 2.02,
+            "winRate": 54.0,
+            "kd": 1.26
+          },
+          {
+            "name": "vigil",
+            "picks": 147,
+            "pickRate": 1.98,
+            "winRate": 52.4,
+            "kd": 0.96
+          },
+          {
+            "name": "ela",
+            "picks": 125,
+            "pickRate": 1.68,
+            "winRate": 60.0,
+            "kd": 0.89
+          },
+          {
+            "name": "melusi",
+            "picks": 120,
+            "pickRate": 1.61,
+            "winRate": 61.7,
+            "kd": 1.18
+          },
+          {
+            "name": "thorn",
+            "picks": 118,
+            "pickRate": 1.59,
+            "winRate": 66.1,
+            "kd": 1.28
+          },
+          {
+            "name": "smoke",
+            "picks": 115,
+            "pickRate": 1.55,
+            "winRate": 60.9,
+            "kd": 1.05
+          },
+          {
+            "name": "kaid",
+            "picks": 108,
+            "pickRate": 1.45,
+            "winRate": 60.2,
+            "kd": 1.14
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 4308,
+        "atkWinRate": 42.7,
+        "defWinRate": 59.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 263,
+            "pickRate": 6.1,
+            "winRate": 42.6,
+            "kd": 1.36
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 146,
+            "pickRate": 3.39,
+            "winRate": 40.4,
+            "kd": 0.92
+          },
+          {
+            "name": "deimos",
+            "picks": 128,
+            "pickRate": 2.97,
+            "winRate": 46.9,
+            "kd": 1.03
+          },
+          {
+            "name": "thermite",
+            "picks": 112,
+            "pickRate": 2.6,
+            "winRate": 46.4,
+            "kd": 0.91
+          },
+          {
+            "name": "hibana",
+            "picks": 103,
+            "pickRate": 2.39,
+            "winRate": 50.5,
+            "kd": 1.51
+          },
+          {
+            "name": "twitch",
+            "picks": 102,
+            "pickRate": 2.37,
+            "winRate": 45.1,
+            "kd": 1.37
+          },
+          {
+            "name": "grim",
+            "picks": 100,
+            "pickRate": 2.32,
+            "winRate": 40.0,
+            "kd": 0.78
+          },
+          {
+            "name": "striker",
+            "picks": 93,
+            "pickRate": 2.16,
+            "winRate": 38.7,
+            "kd": 1.13
+          },
+          {
+            "name": "iq",
+            "picks": 85,
+            "pickRate": 1.97,
+            "winRate": 44.7,
+            "kd": 1.1
+          },
+          {
+            "name": "buck",
+            "picks": 80,
+            "pickRate": 1.86,
+            "winRate": 35.0,
+            "kd": 0.75
+          },
+          {
+            "name": "nomad",
+            "picks": 79,
+            "pickRate": 1.83,
+            "winRate": 41.8,
+            "kd": 0.92
+          },
+          {
+            "name": "blackbeard",
+            "picks": 73,
+            "pickRate": 1.69,
+            "winRate": 32.9,
+            "kd": 0.77
+          },
+          {
+            "name": "thatcher",
+            "picks": 60,
+            "pickRate": 1.39,
+            "winRate": 46.7,
+            "kd": 0.98
+          },
+          {
+            "name": "lion",
+            "picks": 57,
+            "pickRate": 1.32,
+            "winRate": 43.9,
+            "kd": 0.84
+          },
+          {
+            "name": "finka",
+            "picks": 55,
+            "pickRate": 1.28,
+            "winRate": 38.2,
+            "kd": 0.86
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 175,
+            "pickRate": 4.06,
+            "winRate": 69.7,
+            "kd": 1.34
+          },
+          {
+            "name": "aruni",
+            "picks": 155,
+            "pickRate": 3.6,
+            "winRate": 63.2,
+            "kd": 1.6
+          },
+          {
+            "name": "azami",
+            "picks": 154,
+            "pickRate": 3.57,
+            "winRate": 62.3,
+            "kd": 1.24
+          },
+          {
+            "name": "lesion",
+            "picks": 126,
+            "pickRate": 2.92,
+            "winRate": 59.5,
+            "kd": 1.49
+          },
+          {
+            "name": "mute",
+            "picks": 125,
+            "pickRate": 2.9,
+            "winRate": 52.8,
+            "kd": 0.93
+          },
+          {
+            "name": "tubarao",
+            "picks": 100,
+            "pickRate": 2.32,
+            "winRate": 63.0,
+            "kd": 1.29
+          },
+          {
+            "name": "valkyrie",
+            "picks": 98,
+            "pickRate": 2.27,
+            "winRate": 60.2,
+            "kd": 1.53
+          },
+          {
+            "name": "vigil",
+            "picks": 94,
+            "pickRate": 2.18,
+            "winRate": 58.5,
+            "kd": 1.41
+          },
+          {
+            "name": "kaid",
+            "picks": 83,
+            "pickRate": 1.93,
+            "winRate": 68.7,
+            "kd": 1.2
+          },
+          {
+            "name": "smoke",
+            "picks": 77,
+            "pickRate": 1.79,
+            "winRate": 59.7,
+            "kd": 1.71
+          },
+          {
+            "name": "warden",
+            "picks": 77,
+            "pickRate": 1.79,
+            "winRate": 55.8,
+            "kd": 1.4
+          },
+          {
+            "name": "solis",
+            "picks": 71,
+            "pickRate": 1.65,
+            "winRate": 60.6,
+            "kd": 1.22
+          },
+          {
+            "name": "jager",
+            "picks": 61,
+            "pickRate": 1.42,
+            "winRate": 52.5,
+            "kd": 1.11
+          },
+          {
+            "name": "ela",
+            "picks": 59,
+            "pickRate": 1.37,
+            "winRate": 49.2,
+            "kd": 1.0
+          },
+          {
+            "name": "melusi",
+            "picks": 53,
+            "pickRate": 1.23,
+            "winRate": 66.0,
+            "kd": 1.08
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 6314,
+        "atkWinRate": 42.6,
+        "defWinRate": 60.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 396,
+            "pickRate": 6.27,
+            "winRate": 43.7,
+            "kd": 1.26
+          },
+          {
+            "name": "nomad",
+            "picks": 220,
+            "pickRate": 3.48,
+            "winRate": 44.1,
+            "kd": 1.08
+          },
+          {
+            "name": "buck",
+            "picks": 196,
+            "pickRate": 3.1,
+            "winRate": 44.9,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 191,
+            "pickRate": 3.03,
+            "winRate": 40.8,
+            "kd": 0.88
+          },
+          {
+            "name": "grim",
+            "picks": 181,
+            "pickRate": 2.87,
+            "winRate": 47.5,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 143,
+            "pickRate": 2.26,
+            "winRate": 39.2,
+            "kd": 0.97
+          },
+          {
+            "name": "iq",
+            "picks": 126,
+            "pickRate": 2.0,
+            "winRate": 41.3,
+            "kd": 1.1
+          },
+          {
+            "name": "deimos",
+            "picks": 117,
+            "pickRate": 1.85,
+            "winRate": 48.7,
+            "kd": 1.1
+          },
+          {
+            "name": "striker",
+            "picks": 114,
+            "pickRate": 1.81,
+            "winRate": 43.0,
+            "kd": 0.99
+          },
+          {
+            "name": "finka",
+            "picks": 106,
+            "pickRate": 1.68,
+            "winRate": 45.3,
+            "kd": 1.24
+          },
+          {
+            "name": "blackbeard",
+            "picks": 103,
+            "pickRate": 1.63,
+            "winRate": 37.9,
+            "kd": 0.81
+          },
+          {
+            "name": "thermite",
+            "picks": 99,
+            "pickRate": 1.57,
+            "winRate": 42.4,
+            "kd": 0.85
+          },
+          {
+            "name": "lion",
+            "picks": 99,
+            "pickRate": 1.57,
+            "winRate": 42.4,
+            "kd": 1.2
+          },
+          {
+            "name": "hibana",
+            "picks": 96,
+            "pickRate": 1.52,
+            "winRate": 36.5,
+            "kd": 1.04
+          },
+          {
+            "name": "blitz",
+            "picks": 87,
+            "pickRate": 1.38,
+            "winRate": 44.8,
+            "kd": 0.65
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 257,
+            "pickRate": 4.07,
+            "winRate": 60.7,
+            "kd": 1.06
+          },
+          {
+            "name": "lesion",
+            "picks": 221,
+            "pickRate": 3.5,
+            "winRate": 56.1,
+            "kd": 1.22
+          },
+          {
+            "name": "azami",
+            "picks": 186,
+            "pickRate": 2.95,
+            "winRate": 57.5,
+            "kd": 1.1
+          },
+          {
+            "name": "bandit",
+            "picks": 182,
+            "pickRate": 2.88,
+            "winRate": 64.8,
+            "kd": 1.49
+          },
+          {
+            "name": "smoke",
+            "picks": 170,
+            "pickRate": 2.69,
+            "winRate": 63.5,
+            "kd": 1.17
+          },
+          {
+            "name": "solis",
+            "picks": 156,
+            "pickRate": 2.47,
+            "winRate": 61.5,
+            "kd": 1.24
+          },
+          {
+            "name": "aruni",
+            "picks": 152,
+            "pickRate": 2.41,
+            "winRate": 60.5,
+            "kd": 1.46
+          },
+          {
+            "name": "warden",
+            "picks": 138,
+            "pickRate": 2.19,
+            "winRate": 56.5,
+            "kd": 1.26
+          },
+          {
+            "name": "tubarao",
+            "picks": 134,
+            "pickRate": 2.12,
+            "winRate": 59.0,
+            "kd": 1.3
+          },
+          {
+            "name": "melusi",
+            "picks": 120,
+            "pickRate": 1.9,
+            "winRate": 64.2,
+            "kd": 1.14
+          },
+          {
+            "name": "ela",
+            "picks": 116,
+            "pickRate": 1.84,
+            "winRate": 63.8,
+            "kd": 1.41
+          },
+          {
+            "name": "thorn",
+            "picks": 115,
+            "pickRate": 1.82,
+            "winRate": 63.5,
+            "kd": 1.27
+          },
+          {
+            "name": "vigil",
+            "picks": 113,
+            "pickRate": 1.79,
+            "winRate": 54.0,
+            "kd": 1.09
+          },
+          {
+            "name": "goyo",
+            "picks": 102,
+            "pickRate": 1.62,
+            "winRate": 61.8,
+            "kd": 1.39
+          },
+          {
+            "name": "valkyrie",
+            "picks": 99,
+            "pickRate": 1.57,
+            "winRate": 61.6,
+            "kd": 1.48
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 9866,
+        "atkWinRate": 43.6,
+        "defWinRate": 60.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 595,
+            "pickRate": 6.03,
+            "winRate": 46.2,
+            "kd": 1.31
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 364,
+            "pickRate": 3.69,
+            "winRate": 45.1,
+            "kd": 0.91
+          },
+          {
+            "name": "nomad",
+            "picks": 326,
+            "pickRate": 3.3,
+            "winRate": 41.7,
+            "kd": 1.0
+          },
+          {
+            "name": "thermite",
+            "picks": 256,
+            "pickRate": 2.59,
+            "winRate": 45.7,
+            "kd": 0.89
+          },
+          {
+            "name": "buck",
+            "picks": 234,
+            "pickRate": 2.37,
+            "winRate": 46.6,
+            "kd": 0.97
+          },
+          {
+            "name": "twitch",
+            "picks": 216,
+            "pickRate": 2.19,
+            "winRate": 44.9,
+            "kd": 1.16
+          },
+          {
+            "name": "deimos",
+            "picks": 188,
+            "pickRate": 1.91,
+            "winRate": 43.6,
+            "kd": 1.16
+          },
+          {
+            "name": "iq",
+            "picks": 178,
+            "pickRate": 1.8,
+            "winRate": 49.4,
+            "kd": 1.26
+          },
+          {
+            "name": "grim",
+            "picks": 160,
+            "pickRate": 1.62,
+            "winRate": 36.2,
+            "kd": 0.69
+          },
+          {
+            "name": "thatcher",
+            "picks": 154,
+            "pickRate": 1.56,
+            "winRate": 40.9,
+            "kd": 0.9
+          },
+          {
+            "name": "ace",
+            "picks": 149,
+            "pickRate": 1.51,
+            "winRate": 45.0,
+            "kd": 1.12
+          },
+          {
+            "name": "finka",
+            "picks": 144,
+            "pickRate": 1.46,
+            "winRate": 45.8,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 142,
+            "pickRate": 1.44,
+            "winRate": 49.3,
+            "kd": 1.08
+          },
+          {
+            "name": "fuze",
+            "picks": 137,
+            "pickRate": 1.39,
+            "winRate": 42.3,
+            "kd": 0.93
+          },
+          {
+            "name": "blackbeard",
+            "picks": 135,
+            "pickRate": 1.37,
+            "winRate": 39.3,
+            "kd": 0.87
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 364,
+            "pickRate": 3.69,
+            "winRate": 59.6,
+            "kd": 1.05
+          },
+          {
+            "name": "aruni",
+            "picks": 346,
+            "pickRate": 3.51,
+            "winRate": 63.3,
+            "kd": 1.43
+          },
+          {
+            "name": "lesion",
+            "picks": 336,
+            "pickRate": 3.41,
+            "winRate": 60.7,
+            "kd": 1.28
+          },
+          {
+            "name": "tubarao",
+            "picks": 296,
+            "pickRate": 3.0,
+            "winRate": 60.5,
+            "kd": 1.48
+          },
+          {
+            "name": "azami",
+            "picks": 253,
+            "pickRate": 2.56,
+            "winRate": 60.5,
+            "kd": 0.98
+          },
+          {
+            "name": "valkyrie",
+            "picks": 248,
+            "pickRate": 2.51,
+            "winRate": 59.3,
+            "kd": 1.21
+          },
+          {
+            "name": "smoke",
+            "picks": 227,
+            "pickRate": 2.3,
+            "winRate": 59.5,
+            "kd": 1.35
+          },
+          {
+            "name": "bandit",
+            "picks": 225,
+            "pickRate": 2.28,
+            "winRate": 60.0,
+            "kd": 1.37
+          },
+          {
+            "name": "vigil",
+            "picks": 186,
+            "pickRate": 1.89,
+            "winRate": 63.4,
+            "kd": 1.17
+          },
+          {
+            "name": "warden",
+            "picks": 184,
+            "pickRate": 1.86,
+            "winRate": 59.2,
+            "kd": 1.37
+          },
+          {
+            "name": "thorn",
+            "picks": 175,
+            "pickRate": 1.77,
+            "winRate": 65.7,
+            "kd": 1.62
+          },
+          {
+            "name": "solis",
+            "picks": 165,
+            "pickRate": 1.67,
+            "winRate": 67.9,
+            "kd": 1.45
+          },
+          {
+            "name": "melusi",
+            "picks": 152,
+            "pickRate": 1.54,
+            "winRate": 67.1,
+            "kd": 1.11
+          },
+          {
+            "name": "kapkan",
+            "picks": 148,
+            "pickRate": 1.5,
+            "winRate": 68.2,
+            "kd": 1.36
+          },
+          {
+            "name": "kaid",
+            "picks": 130,
+            "pickRate": 1.32,
+            "winRate": 63.8,
+            "kd": 1.23
+          }
+        ]
+      }
+    },
+    "Emerald": {
+      "villa": {
+        "totalRounds": 500183,
+        "atkWinRate": 41.3,
+        "defWinRate": 59.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 24012,
+            "pickRate": 4.8,
+            "winRate": 41.6,
+            "kd": 1.03
+          },
+          {
+            "name": "solid-snake",
+            "picks": 19413,
+            "pickRate": 3.88,
+            "winRate": 40.1,
+            "kd": 0.87
+          },
+          {
+            "name": "twitch",
+            "picks": 16486,
+            "pickRate": 3.3,
+            "winRate": 41.3,
+            "kd": 1.01
+          },
+          {
+            "name": "nomad",
+            "picks": 14791,
+            "pickRate": 2.96,
+            "winRate": 41.2,
+            "kd": 0.94
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 14036,
+            "pickRate": 2.81,
+            "winRate": 42.1,
+            "kd": 0.91
+          },
+          {
+            "name": "buck",
+            "picks": 11045,
+            "pickRate": 2.21,
+            "winRate": 40.7,
+            "kd": 0.9
+          },
+          {
+            "name": "grim",
+            "picks": 10722,
+            "pickRate": 2.14,
+            "winRate": 40.4,
+            "kd": 0.84
+          },
+          {
+            "name": "hibana",
+            "picks": 10679,
+            "pickRate": 2.14,
+            "winRate": 41.5,
+            "kd": 0.95
+          },
+          {
+            "name": "brava",
+            "picks": 9730,
+            "pickRate": 1.95,
+            "winRate": 41.4,
+            "kd": 0.99
+          },
+          {
+            "name": "lion",
+            "picks": 8987,
+            "pickRate": 1.8,
+            "winRate": 40.9,
+            "kd": 0.85
+          },
+          {
+            "name": "iq",
+            "picks": 7057,
+            "pickRate": 1.41,
+            "winRate": 41.2,
+            "kd": 1.05
+          },
+          {
+            "name": "finka",
+            "picks": 7017,
+            "pickRate": 1.4,
+            "winRate": 42.9,
+            "kd": 0.95
+          },
+          {
+            "name": "deimos",
+            "picks": 6228,
+            "pickRate": 1.25,
+            "winRate": 41.0,
+            "kd": 0.88
+          },
+          {
+            "name": "striker",
+            "picks": 6082,
+            "pickRate": 1.22,
+            "winRate": 42.0,
+            "kd": 1.01
+          },
+          {
+            "name": "blackbeard",
+            "picks": 5999,
+            "pickRate": 1.2,
+            "winRate": 40.6,
+            "kd": 0.74
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 20086,
+            "pickRate": 4.02,
+            "winRate": 61.0,
+            "kd": 1.36
+          },
+          {
+            "name": "mute",
+            "picks": 17200,
+            "pickRate": 3.44,
+            "winRate": 58.2,
+            "kd": 1.04
+          },
+          {
+            "name": "thorn",
+            "picks": 14518,
+            "pickRate": 2.9,
+            "winRate": 60.9,
+            "kd": 1.29
+          },
+          {
+            "name": "azami",
+            "picks": 14450,
+            "pickRate": 2.89,
+            "winRate": 58.8,
+            "kd": 1.13
+          },
+          {
+            "name": "valkyrie",
+            "picks": 13683,
+            "pickRate": 2.74,
+            "winRate": 60.8,
+            "kd": 1.31
+          },
+          {
+            "name": "lesion",
+            "picks": 12506,
+            "pickRate": 2.5,
+            "winRate": 59.6,
+            "kd": 1.13
+          },
+          {
+            "name": "vigil",
+            "picks": 11349,
+            "pickRate": 2.27,
+            "winRate": 58.2,
+            "kd": 1.14
+          },
+          {
+            "name": "warden",
+            "picks": 9922,
+            "pickRate": 1.98,
+            "winRate": 58.2,
+            "kd": 1.15
+          },
+          {
+            "name": "smoke",
+            "picks": 8209,
+            "pickRate": 1.64,
+            "winRate": 58.3,
+            "kd": 1.0
+          },
+          {
+            "name": "melusi",
+            "picks": 7987,
+            "pickRate": 1.6,
+            "winRate": 59.9,
+            "kd": 1.12
+          },
+          {
+            "name": "tubarao",
+            "picks": 7822,
+            "pickRate": 1.56,
+            "winRate": 59.4,
+            "kd": 1.3
+          },
+          {
+            "name": "jager",
+            "picks": 7548,
+            "pickRate": 1.51,
+            "winRate": 57.1,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 7450,
+            "pickRate": 1.49,
+            "winRate": 57.9,
+            "kd": 1.1
+          },
+          {
+            "name": "kapkan",
+            "picks": 7368,
+            "pickRate": 1.47,
+            "winRate": 62.0,
+            "kd": 1.34
+          },
+          {
+            "name": "bandit",
+            "picks": 7015,
+            "pickRate": 1.4,
+            "winRate": 59.4,
+            "kd": 1.19
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 381239,
+        "atkWinRate": 41.7,
+        "defWinRate": 58.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 16622,
+            "pickRate": 4.36,
+            "winRate": 41.3,
+            "kd": 1.03
+          },
+          {
+            "name": "solid-snake",
+            "picks": 12890,
+            "pickRate": 3.38,
+            "winRate": 41.0,
+            "kd": 0.88
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 10924,
+            "pickRate": 2.87,
+            "winRate": 41.8,
+            "kd": 0.9
+          },
+          {
+            "name": "buck",
+            "picks": 10784,
+            "pickRate": 2.83,
+            "winRate": 42.4,
+            "kd": 0.95
+          },
+          {
+            "name": "twitch",
+            "picks": 10431,
+            "pickRate": 2.74,
+            "winRate": 42.0,
+            "kd": 1.0
+          },
+          {
+            "name": "thermite",
+            "picks": 9989,
+            "pickRate": 2.62,
+            "winRate": 41.7,
+            "kd": 0.8
+          },
+          {
+            "name": "grim",
+            "picks": 9078,
+            "pickRate": 2.38,
+            "winRate": 41.1,
+            "kd": 0.84
+          },
+          {
+            "name": "nomad",
+            "picks": 7947,
+            "pickRate": 2.08,
+            "winRate": 42.8,
+            "kd": 0.96
+          },
+          {
+            "name": "striker",
+            "picks": 7363,
+            "pickRate": 1.93,
+            "winRate": 41.7,
+            "kd": 0.99
+          },
+          {
+            "name": "sledge",
+            "picks": 6082,
+            "pickRate": 1.6,
+            "winRate": 42.4,
+            "kd": 1.0
+          },
+          {
+            "name": "lion",
+            "picks": 5595,
+            "pickRate": 1.47,
+            "winRate": 41.5,
+            "kd": 0.87
+          },
+          {
+            "name": "fuze",
+            "picks": 5272,
+            "pickRate": 1.38,
+            "winRate": 43.4,
+            "kd": 1.08
+          },
+          {
+            "name": "thatcher",
+            "picks": 5010,
+            "pickRate": 1.31,
+            "winRate": 42.4,
+            "kd": 0.89
+          },
+          {
+            "name": "finka",
+            "picks": 4569,
+            "pickRate": 1.2,
+            "winRate": 42.5,
+            "kd": 0.97
+          },
+          {
+            "name": "hibana",
+            "picks": 4535,
+            "pickRate": 1.19,
+            "winRate": 42.2,
+            "kd": 0.92
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 13716,
+            "pickRate": 3.6,
+            "winRate": 60.1,
+            "kd": 1.35
+          },
+          {
+            "name": "mute",
+            "picks": 12721,
+            "pickRate": 3.34,
+            "winRate": 58.9,
+            "kd": 1.12
+          },
+          {
+            "name": "bandit",
+            "picks": 11485,
+            "pickRate": 3.01,
+            "winRate": 58.4,
+            "kd": 1.1
+          },
+          {
+            "name": "thorn",
+            "picks": 11211,
+            "pickRate": 2.94,
+            "winRate": 59.8,
+            "kd": 1.24
+          },
+          {
+            "name": "tubarao",
+            "picks": 10117,
+            "pickRate": 2.65,
+            "winRate": 59.1,
+            "kd": 1.28
+          },
+          {
+            "name": "azami",
+            "picks": 9573,
+            "pickRate": 2.51,
+            "winRate": 58.2,
+            "kd": 1.16
+          },
+          {
+            "name": "lesion",
+            "picks": 9135,
+            "pickRate": 2.4,
+            "winRate": 59.2,
+            "kd": 1.18
+          },
+          {
+            "name": "vigil",
+            "picks": 9107,
+            "pickRate": 2.39,
+            "winRate": 57.5,
+            "kd": 1.2
+          },
+          {
+            "name": "warden",
+            "picks": 7789,
+            "pickRate": 2.04,
+            "winRate": 57.8,
+            "kd": 1.21
+          },
+          {
+            "name": "smoke",
+            "picks": 7332,
+            "pickRate": 1.92,
+            "winRate": 57.6,
+            "kd": 1.05
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7142,
+            "pickRate": 1.87,
+            "winRate": 60.1,
+            "kd": 1.26
+          },
+          {
+            "name": "melusi",
+            "picks": 6180,
+            "pickRate": 1.62,
+            "winRate": 59.7,
+            "kd": 1.13
+          },
+          {
+            "name": "solis",
+            "picks": 6127,
+            "pickRate": 1.61,
+            "winRate": 58.7,
+            "kd": 1.26
+          },
+          {
+            "name": "kapkan",
+            "picks": 5627,
+            "pickRate": 1.48,
+            "winRate": 61.0,
+            "kd": 1.38
+          },
+          {
+            "name": "kaid",
+            "picks": 5384,
+            "pickRate": 1.41,
+            "winRate": 58.2,
+            "kd": 1.05
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 232450,
+        "atkWinRate": 41.7,
+        "defWinRate": 58.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 10720,
+            "pickRate": 4.61,
+            "winRate": 42.2,
+            "kd": 1.02
+          },
+          {
+            "name": "solid-snake",
+            "picks": 8409,
+            "pickRate": 3.62,
+            "winRate": 40.3,
+            "kd": 0.88
+          },
+          {
+            "name": "twitch",
+            "picks": 7497,
+            "pickRate": 3.23,
+            "winRate": 41.6,
+            "kd": 0.99
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6912,
+            "pickRate": 2.97,
+            "winRate": 42.2,
+            "kd": 0.91
+          },
+          {
+            "name": "thermite",
+            "picks": 6753,
+            "pickRate": 2.91,
+            "winRate": 41.3,
+            "kd": 0.85
+          },
+          {
+            "name": "nomad",
+            "picks": 5657,
+            "pickRate": 2.43,
+            "winRate": 41.2,
+            "kd": 0.94
+          },
+          {
+            "name": "grim",
+            "picks": 5308,
+            "pickRate": 2.28,
+            "winRate": 41.3,
+            "kd": 0.84
+          },
+          {
+            "name": "striker",
+            "picks": 4440,
+            "pickRate": 1.91,
+            "winRate": 42.6,
+            "kd": 0.98
+          },
+          {
+            "name": "buck",
+            "picks": 4204,
+            "pickRate": 1.81,
+            "winRate": 40.7,
+            "kd": 0.88
+          },
+          {
+            "name": "hibana",
+            "picks": 3752,
+            "pickRate": 1.61,
+            "winRate": 41.3,
+            "kd": 0.93
+          },
+          {
+            "name": "thatcher",
+            "picks": 3687,
+            "pickRate": 1.59,
+            "winRate": 41.4,
+            "kd": 0.9
+          },
+          {
+            "name": "lion",
+            "picks": 3468,
+            "pickRate": 1.49,
+            "winRate": 42.3,
+            "kd": 0.88
+          },
+          {
+            "name": "blackbeard",
+            "picks": 3244,
+            "pickRate": 1.4,
+            "winRate": 41.8,
+            "kd": 0.73
+          },
+          {
+            "name": "finka",
+            "picks": 3140,
+            "pickRate": 1.35,
+            "winRate": 43.0,
+            "kd": 0.97
+          },
+          {
+            "name": "ace",
+            "picks": 3012,
+            "pickRate": 1.3,
+            "winRate": 43.5,
+            "kd": 1.04
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 7984,
+            "pickRate": 3.43,
+            "winRate": 60.2,
+            "kd": 1.34
+          },
+          {
+            "name": "mute",
+            "picks": 7715,
+            "pickRate": 3.32,
+            "winRate": 58.5,
+            "kd": 1.1
+          },
+          {
+            "name": "thorn",
+            "picks": 7429,
+            "pickRate": 3.2,
+            "winRate": 58.8,
+            "kd": 1.16
+          },
+          {
+            "name": "bandit",
+            "picks": 7302,
+            "pickRate": 3.14,
+            "winRate": 58.5,
+            "kd": 1.16
+          },
+          {
+            "name": "azami",
+            "picks": 6847,
+            "pickRate": 2.95,
+            "winRate": 57.7,
+            "kd": 1.14
+          },
+          {
+            "name": "lesion",
+            "picks": 6079,
+            "pickRate": 2.62,
+            "winRate": 57.8,
+            "kd": 1.11
+          },
+          {
+            "name": "vigil",
+            "picks": 5096,
+            "pickRate": 2.19,
+            "winRate": 58.5,
+            "kd": 1.23
+          },
+          {
+            "name": "kaid",
+            "picks": 4822,
+            "pickRate": 2.07,
+            "winRate": 59.4,
+            "kd": 1.11
+          },
+          {
+            "name": "warden",
+            "picks": 4783,
+            "pickRate": 2.06,
+            "winRate": 57.4,
+            "kd": 1.13
+          },
+          {
+            "name": "smoke",
+            "picks": 4605,
+            "pickRate": 1.98,
+            "winRate": 57.7,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 4261,
+            "pickRate": 1.83,
+            "winRate": 58.2,
+            "kd": 1.22
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3964,
+            "pickRate": 1.71,
+            "winRate": 59.1,
+            "kd": 1.23
+          },
+          {
+            "name": "ela",
+            "picks": 3576,
+            "pickRate": 1.54,
+            "winRate": 59.4,
+            "kd": 1.15
+          },
+          {
+            "name": "melusi",
+            "picks": 3499,
+            "pickRate": 1.51,
+            "winRate": 60.5,
+            "kd": 1.16
+          },
+          {
+            "name": "fenrir",
+            "picks": 3357,
+            "pickRate": 1.44,
+            "winRate": 57.5,
+            "kd": 1.07
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 661655,
+        "atkWinRate": 44.0,
+        "defWinRate": 56.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 29771,
+            "pickRate": 4.5,
+            "winRate": 43.8,
+            "kd": 1.06
+          },
+          {
+            "name": "solid-snake",
+            "picks": 20099,
+            "pickRate": 3.04,
+            "winRate": 43.7,
+            "kd": 0.94
+          },
+          {
+            "name": "twitch",
+            "picks": 19591,
+            "pickRate": 2.96,
+            "winRate": 44.0,
+            "kd": 1.07
+          },
+          {
+            "name": "nomad",
+            "picks": 16819,
+            "pickRate": 2.54,
+            "winRate": 44.2,
+            "kd": 1.03
+          },
+          {
+            "name": "grim",
+            "picks": 16373,
+            "pickRate": 2.47,
+            "winRate": 42.9,
+            "kd": 0.86
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 16108,
+            "pickRate": 2.43,
+            "winRate": 43.1,
+            "kd": 0.93
+          },
+          {
+            "name": "striker",
+            "picks": 14292,
+            "pickRate": 2.16,
+            "winRate": 44.1,
+            "kd": 1.02
+          },
+          {
+            "name": "thermite",
+            "picks": 14150,
+            "pickRate": 2.14,
+            "winRate": 44.0,
+            "kd": 0.85
+          },
+          {
+            "name": "buck",
+            "picks": 12143,
+            "pickRate": 1.84,
+            "winRate": 43.6,
+            "kd": 0.93
+          },
+          {
+            "name": "hibana",
+            "picks": 10933,
+            "pickRate": 1.65,
+            "winRate": 43.9,
+            "kd": 0.96
+          },
+          {
+            "name": "ace",
+            "picks": 10624,
+            "pickRate": 1.61,
+            "winRate": 44.5,
+            "kd": 0.99
+          },
+          {
+            "name": "maverick",
+            "picks": 10181,
+            "pickRate": 1.54,
+            "winRate": 43.6,
+            "kd": 1.05
+          },
+          {
+            "name": "brava",
+            "picks": 9544,
+            "pickRate": 1.44,
+            "winRate": 44.2,
+            "kd": 1.06
+          },
+          {
+            "name": "lion",
+            "picks": 8538,
+            "pickRate": 1.29,
+            "winRate": 44.0,
+            "kd": 0.91
+          },
+          {
+            "name": "flores",
+            "picks": 8218,
+            "pickRate": 1.24,
+            "winRate": 43.7,
+            "kd": 0.95
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 25876,
+            "pickRate": 3.91,
+            "winRate": 56.5,
+            "kd": 1.1
+          },
+          {
+            "name": "aruni",
+            "picks": 25004,
+            "pickRate": 3.78,
+            "winRate": 57.8,
+            "kd": 1.32
+          },
+          {
+            "name": "thorn",
+            "picks": 17930,
+            "pickRate": 2.71,
+            "winRate": 58.4,
+            "kd": 1.2
+          },
+          {
+            "name": "warden",
+            "picks": 17874,
+            "pickRate": 2.7,
+            "winRate": 55.6,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 17368,
+            "pickRate": 2.62,
+            "winRate": 56.2,
+            "kd": 1.07
+          },
+          {
+            "name": "smoke",
+            "picks": 14513,
+            "pickRate": 2.19,
+            "winRate": 55.3,
+            "kd": 0.96
+          },
+          {
+            "name": "valkyrie",
+            "picks": 13930,
+            "pickRate": 2.11,
+            "winRate": 57.3,
+            "kd": 1.16
+          },
+          {
+            "name": "kaid",
+            "picks": 13744,
+            "pickRate": 2.08,
+            "winRate": 56.5,
+            "kd": 1.04
+          },
+          {
+            "name": "lesion",
+            "picks": 12953,
+            "pickRate": 1.96,
+            "winRate": 56.6,
+            "kd": 1.12
+          },
+          {
+            "name": "vigil",
+            "picks": 12770,
+            "pickRate": 1.93,
+            "winRate": 56.8,
+            "kd": 1.21
+          },
+          {
+            "name": "bandit",
+            "picks": 12526,
+            "pickRate": 1.89,
+            "winRate": 57.0,
+            "kd": 1.13
+          },
+          {
+            "name": "fenrir",
+            "picks": 11242,
+            "pickRate": 1.7,
+            "winRate": 55.9,
+            "kd": 1.05
+          },
+          {
+            "name": "melusi",
+            "picks": 11209,
+            "pickRate": 1.69,
+            "winRate": 57.1,
+            "kd": 1.07
+          },
+          {
+            "name": "jager",
+            "picks": 10768,
+            "pickRate": 1.63,
+            "winRate": 54.8,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 9695,
+            "pickRate": 1.47,
+            "winRate": 56.7,
+            "kd": 1.24
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 539597,
+        "atkWinRate": 48.4,
+        "defWinRate": 52.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 24164,
+            "pickRate": 4.48,
+            "winRate": 48.4,
+            "kd": 1.11
+          },
+          {
+            "name": "solid-snake",
+            "picks": 17916,
+            "pickRate": 3.32,
+            "winRate": 47.7,
+            "kd": 0.99
+          },
+          {
+            "name": "twitch",
+            "picks": 15703,
+            "pickRate": 2.91,
+            "winRate": 49.3,
+            "kd": 1.14
+          },
+          {
+            "name": "nomad",
+            "picks": 14908,
+            "pickRate": 2.76,
+            "winRate": 48.2,
+            "kd": 1.08
+          },
+          {
+            "name": "buck",
+            "picks": 14487,
+            "pickRate": 2.68,
+            "winRate": 47.9,
+            "kd": 1.01
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 13941,
+            "pickRate": 2.58,
+            "winRate": 48.2,
+            "kd": 1.05
+          },
+          {
+            "name": "grim",
+            "picks": 9903,
+            "pickRate": 1.84,
+            "winRate": 47.4,
+            "kd": 0.92
+          },
+          {
+            "name": "brava",
+            "picks": 9338,
+            "pickRate": 1.73,
+            "winRate": 49.0,
+            "kd": 1.14
+          },
+          {
+            "name": "lion",
+            "picks": 8796,
+            "pickRate": 1.63,
+            "winRate": 48.0,
+            "kd": 1.04
+          },
+          {
+            "name": "glaz",
+            "picks": 7903,
+            "pickRate": 1.46,
+            "winRate": 48.8,
+            "kd": 1.18
+          },
+          {
+            "name": "hibana",
+            "picks": 7363,
+            "pickRate": 1.36,
+            "winRate": 47.6,
+            "kd": 1.08
+          },
+          {
+            "name": "osa",
+            "picks": 6931,
+            "pickRate": 1.28,
+            "winRate": 49.3,
+            "kd": 1.08
+          },
+          {
+            "name": "fuze",
+            "picks": 6912,
+            "pickRate": 1.28,
+            "winRate": 48.1,
+            "kd": 1.1
+          },
+          {
+            "name": "sledge",
+            "picks": 6761,
+            "pickRate": 1.25,
+            "winRate": 48.2,
+            "kd": 1.08
+          },
+          {
+            "name": "thermite",
+            "picks": 6479,
+            "pickRate": 1.2,
+            "winRate": 48.8,
+            "kd": 0.98
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 23996,
+            "pickRate": 4.45,
+            "winRate": 53.8,
+            "kd": 1.27
+          },
+          {
+            "name": "azami",
+            "picks": 15712,
+            "pickRate": 2.91,
+            "winRate": 52.2,
+            "kd": 1.02
+          },
+          {
+            "name": "thorn",
+            "picks": 15196,
+            "pickRate": 2.82,
+            "winRate": 53.0,
+            "kd": 1.06
+          },
+          {
+            "name": "vigil",
+            "picks": 13885,
+            "pickRate": 2.57,
+            "winRate": 51.9,
+            "kd": 1.1
+          },
+          {
+            "name": "lesion",
+            "picks": 13289,
+            "pickRate": 2.46,
+            "winRate": 53.0,
+            "kd": 1.07
+          },
+          {
+            "name": "mute",
+            "picks": 13052,
+            "pickRate": 2.42,
+            "winRate": 51.5,
+            "kd": 0.88
+          },
+          {
+            "name": "valkyrie",
+            "picks": 12868,
+            "pickRate": 2.38,
+            "winRate": 53.6,
+            "kd": 1.19
+          },
+          {
+            "name": "tubarao",
+            "picks": 12022,
+            "pickRate": 2.23,
+            "winRate": 53.7,
+            "kd": 1.26
+          },
+          {
+            "name": "castle",
+            "picks": 11571,
+            "pickRate": 2.14,
+            "winRate": 51.5,
+            "kd": 0.9
+          },
+          {
+            "name": "melusi",
+            "picks": 11207,
+            "pickRate": 2.08,
+            "winRate": 53.9,
+            "kd": 0.99
+          },
+          {
+            "name": "warden",
+            "picks": 9480,
+            "pickRate": 1.76,
+            "winRate": 51.6,
+            "kd": 1.03
+          },
+          {
+            "name": "solis",
+            "picks": 8890,
+            "pickRate": 1.65,
+            "winRate": 52.6,
+            "kd": 1.14
+          },
+          {
+            "name": "smoke",
+            "picks": 8791,
+            "pickRate": 1.63,
+            "winRate": 50.3,
+            "kd": 0.86
+          },
+          {
+            "name": "goyo",
+            "picks": 7542,
+            "pickRate": 1.4,
+            "winRate": 50.2,
+            "kd": 0.95
+          },
+          {
+            "name": "fenrir",
+            "picks": 7321,
+            "pickRate": 1.36,
+            "winRate": 52.1,
+            "kd": 0.97
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 492448,
+        "atkWinRate": 43.7,
+        "defWinRate": 56.8,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 21540,
+            "pickRate": 4.37,
+            "winRate": 44.0,
+            "kd": 0.91
+          },
+          {
+            "name": "ash",
+            "picks": 21222,
+            "pickRate": 4.31,
+            "winRate": 43.8,
+            "kd": 1.03
+          },
+          {
+            "name": "thatcher",
+            "picks": 15148,
+            "pickRate": 3.08,
+            "winRate": 44.7,
+            "kd": 0.95
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 14590,
+            "pickRate": 2.96,
+            "winRate": 43.5,
+            "kd": 0.96
+          },
+          {
+            "name": "solid-snake",
+            "picks": 14417,
+            "pickRate": 2.93,
+            "winRate": 42.9,
+            "kd": 0.96
+          },
+          {
+            "name": "buck",
+            "picks": 12823,
+            "pickRate": 2.6,
+            "winRate": 43.2,
+            "kd": 0.92
+          },
+          {
+            "name": "twitch",
+            "picks": 12190,
+            "pickRate": 2.48,
+            "winRate": 43.9,
+            "kd": 1.07
+          },
+          {
+            "name": "grim",
+            "picks": 9635,
+            "pickRate": 1.96,
+            "winRate": 43.4,
+            "kd": 0.88
+          },
+          {
+            "name": "ace",
+            "picks": 9485,
+            "pickRate": 1.93,
+            "winRate": 43.5,
+            "kd": 1.01
+          },
+          {
+            "name": "hibana",
+            "picks": 8560,
+            "pickRate": 1.74,
+            "winRate": 43.7,
+            "kd": 0.99
+          },
+          {
+            "name": "nomad",
+            "picks": 7983,
+            "pickRate": 1.62,
+            "winRate": 44.0,
+            "kd": 0.95
+          },
+          {
+            "name": "striker",
+            "picks": 7980,
+            "pickRate": 1.62,
+            "winRate": 43.8,
+            "kd": 0.98
+          },
+          {
+            "name": "maverick",
+            "picks": 7813,
+            "pickRate": 1.59,
+            "winRate": 42.6,
+            "kd": 0.88
+          },
+          {
+            "name": "fuze",
+            "picks": 6181,
+            "pickRate": 1.26,
+            "winRate": 44.3,
+            "kd": 1.0
+          },
+          {
+            "name": "ram",
+            "picks": 6032,
+            "pickRate": 1.22,
+            "winRate": 43.8,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 21117,
+            "pickRate": 4.29,
+            "winRate": 57.2,
+            "kd": 1.07
+          },
+          {
+            "name": "mute",
+            "picks": 17676,
+            "pickRate": 3.59,
+            "winRate": 56.3,
+            "kd": 1.07
+          },
+          {
+            "name": "aruni",
+            "picks": 17490,
+            "pickRate": 3.55,
+            "winRate": 58.1,
+            "kd": 1.29
+          },
+          {
+            "name": "azami",
+            "picks": 16921,
+            "pickRate": 3.44,
+            "winRate": 56.7,
+            "kd": 1.04
+          },
+          {
+            "name": "tubarao",
+            "picks": 15830,
+            "pickRate": 3.21,
+            "winRate": 57.0,
+            "kd": 1.2
+          },
+          {
+            "name": "kaid",
+            "picks": 13176,
+            "pickRate": 2.68,
+            "winRate": 57.3,
+            "kd": 1.03
+          },
+          {
+            "name": "vigil",
+            "picks": 12069,
+            "pickRate": 2.45,
+            "winRate": 55.2,
+            "kd": 1.16
+          },
+          {
+            "name": "thorn",
+            "picks": 11098,
+            "pickRate": 2.25,
+            "winRate": 58.4,
+            "kd": 1.15
+          },
+          {
+            "name": "valkyrie",
+            "picks": 10389,
+            "pickRate": 2.11,
+            "winRate": 57.3,
+            "kd": 1.23
+          },
+          {
+            "name": "warden",
+            "picks": 9803,
+            "pickRate": 1.99,
+            "winRate": 55.0,
+            "kd": 1.09
+          },
+          {
+            "name": "lesion",
+            "picks": 9472,
+            "pickRate": 1.92,
+            "winRate": 56.9,
+            "kd": 1.11
+          },
+          {
+            "name": "smoke",
+            "picks": 7793,
+            "pickRate": 1.58,
+            "winRate": 55.2,
+            "kd": 0.96
+          },
+          {
+            "name": "solis",
+            "picks": 6602,
+            "pickRate": 1.34,
+            "winRate": 56.8,
+            "kd": 1.19
+          },
+          {
+            "name": "melusi",
+            "picks": 6172,
+            "pickRate": 1.25,
+            "winRate": 57.6,
+            "kd": 1.05
+          },
+          {
+            "name": "fenrir",
+            "picks": 6065,
+            "pickRate": 1.23,
+            "winRate": 56.8,
+            "kd": 1.05
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 665717,
+        "atkWinRate": 43.8,
+        "defWinRate": 56.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 27272,
+            "pickRate": 4.1,
+            "winRate": 44.2,
+            "kd": 1.06
+          },
+          {
+            "name": "thermite",
+            "picks": 21964,
+            "pickRate": 3.3,
+            "winRate": 46.1,
+            "kd": 0.94
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 19005,
+            "pickRate": 2.85,
+            "winRate": 43.4,
+            "kd": 0.95
+          },
+          {
+            "name": "hibana",
+            "picks": 18986,
+            "pickRate": 2.85,
+            "winRate": 42.1,
+            "kd": 0.96
+          },
+          {
+            "name": "solid-snake",
+            "picks": 17706,
+            "pickRate": 2.66,
+            "winRate": 42.3,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 17004,
+            "pickRate": 2.55,
+            "winRate": 44.7,
+            "kd": 1.07
+          },
+          {
+            "name": "buck",
+            "picks": 15925,
+            "pickRate": 2.39,
+            "winRate": 43.5,
+            "kd": 0.94
+          },
+          {
+            "name": "grim",
+            "picks": 14912,
+            "pickRate": 2.24,
+            "winRate": 41.9,
+            "kd": 0.88
+          },
+          {
+            "name": "thatcher",
+            "picks": 14747,
+            "pickRate": 2.22,
+            "winRate": 46.3,
+            "kd": 1.01
+          },
+          {
+            "name": "striker",
+            "picks": 12707,
+            "pickRate": 1.91,
+            "winRate": 42.4,
+            "kd": 1.02
+          },
+          {
+            "name": "capitao",
+            "picks": 11653,
+            "pickRate": 1.75,
+            "winRate": 44.0,
+            "kd": 0.89
+          },
+          {
+            "name": "ace",
+            "picks": 10181,
+            "pickRate": 1.53,
+            "winRate": 45.7,
+            "kd": 1.09
+          },
+          {
+            "name": "maverick",
+            "picks": 10157,
+            "pickRate": 1.53,
+            "winRate": 43.8,
+            "kd": 0.93
+          },
+          {
+            "name": "nomad",
+            "picks": 9610,
+            "pickRate": 1.44,
+            "winRate": 43.1,
+            "kd": 0.98
+          },
+          {
+            "name": "sledge",
+            "picks": 7296,
+            "pickRate": 1.1,
+            "winRate": 43.7,
+            "kd": 0.96
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 24395,
+            "pickRate": 3.66,
+            "winRate": 58.4,
+            "kd": 1.33
+          },
+          {
+            "name": "azami",
+            "picks": 23448,
+            "pickRate": 3.52,
+            "winRate": 55.8,
+            "kd": 1.09
+          },
+          {
+            "name": "bandit",
+            "picks": 23059,
+            "pickRate": 3.46,
+            "winRate": 54.9,
+            "kd": 1.0
+          },
+          {
+            "name": "mute",
+            "picks": 20968,
+            "pickRate": 3.15,
+            "winRate": 55.5,
+            "kd": 1.02
+          },
+          {
+            "name": "castle",
+            "picks": 18869,
+            "pickRate": 2.83,
+            "winRate": 54.6,
+            "kd": 0.96
+          },
+          {
+            "name": "kaid",
+            "picks": 17244,
+            "pickRate": 2.59,
+            "winRate": 57.2,
+            "kd": 1.04
+          },
+          {
+            "name": "thorn",
+            "picks": 17232,
+            "pickRate": 2.59,
+            "winRate": 59.1,
+            "kd": 1.25
+          },
+          {
+            "name": "tubarao",
+            "picks": 16575,
+            "pickRate": 2.49,
+            "winRate": 56.1,
+            "kd": 1.21
+          },
+          {
+            "name": "valkyrie",
+            "picks": 15672,
+            "pickRate": 2.35,
+            "winRate": 58.4,
+            "kd": 1.25
+          },
+          {
+            "name": "vigil",
+            "picks": 13592,
+            "pickRate": 2.04,
+            "winRate": 57.6,
+            "kd": 1.15
+          },
+          {
+            "name": "lesion",
+            "picks": 11460,
+            "pickRate": 1.72,
+            "winRate": 56.5,
+            "kd": 1.08
+          },
+          {
+            "name": "smoke",
+            "picks": 9882,
+            "pickRate": 1.48,
+            "winRate": 55.3,
+            "kd": 0.95
+          },
+          {
+            "name": "warden",
+            "picks": 9824,
+            "pickRate": 1.48,
+            "winRate": 55.2,
+            "kd": 1.13
+          },
+          {
+            "name": "jager",
+            "picks": 9420,
+            "pickRate": 1.42,
+            "winRate": 53.7,
+            "kd": 0.98
+          },
+          {
+            "name": "melusi",
+            "picks": 9399,
+            "pickRate": 1.41,
+            "winRate": 58.8,
+            "kd": 1.09
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 365226,
+        "atkWinRate": 45.0,
+        "defWinRate": 55.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 14863,
+            "pickRate": 4.07,
+            "winRate": 44.9,
+            "kd": 1.08
+          },
+          {
+            "name": "twitch",
+            "picks": 11011,
+            "pickRate": 3.01,
+            "winRate": 44.5,
+            "kd": 1.07
+          },
+          {
+            "name": "solid-snake",
+            "picks": 10496,
+            "pickRate": 2.87,
+            "winRate": 43.9,
+            "kd": 0.9
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 10340,
+            "pickRate": 2.83,
+            "winRate": 45.3,
+            "kd": 1.0
+          },
+          {
+            "name": "hibana",
+            "picks": 10125,
+            "pickRate": 2.77,
+            "winRate": 44.8,
+            "kd": 1.04
+          },
+          {
+            "name": "grim",
+            "picks": 9342,
+            "pickRate": 2.56,
+            "winRate": 44.7,
+            "kd": 0.9
+          },
+          {
+            "name": "striker",
+            "picks": 7676,
+            "pickRate": 2.1,
+            "winRate": 46.3,
+            "kd": 1.07
+          },
+          {
+            "name": "nomad",
+            "picks": 7511,
+            "pickRate": 2.06,
+            "winRate": 45.1,
+            "kd": 1.05
+          },
+          {
+            "name": "thermite",
+            "picks": 6463,
+            "pickRate": 1.77,
+            "winRate": 44.0,
+            "kd": 0.83
+          },
+          {
+            "name": "lion",
+            "picks": 6354,
+            "pickRate": 1.74,
+            "winRate": 45.5,
+            "kd": 0.97
+          },
+          {
+            "name": "brava",
+            "picks": 5905,
+            "pickRate": 1.62,
+            "winRate": 44.9,
+            "kd": 1.09
+          },
+          {
+            "name": "buck",
+            "picks": 5794,
+            "pickRate": 1.59,
+            "winRate": 44.2,
+            "kd": 0.97
+          },
+          {
+            "name": "zero",
+            "picks": 4770,
+            "pickRate": 1.31,
+            "winRate": 44.6,
+            "kd": 0.99
+          },
+          {
+            "name": "iq",
+            "picks": 4453,
+            "pickRate": 1.22,
+            "winRate": 45.5,
+            "kd": 1.11
+          },
+          {
+            "name": "blackbeard",
+            "picks": 4241,
+            "pickRate": 1.16,
+            "winRate": 44.0,
+            "kd": 0.81
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 18479,
+            "pickRate": 5.06,
+            "winRate": 57.2,
+            "kd": 1.36
+          },
+          {
+            "name": "azami",
+            "picks": 11218,
+            "pickRate": 3.07,
+            "winRate": 55.1,
+            "kd": 1.06
+          },
+          {
+            "name": "valkyrie",
+            "picks": 10163,
+            "pickRate": 2.78,
+            "winRate": 56.6,
+            "kd": 1.16
+          },
+          {
+            "name": "thorn",
+            "picks": 9707,
+            "pickRate": 2.66,
+            "winRate": 56.8,
+            "kd": 1.14
+          },
+          {
+            "name": "vigil",
+            "picks": 9180,
+            "pickRate": 2.51,
+            "winRate": 56.3,
+            "kd": 1.1
+          },
+          {
+            "name": "smoke",
+            "picks": 8692,
+            "pickRate": 2.38,
+            "winRate": 54.0,
+            "kd": 0.93
+          },
+          {
+            "name": "kaid",
+            "picks": 8217,
+            "pickRate": 2.25,
+            "winRate": 57.2,
+            "kd": 1.07
+          },
+          {
+            "name": "goyo",
+            "picks": 8007,
+            "pickRate": 2.19,
+            "winRate": 54.1,
+            "kd": 0.99
+          },
+          {
+            "name": "tubarao",
+            "picks": 7373,
+            "pickRate": 2.02,
+            "winRate": 57.4,
+            "kd": 1.3
+          },
+          {
+            "name": "mute",
+            "picks": 7125,
+            "pickRate": 1.95,
+            "winRate": 55.3,
+            "kd": 0.98
+          },
+          {
+            "name": "lesion",
+            "picks": 6892,
+            "pickRate": 1.89,
+            "winRate": 55.7,
+            "kd": 1.06
+          },
+          {
+            "name": "castle",
+            "picks": 6459,
+            "pickRate": 1.77,
+            "winRate": 53.9,
+            "kd": 0.96
+          },
+          {
+            "name": "warden",
+            "picks": 6307,
+            "pickRate": 1.73,
+            "winRate": 54.3,
+            "kd": 1.05
+          },
+          {
+            "name": "melusi",
+            "picks": 4300,
+            "pickRate": 1.18,
+            "winRate": 56.0,
+            "kd": 1.02
+          },
+          {
+            "name": "bandit",
+            "picks": 4265,
+            "pickRate": 1.17,
+            "winRate": 54.7,
+            "kd": 1.07
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 619847,
+        "atkWinRate": 46.9,
+        "defWinRate": 53.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 27271,
+            "pickRate": 4.4,
+            "winRate": 46.9,
+            "kd": 1.09
+          },
+          {
+            "name": "solid-snake",
+            "picks": 19629,
+            "pickRate": 3.17,
+            "winRate": 45.8,
+            "kd": 0.94
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 17447,
+            "pickRate": 2.81,
+            "winRate": 47.6,
+            "kd": 1.0
+          },
+          {
+            "name": "twitch",
+            "picks": 16754,
+            "pickRate": 2.7,
+            "winRate": 46.8,
+            "kd": 1.06
+          },
+          {
+            "name": "buck",
+            "picks": 16744,
+            "pickRate": 2.7,
+            "winRate": 45.4,
+            "kd": 0.99
+          },
+          {
+            "name": "thermite",
+            "picks": 15251,
+            "pickRate": 2.46,
+            "winRate": 47.4,
+            "kd": 0.91
+          },
+          {
+            "name": "nomad",
+            "picks": 15038,
+            "pickRate": 2.43,
+            "winRate": 46.8,
+            "kd": 1.06
+          },
+          {
+            "name": "grim",
+            "picks": 12942,
+            "pickRate": 2.09,
+            "winRate": 47.1,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 9442,
+            "pickRate": 1.52,
+            "winRate": 47.2,
+            "kd": 1.06
+          },
+          {
+            "name": "striker",
+            "picks": 9295,
+            "pickRate": 1.5,
+            "winRate": 47.6,
+            "kd": 1.12
+          },
+          {
+            "name": "lion",
+            "picks": 8480,
+            "pickRate": 1.37,
+            "winRate": 46.7,
+            "kd": 0.98
+          },
+          {
+            "name": "fuze",
+            "picks": 8476,
+            "pickRate": 1.37,
+            "winRate": 47.8,
+            "kd": 1.08
+          },
+          {
+            "name": "brava",
+            "picks": 7998,
+            "pickRate": 1.29,
+            "winRate": 47.9,
+            "kd": 1.12
+          },
+          {
+            "name": "thatcher",
+            "picks": 7644,
+            "pickRate": 1.23,
+            "winRate": 46.3,
+            "kd": 1.01
+          },
+          {
+            "name": "sledge",
+            "picks": 7613,
+            "pickRate": 1.23,
+            "winRate": 45.7,
+            "kd": 1.03
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 22810,
+            "pickRate": 3.68,
+            "winRate": 54.5,
+            "kd": 1.21
+          },
+          {
+            "name": "mute",
+            "picks": 18117,
+            "pickRate": 2.92,
+            "winRate": 52.8,
+            "kd": 0.97
+          },
+          {
+            "name": "thorn",
+            "picks": 16928,
+            "pickRate": 2.73,
+            "winRate": 54.7,
+            "kd": 1.12
+          },
+          {
+            "name": "valkyrie",
+            "picks": 15943,
+            "pickRate": 2.57,
+            "winRate": 53.6,
+            "kd": 1.14
+          },
+          {
+            "name": "azami",
+            "picks": 15614,
+            "pickRate": 2.52,
+            "winRate": 53.2,
+            "kd": 1.03
+          },
+          {
+            "name": "lesion",
+            "picks": 15389,
+            "pickRate": 2.48,
+            "winRate": 54.6,
+            "kd": 1.08
+          },
+          {
+            "name": "vigil",
+            "picks": 14875,
+            "pickRate": 2.4,
+            "winRate": 53.7,
+            "kd": 1.09
+          },
+          {
+            "name": "bandit",
+            "picks": 14248,
+            "pickRate": 2.3,
+            "winRate": 53.6,
+            "kd": 1.06
+          },
+          {
+            "name": "warden",
+            "picks": 13571,
+            "pickRate": 2.19,
+            "winRate": 52.5,
+            "kd": 1.09
+          },
+          {
+            "name": "kaid",
+            "picks": 12620,
+            "pickRate": 2.04,
+            "winRate": 52.4,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 12576,
+            "pickRate": 2.03,
+            "winRate": 52.1,
+            "kd": 0.92
+          },
+          {
+            "name": "kapkan",
+            "picks": 11909,
+            "pickRate": 1.92,
+            "winRate": 57.1,
+            "kd": 1.33
+          },
+          {
+            "name": "castle",
+            "picks": 11285,
+            "pickRate": 1.82,
+            "winRate": 52.9,
+            "kd": 0.97
+          },
+          {
+            "name": "tubarao",
+            "picks": 10685,
+            "pickRate": 1.72,
+            "winRate": 54.2,
+            "kd": 1.16
+          },
+          {
+            "name": "solis",
+            "picks": 10115,
+            "pickRate": 1.63,
+            "winRate": 54.3,
+            "kd": 1.17
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 660480,
+        "atkWinRate": 45.8,
+        "defWinRate": 54.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 26737,
+            "pickRate": 4.05,
+            "winRate": 46.1,
+            "kd": 1.11
+          },
+          {
+            "name": "thermite",
+            "picks": 21658,
+            "pickRate": 3.28,
+            "winRate": 47.5,
+            "kd": 0.9
+          },
+          {
+            "name": "solid-snake",
+            "picks": 19550,
+            "pickRate": 2.96,
+            "winRate": 44.3,
+            "kd": 0.95
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 19328,
+            "pickRate": 2.93,
+            "winRate": 45.7,
+            "kd": 1.02
+          },
+          {
+            "name": "twitch",
+            "picks": 18722,
+            "pickRate": 2.83,
+            "winRate": 46.3,
+            "kd": 1.11
+          },
+          {
+            "name": "hibana",
+            "picks": 17624,
+            "pickRate": 2.67,
+            "winRate": 45.4,
+            "kd": 1.01
+          },
+          {
+            "name": "grim",
+            "picks": 14835,
+            "pickRate": 2.25,
+            "winRate": 45.0,
+            "kd": 0.92
+          },
+          {
+            "name": "nomad",
+            "picks": 14375,
+            "pickRate": 2.18,
+            "winRate": 46.3,
+            "kd": 1.06
+          },
+          {
+            "name": "buck",
+            "picks": 13103,
+            "pickRate": 1.98,
+            "winRate": 44.9,
+            "kd": 0.95
+          },
+          {
+            "name": "thatcher",
+            "picks": 11136,
+            "pickRate": 1.69,
+            "winRate": 46.6,
+            "kd": 1.02
+          },
+          {
+            "name": "striker",
+            "picks": 10577,
+            "pickRate": 1.6,
+            "winRate": 47.0,
+            "kd": 1.09
+          },
+          {
+            "name": "lion",
+            "picks": 8513,
+            "pickRate": 1.29,
+            "winRate": 45.1,
+            "kd": 0.95
+          },
+          {
+            "name": "ram",
+            "picks": 8255,
+            "pickRate": 1.25,
+            "winRate": 46.8,
+            "kd": 1.0
+          },
+          {
+            "name": "brava",
+            "picks": 8236,
+            "pickRate": 1.25,
+            "winRate": 46.6,
+            "kd": 1.09
+          },
+          {
+            "name": "maverick",
+            "picks": 7280,
+            "pickRate": 1.1,
+            "winRate": 45.2,
+            "kd": 0.95
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 25782,
+            "pickRate": 3.9,
+            "winRate": 56.2,
+            "kd": 1.29
+          },
+          {
+            "name": "azami",
+            "picks": 25151,
+            "pickRate": 3.81,
+            "winRate": 54.2,
+            "kd": 1.04
+          },
+          {
+            "name": "bandit",
+            "picks": 21640,
+            "pickRate": 3.28,
+            "winRate": 54.3,
+            "kd": 1.01
+          },
+          {
+            "name": "mute",
+            "picks": 21586,
+            "pickRate": 3.27,
+            "winRate": 54.4,
+            "kd": 1.01
+          },
+          {
+            "name": "tubarao",
+            "picks": 18948,
+            "pickRate": 2.87,
+            "winRate": 53.8,
+            "kd": 1.16
+          },
+          {
+            "name": "thorn",
+            "picks": 18903,
+            "pickRate": 2.86,
+            "winRate": 57.3,
+            "kd": 1.21
+          },
+          {
+            "name": "kaid",
+            "picks": 15135,
+            "pickRate": 2.29,
+            "winRate": 54.7,
+            "kd": 0.98
+          },
+          {
+            "name": "valkyrie",
+            "picks": 14041,
+            "pickRate": 2.13,
+            "winRate": 56.1,
+            "kd": 1.16
+          },
+          {
+            "name": "vigil",
+            "picks": 13394,
+            "pickRate": 2.03,
+            "winRate": 54.2,
+            "kd": 1.09
+          },
+          {
+            "name": "warden",
+            "picks": 12381,
+            "pickRate": 1.87,
+            "winRate": 53.9,
+            "kd": 1.11
+          },
+          {
+            "name": "lesion",
+            "picks": 11867,
+            "pickRate": 1.8,
+            "winRate": 55.2,
+            "kd": 1.07
+          },
+          {
+            "name": "smoke",
+            "picks": 10382,
+            "pickRate": 1.57,
+            "winRate": 52.6,
+            "kd": 0.91
+          },
+          {
+            "name": "melusi",
+            "picks": 9638,
+            "pickRate": 1.46,
+            "winRate": 54.8,
+            "kd": 1.02
+          },
+          {
+            "name": "solis",
+            "picks": 9132,
+            "pickRate": 1.38,
+            "winRate": 54.7,
+            "kd": 1.17
+          },
+          {
+            "name": "fenrir",
+            "picks": 9087,
+            "pickRate": 1.38,
+            "winRate": 55.1,
+            "kd": 1.05
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 480508,
+        "atkWinRate": 42.8,
+        "defWinRate": 58.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 20581,
+            "pickRate": 4.28,
+            "winRate": 43.1,
+            "kd": 1.05
+          },
+          {
+            "name": "twitch",
+            "picks": 14456,
+            "pickRate": 3.01,
+            "winRate": 43.2,
+            "kd": 1.03
+          },
+          {
+            "name": "solid-snake",
+            "picks": 12924,
+            "pickRate": 2.69,
+            "winRate": 41.9,
+            "kd": 0.89
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 12715,
+            "pickRate": 2.65,
+            "winRate": 43.3,
+            "kd": 0.97
+          },
+          {
+            "name": "buck",
+            "picks": 12122,
+            "pickRate": 2.52,
+            "winRate": 41.3,
+            "kd": 0.92
+          },
+          {
+            "name": "nomad",
+            "picks": 11845,
+            "pickRate": 2.47,
+            "winRate": 42.7,
+            "kd": 0.98
+          },
+          {
+            "name": "grim",
+            "picks": 11025,
+            "pickRate": 2.29,
+            "winRate": 42.2,
+            "kd": 0.89
+          },
+          {
+            "name": "hibana",
+            "picks": 10577,
+            "pickRate": 2.2,
+            "winRate": 43.8,
+            "kd": 0.96
+          },
+          {
+            "name": "brava",
+            "picks": 8852,
+            "pickRate": 1.84,
+            "winRate": 43.3,
+            "kd": 1.02
+          },
+          {
+            "name": "thermite",
+            "picks": 8504,
+            "pickRate": 1.77,
+            "winRate": 44.4,
+            "kd": 0.9
+          },
+          {
+            "name": "lion",
+            "picks": 7908,
+            "pickRate": 1.65,
+            "winRate": 42.5,
+            "kd": 0.92
+          },
+          {
+            "name": "sledge",
+            "picks": 6650,
+            "pickRate": 1.38,
+            "winRate": 43.8,
+            "kd": 0.99
+          },
+          {
+            "name": "striker",
+            "picks": 6475,
+            "pickRate": 1.35,
+            "winRate": 42.7,
+            "kd": 1.0
+          },
+          {
+            "name": "gridlock",
+            "picks": 6174,
+            "pickRate": 1.28,
+            "winRate": 43.2,
+            "kd": 0.95
+          },
+          {
+            "name": "ace",
+            "picks": 6021,
+            "pickRate": 1.25,
+            "winRate": 44.3,
+            "kd": 1.04
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 22231,
+            "pickRate": 4.63,
+            "winRate": 59.5,
+            "kd": 1.33
+          },
+          {
+            "name": "mute",
+            "picks": 16962,
+            "pickRate": 3.53,
+            "winRate": 58.1,
+            "kd": 1.06
+          },
+          {
+            "name": "azami",
+            "picks": 15978,
+            "pickRate": 3.33,
+            "winRate": 58.0,
+            "kd": 1.14
+          },
+          {
+            "name": "valkyrie",
+            "picks": 15644,
+            "pickRate": 3.26,
+            "winRate": 59.2,
+            "kd": 1.27
+          },
+          {
+            "name": "castle",
+            "picks": 12892,
+            "pickRate": 2.68,
+            "winRate": 56.3,
+            "kd": 0.96
+          },
+          {
+            "name": "thorn",
+            "picks": 12314,
+            "pickRate": 2.56,
+            "winRate": 59.5,
+            "kd": 1.17
+          },
+          {
+            "name": "vigil",
+            "picks": 10411,
+            "pickRate": 2.17,
+            "winRate": 56.9,
+            "kd": 1.12
+          },
+          {
+            "name": "lesion",
+            "picks": 9700,
+            "pickRate": 2.02,
+            "winRate": 57.6,
+            "kd": 1.14
+          },
+          {
+            "name": "tubarao",
+            "picks": 9607,
+            "pickRate": 2.0,
+            "winRate": 58.3,
+            "kd": 1.32
+          },
+          {
+            "name": "kaid",
+            "picks": 7361,
+            "pickRate": 1.53,
+            "winRate": 57.0,
+            "kd": 1.07
+          },
+          {
+            "name": "warden",
+            "picks": 7142,
+            "pickRate": 1.49,
+            "winRate": 56.5,
+            "kd": 1.12
+          },
+          {
+            "name": "melusi",
+            "picks": 6953,
+            "pickRate": 1.45,
+            "winRate": 59.3,
+            "kd": 1.06
+          },
+          {
+            "name": "bandit",
+            "picks": 6909,
+            "pickRate": 1.44,
+            "winRate": 57.6,
+            "kd": 1.19
+          },
+          {
+            "name": "solis",
+            "picks": 6725,
+            "pickRate": 1.4,
+            "winRate": 58.5,
+            "kd": 1.25
+          },
+          {
+            "name": "jager",
+            "picks": 6699,
+            "pickRate": 1.39,
+            "winRate": 56.9,
+            "kd": 1.03
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 167625,
+        "atkWinRate": 41.9,
+        "defWinRate": 57.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7629,
+            "pickRate": 4.55,
+            "winRate": 41.2,
+            "kd": 1.02
+          },
+          {
+            "name": "solid-snake",
+            "picks": 5746,
+            "pickRate": 3.43,
+            "winRate": 40.6,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 5275,
+            "pickRate": 3.15,
+            "winRate": 43.3,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5139,
+            "pickRate": 3.07,
+            "winRate": 41.4,
+            "kd": 0.92
+          },
+          {
+            "name": "thermite",
+            "picks": 5114,
+            "pickRate": 3.05,
+            "winRate": 43.1,
+            "kd": 0.86
+          },
+          {
+            "name": "grim",
+            "picks": 4289,
+            "pickRate": 2.56,
+            "winRate": 41.5,
+            "kd": 0.87
+          },
+          {
+            "name": "buck",
+            "picks": 3487,
+            "pickRate": 2.08,
+            "winRate": 40.2,
+            "kd": 0.88
+          },
+          {
+            "name": "nomad",
+            "picks": 3155,
+            "pickRate": 1.88,
+            "winRate": 43.7,
+            "kd": 0.95
+          },
+          {
+            "name": "striker",
+            "picks": 2865,
+            "pickRate": 1.71,
+            "winRate": 42.4,
+            "kd": 1.0
+          },
+          {
+            "name": "thatcher",
+            "picks": 2805,
+            "pickRate": 1.67,
+            "winRate": 41.2,
+            "kd": 0.95
+          },
+          {
+            "name": "hibana",
+            "picks": 2580,
+            "pickRate": 1.54,
+            "winRate": 43.3,
+            "kd": 0.91
+          },
+          {
+            "name": "lion",
+            "picks": 2504,
+            "pickRate": 1.49,
+            "winRate": 44.4,
+            "kd": 0.87
+          },
+          {
+            "name": "blackbeard",
+            "picks": 2375,
+            "pickRate": 1.42,
+            "winRate": 42.9,
+            "kd": 0.7
+          },
+          {
+            "name": "finka",
+            "picks": 2282,
+            "pickRate": 1.36,
+            "winRate": 43.9,
+            "kd": 0.95
+          },
+          {
+            "name": "ace",
+            "picks": 2211,
+            "pickRate": 1.32,
+            "winRate": 44.1,
+            "kd": 0.98
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 6248,
+            "pickRate": 3.73,
+            "winRate": 59.6,
+            "kd": 1.28
+          },
+          {
+            "name": "bandit",
+            "picks": 5522,
+            "pickRate": 3.29,
+            "winRate": 57.7,
+            "kd": 1.1
+          },
+          {
+            "name": "mute",
+            "picks": 5343,
+            "pickRate": 3.19,
+            "winRate": 57.1,
+            "kd": 1.03
+          },
+          {
+            "name": "azami",
+            "picks": 4556,
+            "pickRate": 2.72,
+            "winRate": 56.3,
+            "kd": 1.08
+          },
+          {
+            "name": "lesion",
+            "picks": 4374,
+            "pickRate": 2.61,
+            "winRate": 57.4,
+            "kd": 1.09
+          },
+          {
+            "name": "thorn",
+            "picks": 4147,
+            "pickRate": 2.47,
+            "winRate": 59.3,
+            "kd": 1.14
+          },
+          {
+            "name": "smoke",
+            "picks": 3719,
+            "pickRate": 2.22,
+            "winRate": 55.1,
+            "kd": 1.0
+          },
+          {
+            "name": "vigil",
+            "picks": 3672,
+            "pickRate": 2.19,
+            "winRate": 56.9,
+            "kd": 1.19
+          },
+          {
+            "name": "kaid",
+            "picks": 3580,
+            "pickRate": 2.14,
+            "winRate": 57.8,
+            "kd": 1.06
+          },
+          {
+            "name": "tubarao",
+            "picks": 3474,
+            "pickRate": 2.07,
+            "winRate": 56.8,
+            "kd": 1.17
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3368,
+            "pickRate": 2.01,
+            "winRate": 57.2,
+            "kd": 1.21
+          },
+          {
+            "name": "warden",
+            "picks": 3317,
+            "pickRate": 1.98,
+            "winRate": 56.7,
+            "kd": 1.12
+          },
+          {
+            "name": "melusi",
+            "picks": 2603,
+            "pickRate": 1.55,
+            "winRate": 57.6,
+            "kd": 1.09
+          },
+          {
+            "name": "fenrir",
+            "picks": 2363,
+            "pickRate": 1.41,
+            "winRate": 56.9,
+            "kd": 1.09
+          },
+          {
+            "name": "ela",
+            "picks": 2343,
+            "pickRate": 1.4,
+            "winRate": 57.8,
+            "kd": 1.11
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 163492,
+        "atkWinRate": 48.1,
+        "defWinRate": 53.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7974,
+            "pickRate": 4.88,
+            "winRate": 48.4,
+            "kd": 1.14
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6270,
+            "pickRate": 3.84,
+            "winRate": 47.8,
+            "kd": 1.01
+          },
+          {
+            "name": "twitch",
+            "picks": 5515,
+            "pickRate": 3.37,
+            "winRate": 47.4,
+            "kd": 1.1
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4834,
+            "pickRate": 2.96,
+            "winRate": 49.0,
+            "kd": 1.03
+          },
+          {
+            "name": "thermite",
+            "picks": 4531,
+            "pickRate": 2.77,
+            "winRate": 48.2,
+            "kd": 1.04
+          },
+          {
+            "name": "buck",
+            "picks": 4017,
+            "pickRate": 2.46,
+            "winRate": 47.6,
+            "kd": 1.01
+          },
+          {
+            "name": "grim",
+            "picks": 3333,
+            "pickRate": 2.04,
+            "winRate": 47.9,
+            "kd": 0.96
+          },
+          {
+            "name": "nomad",
+            "picks": 3294,
+            "pickRate": 2.01,
+            "winRate": 49.2,
+            "kd": 1.09
+          },
+          {
+            "name": "striker",
+            "picks": 2996,
+            "pickRate": 1.83,
+            "winRate": 48.5,
+            "kd": 1.07
+          },
+          {
+            "name": "lion",
+            "picks": 2695,
+            "pickRate": 1.65,
+            "winRate": 47.4,
+            "kd": 0.97
+          },
+          {
+            "name": "brava",
+            "picks": 2282,
+            "pickRate": 1.4,
+            "winRate": 50.7,
+            "kd": 1.19
+          },
+          {
+            "name": "finka",
+            "picks": 2197,
+            "pickRate": 1.34,
+            "winRate": 48.7,
+            "kd": 1.06
+          },
+          {
+            "name": "thatcher",
+            "picks": 2157,
+            "pickRate": 1.32,
+            "winRate": 46.4,
+            "kd": 1.09
+          },
+          {
+            "name": "hibana",
+            "picks": 1977,
+            "pickRate": 1.21,
+            "winRate": 47.7,
+            "kd": 1.07
+          },
+          {
+            "name": "deimos",
+            "picks": 1930,
+            "pickRate": 1.18,
+            "winRate": 49.2,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 5910,
+            "pickRate": 3.61,
+            "winRate": 54.0,
+            "kd": 1.26
+          },
+          {
+            "name": "bandit",
+            "picks": 5417,
+            "pickRate": 3.31,
+            "winRate": 54.2,
+            "kd": 1.06
+          },
+          {
+            "name": "mute",
+            "picks": 5197,
+            "pickRate": 3.18,
+            "winRate": 51.8,
+            "kd": 0.95
+          },
+          {
+            "name": "lesion",
+            "picks": 4735,
+            "pickRate": 2.9,
+            "winRate": 52.8,
+            "kd": 1.1
+          },
+          {
+            "name": "vigil",
+            "picks": 4626,
+            "pickRate": 2.83,
+            "winRate": 52.2,
+            "kd": 1.12
+          },
+          {
+            "name": "thorn",
+            "picks": 4541,
+            "pickRate": 2.78,
+            "winRate": 55.1,
+            "kd": 1.14
+          },
+          {
+            "name": "azami",
+            "picks": 4073,
+            "pickRate": 2.49,
+            "winRate": 52.2,
+            "kd": 1.04
+          },
+          {
+            "name": "tubarao",
+            "picks": 3229,
+            "pickRate": 1.98,
+            "winRate": 52.9,
+            "kd": 1.13
+          },
+          {
+            "name": "kaid",
+            "picks": 3145,
+            "pickRate": 1.92,
+            "winRate": 52.1,
+            "kd": 0.93
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3048,
+            "pickRate": 1.86,
+            "winRate": 52.9,
+            "kd": 1.12
+          },
+          {
+            "name": "warden",
+            "picks": 3016,
+            "pickRate": 1.84,
+            "winRate": 52.1,
+            "kd": 1.11
+          },
+          {
+            "name": "smoke",
+            "picks": 2678,
+            "pickRate": 1.64,
+            "winRate": 52.6,
+            "kd": 0.95
+          },
+          {
+            "name": "solis",
+            "picks": 2632,
+            "pickRate": 1.61,
+            "winRate": 52.8,
+            "kd": 1.19
+          },
+          {
+            "name": "ela",
+            "picks": 2362,
+            "pickRate": 1.44,
+            "winRate": 55.4,
+            "kd": 1.1
+          },
+          {
+            "name": "kapkan",
+            "picks": 2286,
+            "pickRate": 1.4,
+            "winRate": 54.5,
+            "kd": 1.21
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 5181,
+        "atkWinRate": 45.2,
+        "defWinRate": 56.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 287,
+            "pickRate": 5.54,
+            "winRate": 41.5,
+            "kd": 1.11
+          },
+          {
+            "name": "buck",
+            "picks": 176,
+            "pickRate": 3.4,
+            "winRate": 47.7,
+            "kd": 1.01
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 164,
+            "pickRate": 3.17,
+            "winRate": 46.3,
+            "kd": 0.98
+          },
+          {
+            "name": "nomad",
+            "picks": 139,
+            "pickRate": 2.68,
+            "winRate": 43.2,
+            "kd": 1.05
+          },
+          {
+            "name": "grim",
+            "picks": 132,
+            "pickRate": 2.55,
+            "winRate": 49.2,
+            "kd": 1.14
+          },
+          {
+            "name": "thermite",
+            "picks": 128,
+            "pickRate": 2.47,
+            "winRate": 43.8,
+            "kd": 1.02
+          },
+          {
+            "name": "twitch",
+            "picks": 126,
+            "pickRate": 2.43,
+            "winRate": 46.8,
+            "kd": 1.22
+          },
+          {
+            "name": "deimos",
+            "picks": 102,
+            "pickRate": 1.97,
+            "winRate": 52.9,
+            "kd": 1.03
+          },
+          {
+            "name": "ace",
+            "picks": 88,
+            "pickRate": 1.7,
+            "winRate": 44.3,
+            "kd": 0.91
+          },
+          {
+            "name": "iq",
+            "picks": 87,
+            "pickRate": 1.68,
+            "winRate": 43.7,
+            "kd": 1.16
+          },
+          {
+            "name": "finka",
+            "picks": 83,
+            "pickRate": 1.6,
+            "winRate": 50.6,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 80,
+            "pickRate": 1.54,
+            "winRate": 42.5,
+            "kd": 1.09
+          },
+          {
+            "name": "brava",
+            "picks": 78,
+            "pickRate": 1.51,
+            "winRate": 39.7,
+            "kd": 0.71
+          },
+          {
+            "name": "lion",
+            "picks": 74,
+            "pickRate": 1.43,
+            "winRate": 41.9,
+            "kd": 0.67
+          },
+          {
+            "name": "sledge",
+            "picks": 71,
+            "pickRate": 1.37,
+            "winRate": 43.7,
+            "kd": 1.17
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 178,
+            "pickRate": 3.44,
+            "winRate": 57.9,
+            "kd": 1.33
+          },
+          {
+            "name": "bandit",
+            "picks": 177,
+            "pickRate": 3.42,
+            "winRate": 56.5,
+            "kd": 0.95
+          },
+          {
+            "name": "lesion",
+            "picks": 163,
+            "pickRate": 3.15,
+            "winRate": 58.3,
+            "kd": 1.35
+          },
+          {
+            "name": "azami",
+            "picks": 150,
+            "pickRate": 2.9,
+            "winRate": 58.7,
+            "kd": 0.97
+          },
+          {
+            "name": "mute",
+            "picks": 149,
+            "pickRate": 2.88,
+            "winRate": 59.7,
+            "kd": 1.14
+          },
+          {
+            "name": "tubarao",
+            "picks": 137,
+            "pickRate": 2.64,
+            "winRate": 54.7,
+            "kd": 1.56
+          },
+          {
+            "name": "valkyrie",
+            "picks": 127,
+            "pickRate": 2.45,
+            "winRate": 61.4,
+            "kd": 0.9
+          },
+          {
+            "name": "vigil",
+            "picks": 115,
+            "pickRate": 2.22,
+            "winRate": 57.4,
+            "kd": 1.31
+          },
+          {
+            "name": "kaid",
+            "picks": 110,
+            "pickRate": 2.12,
+            "winRate": 59.1,
+            "kd": 1.21
+          },
+          {
+            "name": "thorn",
+            "picks": 104,
+            "pickRate": 2.01,
+            "winRate": 63.5,
+            "kd": 1.48
+          },
+          {
+            "name": "warden",
+            "picks": 87,
+            "pickRate": 1.68,
+            "winRate": 55.2,
+            "kd": 1.02
+          },
+          {
+            "name": "alibi",
+            "picks": 84,
+            "pickRate": 1.62,
+            "winRate": 50.0,
+            "kd": 1.1
+          },
+          {
+            "name": "ela",
+            "picks": 76,
+            "pickRate": 1.47,
+            "winRate": 61.8,
+            "kd": 1.32
+          },
+          {
+            "name": "doc",
+            "picks": 70,
+            "pickRate": 1.35,
+            "winRate": 50.0,
+            "kd": 0.73
+          },
+          {
+            "name": "solis",
+            "picks": 69,
+            "pickRate": 1.33,
+            "winRate": 46.4,
+            "kd": 1.08
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 3895,
+        "atkWinRate": 41.6,
+        "defWinRate": 62.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 227,
+            "pickRate": 5.83,
+            "winRate": 41.4,
+            "kd": 0.89
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 130,
+            "pickRate": 3.34,
+            "winRate": 39.2,
+            "kd": 0.83
+          },
+          {
+            "name": "buck",
+            "picks": 114,
+            "pickRate": 2.93,
+            "winRate": 50.0,
+            "kd": 0.75
+          },
+          {
+            "name": "nomad",
+            "picks": 108,
+            "pickRate": 2.77,
+            "winRate": 30.6,
+            "kd": 0.84
+          },
+          {
+            "name": "grim",
+            "picks": 96,
+            "pickRate": 2.46,
+            "winRate": 40.6,
+            "kd": 0.73
+          },
+          {
+            "name": "twitch",
+            "picks": 81,
+            "pickRate": 2.08,
+            "winRate": 46.9,
+            "kd": 0.72
+          },
+          {
+            "name": "striker",
+            "picks": 77,
+            "pickRate": 1.98,
+            "winRate": 44.2,
+            "kd": 1.16
+          },
+          {
+            "name": "thermite",
+            "picks": 74,
+            "pickRate": 1.9,
+            "winRate": 44.6,
+            "kd": 0.74
+          },
+          {
+            "name": "deimos",
+            "picks": 72,
+            "pickRate": 1.85,
+            "winRate": 33.3,
+            "kd": 0.75
+          },
+          {
+            "name": "iq",
+            "picks": 66,
+            "pickRate": 1.69,
+            "winRate": 43.9,
+            "kd": 0.96
+          },
+          {
+            "name": "finka",
+            "picks": 64,
+            "pickRate": 1.64,
+            "winRate": 35.9,
+            "kd": 0.75
+          },
+          {
+            "name": "lion",
+            "picks": 63,
+            "pickRate": 1.62,
+            "winRate": 54.0,
+            "kd": 0.93
+          },
+          {
+            "name": "blackbeard",
+            "picks": 58,
+            "pickRate": 1.49,
+            "winRate": 41.4,
+            "kd": 0.92
+          },
+          {
+            "name": "ace",
+            "picks": 58,
+            "pickRate": 1.49,
+            "winRate": 34.5,
+            "kd": 0.89
+          },
+          {
+            "name": "hibana",
+            "picks": 56,
+            "pickRate": 1.44,
+            "winRate": 35.7,
+            "kd": 0.95
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 143,
+            "pickRate": 3.67,
+            "winRate": 65.0,
+            "kd": 0.84
+          },
+          {
+            "name": "lesion",
+            "picks": 135,
+            "pickRate": 3.47,
+            "winRate": 68.9,
+            "kd": 1.39
+          },
+          {
+            "name": "bandit",
+            "picks": 122,
+            "pickRate": 3.13,
+            "winRate": 57.4,
+            "kd": 0.95
+          },
+          {
+            "name": "aruni",
+            "picks": 117,
+            "pickRate": 3.0,
+            "winRate": 63.2,
+            "kd": 1.45
+          },
+          {
+            "name": "azami",
+            "picks": 97,
+            "pickRate": 2.49,
+            "winRate": 59.8,
+            "kd": 1.28
+          },
+          {
+            "name": "smoke",
+            "picks": 94,
+            "pickRate": 2.41,
+            "winRate": 57.4,
+            "kd": 1.07
+          },
+          {
+            "name": "warden",
+            "picks": 81,
+            "pickRate": 2.08,
+            "winRate": 65.4,
+            "kd": 1.25
+          },
+          {
+            "name": "tubarao",
+            "picks": 78,
+            "pickRate": 2.0,
+            "winRate": 67.9,
+            "kd": 1.31
+          },
+          {
+            "name": "solis",
+            "picks": 72,
+            "pickRate": 1.85,
+            "winRate": 59.7,
+            "kd": 1.11
+          },
+          {
+            "name": "melusi",
+            "picks": 69,
+            "pickRate": 1.77,
+            "winRate": 62.3,
+            "kd": 1.3
+          },
+          {
+            "name": "valkyrie",
+            "picks": 64,
+            "pickRate": 1.64,
+            "winRate": 67.2,
+            "kd": 1.2
+          },
+          {
+            "name": "kaid",
+            "picks": 60,
+            "pickRate": 1.54,
+            "winRate": 60.0,
+            "kd": 1.21
+          },
+          {
+            "name": "kapkan",
+            "picks": 58,
+            "pickRate": 1.49,
+            "winRate": 60.3,
+            "kd": 0.98
+          },
+          {
+            "name": "fenrir",
+            "picks": 57,
+            "pickRate": 1.46,
+            "winRate": 52.6,
+            "kd": 1.0
+          },
+          {
+            "name": "ela",
+            "picks": 57,
+            "pickRate": 1.46,
+            "winRate": 66.7,
+            "kd": 0.93
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 7400,
+        "atkWinRate": 40.6,
+        "defWinRate": 59.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 340,
+            "pickRate": 4.59,
+            "winRate": 44.7,
+            "kd": 1.04
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 231,
+            "pickRate": 3.12,
+            "winRate": 39.0,
+            "kd": 0.91
+          },
+          {
+            "name": "nomad",
+            "picks": 211,
+            "pickRate": 2.85,
+            "winRate": 42.7,
+            "kd": 0.95
+          },
+          {
+            "name": "buck",
+            "picks": 209,
+            "pickRate": 2.82,
+            "winRate": 43.1,
+            "kd": 0.98
+          },
+          {
+            "name": "twitch",
+            "picks": 204,
+            "pickRate": 2.76,
+            "winRate": 43.1,
+            "kd": 1.1
+          },
+          {
+            "name": "thermite",
+            "picks": 204,
+            "pickRate": 2.76,
+            "winRate": 40.7,
+            "kd": 0.72
+          },
+          {
+            "name": "thatcher",
+            "picks": 150,
+            "pickRate": 2.03,
+            "winRate": 40.7,
+            "kd": 0.84
+          },
+          {
+            "name": "ace",
+            "picks": 126,
+            "pickRate": 1.7,
+            "winRate": 46.8,
+            "kd": 0.89
+          },
+          {
+            "name": "fuze",
+            "picks": 124,
+            "pickRate": 1.68,
+            "winRate": 41.9,
+            "kd": 0.87
+          },
+          {
+            "name": "grim",
+            "picks": 122,
+            "pickRate": 1.65,
+            "winRate": 43.4,
+            "kd": 0.81
+          },
+          {
+            "name": "deimos",
+            "picks": 114,
+            "pickRate": 1.54,
+            "winRate": 42.1,
+            "kd": 1.01
+          },
+          {
+            "name": "finka",
+            "picks": 109,
+            "pickRate": 1.47,
+            "winRate": 44.0,
+            "kd": 1.16
+          },
+          {
+            "name": "iq",
+            "picks": 107,
+            "pickRate": 1.45,
+            "winRate": 41.1,
+            "kd": 1.04
+          },
+          {
+            "name": "blackbeard",
+            "picks": 107,
+            "pickRate": 1.45,
+            "winRate": 41.1,
+            "kd": 0.79
+          },
+          {
+            "name": "sledge",
+            "picks": 105,
+            "pickRate": 1.42,
+            "winRate": 33.3,
+            "kd": 0.78
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 285,
+            "pickRate": 3.85,
+            "winRate": 63.2,
+            "kd": 1.51
+          },
+          {
+            "name": "mute",
+            "picks": 230,
+            "pickRate": 3.11,
+            "winRate": 61.7,
+            "kd": 1.3
+          },
+          {
+            "name": "bandit",
+            "picks": 216,
+            "pickRate": 2.92,
+            "winRate": 56.0,
+            "kd": 0.87
+          },
+          {
+            "name": "lesion",
+            "picks": 203,
+            "pickRate": 2.74,
+            "winRate": 57.6,
+            "kd": 1.11
+          },
+          {
+            "name": "tubarao",
+            "picks": 198,
+            "pickRate": 2.68,
+            "winRate": 60.1,
+            "kd": 1.08
+          },
+          {
+            "name": "valkyrie",
+            "picks": 180,
+            "pickRate": 2.43,
+            "winRate": 59.4,
+            "kd": 1.12
+          },
+          {
+            "name": "azami",
+            "picks": 177,
+            "pickRate": 2.39,
+            "winRate": 66.7,
+            "kd": 1.19
+          },
+          {
+            "name": "vigil",
+            "picks": 153,
+            "pickRate": 2.07,
+            "winRate": 56.2,
+            "kd": 0.88
+          },
+          {
+            "name": "warden",
+            "picks": 146,
+            "pickRate": 1.97,
+            "winRate": 63.0,
+            "kd": 1.61
+          },
+          {
+            "name": "kaid",
+            "picks": 143,
+            "pickRate": 1.93,
+            "winRate": 61.5,
+            "kd": 1.19
+          },
+          {
+            "name": "thorn",
+            "picks": 139,
+            "pickRate": 1.88,
+            "winRate": 66.2,
+            "kd": 1.49
+          },
+          {
+            "name": "solis",
+            "picks": 112,
+            "pickRate": 1.51,
+            "winRate": 53.6,
+            "kd": 1.03
+          },
+          {
+            "name": "smoke",
+            "picks": 111,
+            "pickRate": 1.5,
+            "winRate": 58.6,
+            "kd": 1.03
+          },
+          {
+            "name": "kapkan",
+            "picks": 110,
+            "pickRate": 1.49,
+            "winRate": 62.7,
+            "kd": 1.35
+          },
+          {
+            "name": "goyo",
+            "picks": 100,
+            "pickRate": 1.35,
+            "winRate": 54.0,
+            "kd": 1.11
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 3283,
+        "atkWinRate": 44.5,
+        "defWinRate": 60.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 185,
+            "pickRate": 5.64,
+            "winRate": 44.9,
+            "kd": 1.07
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 108,
+            "pickRate": 3.29,
+            "winRate": 55.6,
+            "kd": 1.24
+          },
+          {
+            "name": "thermite",
+            "picks": 102,
+            "pickRate": 3.11,
+            "winRate": 45.1,
+            "kd": 0.92
+          },
+          {
+            "name": "buck",
+            "picks": 79,
+            "pickRate": 2.41,
+            "winRate": 40.5,
+            "kd": 0.95
+          },
+          {
+            "name": "twitch",
+            "picks": 77,
+            "pickRate": 2.35,
+            "winRate": 41.6,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 76,
+            "pickRate": 2.31,
+            "winRate": 32.9,
+            "kd": 0.82
+          },
+          {
+            "name": "grim",
+            "picks": 72,
+            "pickRate": 2.19,
+            "winRate": 47.2,
+            "kd": 0.98
+          },
+          {
+            "name": "striker",
+            "picks": 72,
+            "pickRate": 2.19,
+            "winRate": 40.3,
+            "kd": 0.83
+          },
+          {
+            "name": "nomad",
+            "picks": 72,
+            "pickRate": 2.19,
+            "winRate": 43.1,
+            "kd": 1.04
+          },
+          {
+            "name": "iq",
+            "picks": 53,
+            "pickRate": 1.61,
+            "winRate": 39.6,
+            "kd": 1.17
+          },
+          {
+            "name": "deimos",
+            "picks": 51,
+            "pickRate": 1.55,
+            "winRate": 47.1,
+            "kd": 0.71
+          },
+          {
+            "name": "thatcher",
+            "picks": 46,
+            "pickRate": 1.4,
+            "winRate": 30.4,
+            "kd": 0.68
+          },
+          {
+            "name": "ace",
+            "picks": 42,
+            "pickRate": 1.28,
+            "winRate": 35.7,
+            "kd": 1.06
+          },
+          {
+            "name": "blackbeard",
+            "picks": 40,
+            "pickRate": 1.22,
+            "winRate": 52.5,
+            "kd": 0.73
+          },
+          {
+            "name": "finka",
+            "picks": 38,
+            "pickRate": 1.16,
+            "winRate": 47.4,
+            "kd": 1.31
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 133,
+            "pickRate": 4.05,
+            "winRate": 63.2,
+            "kd": 1.58
+          },
+          {
+            "name": "mute",
+            "picks": 121,
+            "pickRate": 3.69,
+            "winRate": 64.5,
+            "kd": 1.12
+          },
+          {
+            "name": "bandit",
+            "picks": 112,
+            "pickRate": 3.41,
+            "winRate": 50.9,
+            "kd": 0.93
+          },
+          {
+            "name": "azami",
+            "picks": 93,
+            "pickRate": 2.83,
+            "winRate": 49.5,
+            "kd": 1.0
+          },
+          {
+            "name": "lesion",
+            "picks": 86,
+            "pickRate": 2.62,
+            "winRate": 66.3,
+            "kd": 1.48
+          },
+          {
+            "name": "valkyrie",
+            "picks": 85,
+            "pickRate": 2.59,
+            "winRate": 69.4,
+            "kd": 1.47
+          },
+          {
+            "name": "vigil",
+            "picks": 73,
+            "pickRate": 2.22,
+            "winRate": 63.0,
+            "kd": 1.45
+          },
+          {
+            "name": "thorn",
+            "picks": 69,
+            "pickRate": 2.1,
+            "winRate": 53.6,
+            "kd": 1.27
+          },
+          {
+            "name": "tubarao",
+            "picks": 65,
+            "pickRate": 1.98,
+            "winRate": 55.4,
+            "kd": 1.6
+          },
+          {
+            "name": "kaid",
+            "picks": 61,
+            "pickRate": 1.86,
+            "winRate": 60.7,
+            "kd": 0.97
+          },
+          {
+            "name": "warden",
+            "picks": 55,
+            "pickRate": 1.68,
+            "winRate": 58.2,
+            "kd": 0.73
+          },
+          {
+            "name": "smoke",
+            "picks": 50,
+            "pickRate": 1.52,
+            "winRate": 52.0,
+            "kd": 0.87
+          },
+          {
+            "name": "doc",
+            "picks": 49,
+            "pickRate": 1.49,
+            "winRate": 61.2,
+            "kd": 1.5
+          },
+          {
+            "name": "solis",
+            "picks": 43,
+            "pickRate": 1.31,
+            "winRate": 67.4,
+            "kd": 1.3
+          },
+          {
+            "name": "fenrir",
+            "picks": 43,
+            "pickRate": 1.31,
+            "winRate": 53.5,
+            "kd": 0.81
+          }
+        ]
+      }
+    },
+    "Platinum": {
+      "oregon": {
+        "totalRounds": 434252,
+        "atkWinRate": 44.0,
+        "defWinRate": 56.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 17184,
+            "pickRate": 3.96,
+            "winRate": 44.7,
+            "kd": 1.02
+          },
+          {
+            "name": "twitch",
+            "picks": 12110,
+            "pickRate": 2.79,
+            "winRate": 43.8,
+            "kd": 1.0
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11970,
+            "pickRate": 2.76,
+            "winRate": 43.8,
+            "kd": 0.91
+          },
+          {
+            "name": "nomad",
+            "picks": 10861,
+            "pickRate": 2.5,
+            "winRate": 44.1,
+            "kd": 0.97
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 10635,
+            "pickRate": 2.45,
+            "winRate": 43.4,
+            "kd": 0.91
+          },
+          {
+            "name": "thermite",
+            "picks": 10200,
+            "pickRate": 2.35,
+            "winRate": 44.0,
+            "kd": 0.82
+          },
+          {
+            "name": "grim",
+            "picks": 9992,
+            "pickRate": 2.3,
+            "winRate": 43.7,
+            "kd": 0.85
+          },
+          {
+            "name": "buck",
+            "picks": 8315,
+            "pickRate": 1.91,
+            "winRate": 43.0,
+            "kd": 0.86
+          },
+          {
+            "name": "striker",
+            "picks": 7769,
+            "pickRate": 1.79,
+            "winRate": 43.4,
+            "kd": 1.0
+          },
+          {
+            "name": "hibana",
+            "picks": 7361,
+            "pickRate": 1.7,
+            "winRate": 44.0,
+            "kd": 0.92
+          },
+          {
+            "name": "brava",
+            "picks": 7151,
+            "pickRate": 1.65,
+            "winRate": 45.6,
+            "kd": 1.01
+          },
+          {
+            "name": "maverick",
+            "picks": 6817,
+            "pickRate": 1.57,
+            "winRate": 44.1,
+            "kd": 0.99
+          },
+          {
+            "name": "ace",
+            "picks": 6482,
+            "pickRate": 1.49,
+            "winRate": 44.3,
+            "kd": 0.96
+          },
+          {
+            "name": "lion",
+            "picks": 6111,
+            "pickRate": 1.41,
+            "winRate": 43.9,
+            "kd": 0.9
+          },
+          {
+            "name": "finka",
+            "picks": 5115,
+            "pickRate": 1.18,
+            "winRate": 46.2,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 16642,
+            "pickRate": 3.83,
+            "winRate": 56.7,
+            "kd": 1.02
+          },
+          {
+            "name": "aruni",
+            "picks": 15599,
+            "pickRate": 3.59,
+            "winRate": 57.4,
+            "kd": 1.24
+          },
+          {
+            "name": "thorn",
+            "picks": 13513,
+            "pickRate": 3.11,
+            "winRate": 57.9,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 11181,
+            "pickRate": 2.57,
+            "winRate": 55.8,
+            "kd": 1.05
+          },
+          {
+            "name": "warden",
+            "picks": 9876,
+            "pickRate": 2.27,
+            "winRate": 55.2,
+            "kd": 1.07
+          },
+          {
+            "name": "kaid",
+            "picks": 9623,
+            "pickRate": 2.22,
+            "winRate": 56.1,
+            "kd": 0.94
+          },
+          {
+            "name": "valkyrie",
+            "picks": 9398,
+            "pickRate": 2.16,
+            "winRate": 56.1,
+            "kd": 1.09
+          },
+          {
+            "name": "smoke",
+            "picks": 9392,
+            "pickRate": 2.16,
+            "winRate": 55.2,
+            "kd": 0.91
+          },
+          {
+            "name": "lesion",
+            "picks": 8723,
+            "pickRate": 2.01,
+            "winRate": 57.0,
+            "kd": 1.06
+          },
+          {
+            "name": "bandit",
+            "picks": 8203,
+            "pickRate": 1.89,
+            "winRate": 56.8,
+            "kd": 1.06
+          },
+          {
+            "name": "vigil",
+            "picks": 7905,
+            "pickRate": 1.82,
+            "winRate": 55.6,
+            "kd": 1.13
+          },
+          {
+            "name": "melusi",
+            "picks": 7801,
+            "pickRate": 1.8,
+            "winRate": 56.6,
+            "kd": 0.99
+          },
+          {
+            "name": "fenrir",
+            "picks": 7543,
+            "pickRate": 1.74,
+            "winRate": 55.9,
+            "kd": 0.98
+          },
+          {
+            "name": "jager",
+            "picks": 6535,
+            "pickRate": 1.5,
+            "winRate": 55.5,
+            "kd": 0.97
+          },
+          {
+            "name": "goyo",
+            "picks": 5956,
+            "pickRate": 1.37,
+            "winRate": 54.3,
+            "kd": 0.98
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 310665,
+        "atkWinRate": 43.6,
+        "defWinRate": 56.4,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 14384,
+            "pickRate": 4.63,
+            "winRate": 43.8,
+            "kd": 0.89
+          },
+          {
+            "name": "ash",
+            "picks": 11986,
+            "pickRate": 3.86,
+            "winRate": 43.9,
+            "kd": 0.99
+          },
+          {
+            "name": "thatcher",
+            "picks": 10327,
+            "pickRate": 3.32,
+            "winRate": 44.7,
+            "kd": 0.92
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 8802,
+            "pickRate": 2.83,
+            "winRate": 42.9,
+            "kd": 0.91
+          },
+          {
+            "name": "solid-snake",
+            "picks": 8186,
+            "pickRate": 2.63,
+            "winRate": 42.1,
+            "kd": 0.87
+          },
+          {
+            "name": "buck",
+            "picks": 7562,
+            "pickRate": 2.43,
+            "winRate": 41.5,
+            "kd": 0.83
+          },
+          {
+            "name": "twitch",
+            "picks": 7465,
+            "pickRate": 2.4,
+            "winRate": 44.2,
+            "kd": 1.02
+          },
+          {
+            "name": "hibana",
+            "picks": 5878,
+            "pickRate": 1.89,
+            "winRate": 42.6,
+            "kd": 0.91
+          },
+          {
+            "name": "grim",
+            "picks": 5871,
+            "pickRate": 1.89,
+            "winRate": 42.7,
+            "kd": 0.8
+          },
+          {
+            "name": "ace",
+            "picks": 5521,
+            "pickRate": 1.78,
+            "winRate": 44.4,
+            "kd": 1.02
+          },
+          {
+            "name": "nomad",
+            "picks": 5238,
+            "pickRate": 1.69,
+            "winRate": 43.5,
+            "kd": 0.89
+          },
+          {
+            "name": "maverick",
+            "picks": 4964,
+            "pickRate": 1.6,
+            "winRate": 43.3,
+            "kd": 0.83
+          },
+          {
+            "name": "striker",
+            "picks": 4788,
+            "pickRate": 1.54,
+            "winRate": 44.6,
+            "kd": 1.01
+          },
+          {
+            "name": "fuze",
+            "picks": 4261,
+            "pickRate": 1.37,
+            "winRate": 44.8,
+            "kd": 0.95
+          },
+          {
+            "name": "brava",
+            "picks": 3479,
+            "pickRate": 1.12,
+            "winRate": 42.3,
+            "kd": 0.95
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 13452,
+            "pickRate": 4.33,
+            "winRate": 56.2,
+            "kd": 0.99
+          },
+          {
+            "name": "mute",
+            "picks": 11312,
+            "pickRate": 3.64,
+            "winRate": 56.6,
+            "kd": 0.98
+          },
+          {
+            "name": "aruni",
+            "picks": 10887,
+            "pickRate": 3.5,
+            "winRate": 58.2,
+            "kd": 1.23
+          },
+          {
+            "name": "azami",
+            "picks": 9915,
+            "pickRate": 3.19,
+            "winRate": 55.8,
+            "kd": 0.99
+          },
+          {
+            "name": "tubarao",
+            "picks": 9245,
+            "pickRate": 2.98,
+            "winRate": 55.4,
+            "kd": 1.11
+          },
+          {
+            "name": "kaid",
+            "picks": 8957,
+            "pickRate": 2.88,
+            "winRate": 56.5,
+            "kd": 0.97
+          },
+          {
+            "name": "thorn",
+            "picks": 7944,
+            "pickRate": 2.56,
+            "winRate": 58.4,
+            "kd": 1.12
+          },
+          {
+            "name": "vigil",
+            "picks": 6705,
+            "pickRate": 2.16,
+            "winRate": 56.4,
+            "kd": 1.1
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6594,
+            "pickRate": 2.12,
+            "winRate": 58.0,
+            "kd": 1.17
+          },
+          {
+            "name": "lesion",
+            "picks": 6077,
+            "pickRate": 1.96,
+            "winRate": 55.9,
+            "kd": 1.03
+          },
+          {
+            "name": "warden",
+            "picks": 5701,
+            "pickRate": 1.84,
+            "winRate": 56.6,
+            "kd": 1.12
+          },
+          {
+            "name": "smoke",
+            "picks": 4895,
+            "pickRate": 1.58,
+            "winRate": 55.5,
+            "kd": 0.91
+          },
+          {
+            "name": "melusi",
+            "picks": 4177,
+            "pickRate": 1.34,
+            "winRate": 56.5,
+            "kd": 1.06
+          },
+          {
+            "name": "fenrir",
+            "picks": 3945,
+            "pickRate": 1.27,
+            "winRate": 55.7,
+            "kd": 0.96
+          },
+          {
+            "name": "doc",
+            "picks": 3588,
+            "pickRate": 1.15,
+            "winRate": 55.7,
+            "kd": 0.97
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 248172,
+        "atkWinRate": 41.8,
+        "defWinRate": 58.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 9908,
+            "pickRate": 3.99,
+            "winRate": 42.2,
+            "kd": 0.99
+          },
+          {
+            "name": "solid-snake",
+            "picks": 7911,
+            "pickRate": 3.19,
+            "winRate": 40.7,
+            "kd": 0.86
+          },
+          {
+            "name": "thermite",
+            "picks": 7012,
+            "pickRate": 2.83,
+            "winRate": 41.0,
+            "kd": 0.77
+          },
+          {
+            "name": "buck",
+            "picks": 6770,
+            "pickRate": 2.73,
+            "winRate": 41.5,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 6574,
+            "pickRate": 2.65,
+            "winRate": 42.6,
+            "kd": 0.98
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6571,
+            "pickRate": 2.65,
+            "winRate": 43.1,
+            "kd": 0.88
+          },
+          {
+            "name": "grim",
+            "picks": 5513,
+            "pickRate": 2.22,
+            "winRate": 41.5,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 5241,
+            "pickRate": 2.11,
+            "winRate": 41.6,
+            "kd": 0.89
+          },
+          {
+            "name": "striker",
+            "picks": 4323,
+            "pickRate": 1.74,
+            "winRate": 43.0,
+            "kd": 0.93
+          },
+          {
+            "name": "lion",
+            "picks": 4010,
+            "pickRate": 1.62,
+            "winRate": 42.1,
+            "kd": 0.83
+          },
+          {
+            "name": "thatcher",
+            "picks": 3860,
+            "pickRate": 1.56,
+            "winRate": 41.2,
+            "kd": 0.84
+          },
+          {
+            "name": "sledge",
+            "picks": 3775,
+            "pickRate": 1.52,
+            "winRate": 42.2,
+            "kd": 0.94
+          },
+          {
+            "name": "fuze",
+            "picks": 3700,
+            "pickRate": 1.49,
+            "winRate": 43.8,
+            "kd": 1.0
+          },
+          {
+            "name": "brava",
+            "picks": 3303,
+            "pickRate": 1.33,
+            "winRate": 42.1,
+            "kd": 0.94
+          },
+          {
+            "name": "hibana",
+            "picks": 3157,
+            "pickRate": 1.27,
+            "winRate": 41.4,
+            "kd": 0.91
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 8770,
+            "pickRate": 3.53,
+            "winRate": 59.1,
+            "kd": 1.3
+          },
+          {
+            "name": "mute",
+            "picks": 8473,
+            "pickRate": 3.41,
+            "winRate": 57.8,
+            "kd": 1.05
+          },
+          {
+            "name": "thorn",
+            "picks": 7955,
+            "pickRate": 3.21,
+            "winRate": 59.3,
+            "kd": 1.13
+          },
+          {
+            "name": "bandit",
+            "picks": 7865,
+            "pickRate": 3.17,
+            "winRate": 58.2,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 6413,
+            "pickRate": 2.58,
+            "winRate": 58.2,
+            "kd": 1.21
+          },
+          {
+            "name": "lesion",
+            "picks": 6025,
+            "pickRate": 2.43,
+            "winRate": 58.7,
+            "kd": 1.14
+          },
+          {
+            "name": "azami",
+            "picks": 5940,
+            "pickRate": 2.39,
+            "winRate": 57.9,
+            "kd": 1.07
+          },
+          {
+            "name": "vigil",
+            "picks": 5274,
+            "pickRate": 2.13,
+            "winRate": 59.1,
+            "kd": 1.18
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4958,
+            "pickRate": 2.0,
+            "winRate": 58.5,
+            "kd": 1.17
+          },
+          {
+            "name": "smoke",
+            "picks": 4489,
+            "pickRate": 1.81,
+            "winRate": 56.8,
+            "kd": 1.01
+          },
+          {
+            "name": "warden",
+            "picks": 4370,
+            "pickRate": 1.76,
+            "winRate": 57.9,
+            "kd": 1.12
+          },
+          {
+            "name": "kaid",
+            "picks": 4092,
+            "pickRate": 1.65,
+            "winRate": 58.4,
+            "kd": 1.04
+          },
+          {
+            "name": "melusi",
+            "picks": 4052,
+            "pickRate": 1.63,
+            "winRate": 59.4,
+            "kd": 1.03
+          },
+          {
+            "name": "kapkan",
+            "picks": 3764,
+            "pickRate": 1.52,
+            "winRate": 60.4,
+            "kd": 1.32
+          },
+          {
+            "name": "goyo",
+            "picks": 3181,
+            "pickRate": 1.28,
+            "winRate": 57.7,
+            "kd": 1.02
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 431955,
+        "atkWinRate": 44.0,
+        "defWinRate": 56.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 16080,
+            "pickRate": 3.72,
+            "winRate": 44.5,
+            "kd": 1.02
+          },
+          {
+            "name": "thermite",
+            "picks": 15510,
+            "pickRate": 3.59,
+            "winRate": 47.2,
+            "kd": 0.93
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 12145,
+            "pickRate": 2.81,
+            "winRate": 43.7,
+            "kd": 0.93
+          },
+          {
+            "name": "hibana",
+            "picks": 11746,
+            "pickRate": 2.72,
+            "winRate": 41.3,
+            "kd": 0.91
+          },
+          {
+            "name": "twitch",
+            "picks": 10806,
+            "pickRate": 2.5,
+            "winRate": 44.2,
+            "kd": 1.0
+          },
+          {
+            "name": "thatcher",
+            "picks": 10477,
+            "pickRate": 2.43,
+            "winRate": 46.6,
+            "kd": 0.99
+          },
+          {
+            "name": "solid-snake",
+            "picks": 10396,
+            "pickRate": 2.41,
+            "winRate": 42.6,
+            "kd": 0.89
+          },
+          {
+            "name": "buck",
+            "picks": 10360,
+            "pickRate": 2.4,
+            "winRate": 42.9,
+            "kd": 0.9
+          },
+          {
+            "name": "grim",
+            "picks": 8732,
+            "pickRate": 2.02,
+            "winRate": 43.2,
+            "kd": 0.85
+          },
+          {
+            "name": "capitao",
+            "picks": 6822,
+            "pickRate": 1.58,
+            "winRate": 44.7,
+            "kd": 0.88
+          },
+          {
+            "name": "striker",
+            "picks": 6815,
+            "pickRate": 1.58,
+            "winRate": 43.8,
+            "kd": 0.99
+          },
+          {
+            "name": "maverick",
+            "picks": 6580,
+            "pickRate": 1.52,
+            "winRate": 42.9,
+            "kd": 0.87
+          },
+          {
+            "name": "nomad",
+            "picks": 6493,
+            "pickRate": 1.5,
+            "winRate": 43.7,
+            "kd": 0.96
+          },
+          {
+            "name": "ace",
+            "picks": 6377,
+            "pickRate": 1.48,
+            "winRate": 45.5,
+            "kd": 1.0
+          },
+          {
+            "name": "fuze",
+            "picks": 5260,
+            "pickRate": 1.22,
+            "winRate": 42.8,
+            "kd": 0.9
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 15765,
+            "pickRate": 3.65,
+            "winRate": 54.4,
+            "kd": 0.91
+          },
+          {
+            "name": "aruni",
+            "picks": 15512,
+            "pickRate": 3.59,
+            "winRate": 57.3,
+            "kd": 1.28
+          },
+          {
+            "name": "azami",
+            "picks": 14623,
+            "pickRate": 3.39,
+            "winRate": 55.3,
+            "kd": 1.03
+          },
+          {
+            "name": "mute",
+            "picks": 14402,
+            "pickRate": 3.33,
+            "winRate": 54.5,
+            "kd": 0.95
+          },
+          {
+            "name": "thorn",
+            "picks": 12623,
+            "pickRate": 2.92,
+            "winRate": 59.0,
+            "kd": 1.19
+          },
+          {
+            "name": "kaid",
+            "picks": 12146,
+            "pickRate": 2.81,
+            "winRate": 56.3,
+            "kd": 0.93
+          },
+          {
+            "name": "castle",
+            "picks": 11936,
+            "pickRate": 2.76,
+            "winRate": 53.4,
+            "kd": 0.9
+          },
+          {
+            "name": "valkyrie",
+            "picks": 9988,
+            "pickRate": 2.31,
+            "winRate": 57.1,
+            "kd": 1.12
+          },
+          {
+            "name": "tubarao",
+            "picks": 9966,
+            "pickRate": 2.31,
+            "winRate": 55.4,
+            "kd": 1.12
+          },
+          {
+            "name": "vigil",
+            "picks": 8172,
+            "pickRate": 1.89,
+            "winRate": 56.8,
+            "kd": 1.09
+          },
+          {
+            "name": "lesion",
+            "picks": 7568,
+            "pickRate": 1.75,
+            "winRate": 57.1,
+            "kd": 1.05
+          },
+          {
+            "name": "smoke",
+            "picks": 6201,
+            "pickRate": 1.44,
+            "winRate": 55.7,
+            "kd": 0.91
+          },
+          {
+            "name": "melusi",
+            "picks": 5987,
+            "pickRate": 1.39,
+            "winRate": 58.2,
+            "kd": 1.01
+          },
+          {
+            "name": "jager",
+            "picks": 5637,
+            "pickRate": 1.3,
+            "winRate": 54.1,
+            "kd": 0.92
+          },
+          {
+            "name": "warden",
+            "picks": 5517,
+            "pickRate": 1.28,
+            "winRate": 54.4,
+            "kd": 1.05
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 98980,
+        "atkWinRate": 42.2,
+        "defWinRate": 57.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 4225,
+            "pickRate": 4.27,
+            "winRate": 43.2,
+            "kd": 0.99
+          },
+          {
+            "name": "thermite",
+            "picks": 3185,
+            "pickRate": 3.22,
+            "winRate": 42.1,
+            "kd": 0.81
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3067,
+            "pickRate": 3.1,
+            "winRate": 41.4,
+            "kd": 0.85
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3045,
+            "pickRate": 3.08,
+            "winRate": 42.3,
+            "kd": 0.86
+          },
+          {
+            "name": "twitch",
+            "picks": 3010,
+            "pickRate": 3.04,
+            "winRate": 42.7,
+            "kd": 1.01
+          },
+          {
+            "name": "grim",
+            "picks": 2434,
+            "pickRate": 2.46,
+            "winRate": 41.5,
+            "kd": 0.8
+          },
+          {
+            "name": "buck",
+            "picks": 2126,
+            "pickRate": 2.15,
+            "winRate": 40.8,
+            "kd": 0.9
+          },
+          {
+            "name": "nomad",
+            "picks": 2028,
+            "pickRate": 2.05,
+            "winRate": 41.6,
+            "kd": 0.91
+          },
+          {
+            "name": "thatcher",
+            "picks": 1747,
+            "pickRate": 1.77,
+            "winRate": 44.0,
+            "kd": 0.89
+          },
+          {
+            "name": "lion",
+            "picks": 1652,
+            "pickRate": 1.67,
+            "winRate": 41.5,
+            "kd": 0.82
+          },
+          {
+            "name": "striker",
+            "picks": 1505,
+            "pickRate": 1.52,
+            "winRate": 42.6,
+            "kd": 1.01
+          },
+          {
+            "name": "hibana",
+            "picks": 1460,
+            "pickRate": 1.48,
+            "winRate": 43.0,
+            "kd": 0.89
+          },
+          {
+            "name": "ace",
+            "picks": 1349,
+            "pickRate": 1.36,
+            "winRate": 45.3,
+            "kd": 0.96
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1298,
+            "pickRate": 1.31,
+            "winRate": 42.8,
+            "kd": 0.73
+          },
+          {
+            "name": "finka",
+            "picks": 1292,
+            "pickRate": 1.31,
+            "winRate": 44.9,
+            "kd": 0.91
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 3464,
+            "pickRate": 3.5,
+            "winRate": 57.9,
+            "kd": 1.19
+          },
+          {
+            "name": "mute",
+            "picks": 3237,
+            "pickRate": 3.27,
+            "winRate": 56.4,
+            "kd": 0.97
+          },
+          {
+            "name": "bandit",
+            "picks": 3215,
+            "pickRate": 3.25,
+            "winRate": 58.1,
+            "kd": 0.99
+          },
+          {
+            "name": "thorn",
+            "picks": 2786,
+            "pickRate": 2.81,
+            "winRate": 61.1,
+            "kd": 1.15
+          },
+          {
+            "name": "lesion",
+            "picks": 2667,
+            "pickRate": 2.69,
+            "winRate": 58.6,
+            "kd": 1.06
+          },
+          {
+            "name": "azami",
+            "picks": 2516,
+            "pickRate": 2.54,
+            "winRate": 55.7,
+            "kd": 1.01
+          },
+          {
+            "name": "kaid",
+            "picks": 2364,
+            "pickRate": 2.39,
+            "winRate": 58.0,
+            "kd": 1.01
+          },
+          {
+            "name": "vigil",
+            "picks": 2141,
+            "pickRate": 2.16,
+            "winRate": 55.6,
+            "kd": 1.06
+          },
+          {
+            "name": "smoke",
+            "picks": 2025,
+            "pickRate": 2.05,
+            "winRate": 56.3,
+            "kd": 0.92
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2013,
+            "pickRate": 2.03,
+            "winRate": 56.2,
+            "kd": 1.16
+          },
+          {
+            "name": "tubarao",
+            "picks": 1878,
+            "pickRate": 1.9,
+            "winRate": 57.4,
+            "kd": 1.19
+          },
+          {
+            "name": "warden",
+            "picks": 1702,
+            "pickRate": 1.72,
+            "winRate": 55.6,
+            "kd": 1.03
+          },
+          {
+            "name": "melusi",
+            "picks": 1574,
+            "pickRate": 1.59,
+            "winRate": 58.1,
+            "kd": 1.06
+          },
+          {
+            "name": "fenrir",
+            "picks": 1515,
+            "pickRate": 1.53,
+            "winRate": 57.4,
+            "kd": 0.99
+          },
+          {
+            "name": "doc",
+            "picks": 1435,
+            "pickRate": 1.45,
+            "winRate": 57.8,
+            "kd": 0.92
+          }
+        ]
+      },
+      "villa": {
+        "totalRounds": 324603,
+        "atkWinRate": 40.9,
+        "defWinRate": 59.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 14260,
+            "pickRate": 4.39,
+            "winRate": 40.8,
+            "kd": 0.98
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11430,
+            "pickRate": 3.52,
+            "winRate": 39.8,
+            "kd": 0.83
+          },
+          {
+            "name": "twitch",
+            "picks": 9975,
+            "pickRate": 3.07,
+            "winRate": 41.4,
+            "kd": 0.96
+          },
+          {
+            "name": "nomad",
+            "picks": 9404,
+            "pickRate": 2.9,
+            "winRate": 41.5,
+            "kd": 0.91
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 8715,
+            "pickRate": 2.68,
+            "winRate": 40.2,
+            "kd": 0.83
+          },
+          {
+            "name": "buck",
+            "picks": 7460,
+            "pickRate": 2.3,
+            "winRate": 40.6,
+            "kd": 0.87
+          },
+          {
+            "name": "hibana",
+            "picks": 6987,
+            "pickRate": 2.15,
+            "winRate": 40.8,
+            "kd": 0.88
+          },
+          {
+            "name": "brava",
+            "picks": 6843,
+            "pickRate": 2.11,
+            "winRate": 41.8,
+            "kd": 0.96
+          },
+          {
+            "name": "grim",
+            "picks": 6760,
+            "pickRate": 2.08,
+            "winRate": 40.7,
+            "kd": 0.79
+          },
+          {
+            "name": "lion",
+            "picks": 6107,
+            "pickRate": 1.88,
+            "winRate": 40.5,
+            "kd": 0.83
+          },
+          {
+            "name": "finka",
+            "picks": 4541,
+            "pickRate": 1.4,
+            "winRate": 42.5,
+            "kd": 0.92
+          },
+          {
+            "name": "iq",
+            "picks": 4170,
+            "pickRate": 1.28,
+            "winRate": 41.5,
+            "kd": 0.98
+          },
+          {
+            "name": "deimos",
+            "picks": 3822,
+            "pickRate": 1.18,
+            "winRate": 40.4,
+            "kd": 0.83
+          },
+          {
+            "name": "blackbeard",
+            "picks": 3763,
+            "pickRate": 1.16,
+            "winRate": 41.8,
+            "kd": 0.72
+          },
+          {
+            "name": "flores",
+            "picks": 3702,
+            "pickRate": 1.14,
+            "winRate": 42.1,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 12639,
+            "pickRate": 3.89,
+            "winRate": 61.0,
+            "kd": 1.33
+          },
+          {
+            "name": "mute",
+            "picks": 10946,
+            "pickRate": 3.37,
+            "winRate": 58.9,
+            "kd": 1.0
+          },
+          {
+            "name": "thorn",
+            "picks": 10379,
+            "pickRate": 3.2,
+            "winRate": 61.5,
+            "kd": 1.2
+          },
+          {
+            "name": "azami",
+            "picks": 8811,
+            "pickRate": 2.71,
+            "winRate": 58.8,
+            "kd": 1.08
+          },
+          {
+            "name": "valkyrie",
+            "picks": 8643,
+            "pickRate": 2.66,
+            "winRate": 59.4,
+            "kd": 1.15
+          },
+          {
+            "name": "lesion",
+            "picks": 8097,
+            "pickRate": 2.49,
+            "winRate": 58.4,
+            "kd": 1.07
+          },
+          {
+            "name": "vigil",
+            "picks": 6612,
+            "pickRate": 2.04,
+            "winRate": 58.3,
+            "kd": 1.12
+          },
+          {
+            "name": "kaid",
+            "picks": 6058,
+            "pickRate": 1.87,
+            "winRate": 58.7,
+            "kd": 1.12
+          },
+          {
+            "name": "melusi",
+            "picks": 5495,
+            "pickRate": 1.69,
+            "winRate": 60.3,
+            "kd": 1.07
+          },
+          {
+            "name": "warden",
+            "picks": 5459,
+            "pickRate": 1.68,
+            "winRate": 58.0,
+            "kd": 1.08
+          },
+          {
+            "name": "smoke",
+            "picks": 5010,
+            "pickRate": 1.54,
+            "winRate": 57.4,
+            "kd": 0.94
+          },
+          {
+            "name": "kapkan",
+            "picks": 4820,
+            "pickRate": 1.48,
+            "winRate": 59.9,
+            "kd": 1.22
+          },
+          {
+            "name": "bandit",
+            "picks": 4814,
+            "pickRate": 1.48,
+            "winRate": 58.6,
+            "kd": 1.11
+          },
+          {
+            "name": "fenrir",
+            "picks": 4608,
+            "pickRate": 1.42,
+            "winRate": 57.9,
+            "kd": 1.05
+          },
+          {
+            "name": "jager",
+            "picks": 4555,
+            "pickRate": 1.4,
+            "winRate": 57.2,
+            "kd": 0.97
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 428993,
+        "atkWinRate": 45.5,
+        "defWinRate": 54.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 15914,
+            "pickRate": 3.71,
+            "winRate": 45.3,
+            "kd": 1.04
+          },
+          {
+            "name": "thermite",
+            "picks": 14960,
+            "pickRate": 3.49,
+            "winRate": 46.1,
+            "kd": 0.83
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 12020,
+            "pickRate": 2.8,
+            "winRate": 45.6,
+            "kd": 0.95
+          },
+          {
+            "name": "twitch",
+            "picks": 11771,
+            "pickRate": 2.74,
+            "winRate": 45.6,
+            "kd": 1.07
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11734,
+            "pickRate": 2.74,
+            "winRate": 44.2,
+            "kd": 0.89
+          },
+          {
+            "name": "hibana",
+            "picks": 11125,
+            "pickRate": 2.59,
+            "winRate": 45.9,
+            "kd": 0.94
+          },
+          {
+            "name": "nomad",
+            "picks": 9080,
+            "pickRate": 2.12,
+            "winRate": 45.3,
+            "kd": 1.01
+          },
+          {
+            "name": "grim",
+            "picks": 8723,
+            "pickRate": 2.03,
+            "winRate": 44.7,
+            "kd": 0.89
+          },
+          {
+            "name": "buck",
+            "picks": 8561,
+            "pickRate": 2.0,
+            "winRate": 43.7,
+            "kd": 0.91
+          },
+          {
+            "name": "thatcher",
+            "picks": 8398,
+            "pickRate": 1.96,
+            "winRate": 46.7,
+            "kd": 0.98
+          },
+          {
+            "name": "brava",
+            "picks": 6229,
+            "pickRate": 1.45,
+            "winRate": 45.9,
+            "kd": 1.04
+          },
+          {
+            "name": "lion",
+            "picks": 5890,
+            "pickRate": 1.37,
+            "winRate": 45.8,
+            "kd": 0.91
+          },
+          {
+            "name": "striker",
+            "picks": 5754,
+            "pickRate": 1.34,
+            "winRate": 46.2,
+            "kd": 1.01
+          },
+          {
+            "name": "ram",
+            "picks": 5309,
+            "pickRate": 1.24,
+            "winRate": 47.1,
+            "kd": 0.98
+          },
+          {
+            "name": "fuze",
+            "picks": 5125,
+            "pickRate": 1.19,
+            "winRate": 46.5,
+            "kd": 0.94
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 16144,
+            "pickRate": 3.76,
+            "winRate": 56.5,
+            "kd": 1.23
+          },
+          {
+            "name": "azami",
+            "picks": 15316,
+            "pickRate": 3.57,
+            "winRate": 54.6,
+            "kd": 1.04
+          },
+          {
+            "name": "bandit",
+            "picks": 15106,
+            "pickRate": 3.52,
+            "winRate": 54.1,
+            "kd": 0.94
+          },
+          {
+            "name": "mute",
+            "picks": 14613,
+            "pickRate": 3.41,
+            "winRate": 54.0,
+            "kd": 0.93
+          },
+          {
+            "name": "thorn",
+            "picks": 12882,
+            "pickRate": 3.0,
+            "winRate": 57.7,
+            "kd": 1.14
+          },
+          {
+            "name": "tubarao",
+            "picks": 11412,
+            "pickRate": 2.66,
+            "winRate": 54.1,
+            "kd": 1.11
+          },
+          {
+            "name": "kaid",
+            "picks": 10760,
+            "pickRate": 2.51,
+            "winRate": 53.9,
+            "kd": 0.94
+          },
+          {
+            "name": "valkyrie",
+            "picks": 9094,
+            "pickRate": 2.12,
+            "winRate": 54.4,
+            "kd": 1.1
+          },
+          {
+            "name": "vigil",
+            "picks": 8358,
+            "pickRate": 1.95,
+            "winRate": 53.6,
+            "kd": 1.05
+          },
+          {
+            "name": "lesion",
+            "picks": 7818,
+            "pickRate": 1.82,
+            "winRate": 55.1,
+            "kd": 1.04
+          },
+          {
+            "name": "warden",
+            "picks": 6945,
+            "pickRate": 1.62,
+            "winRate": 53.0,
+            "kd": 1.03
+          },
+          {
+            "name": "melusi",
+            "picks": 6522,
+            "pickRate": 1.52,
+            "winRate": 55.2,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 6204,
+            "pickRate": 1.45,
+            "winRate": 53.3,
+            "kd": 0.88
+          },
+          {
+            "name": "fenrir",
+            "picks": 6198,
+            "pickRate": 1.44,
+            "winRate": 55.2,
+            "kd": 0.94
+          },
+          {
+            "name": "jager",
+            "picks": 5726,
+            "pickRate": 1.33,
+            "winRate": 52.5,
+            "kd": 0.88
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 397598,
+        "atkWinRate": 46.5,
+        "defWinRate": 53.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 15752,
+            "pickRate": 3.96,
+            "winRate": 46.4,
+            "kd": 1.02
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11641,
+            "pickRate": 2.93,
+            "winRate": 46.0,
+            "kd": 0.91
+          },
+          {
+            "name": "thermite",
+            "picks": 11113,
+            "pickRate": 2.8,
+            "winRate": 45.4,
+            "kd": 0.84
+          },
+          {
+            "name": "buck",
+            "picks": 10665,
+            "pickRate": 2.68,
+            "winRate": 45.6,
+            "kd": 0.95
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 10642,
+            "pickRate": 2.68,
+            "winRate": 47.1,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 10293,
+            "pickRate": 2.59,
+            "winRate": 46.7,
+            "kd": 1.05
+          },
+          {
+            "name": "nomad",
+            "picks": 9201,
+            "pickRate": 2.31,
+            "winRate": 47.0,
+            "kd": 1.0
+          },
+          {
+            "name": "grim",
+            "picks": 7603,
+            "pickRate": 1.91,
+            "winRate": 45.3,
+            "kd": 0.88
+          },
+          {
+            "name": "fuze",
+            "picks": 6189,
+            "pickRate": 1.56,
+            "winRate": 46.3,
+            "kd": 1.0
+          },
+          {
+            "name": "brava",
+            "picks": 5977,
+            "pickRate": 1.5,
+            "winRate": 45.2,
+            "kd": 1.04
+          },
+          {
+            "name": "hibana",
+            "picks": 5941,
+            "pickRate": 1.49,
+            "winRate": 47.9,
+            "kd": 1.01
+          },
+          {
+            "name": "lion",
+            "picks": 5767,
+            "pickRate": 1.45,
+            "winRate": 46.5,
+            "kd": 0.91
+          },
+          {
+            "name": "thatcher",
+            "picks": 5650,
+            "pickRate": 1.42,
+            "winRate": 46.6,
+            "kd": 0.97
+          },
+          {
+            "name": "striker",
+            "picks": 4894,
+            "pickRate": 1.23,
+            "winRate": 47.9,
+            "kd": 1.04
+          },
+          {
+            "name": "sledge",
+            "picks": 4758,
+            "pickRate": 1.2,
+            "winRate": 46.4,
+            "kd": 0.99
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 14119,
+            "pickRate": 3.55,
+            "winRate": 54.4,
+            "kd": 1.18
+          },
+          {
+            "name": "thorn",
+            "picks": 12312,
+            "pickRate": 3.1,
+            "winRate": 54.8,
+            "kd": 1.06
+          },
+          {
+            "name": "mute",
+            "picks": 11803,
+            "pickRate": 2.97,
+            "winRate": 53.2,
+            "kd": 0.93
+          },
+          {
+            "name": "valkyrie",
+            "picks": 10479,
+            "pickRate": 2.64,
+            "winRate": 53.3,
+            "kd": 1.07
+          },
+          {
+            "name": "azami",
+            "picks": 9637,
+            "pickRate": 2.42,
+            "winRate": 54.2,
+            "kd": 0.98
+          },
+          {
+            "name": "lesion",
+            "picks": 9352,
+            "pickRate": 2.35,
+            "winRate": 54.3,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 9287,
+            "pickRate": 2.34,
+            "winRate": 53.1,
+            "kd": 0.94
+          },
+          {
+            "name": "bandit",
+            "picks": 9281,
+            "pickRate": 2.33,
+            "winRate": 52.4,
+            "kd": 0.97
+          },
+          {
+            "name": "vigil",
+            "picks": 9009,
+            "pickRate": 2.27,
+            "winRate": 53.8,
+            "kd": 1.09
+          },
+          {
+            "name": "warden",
+            "picks": 7866,
+            "pickRate": 1.98,
+            "winRate": 52.0,
+            "kd": 1.03
+          },
+          {
+            "name": "smoke",
+            "picks": 7593,
+            "pickRate": 1.91,
+            "winRate": 50.9,
+            "kd": 0.85
+          },
+          {
+            "name": "castle",
+            "picks": 7456,
+            "pickRate": 1.88,
+            "winRate": 52.9,
+            "kd": 0.89
+          },
+          {
+            "name": "kapkan",
+            "picks": 7266,
+            "pickRate": 1.83,
+            "winRate": 57.7,
+            "kd": 1.29
+          },
+          {
+            "name": "tubarao",
+            "picks": 6372,
+            "pickRate": 1.6,
+            "winRate": 53.3,
+            "kd": 1.13
+          },
+          {
+            "name": "melusi",
+            "picks": 5286,
+            "pickRate": 1.33,
+            "winRate": 54.1,
+            "kd": 0.95
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 245830,
+        "atkWinRate": 44.3,
+        "defWinRate": 56.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 9530,
+            "pickRate": 3.88,
+            "winRate": 44.1,
+            "kd": 1.04
+          },
+          {
+            "name": "hibana",
+            "picks": 6971,
+            "pickRate": 2.84,
+            "winRate": 44.5,
+            "kd": 1.0
+          },
+          {
+            "name": "twitch",
+            "picks": 6963,
+            "pickRate": 2.83,
+            "winRate": 44.2,
+            "kd": 1.03
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6748,
+            "pickRate": 2.74,
+            "winRate": 43.3,
+            "kd": 0.85
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6583,
+            "pickRate": 2.68,
+            "winRate": 43.7,
+            "kd": 0.93
+          },
+          {
+            "name": "grim",
+            "picks": 5588,
+            "pickRate": 2.27,
+            "winRate": 44.0,
+            "kd": 0.87
+          },
+          {
+            "name": "nomad",
+            "picks": 5264,
+            "pickRate": 2.14,
+            "winRate": 44.7,
+            "kd": 0.96
+          },
+          {
+            "name": "thermite",
+            "picks": 4978,
+            "pickRate": 2.02,
+            "winRate": 43.8,
+            "kd": 0.8
+          },
+          {
+            "name": "brava",
+            "picks": 4498,
+            "pickRate": 1.83,
+            "winRate": 44.6,
+            "kd": 1.03
+          },
+          {
+            "name": "lion",
+            "picks": 4428,
+            "pickRate": 1.8,
+            "winRate": 45.4,
+            "kd": 0.95
+          },
+          {
+            "name": "striker",
+            "picks": 4000,
+            "pickRate": 1.63,
+            "winRate": 45.4,
+            "kd": 1.04
+          },
+          {
+            "name": "buck",
+            "picks": 3988,
+            "pickRate": 1.62,
+            "winRate": 44.1,
+            "kd": 0.91
+          },
+          {
+            "name": "zero",
+            "picks": 3397,
+            "pickRate": 1.38,
+            "winRate": 41.6,
+            "kd": 0.89
+          },
+          {
+            "name": "finka",
+            "picks": 2957,
+            "pickRate": 1.2,
+            "winRate": 47.3,
+            "kd": 1.0
+          },
+          {
+            "name": "blackbeard",
+            "picks": 2910,
+            "pickRate": 1.18,
+            "winRate": 44.7,
+            "kd": 0.76
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 11259,
+            "pickRate": 4.58,
+            "winRate": 57.3,
+            "kd": 1.32
+          },
+          {
+            "name": "thorn",
+            "picks": 7482,
+            "pickRate": 3.04,
+            "winRate": 57.4,
+            "kd": 1.1
+          },
+          {
+            "name": "azami",
+            "picks": 7000,
+            "pickRate": 2.85,
+            "winRate": 55.8,
+            "kd": 1.04
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6636,
+            "pickRate": 2.7,
+            "winRate": 56.9,
+            "kd": 1.11
+          },
+          {
+            "name": "kaid",
+            "picks": 6252,
+            "pickRate": 2.54,
+            "winRate": 55.6,
+            "kd": 1.01
+          },
+          {
+            "name": "vigil",
+            "picks": 5727,
+            "pickRate": 2.33,
+            "winRate": 54.5,
+            "kd": 1.03
+          },
+          {
+            "name": "smoke",
+            "picks": 5551,
+            "pickRate": 2.26,
+            "winRate": 54.3,
+            "kd": 0.87
+          },
+          {
+            "name": "mute",
+            "picks": 5211,
+            "pickRate": 2.12,
+            "winRate": 54.0,
+            "kd": 0.91
+          },
+          {
+            "name": "goyo",
+            "picks": 5092,
+            "pickRate": 2.07,
+            "winRate": 53.8,
+            "kd": 0.94
+          },
+          {
+            "name": "lesion",
+            "picks": 4806,
+            "pickRate": 1.96,
+            "winRate": 56.3,
+            "kd": 1.01
+          },
+          {
+            "name": "tubarao",
+            "picks": 4286,
+            "pickRate": 1.74,
+            "winRate": 57.0,
+            "kd": 1.27
+          },
+          {
+            "name": "castle",
+            "picks": 4265,
+            "pickRate": 1.73,
+            "winRate": 55.6,
+            "kd": 0.95
+          },
+          {
+            "name": "warden",
+            "picks": 3820,
+            "pickRate": 1.55,
+            "winRate": 55.7,
+            "kd": 1.01
+          },
+          {
+            "name": "melusi",
+            "picks": 3279,
+            "pickRate": 1.33,
+            "winRate": 56.4,
+            "kd": 0.94
+          },
+          {
+            "name": "bandit",
+            "picks": 3198,
+            "pickRate": 1.3,
+            "winRate": 57.0,
+            "kd": 1.08
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 311348,
+        "atkWinRate": 42.3,
+        "defWinRate": 57.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 12169,
+            "pickRate": 3.91,
+            "winRate": 43.2,
+            "kd": 1.0
+          },
+          {
+            "name": "twitch",
+            "picks": 8786,
+            "pickRate": 2.82,
+            "winRate": 43.3,
+            "kd": 0.95
+          },
+          {
+            "name": "buck",
+            "picks": 8145,
+            "pickRate": 2.62,
+            "winRate": 41.4,
+            "kd": 0.87
+          },
+          {
+            "name": "solid-snake",
+            "picks": 7846,
+            "pickRate": 2.52,
+            "winRate": 41.1,
+            "kd": 0.85
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 7781,
+            "pickRate": 2.5,
+            "winRate": 42.1,
+            "kd": 0.91
+          },
+          {
+            "name": "nomad",
+            "picks": 7243,
+            "pickRate": 2.33,
+            "winRate": 42.8,
+            "kd": 0.94
+          },
+          {
+            "name": "grim",
+            "picks": 6893,
+            "pickRate": 2.21,
+            "winRate": 41.9,
+            "kd": 0.85
+          },
+          {
+            "name": "brava",
+            "picks": 6501,
+            "pickRate": 2.09,
+            "winRate": 42.8,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 6231,
+            "pickRate": 2.0,
+            "winRate": 43.5,
+            "kd": 0.93
+          },
+          {
+            "name": "thermite",
+            "picks": 6167,
+            "pickRate": 1.98,
+            "winRate": 42.4,
+            "kd": 0.84
+          },
+          {
+            "name": "lion",
+            "picks": 5582,
+            "pickRate": 1.79,
+            "winRate": 44.3,
+            "kd": 0.9
+          },
+          {
+            "name": "sledge",
+            "picks": 4265,
+            "pickRate": 1.37,
+            "winRate": 40.9,
+            "kd": 0.9
+          },
+          {
+            "name": "ace",
+            "picks": 4087,
+            "pickRate": 1.31,
+            "winRate": 43.1,
+            "kd": 0.97
+          },
+          {
+            "name": "fuze",
+            "picks": 3990,
+            "pickRate": 1.28,
+            "winRate": 41.6,
+            "kd": 0.94
+          },
+          {
+            "name": "gridlock",
+            "picks": 3747,
+            "pickRate": 1.2,
+            "winRate": 42.1,
+            "kd": 0.83
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 13429,
+            "pickRate": 4.31,
+            "winRate": 59.1,
+            "kd": 1.29
+          },
+          {
+            "name": "mute",
+            "picks": 10851,
+            "pickRate": 3.49,
+            "winRate": 57.2,
+            "kd": 0.98
+          },
+          {
+            "name": "valkyrie",
+            "picks": 9849,
+            "pickRate": 3.16,
+            "winRate": 58.5,
+            "kd": 1.18
+          },
+          {
+            "name": "azami",
+            "picks": 9519,
+            "pickRate": 3.06,
+            "winRate": 58.2,
+            "kd": 1.07
+          },
+          {
+            "name": "thorn",
+            "picks": 9214,
+            "pickRate": 2.96,
+            "winRate": 60.2,
+            "kd": 1.16
+          },
+          {
+            "name": "castle",
+            "picks": 8233,
+            "pickRate": 2.64,
+            "winRate": 56.1,
+            "kd": 0.92
+          },
+          {
+            "name": "vigil",
+            "picks": 6814,
+            "pickRate": 2.19,
+            "winRate": 56.6,
+            "kd": 1.07
+          },
+          {
+            "name": "lesion",
+            "picks": 6464,
+            "pickRate": 2.08,
+            "winRate": 58.4,
+            "kd": 1.08
+          },
+          {
+            "name": "tubarao",
+            "picks": 5634,
+            "pickRate": 1.81,
+            "winRate": 57.6,
+            "kd": 1.25
+          },
+          {
+            "name": "kaid",
+            "picks": 5483,
+            "pickRate": 1.76,
+            "winRate": 55.9,
+            "kd": 0.99
+          },
+          {
+            "name": "melusi",
+            "picks": 4779,
+            "pickRate": 1.53,
+            "winRate": 59.3,
+            "kd": 1.01
+          },
+          {
+            "name": "bandit",
+            "picks": 4720,
+            "pickRate": 1.52,
+            "winRate": 57.4,
+            "kd": 1.1
+          },
+          {
+            "name": "warden",
+            "picks": 4206,
+            "pickRate": 1.35,
+            "winRate": 56.3,
+            "kd": 1.06
+          },
+          {
+            "name": "jager",
+            "picks": 4057,
+            "pickRate": 1.3,
+            "winRate": 55.4,
+            "kd": 0.95
+          },
+          {
+            "name": "smoke",
+            "picks": 3904,
+            "pickRate": 1.25,
+            "winRate": 56.3,
+            "kd": 0.91
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 369197,
+        "atkWinRate": 48.5,
+        "defWinRate": 52.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 14728,
+            "pickRate": 3.99,
+            "winRate": 48.5,
+            "kd": 1.1
+          },
+          {
+            "name": "solid-snake",
+            "picks": 11021,
+            "pickRate": 2.99,
+            "winRate": 47.2,
+            "kd": 0.91
+          },
+          {
+            "name": "twitch",
+            "picks": 10144,
+            "pickRate": 2.75,
+            "winRate": 48.4,
+            "kd": 1.08
+          },
+          {
+            "name": "nomad",
+            "picks": 9935,
+            "pickRate": 2.69,
+            "winRate": 48.9,
+            "kd": 1.06
+          },
+          {
+            "name": "buck",
+            "picks": 9780,
+            "pickRate": 2.65,
+            "winRate": 47.7,
+            "kd": 0.96
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 8961,
+            "pickRate": 2.43,
+            "winRate": 49.6,
+            "kd": 1.03
+          },
+          {
+            "name": "brava",
+            "picks": 7278,
+            "pickRate": 1.97,
+            "winRate": 49.4,
+            "kd": 1.1
+          },
+          {
+            "name": "grim",
+            "picks": 6508,
+            "pickRate": 1.76,
+            "winRate": 47.8,
+            "kd": 0.9
+          },
+          {
+            "name": "lion",
+            "picks": 6315,
+            "pickRate": 1.71,
+            "winRate": 48.4,
+            "kd": 0.99
+          },
+          {
+            "name": "osa",
+            "picks": 5617,
+            "pickRate": 1.52,
+            "winRate": 49.8,
+            "kd": 1.06
+          },
+          {
+            "name": "fuze",
+            "picks": 5373,
+            "pickRate": 1.46,
+            "winRate": 47.3,
+            "kd": 1.02
+          },
+          {
+            "name": "glaz",
+            "picks": 5254,
+            "pickRate": 1.42,
+            "winRate": 48.5,
+            "kd": 1.19
+          },
+          {
+            "name": "hibana",
+            "picks": 4861,
+            "pickRate": 1.32,
+            "winRate": 48.2,
+            "kd": 1.02
+          },
+          {
+            "name": "thermite",
+            "picks": 4797,
+            "pickRate": 1.3,
+            "winRate": 47.4,
+            "kd": 0.91
+          },
+          {
+            "name": "sledge",
+            "picks": 4754,
+            "pickRate": 1.29,
+            "winRate": 47.7,
+            "kd": 1.03
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 15541,
+            "pickRate": 4.21,
+            "winRate": 54.1,
+            "kd": 1.21
+          },
+          {
+            "name": "thorn",
+            "picks": 11621,
+            "pickRate": 3.15,
+            "winRate": 52.7,
+            "kd": 1.01
+          },
+          {
+            "name": "azami",
+            "picks": 10372,
+            "pickRate": 2.81,
+            "winRate": 51.9,
+            "kd": 0.96
+          },
+          {
+            "name": "mute",
+            "picks": 9751,
+            "pickRate": 2.64,
+            "winRate": 50.6,
+            "kd": 0.85
+          },
+          {
+            "name": "lesion",
+            "picks": 9006,
+            "pickRate": 2.44,
+            "winRate": 52.8,
+            "kd": 1.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 8812,
+            "pickRate": 2.39,
+            "winRate": 53.0,
+            "kd": 1.11
+          },
+          {
+            "name": "vigil",
+            "picks": 8803,
+            "pickRate": 2.38,
+            "winRate": 50.9,
+            "kd": 1.06
+          },
+          {
+            "name": "castle",
+            "picks": 8587,
+            "pickRate": 2.33,
+            "winRate": 50.6,
+            "kd": 0.83
+          },
+          {
+            "name": "melusi",
+            "picks": 7960,
+            "pickRate": 2.16,
+            "winRate": 52.9,
+            "kd": 0.92
+          },
+          {
+            "name": "tubarao",
+            "picks": 6967,
+            "pickRate": 1.89,
+            "winRate": 53.0,
+            "kd": 1.19
+          },
+          {
+            "name": "warden",
+            "picks": 5987,
+            "pickRate": 1.62,
+            "winRate": 51.7,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 5939,
+            "pickRate": 1.61,
+            "winRate": 50.5,
+            "kd": 0.81
+          },
+          {
+            "name": "goyo",
+            "picks": 5232,
+            "pickRate": 1.42,
+            "winRate": 49.8,
+            "kd": 0.88
+          },
+          {
+            "name": "fenrir",
+            "picks": 5163,
+            "pickRate": 1.4,
+            "winRate": 50.7,
+            "kd": 0.87
+          },
+          {
+            "name": "doc",
+            "picks": 4858,
+            "pickRate": 1.32,
+            "winRate": 51.7,
+            "kd": 0.9
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 137739,
+        "atkWinRate": 42.0,
+        "defWinRate": 57.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 5777,
+            "pickRate": 4.19,
+            "winRate": 41.6,
+            "kd": 0.94
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4457,
+            "pickRate": 3.24,
+            "winRate": 40.1,
+            "kd": 0.84
+          },
+          {
+            "name": "twitch",
+            "picks": 4304,
+            "pickRate": 3.12,
+            "winRate": 42.5,
+            "kd": 0.99
+          },
+          {
+            "name": "thermite",
+            "picks": 4214,
+            "pickRate": 3.06,
+            "winRate": 42.1,
+            "kd": 0.82
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3831,
+            "pickRate": 2.78,
+            "winRate": 42.2,
+            "kd": 0.82
+          },
+          {
+            "name": "nomad",
+            "picks": 3442,
+            "pickRate": 2.5,
+            "winRate": 42.1,
+            "kd": 0.93
+          },
+          {
+            "name": "grim",
+            "picks": 3062,
+            "pickRate": 2.22,
+            "winRate": 42.0,
+            "kd": 0.84
+          },
+          {
+            "name": "buck",
+            "picks": 2622,
+            "pickRate": 1.9,
+            "winRate": 41.0,
+            "kd": 0.89
+          },
+          {
+            "name": "thatcher",
+            "picks": 2506,
+            "pickRate": 1.82,
+            "winRate": 42.2,
+            "kd": 0.91
+          },
+          {
+            "name": "hibana",
+            "picks": 2304,
+            "pickRate": 1.67,
+            "winRate": 42.2,
+            "kd": 0.94
+          },
+          {
+            "name": "lion",
+            "picks": 2287,
+            "pickRate": 1.66,
+            "winRate": 41.5,
+            "kd": 0.79
+          },
+          {
+            "name": "striker",
+            "picks": 2174,
+            "pickRate": 1.58,
+            "winRate": 44.3,
+            "kd": 0.97
+          },
+          {
+            "name": "brava",
+            "picks": 1981,
+            "pickRate": 1.44,
+            "winRate": 41.1,
+            "kd": 0.98
+          },
+          {
+            "name": "ace",
+            "picks": 1898,
+            "pickRate": 1.38,
+            "winRate": 44.6,
+            "kd": 0.99
+          },
+          {
+            "name": "finka",
+            "picks": 1860,
+            "pickRate": 1.35,
+            "winRate": 41.4,
+            "kd": 0.91
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 4771,
+            "pickRate": 3.46,
+            "winRate": 60.0,
+            "kd": 1.12
+          },
+          {
+            "name": "mute",
+            "picks": 4726,
+            "pickRate": 3.43,
+            "winRate": 57.1,
+            "kd": 0.99
+          },
+          {
+            "name": "aruni",
+            "picks": 4634,
+            "pickRate": 3.36,
+            "winRate": 58.8,
+            "kd": 1.3
+          },
+          {
+            "name": "bandit",
+            "picks": 4332,
+            "pickRate": 3.15,
+            "winRate": 58.9,
+            "kd": 1.1
+          },
+          {
+            "name": "azami",
+            "picks": 3768,
+            "pickRate": 2.74,
+            "winRate": 55.8,
+            "kd": 1.05
+          },
+          {
+            "name": "lesion",
+            "picks": 3641,
+            "pickRate": 2.64,
+            "winRate": 57.4,
+            "kd": 1.07
+          },
+          {
+            "name": "kaid",
+            "picks": 3208,
+            "pickRate": 2.33,
+            "winRate": 56.3,
+            "kd": 0.96
+          },
+          {
+            "name": "vigil",
+            "picks": 2864,
+            "pickRate": 2.08,
+            "winRate": 56.2,
+            "kd": 1.07
+          },
+          {
+            "name": "smoke",
+            "picks": 2623,
+            "pickRate": 1.9,
+            "winRate": 59.1,
+            "kd": 0.93
+          },
+          {
+            "name": "warden",
+            "picks": 2487,
+            "pickRate": 1.81,
+            "winRate": 57.9,
+            "kd": 1.07
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2478,
+            "pickRate": 1.8,
+            "winRate": 57.9,
+            "kd": 1.01
+          },
+          {
+            "name": "tubarao",
+            "picks": 2214,
+            "pickRate": 1.61,
+            "winRate": 58.6,
+            "kd": 1.14
+          },
+          {
+            "name": "melusi",
+            "picks": 2118,
+            "pickRate": 1.54,
+            "winRate": 60.0,
+            "kd": 1.02
+          },
+          {
+            "name": "ela",
+            "picks": 2062,
+            "pickRate": 1.5,
+            "winRate": 56.5,
+            "kd": 1.09
+          },
+          {
+            "name": "fenrir",
+            "picks": 1940,
+            "pickRate": 1.41,
+            "winRate": 58.0,
+            "kd": 1.05
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 113912,
+        "atkWinRate": 47.4,
+        "defWinRate": 53.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 5123,
+            "pickRate": 4.5,
+            "winRate": 46.8,
+            "kd": 1.06
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3956,
+            "pickRate": 3.47,
+            "winRate": 47.1,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 3476,
+            "pickRate": 3.05,
+            "winRate": 48.0,
+            "kd": 1.08
+          },
+          {
+            "name": "thermite",
+            "picks": 3411,
+            "pickRate": 2.99,
+            "winRate": 47.1,
+            "kd": 0.97
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3216,
+            "pickRate": 2.82,
+            "winRate": 47.0,
+            "kd": 1.0
+          },
+          {
+            "name": "buck",
+            "picks": 2773,
+            "pickRate": 2.43,
+            "winRate": 48.1,
+            "kd": 0.99
+          },
+          {
+            "name": "nomad",
+            "picks": 2483,
+            "pickRate": 2.18,
+            "winRate": 48.4,
+            "kd": 1.06
+          },
+          {
+            "name": "grim",
+            "picks": 2196,
+            "pickRate": 1.93,
+            "winRate": 47.1,
+            "kd": 0.93
+          },
+          {
+            "name": "lion",
+            "picks": 2051,
+            "pickRate": 1.8,
+            "winRate": 47.0,
+            "kd": 0.85
+          },
+          {
+            "name": "brava",
+            "picks": 1759,
+            "pickRate": 1.54,
+            "winRate": 49.2,
+            "kd": 1.15
+          },
+          {
+            "name": "striker",
+            "picks": 1747,
+            "pickRate": 1.53,
+            "winRate": 47.5,
+            "kd": 1.06
+          },
+          {
+            "name": "thatcher",
+            "picks": 1634,
+            "pickRate": 1.43,
+            "winRate": 46.7,
+            "kd": 1.0
+          },
+          {
+            "name": "hibana",
+            "picks": 1573,
+            "pickRate": 1.38,
+            "winRate": 48.0,
+            "kd": 1.04
+          },
+          {
+            "name": "finka",
+            "picks": 1502,
+            "pickRate": 1.32,
+            "winRate": 50.1,
+            "kd": 1.06
+          },
+          {
+            "name": "ace",
+            "picks": 1310,
+            "pickRate": 1.15,
+            "winRate": 51.1,
+            "kd": 1.11
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 3962,
+            "pickRate": 3.48,
+            "winRate": 54.0,
+            "kd": 1.2
+          },
+          {
+            "name": "bandit",
+            "picks": 3890,
+            "pickRate": 3.41,
+            "winRate": 52.6,
+            "kd": 0.93
+          },
+          {
+            "name": "mute",
+            "picks": 3795,
+            "pickRate": 3.33,
+            "winRate": 52.9,
+            "kd": 0.89
+          },
+          {
+            "name": "thorn",
+            "picks": 3491,
+            "pickRate": 3.06,
+            "winRate": 54.2,
+            "kd": 1.06
+          },
+          {
+            "name": "lesion",
+            "picks": 3172,
+            "pickRate": 2.78,
+            "winRate": 54.6,
+            "kd": 1.04
+          },
+          {
+            "name": "vigil",
+            "picks": 2848,
+            "pickRate": 2.5,
+            "winRate": 53.6,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 2802,
+            "pickRate": 2.46,
+            "winRate": 52.1,
+            "kd": 0.95
+          },
+          {
+            "name": "kaid",
+            "picks": 2426,
+            "pickRate": 2.13,
+            "winRate": 54.4,
+            "kd": 0.93
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2204,
+            "pickRate": 1.93,
+            "winRate": 53.8,
+            "kd": 1.06
+          },
+          {
+            "name": "tubarao",
+            "picks": 2101,
+            "pickRate": 1.84,
+            "winRate": 53.4,
+            "kd": 1.12
+          },
+          {
+            "name": "warden",
+            "picks": 1837,
+            "pickRate": 1.61,
+            "winRate": 50.5,
+            "kd": 1.06
+          },
+          {
+            "name": "smoke",
+            "picks": 1766,
+            "pickRate": 1.55,
+            "winRate": 52.2,
+            "kd": 0.88
+          },
+          {
+            "name": "doc",
+            "picks": 1749,
+            "pickRate": 1.54,
+            "winRate": 53.0,
+            "kd": 0.94
+          },
+          {
+            "name": "kapkan",
+            "picks": 1704,
+            "pickRate": 1.5,
+            "winRate": 55.9,
+            "kd": 1.11
+          },
+          {
+            "name": "ela",
+            "picks": 1564,
+            "pickRate": 1.37,
+            "winRate": 54.7,
+            "kd": 1.03
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 3440,
+        "atkWinRate": 42.6,
+        "defWinRate": 55.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 173,
+            "pickRate": 5.03,
+            "winRate": 44.5,
+            "kd": 1.01
+          },
+          {
+            "name": "thermite",
+            "picks": 107,
+            "pickRate": 3.11,
+            "winRate": 43.9,
+            "kd": 0.73
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 107,
+            "pickRate": 3.11,
+            "winRate": 37.4,
+            "kd": 0.95
+          },
+          {
+            "name": "buck",
+            "picks": 103,
+            "pickRate": 2.99,
+            "winRate": 39.8,
+            "kd": 0.55
+          },
+          {
+            "name": "twitch",
+            "picks": 102,
+            "pickRate": 2.97,
+            "winRate": 39.2,
+            "kd": 0.95
+          },
+          {
+            "name": "nomad",
+            "picks": 97,
+            "pickRate": 2.82,
+            "winRate": 48.5,
+            "kd": 1.11
+          },
+          {
+            "name": "thatcher",
+            "picks": 73,
+            "pickRate": 2.12,
+            "winRate": 46.6,
+            "kd": 0.8
+          },
+          {
+            "name": "brava",
+            "picks": 73,
+            "pickRate": 2.12,
+            "winRate": 42.5,
+            "kd": 0.96
+          },
+          {
+            "name": "lion",
+            "picks": 62,
+            "pickRate": 1.8,
+            "winRate": 35.5,
+            "kd": 0.56
+          },
+          {
+            "name": "ace",
+            "picks": 62,
+            "pickRate": 1.8,
+            "winRate": 38.7,
+            "kd": 1.05
+          },
+          {
+            "name": "grim",
+            "picks": 60,
+            "pickRate": 1.74,
+            "winRate": 50.0,
+            "kd": 0.96
+          },
+          {
+            "name": "deimos",
+            "picks": 55,
+            "pickRate": 1.6,
+            "winRate": 47.3,
+            "kd": 1.23
+          },
+          {
+            "name": "finka",
+            "picks": 52,
+            "pickRate": 1.51,
+            "winRate": 38.5,
+            "kd": 0.6
+          },
+          {
+            "name": "striker",
+            "picks": 49,
+            "pickRate": 1.42,
+            "winRate": 44.9,
+            "kd": 0.73
+          },
+          {
+            "name": "hibana",
+            "picks": 49,
+            "pickRate": 1.42,
+            "winRate": 32.7,
+            "kd": 0.59
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 119,
+            "pickRate": 3.46,
+            "winRate": 55.5,
+            "kd": 0.93
+          },
+          {
+            "name": "aruni",
+            "picks": 118,
+            "pickRate": 3.43,
+            "winRate": 63.6,
+            "kd": 1.66
+          },
+          {
+            "name": "bandit",
+            "picks": 106,
+            "pickRate": 3.08,
+            "winRate": 65.1,
+            "kd": 1.24
+          },
+          {
+            "name": "lesion",
+            "picks": 96,
+            "pickRate": 2.79,
+            "winRate": 51.0,
+            "kd": 0.9
+          },
+          {
+            "name": "valkyrie",
+            "picks": 91,
+            "pickRate": 2.65,
+            "winRate": 52.7,
+            "kd": 0.84
+          },
+          {
+            "name": "kaid",
+            "picks": 87,
+            "pickRate": 2.53,
+            "winRate": 66.7,
+            "kd": 1.37
+          },
+          {
+            "name": "vigil",
+            "picks": 85,
+            "pickRate": 2.47,
+            "winRate": 55.3,
+            "kd": 1.22
+          },
+          {
+            "name": "tubarao",
+            "picks": 81,
+            "pickRate": 2.35,
+            "winRate": 58.0,
+            "kd": 1.21
+          },
+          {
+            "name": "azami",
+            "picks": 80,
+            "pickRate": 2.33,
+            "winRate": 52.5,
+            "kd": 1.26
+          },
+          {
+            "name": "thorn",
+            "picks": 74,
+            "pickRate": 2.15,
+            "winRate": 48.6,
+            "kd": 0.78
+          },
+          {
+            "name": "warden",
+            "picks": 58,
+            "pickRate": 1.69,
+            "winRate": 58.6,
+            "kd": 1.2
+          },
+          {
+            "name": "doc",
+            "picks": 57,
+            "pickRate": 1.66,
+            "winRate": 52.6,
+            "kd": 0.81
+          },
+          {
+            "name": "melusi",
+            "picks": 56,
+            "pickRate": 1.63,
+            "winRate": 58.9,
+            "kd": 0.69
+          },
+          {
+            "name": "fenrir",
+            "picks": 47,
+            "pickRate": 1.37,
+            "winRate": 48.9,
+            "kd": 0.83
+          },
+          {
+            "name": "solis",
+            "picks": 44,
+            "pickRate": 1.28,
+            "winRate": 56.8,
+            "kd": 0.83
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 2469,
+        "atkWinRate": 40.2,
+        "defWinRate": 58.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 110,
+            "pickRate": 4.46,
+            "winRate": 36.4,
+            "kd": 0.89
+          },
+          {
+            "name": "nomad",
+            "picks": 81,
+            "pickRate": 3.28,
+            "winRate": 40.7,
+            "kd": 0.69
+          },
+          {
+            "name": "buck",
+            "picks": 71,
+            "pickRate": 2.88,
+            "winRate": 50.7,
+            "kd": 0.95
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 68,
+            "pickRate": 2.75,
+            "winRate": 39.7,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 60,
+            "pickRate": 2.43,
+            "winRate": 43.3,
+            "kd": 1.28
+          },
+          {
+            "name": "grim",
+            "picks": 56,
+            "pickRate": 2.27,
+            "winRate": 44.6,
+            "kd": 0.88
+          },
+          {
+            "name": "deimos",
+            "picks": 55,
+            "pickRate": 2.23,
+            "winRate": 43.6,
+            "kd": 0.71
+          },
+          {
+            "name": "thermite",
+            "picks": 54,
+            "pickRate": 2.19,
+            "winRate": 50.0,
+            "kd": 0.89
+          },
+          {
+            "name": "finka",
+            "picks": 44,
+            "pickRate": 1.78,
+            "winRate": 40.9,
+            "kd": 0.54
+          },
+          {
+            "name": "hibana",
+            "picks": 43,
+            "pickRate": 1.74,
+            "winRate": 34.9,
+            "kd": 0.74
+          },
+          {
+            "name": "striker",
+            "picks": 42,
+            "pickRate": 1.7,
+            "winRate": 35.7,
+            "kd": 1.33
+          },
+          {
+            "name": "lion",
+            "picks": 41,
+            "pickRate": 1.66,
+            "winRate": 43.9,
+            "kd": 0.78
+          },
+          {
+            "name": "thatcher",
+            "picks": 37,
+            "pickRate": 1.5,
+            "winRate": 43.2,
+            "kd": 0.54
+          },
+          {
+            "name": "ace",
+            "picks": 36,
+            "pickRate": 1.46,
+            "winRate": 38.9,
+            "kd": 0.96
+          },
+          {
+            "name": "iq",
+            "picks": 35,
+            "pickRate": 1.42,
+            "winRate": 40.0,
+            "kd": 1.03
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 99,
+            "pickRate": 4.01,
+            "winRate": 57.6,
+            "kd": 1.01
+          },
+          {
+            "name": "lesion",
+            "picks": 81,
+            "pickRate": 3.28,
+            "winRate": 56.8,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 80,
+            "pickRate": 3.24,
+            "winRate": 60.0,
+            "kd": 0.98
+          },
+          {
+            "name": "aruni",
+            "picks": 80,
+            "pickRate": 3.24,
+            "winRate": 50.0,
+            "kd": 1.0
+          },
+          {
+            "name": "azami",
+            "picks": 63,
+            "pickRate": 2.55,
+            "winRate": 55.6,
+            "kd": 1.4
+          },
+          {
+            "name": "valkyrie",
+            "picks": 58,
+            "pickRate": 2.35,
+            "winRate": 62.1,
+            "kd": 0.92
+          },
+          {
+            "name": "doc",
+            "picks": 47,
+            "pickRate": 1.9,
+            "winRate": 48.9,
+            "kd": 1.36
+          },
+          {
+            "name": "warden",
+            "picks": 44,
+            "pickRate": 1.78,
+            "winRate": 70.5,
+            "kd": 1.18
+          },
+          {
+            "name": "tubarao",
+            "picks": 43,
+            "pickRate": 1.74,
+            "winRate": 65.1,
+            "kd": 1.6
+          },
+          {
+            "name": "melusi",
+            "picks": 42,
+            "pickRate": 1.7,
+            "winRate": 64.3,
+            "kd": 1.76
+          },
+          {
+            "name": "smoke",
+            "picks": 41,
+            "pickRate": 1.66,
+            "winRate": 58.5,
+            "kd": 0.7
+          },
+          {
+            "name": "vigil",
+            "picks": 39,
+            "pickRate": 1.58,
+            "winRate": 61.5,
+            "kd": 1.28
+          },
+          {
+            "name": "thorn",
+            "picks": 36,
+            "pickRate": 1.46,
+            "winRate": 61.1,
+            "kd": 1.0
+          },
+          {
+            "name": "solis",
+            "picks": 36,
+            "pickRate": 1.46,
+            "winRate": 58.3,
+            "kd": 1.57
+          },
+          {
+            "name": "goyo",
+            "picks": 34,
+            "pickRate": 1.38,
+            "winRate": 44.1,
+            "kd": 1.0
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 4785,
+        "atkWinRate": 40.8,
+        "defWinRate": 59.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 228,
+            "pickRate": 4.76,
+            "winRate": 41.7,
+            "kd": 1.0
+          },
+          {
+            "name": "buck",
+            "picks": 150,
+            "pickRate": 3.13,
+            "winRate": 42.0,
+            "kd": 0.93
+          },
+          {
+            "name": "nomad",
+            "picks": 146,
+            "pickRate": 3.05,
+            "winRate": 43.2,
+            "kd": 1.0
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 144,
+            "pickRate": 3.01,
+            "winRate": 49.3,
+            "kd": 1.26
+          },
+          {
+            "name": "thermite",
+            "picks": 127,
+            "pickRate": 2.65,
+            "winRate": 38.6,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 118,
+            "pickRate": 2.47,
+            "winRate": 48.3,
+            "kd": 1.14
+          },
+          {
+            "name": "thatcher",
+            "picks": 116,
+            "pickRate": 2.42,
+            "winRate": 36.2,
+            "kd": 0.89
+          },
+          {
+            "name": "fuze",
+            "picks": 94,
+            "pickRate": 1.96,
+            "winRate": 36.2,
+            "kd": 0.86
+          },
+          {
+            "name": "grim",
+            "picks": 88,
+            "pickRate": 1.84,
+            "winRate": 34.1,
+            "kd": 0.69
+          },
+          {
+            "name": "iq",
+            "picks": 84,
+            "pickRate": 1.76,
+            "winRate": 35.7,
+            "kd": 0.8
+          },
+          {
+            "name": "finka",
+            "picks": 74,
+            "pickRate": 1.55,
+            "winRate": 40.5,
+            "kd": 0.95
+          },
+          {
+            "name": "ace",
+            "picks": 69,
+            "pickRate": 1.44,
+            "winRate": 34.8,
+            "kd": 0.92
+          },
+          {
+            "name": "deimos",
+            "picks": 68,
+            "pickRate": 1.42,
+            "winRate": 36.8,
+            "kd": 0.65
+          },
+          {
+            "name": "brava",
+            "picks": 67,
+            "pickRate": 1.4,
+            "winRate": 53.7,
+            "kd": 1.06
+          },
+          {
+            "name": "hibana",
+            "picks": 67,
+            "pickRate": 1.4,
+            "winRate": 41.8,
+            "kd": 0.8
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 184,
+            "pickRate": 3.85,
+            "winRate": 57.6,
+            "kd": 1.18
+          },
+          {
+            "name": "aruni",
+            "picks": 158,
+            "pickRate": 3.3,
+            "winRate": 52.5,
+            "kd": 1.18
+          },
+          {
+            "name": "lesion",
+            "picks": 150,
+            "pickRate": 3.13,
+            "winRate": 58.0,
+            "kd": 1.09
+          },
+          {
+            "name": "bandit",
+            "picks": 148,
+            "pickRate": 3.09,
+            "winRate": 59.5,
+            "kd": 0.96
+          },
+          {
+            "name": "valkyrie",
+            "picks": 125,
+            "pickRate": 2.61,
+            "winRate": 66.4,
+            "kd": 1.73
+          },
+          {
+            "name": "tubarao",
+            "picks": 122,
+            "pickRate": 2.55,
+            "winRate": 65.6,
+            "kd": 1.2
+          },
+          {
+            "name": "thorn",
+            "picks": 116,
+            "pickRate": 2.42,
+            "winRate": 64.7,
+            "kd": 1.12
+          },
+          {
+            "name": "azami",
+            "picks": 109,
+            "pickRate": 2.28,
+            "winRate": 59.6,
+            "kd": 1.0
+          },
+          {
+            "name": "vigil",
+            "picks": 104,
+            "pickRate": 2.17,
+            "winRate": 59.6,
+            "kd": 1.29
+          },
+          {
+            "name": "kaid",
+            "picks": 96,
+            "pickRate": 2.01,
+            "winRate": 50.0,
+            "kd": 1.07
+          },
+          {
+            "name": "kapkan",
+            "picks": 84,
+            "pickRate": 1.76,
+            "winRate": 65.5,
+            "kd": 1.22
+          },
+          {
+            "name": "warden",
+            "picks": 78,
+            "pickRate": 1.63,
+            "winRate": 61.5,
+            "kd": 0.93
+          },
+          {
+            "name": "smoke",
+            "picks": 77,
+            "pickRate": 1.61,
+            "winRate": 53.2,
+            "kd": 1.06
+          },
+          {
+            "name": "melusi",
+            "picks": 77,
+            "pickRate": 1.61,
+            "winRate": 59.7,
+            "kd": 1.37
+          },
+          {
+            "name": "fenrir",
+            "picks": 67,
+            "pickRate": 1.4,
+            "winRate": 62.7,
+            "kd": 1.27
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 2336,
+        "atkWinRate": 40.3,
+        "defWinRate": 60.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 93,
+            "pickRate": 3.98,
+            "winRate": 35.5,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 69,
+            "pickRate": 2.95,
+            "winRate": 30.4,
+            "kd": 0.93
+          },
+          {
+            "name": "grim",
+            "picks": 68,
+            "pickRate": 2.91,
+            "winRate": 45.6,
+            "kd": 1.15
+          },
+          {
+            "name": "thermite",
+            "picks": 66,
+            "pickRate": 2.83,
+            "winRate": 39.4,
+            "kd": 0.92
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 64,
+            "pickRate": 2.74,
+            "winRate": 42.2,
+            "kd": 0.88
+          },
+          {
+            "name": "buck",
+            "picks": 61,
+            "pickRate": 2.61,
+            "winRate": 41.0,
+            "kd": 0.82
+          },
+          {
+            "name": "striker",
+            "picks": 54,
+            "pickRate": 2.31,
+            "winRate": 46.3,
+            "kd": 1.17
+          },
+          {
+            "name": "hibana",
+            "picks": 47,
+            "pickRate": 2.01,
+            "winRate": 40.4,
+            "kd": 1.06
+          },
+          {
+            "name": "nomad",
+            "picks": 44,
+            "pickRate": 1.88,
+            "winRate": 50.0,
+            "kd": 1.34
+          },
+          {
+            "name": "deimos",
+            "picks": 37,
+            "pickRate": 1.58,
+            "winRate": 43.2,
+            "kd": 0.62
+          },
+          {
+            "name": "thatcher",
+            "picks": 35,
+            "pickRate": 1.5,
+            "winRate": 28.6,
+            "kd": 0.93
+          },
+          {
+            "name": "zofia",
+            "picks": 33,
+            "pickRate": 1.41,
+            "winRate": 42.4,
+            "kd": 1.13
+          },
+          {
+            "name": "ace",
+            "picks": 31,
+            "pickRate": 1.33,
+            "winRate": 35.5,
+            "kd": 1.18
+          },
+          {
+            "name": "fuze",
+            "picks": 31,
+            "pickRate": 1.33,
+            "winRate": 48.4,
+            "kd": 1.35
+          },
+          {
+            "name": "brava",
+            "picks": 30,
+            "pickRate": 1.28,
+            "winRate": 16.7,
+            "kd": 0.62
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 89,
+            "pickRate": 3.81,
+            "winRate": 59.6,
+            "kd": 1.28
+          },
+          {
+            "name": "aruni",
+            "picks": 89,
+            "pickRate": 3.81,
+            "winRate": 61.8,
+            "kd": 1.6
+          },
+          {
+            "name": "bandit",
+            "picks": 87,
+            "pickRate": 3.72,
+            "winRate": 56.3,
+            "kd": 1.26
+          },
+          {
+            "name": "azami",
+            "picks": 63,
+            "pickRate": 2.7,
+            "winRate": 60.3,
+            "kd": 1.25
+          },
+          {
+            "name": "valkyrie",
+            "picks": 58,
+            "pickRate": 2.48,
+            "winRate": 48.3,
+            "kd": 0.81
+          },
+          {
+            "name": "vigil",
+            "picks": 57,
+            "pickRate": 2.44,
+            "winRate": 73.7,
+            "kd": 1.69
+          },
+          {
+            "name": "kaid",
+            "picks": 55,
+            "pickRate": 2.35,
+            "winRate": 61.8,
+            "kd": 0.94
+          },
+          {
+            "name": "lesion",
+            "picks": 51,
+            "pickRate": 2.18,
+            "winRate": 52.9,
+            "kd": 1.06
+          },
+          {
+            "name": "warden",
+            "picks": 44,
+            "pickRate": 1.88,
+            "winRate": 52.3,
+            "kd": 1.32
+          },
+          {
+            "name": "doc",
+            "picks": 40,
+            "pickRate": 1.71,
+            "winRate": 67.5,
+            "kd": 0.92
+          },
+          {
+            "name": "fenrir",
+            "picks": 37,
+            "pickRate": 1.58,
+            "winRate": 81.1,
+            "kd": 1.58
+          },
+          {
+            "name": "alibi",
+            "picks": 37,
+            "pickRate": 1.58,
+            "winRate": 62.2,
+            "kd": 0.84
+          },
+          {
+            "name": "tubarao",
+            "picks": 36,
+            "pickRate": 1.54,
+            "winRate": 63.9,
+            "kd": 1.3
+          },
+          {
+            "name": "thorn",
+            "picks": 32,
+            "pickRate": 1.37,
+            "winRate": 56.2,
+            "kd": 1.04
+          },
+          {
+            "name": "smoke",
+            "picks": 31,
+            "pickRate": 1.33,
+            "winRate": 48.4,
+            "kd": 1.13
+          }
+        ]
+      }
+    },
+    "Gold": {
+      "villa": {
+        "totalRounds": 266332,
+        "atkWinRate": 41.0,
+        "defWinRate": 58.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 10949,
+            "pickRate": 4.11,
+            "winRate": 41.5,
+            "kd": 0.98
+          },
+          {
+            "name": "solid-snake",
+            "picks": 8269,
+            "pickRate": 3.1,
+            "winRate": 40.7,
+            "kd": 0.77
+          },
+          {
+            "name": "twitch",
+            "picks": 8037,
+            "pickRate": 3.02,
+            "winRate": 41.5,
+            "kd": 0.96
+          },
+          {
+            "name": "nomad",
+            "picks": 7458,
+            "pickRate": 2.8,
+            "winRate": 41.5,
+            "kd": 0.88
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6843,
+            "pickRate": 2.57,
+            "winRate": 42.0,
+            "kd": 0.83
+          },
+          {
+            "name": "buck",
+            "picks": 6333,
+            "pickRate": 2.38,
+            "winRate": 39.7,
+            "kd": 0.82
+          },
+          {
+            "name": "brava",
+            "picks": 5804,
+            "pickRate": 2.18,
+            "winRate": 41.8,
+            "kd": 0.93
+          },
+          {
+            "name": "lion",
+            "picks": 5766,
+            "pickRate": 2.16,
+            "winRate": 41.1,
+            "kd": 0.76
+          },
+          {
+            "name": "hibana",
+            "picks": 5713,
+            "pickRate": 2.15,
+            "winRate": 40.6,
+            "kd": 0.85
+          },
+          {
+            "name": "grim",
+            "picks": 5131,
+            "pickRate": 1.93,
+            "winRate": 40.1,
+            "kd": 0.75
+          },
+          {
+            "name": "finka",
+            "picks": 3935,
+            "pickRate": 1.48,
+            "winRate": 42.2,
+            "kd": 0.87
+          },
+          {
+            "name": "iq",
+            "picks": 3342,
+            "pickRate": 1.25,
+            "winRate": 42.0,
+            "kd": 0.94
+          },
+          {
+            "name": "blackbeard",
+            "picks": 3063,
+            "pickRate": 1.15,
+            "winRate": 41.4,
+            "kd": 0.72
+          },
+          {
+            "name": "deimos",
+            "picks": 3038,
+            "pickRate": 1.14,
+            "winRate": 40.5,
+            "kd": 0.81
+          },
+          {
+            "name": "sledge",
+            "picks": 2866,
+            "pickRate": 1.08,
+            "winRate": 38.9,
+            "kd": 0.84
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 9768,
+            "pickRate": 3.67,
+            "winRate": 60.0,
+            "kd": 1.26
+          },
+          {
+            "name": "thorn",
+            "picks": 9127,
+            "pickRate": 3.43,
+            "winRate": 61.1,
+            "kd": 1.12
+          },
+          {
+            "name": "mute",
+            "picks": 8814,
+            "pickRate": 3.31,
+            "winRate": 57.2,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7021,
+            "pickRate": 2.64,
+            "winRate": 60.1,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 6868,
+            "pickRate": 2.58,
+            "winRate": 59.1,
+            "kd": 1.06
+          },
+          {
+            "name": "lesion",
+            "picks": 6666,
+            "pickRate": 2.5,
+            "winRate": 59.4,
+            "kd": 1.03
+          },
+          {
+            "name": "kaid",
+            "picks": 5445,
+            "pickRate": 2.04,
+            "winRate": 58.2,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 5156,
+            "pickRate": 1.94,
+            "winRate": 57.3,
+            "kd": 1.09
+          },
+          {
+            "name": "melusi",
+            "picks": 4489,
+            "pickRate": 1.69,
+            "winRate": 60.1,
+            "kd": 0.99
+          },
+          {
+            "name": "warden",
+            "picks": 4224,
+            "pickRate": 1.59,
+            "winRate": 58.4,
+            "kd": 1.1
+          },
+          {
+            "name": "kapkan",
+            "picks": 4223,
+            "pickRate": 1.59,
+            "winRate": 60.6,
+            "kd": 1.2
+          },
+          {
+            "name": "bandit",
+            "picks": 4057,
+            "pickRate": 1.52,
+            "winRate": 59.0,
+            "kd": 1.09
+          },
+          {
+            "name": "smoke",
+            "picks": 3971,
+            "pickRate": 1.49,
+            "winRate": 56.5,
+            "kd": 0.89
+          },
+          {
+            "name": "doc",
+            "picks": 3918,
+            "pickRate": 1.47,
+            "winRate": 57.9,
+            "kd": 0.93
+          },
+          {
+            "name": "jager",
+            "picks": 3882,
+            "pickRate": 1.46,
+            "winRate": 58.2,
+            "kd": 0.92
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 351228,
+        "atkWinRate": 43.5,
+        "defWinRate": 55.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 13602,
+            "pickRate": 3.87,
+            "winRate": 44.4,
+            "kd": 1.04
+          },
+          {
+            "name": "twitch",
+            "picks": 9526,
+            "pickRate": 2.71,
+            "winRate": 43.7,
+            "kd": 0.98
+          },
+          {
+            "name": "nomad",
+            "picks": 9010,
+            "pickRate": 2.57,
+            "winRate": 44.1,
+            "kd": 0.93
+          },
+          {
+            "name": "solid-snake",
+            "picks": 8759,
+            "pickRate": 2.49,
+            "winRate": 41.8,
+            "kd": 0.84
+          },
+          {
+            "name": "thermite",
+            "picks": 8497,
+            "pickRate": 2.42,
+            "winRate": 43.3,
+            "kd": 0.8
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 8220,
+            "pickRate": 2.34,
+            "winRate": 43.8,
+            "kd": 0.86
+          },
+          {
+            "name": "grim",
+            "picks": 7544,
+            "pickRate": 2.15,
+            "winRate": 42.7,
+            "kd": 0.79
+          },
+          {
+            "name": "buck",
+            "picks": 6938,
+            "pickRate": 1.98,
+            "winRate": 44.5,
+            "kd": 0.87
+          },
+          {
+            "name": "brava",
+            "picks": 6207,
+            "pickRate": 1.77,
+            "winRate": 44.0,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 6113,
+            "pickRate": 1.74,
+            "winRate": 43.3,
+            "kd": 0.91
+          },
+          {
+            "name": "lion",
+            "picks": 5631,
+            "pickRate": 1.6,
+            "winRate": 44.3,
+            "kd": 0.81
+          },
+          {
+            "name": "striker",
+            "picks": 5328,
+            "pickRate": 1.52,
+            "winRate": 42.6,
+            "kd": 0.97
+          },
+          {
+            "name": "maverick",
+            "picks": 5164,
+            "pickRate": 1.47,
+            "winRate": 44.0,
+            "kd": 0.97
+          },
+          {
+            "name": "ace",
+            "picks": 5041,
+            "pickRate": 1.44,
+            "winRate": 43.3,
+            "kd": 0.93
+          },
+          {
+            "name": "osa",
+            "picks": 4456,
+            "pickRate": 1.27,
+            "winRate": 43.1,
+            "kd": 0.92
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 12713,
+            "pickRate": 3.62,
+            "winRate": 55.9,
+            "kd": 0.98
+          },
+          {
+            "name": "aruni",
+            "picks": 12209,
+            "pickRate": 3.48,
+            "winRate": 57.1,
+            "kd": 1.18
+          },
+          {
+            "name": "thorn",
+            "picks": 11696,
+            "pickRate": 3.33,
+            "winRate": 57.5,
+            "kd": 1.07
+          },
+          {
+            "name": "azami",
+            "picks": 8477,
+            "pickRate": 2.41,
+            "winRate": 55.7,
+            "kd": 1.0
+          },
+          {
+            "name": "kaid",
+            "picks": 8463,
+            "pickRate": 2.41,
+            "winRate": 54.6,
+            "kd": 0.87
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7840,
+            "pickRate": 2.23,
+            "winRate": 55.9,
+            "kd": 1.04
+          },
+          {
+            "name": "lesion",
+            "picks": 7412,
+            "pickRate": 2.11,
+            "winRate": 56.8,
+            "kd": 0.99
+          },
+          {
+            "name": "smoke",
+            "picks": 7163,
+            "pickRate": 2.04,
+            "winRate": 54.5,
+            "kd": 0.87
+          },
+          {
+            "name": "warden",
+            "picks": 7029,
+            "pickRate": 2.0,
+            "winRate": 55.0,
+            "kd": 1.04
+          },
+          {
+            "name": "bandit",
+            "picks": 6524,
+            "pickRate": 1.86,
+            "winRate": 56.1,
+            "kd": 1.01
+          },
+          {
+            "name": "melusi",
+            "picks": 6300,
+            "pickRate": 1.79,
+            "winRate": 56.8,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 6255,
+            "pickRate": 1.78,
+            "winRate": 54.9,
+            "kd": 1.07
+          },
+          {
+            "name": "fenrir",
+            "picks": 6218,
+            "pickRate": 1.77,
+            "winRate": 54.8,
+            "kd": 0.91
+          },
+          {
+            "name": "jager",
+            "picks": 5339,
+            "pickRate": 1.52,
+            "winRate": 54.5,
+            "kd": 0.9
+          },
+          {
+            "name": "goyo",
+            "picks": 4664,
+            "pickRate": 1.33,
+            "winRate": 54.2,
+            "kd": 0.93
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 109858,
+        "atkWinRate": 41.3,
+        "defWinRate": 58.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 4434,
+            "pickRate": 4.04,
+            "winRate": 41.0,
+            "kd": 0.92
+          },
+          {
+            "name": "twitch",
+            "picks": 3375,
+            "pickRate": 3.07,
+            "winRate": 41.2,
+            "kd": 0.93
+          },
+          {
+            "name": "thermite",
+            "picks": 3329,
+            "pickRate": 3.03,
+            "winRate": 42.1,
+            "kd": 0.8
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3154,
+            "pickRate": 2.87,
+            "winRate": 39.6,
+            "kd": 0.78
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3138,
+            "pickRate": 2.86,
+            "winRate": 40.9,
+            "kd": 0.82
+          },
+          {
+            "name": "nomad",
+            "picks": 2624,
+            "pickRate": 2.39,
+            "winRate": 41.5,
+            "kd": 0.86
+          },
+          {
+            "name": "buck",
+            "picks": 2228,
+            "pickRate": 2.03,
+            "winRate": 41.6,
+            "kd": 0.9
+          },
+          {
+            "name": "grim",
+            "picks": 2119,
+            "pickRate": 1.93,
+            "winRate": 42.7,
+            "kd": 0.76
+          },
+          {
+            "name": "thatcher",
+            "picks": 2105,
+            "pickRate": 1.92,
+            "winRate": 41.1,
+            "kd": 0.8
+          },
+          {
+            "name": "lion",
+            "picks": 2042,
+            "pickRate": 1.86,
+            "winRate": 39.5,
+            "kd": 0.78
+          },
+          {
+            "name": "hibana",
+            "picks": 1908,
+            "pickRate": 1.74,
+            "winRate": 41.0,
+            "kd": 0.86
+          },
+          {
+            "name": "brava",
+            "picks": 1702,
+            "pickRate": 1.55,
+            "winRate": 42.9,
+            "kd": 0.88
+          },
+          {
+            "name": "striker",
+            "picks": 1601,
+            "pickRate": 1.46,
+            "winRate": 41.8,
+            "kd": 0.86
+          },
+          {
+            "name": "finka",
+            "picks": 1520,
+            "pickRate": 1.38,
+            "winRate": 43.9,
+            "kd": 0.83
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1416,
+            "pickRate": 1.29,
+            "winRate": 44.9,
+            "kd": 0.76
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 3932,
+            "pickRate": 3.58,
+            "winRate": 58.7,
+            "kd": 1.11
+          },
+          {
+            "name": "mute",
+            "picks": 3675,
+            "pickRate": 3.35,
+            "winRate": 57.7,
+            "kd": 0.9
+          },
+          {
+            "name": "aruni",
+            "picks": 3488,
+            "pickRate": 3.18,
+            "winRate": 59.0,
+            "kd": 1.24
+          },
+          {
+            "name": "bandit",
+            "picks": 3282,
+            "pickRate": 2.99,
+            "winRate": 57.9,
+            "kd": 1.03
+          },
+          {
+            "name": "lesion",
+            "picks": 2945,
+            "pickRate": 2.68,
+            "winRate": 60.8,
+            "kd": 1.03
+          },
+          {
+            "name": "azami",
+            "picks": 2746,
+            "pickRate": 2.5,
+            "winRate": 58.5,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 2607,
+            "pickRate": 2.37,
+            "winRate": 57.6,
+            "kd": 0.99
+          },
+          {
+            "name": "vigil",
+            "picks": 2211,
+            "pickRate": 2.01,
+            "winRate": 57.3,
+            "kd": 1.09
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2067,
+            "pickRate": 1.88,
+            "winRate": 57.1,
+            "kd": 1.0
+          },
+          {
+            "name": "warden",
+            "picks": 1952,
+            "pickRate": 1.78,
+            "winRate": 57.7,
+            "kd": 1.05
+          },
+          {
+            "name": "smoke",
+            "picks": 1908,
+            "pickRate": 1.74,
+            "winRate": 56.7,
+            "kd": 0.92
+          },
+          {
+            "name": "melusi",
+            "picks": 1777,
+            "pickRate": 1.62,
+            "winRate": 58.1,
+            "kd": 1.03
+          },
+          {
+            "name": "tubarao",
+            "picks": 1672,
+            "pickRate": 1.52,
+            "winRate": 57.5,
+            "kd": 1.13
+          },
+          {
+            "name": "doc",
+            "picks": 1625,
+            "pickRate": 1.48,
+            "winRate": 58.9,
+            "kd": 0.94
+          },
+          {
+            "name": "kapkan",
+            "picks": 1583,
+            "pickRate": 1.44,
+            "winRate": 60.7,
+            "kd": 1.2
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 79365,
+        "atkWinRate": 41.5,
+        "defWinRate": 57.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 3269,
+            "pickRate": 4.12,
+            "winRate": 43.0,
+            "kd": 0.97
+          },
+          {
+            "name": "thermite",
+            "picks": 2450,
+            "pickRate": 3.09,
+            "winRate": 40.6,
+            "kd": 0.84
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2379,
+            "pickRate": 3.0,
+            "winRate": 42.0,
+            "kd": 0.83
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2364,
+            "pickRate": 2.98,
+            "winRate": 40.1,
+            "kd": 0.79
+          },
+          {
+            "name": "twitch",
+            "picks": 2333,
+            "pickRate": 2.94,
+            "winRate": 42.6,
+            "kd": 1.05
+          },
+          {
+            "name": "buck",
+            "picks": 1748,
+            "pickRate": 2.2,
+            "winRate": 39.9,
+            "kd": 0.76
+          },
+          {
+            "name": "grim",
+            "picks": 1608,
+            "pickRate": 2.03,
+            "winRate": 40.7,
+            "kd": 0.73
+          },
+          {
+            "name": "nomad",
+            "picks": 1594,
+            "pickRate": 2.01,
+            "winRate": 41.2,
+            "kd": 0.86
+          },
+          {
+            "name": "lion",
+            "picks": 1489,
+            "pickRate": 1.88,
+            "winRate": 41.9,
+            "kd": 0.79
+          },
+          {
+            "name": "thatcher",
+            "picks": 1432,
+            "pickRate": 1.8,
+            "winRate": 42.1,
+            "kd": 0.85
+          },
+          {
+            "name": "brava",
+            "picks": 1303,
+            "pickRate": 1.64,
+            "winRate": 40.7,
+            "kd": 0.89
+          },
+          {
+            "name": "hibana",
+            "picks": 1108,
+            "pickRate": 1.4,
+            "winRate": 42.4,
+            "kd": 0.91
+          },
+          {
+            "name": "finka",
+            "picks": 1096,
+            "pickRate": 1.38,
+            "winRate": 45.3,
+            "kd": 0.96
+          },
+          {
+            "name": "striker",
+            "picks": 1067,
+            "pickRate": 1.34,
+            "winRate": 42.5,
+            "kd": 0.99
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1046,
+            "pickRate": 1.32,
+            "winRate": 42.4,
+            "kd": 0.65
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 2684,
+            "pickRate": 3.38,
+            "winRate": 57.5,
+            "kd": 0.94
+          },
+          {
+            "name": "aruni",
+            "picks": 2541,
+            "pickRate": 3.2,
+            "winRate": 58.2,
+            "kd": 1.21
+          },
+          {
+            "name": "bandit",
+            "picks": 2535,
+            "pickRate": 3.19,
+            "winRate": 56.2,
+            "kd": 1.02
+          },
+          {
+            "name": "thorn",
+            "picks": 2432,
+            "pickRate": 3.06,
+            "winRate": 60.2,
+            "kd": 1.11
+          },
+          {
+            "name": "lesion",
+            "picks": 2155,
+            "pickRate": 2.72,
+            "winRate": 56.9,
+            "kd": 0.98
+          },
+          {
+            "name": "kaid",
+            "picks": 1946,
+            "pickRate": 2.45,
+            "winRate": 55.3,
+            "kd": 0.93
+          },
+          {
+            "name": "azami",
+            "picks": 1908,
+            "pickRate": 2.4,
+            "winRate": 56.4,
+            "kd": 1.03
+          },
+          {
+            "name": "smoke",
+            "picks": 1631,
+            "pickRate": 2.06,
+            "winRate": 55.4,
+            "kd": 0.9
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1556,
+            "pickRate": 1.96,
+            "winRate": 57.2,
+            "kd": 1.11
+          },
+          {
+            "name": "vigil",
+            "picks": 1538,
+            "pickRate": 1.94,
+            "winRate": 55.0,
+            "kd": 1.06
+          },
+          {
+            "name": "tubarao",
+            "picks": 1370,
+            "pickRate": 1.73,
+            "winRate": 58.1,
+            "kd": 1.17
+          },
+          {
+            "name": "melusi",
+            "picks": 1336,
+            "pickRate": 1.68,
+            "winRate": 56.0,
+            "kd": 1.0
+          },
+          {
+            "name": "warden",
+            "picks": 1332,
+            "pickRate": 1.68,
+            "winRate": 55.3,
+            "kd": 1.01
+          },
+          {
+            "name": "kapkan",
+            "picks": 1219,
+            "pickRate": 1.54,
+            "winRate": 61.1,
+            "kd": 1.27
+          },
+          {
+            "name": "doc",
+            "picks": 1149,
+            "pickRate": 1.45,
+            "winRate": 52.7,
+            "kd": 0.86
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 352226,
+        "atkWinRate": 43.6,
+        "defWinRate": 55.9,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 12945,
+            "pickRate": 3.68,
+            "winRate": 45.7,
+            "kd": 0.86
+          },
+          {
+            "name": "ash",
+            "picks": 12266,
+            "pickRate": 3.48,
+            "winRate": 44.3,
+            "kd": 1.03
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 9565,
+            "pickRate": 2.72,
+            "winRate": 43.8,
+            "kd": 0.88
+          },
+          {
+            "name": "hibana",
+            "picks": 9299,
+            "pickRate": 2.64,
+            "winRate": 41.7,
+            "kd": 0.89
+          },
+          {
+            "name": "thatcher",
+            "picks": 9010,
+            "pickRate": 2.56,
+            "winRate": 45.5,
+            "kd": 0.95
+          },
+          {
+            "name": "twitch",
+            "picks": 8780,
+            "pickRate": 2.49,
+            "winRate": 43.9,
+            "kd": 1.0
+          },
+          {
+            "name": "buck",
+            "picks": 8765,
+            "pickRate": 2.49,
+            "winRate": 43.3,
+            "kd": 0.86
+          },
+          {
+            "name": "solid-snake",
+            "picks": 7852,
+            "pickRate": 2.23,
+            "winRate": 42.9,
+            "kd": 0.82
+          },
+          {
+            "name": "grim",
+            "picks": 6662,
+            "pickRate": 1.89,
+            "winRate": 42.1,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 5759,
+            "pickRate": 1.64,
+            "winRate": 43.3,
+            "kd": 0.88
+          },
+          {
+            "name": "capitao",
+            "picks": 5258,
+            "pickRate": 1.49,
+            "winRate": 43.6,
+            "kd": 0.84
+          },
+          {
+            "name": "ace",
+            "picks": 5212,
+            "pickRate": 1.48,
+            "winRate": 44.2,
+            "kd": 0.96
+          },
+          {
+            "name": "maverick",
+            "picks": 5019,
+            "pickRate": 1.42,
+            "winRate": 43.0,
+            "kd": 0.84
+          },
+          {
+            "name": "striker",
+            "picks": 4883,
+            "pickRate": 1.39,
+            "winRate": 42.6,
+            "kd": 0.97
+          },
+          {
+            "name": "fuze",
+            "picks": 4603,
+            "pickRate": 1.31,
+            "winRate": 41.2,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 12864,
+            "pickRate": 3.65,
+            "winRate": 54.4,
+            "kd": 0.88
+          },
+          {
+            "name": "mute",
+            "picks": 11904,
+            "pickRate": 3.38,
+            "winRate": 54.4,
+            "kd": 0.88
+          },
+          {
+            "name": "aruni",
+            "picks": 11825,
+            "pickRate": 3.36,
+            "winRate": 57.1,
+            "kd": 1.19
+          },
+          {
+            "name": "azami",
+            "picks": 11346,
+            "pickRate": 3.22,
+            "winRate": 55.2,
+            "kd": 1.01
+          },
+          {
+            "name": "thorn",
+            "picks": 10771,
+            "pickRate": 3.06,
+            "winRate": 58.4,
+            "kd": 1.1
+          },
+          {
+            "name": "kaid",
+            "picks": 10402,
+            "pickRate": 2.95,
+            "winRate": 56.0,
+            "kd": 0.91
+          },
+          {
+            "name": "castle",
+            "picks": 9360,
+            "pickRate": 2.66,
+            "winRate": 54.2,
+            "kd": 0.84
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7973,
+            "pickRate": 2.26,
+            "winRate": 57.2,
+            "kd": 1.1
+          },
+          {
+            "name": "tubarao",
+            "picks": 7793,
+            "pickRate": 2.21,
+            "winRate": 55.0,
+            "kd": 1.07
+          },
+          {
+            "name": "lesion",
+            "picks": 6504,
+            "pickRate": 1.85,
+            "winRate": 56.2,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 6377,
+            "pickRate": 1.81,
+            "winRate": 56.5,
+            "kd": 1.08
+          },
+          {
+            "name": "smoke",
+            "picks": 5010,
+            "pickRate": 1.42,
+            "winRate": 55.2,
+            "kd": 0.86
+          },
+          {
+            "name": "melusi",
+            "picks": 4991,
+            "pickRate": 1.42,
+            "winRate": 57.4,
+            "kd": 0.98
+          },
+          {
+            "name": "jager",
+            "picks": 4621,
+            "pickRate": 1.31,
+            "winRate": 54.7,
+            "kd": 0.91
+          },
+          {
+            "name": "warden",
+            "picks": 4354,
+            "pickRate": 1.24,
+            "winRate": 54.8,
+            "kd": 1.03
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 348111,
+        "atkWinRate": 45.3,
+        "defWinRate": 54.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 12354,
+            "pickRate": 3.55,
+            "winRate": 44.6,
+            "kd": 1.01
+          },
+          {
+            "name": "thermite",
+            "picks": 12342,
+            "pickRate": 3.55,
+            "winRate": 46.9,
+            "kd": 0.8
+          },
+          {
+            "name": "twitch",
+            "picks": 9249,
+            "pickRate": 2.66,
+            "winRate": 46.0,
+            "kd": 1.04
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 9214,
+            "pickRate": 2.65,
+            "winRate": 45.6,
+            "kd": 0.86
+          },
+          {
+            "name": "hibana",
+            "picks": 8811,
+            "pickRate": 2.53,
+            "winRate": 46.0,
+            "kd": 0.93
+          },
+          {
+            "name": "solid-snake",
+            "picks": 8728,
+            "pickRate": 2.51,
+            "winRate": 44.1,
+            "kd": 0.86
+          },
+          {
+            "name": "thatcher",
+            "picks": 7410,
+            "pickRate": 2.13,
+            "winRate": 46.9,
+            "kd": 0.94
+          },
+          {
+            "name": "nomad",
+            "picks": 7280,
+            "pickRate": 2.09,
+            "winRate": 45.3,
+            "kd": 0.93
+          },
+          {
+            "name": "buck",
+            "picks": 7235,
+            "pickRate": 2.08,
+            "winRate": 43.8,
+            "kd": 0.86
+          },
+          {
+            "name": "grim",
+            "picks": 6466,
+            "pickRate": 1.86,
+            "winRate": 44.7,
+            "kd": 0.85
+          },
+          {
+            "name": "brava",
+            "picks": 5540,
+            "pickRate": 1.59,
+            "winRate": 44.3,
+            "kd": 0.98
+          },
+          {
+            "name": "lion",
+            "picks": 5482,
+            "pickRate": 1.57,
+            "winRate": 44.8,
+            "kd": 0.89
+          },
+          {
+            "name": "fuze",
+            "picks": 4241,
+            "pickRate": 1.22,
+            "winRate": 45.5,
+            "kd": 0.92
+          },
+          {
+            "name": "ram",
+            "picks": 4153,
+            "pickRate": 1.19,
+            "winRate": 47.0,
+            "kd": 0.9
+          },
+          {
+            "name": "striker",
+            "picks": 4135,
+            "pickRate": 1.19,
+            "winRate": 44.8,
+            "kd": 1.04
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 12431,
+            "pickRate": 3.57,
+            "winRate": 52.4,
+            "kd": 0.86
+          },
+          {
+            "name": "aruni",
+            "picks": 12397,
+            "pickRate": 3.56,
+            "winRate": 55.1,
+            "kd": 1.15
+          },
+          {
+            "name": "mute",
+            "picks": 11955,
+            "pickRate": 3.43,
+            "winRate": 53.4,
+            "kd": 0.89
+          },
+          {
+            "name": "azami",
+            "picks": 11467,
+            "pickRate": 3.29,
+            "winRate": 53.6,
+            "kd": 0.95
+          },
+          {
+            "name": "thorn",
+            "picks": 11038,
+            "pickRate": 3.17,
+            "winRate": 56.9,
+            "kd": 1.07
+          },
+          {
+            "name": "kaid",
+            "picks": 9047,
+            "pickRate": 2.6,
+            "winRate": 52.9,
+            "kd": 0.86
+          },
+          {
+            "name": "tubarao",
+            "picks": 8714,
+            "pickRate": 2.5,
+            "winRate": 52.6,
+            "kd": 1.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7461,
+            "pickRate": 2.14,
+            "winRate": 55.0,
+            "kd": 1.02
+          },
+          {
+            "name": "lesion",
+            "picks": 6739,
+            "pickRate": 1.94,
+            "winRate": 56.3,
+            "kd": 0.95
+          },
+          {
+            "name": "vigil",
+            "picks": 6437,
+            "pickRate": 1.85,
+            "winRate": 53.9,
+            "kd": 1.04
+          },
+          {
+            "name": "warden",
+            "picks": 5411,
+            "pickRate": 1.55,
+            "winRate": 54.6,
+            "kd": 1.02
+          },
+          {
+            "name": "melusi",
+            "picks": 5227,
+            "pickRate": 1.5,
+            "winRate": 55.0,
+            "kd": 0.96
+          },
+          {
+            "name": "fenrir",
+            "picks": 4888,
+            "pickRate": 1.4,
+            "winRate": 54.5,
+            "kd": 0.97
+          },
+          {
+            "name": "smoke",
+            "picks": 4699,
+            "pickRate": 1.35,
+            "winRate": 53.3,
+            "kd": 0.84
+          },
+          {
+            "name": "jager",
+            "picks": 4698,
+            "pickRate": 1.35,
+            "winRate": 52.4,
+            "kd": 0.86
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 206286,
+        "atkWinRate": 43.8,
+        "defWinRate": 55.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7480,
+            "pickRate": 3.63,
+            "winRate": 43.9,
+            "kd": 0.98
+          },
+          {
+            "name": "twitch",
+            "picks": 5598,
+            "pickRate": 2.71,
+            "winRate": 43.6,
+            "kd": 1.01
+          },
+          {
+            "name": "hibana",
+            "picks": 5519,
+            "pickRate": 2.68,
+            "winRate": 43.9,
+            "kd": 0.98
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5421,
+            "pickRate": 2.63,
+            "winRate": 44.2,
+            "kd": 0.87
+          },
+          {
+            "name": "solid-snake",
+            "picks": 5325,
+            "pickRate": 2.58,
+            "winRate": 43.6,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 4566,
+            "pickRate": 2.21,
+            "winRate": 44.0,
+            "kd": 0.9
+          },
+          {
+            "name": "grim",
+            "picks": 4348,
+            "pickRate": 2.11,
+            "winRate": 44.8,
+            "kd": 0.86
+          },
+          {
+            "name": "thermite",
+            "picks": 4299,
+            "pickRate": 2.08,
+            "winRate": 43.7,
+            "kd": 0.77
+          },
+          {
+            "name": "lion",
+            "picks": 4065,
+            "pickRate": 1.97,
+            "winRate": 43.8,
+            "kd": 0.87
+          },
+          {
+            "name": "brava",
+            "picks": 4005,
+            "pickRate": 1.94,
+            "winRate": 44.5,
+            "kd": 0.98
+          },
+          {
+            "name": "buck",
+            "picks": 3577,
+            "pickRate": 1.73,
+            "winRate": 43.2,
+            "kd": 0.89
+          },
+          {
+            "name": "striker",
+            "picks": 2840,
+            "pickRate": 1.38,
+            "winRate": 45.6,
+            "kd": 0.95
+          },
+          {
+            "name": "zero",
+            "picks": 2689,
+            "pickRate": 1.3,
+            "winRate": 43.2,
+            "kd": 0.85
+          },
+          {
+            "name": "finka",
+            "picks": 2548,
+            "pickRate": 1.24,
+            "winRate": 43.9,
+            "kd": 0.89
+          },
+          {
+            "name": "osa",
+            "picks": 2422,
+            "pickRate": 1.17,
+            "winRate": 43.8,
+            "kd": 0.83
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 8694,
+            "pickRate": 4.21,
+            "winRate": 57.5,
+            "kd": 1.28
+          },
+          {
+            "name": "thorn",
+            "picks": 6920,
+            "pickRate": 3.35,
+            "winRate": 57.2,
+            "kd": 1.01
+          },
+          {
+            "name": "valkyrie",
+            "picks": 5613,
+            "pickRate": 2.72,
+            "winRate": 56.3,
+            "kd": 1.06
+          },
+          {
+            "name": "azami",
+            "picks": 5532,
+            "pickRate": 2.68,
+            "winRate": 55.9,
+            "kd": 0.97
+          },
+          {
+            "name": "kaid",
+            "picks": 5475,
+            "pickRate": 2.65,
+            "winRate": 54.6,
+            "kd": 0.91
+          },
+          {
+            "name": "mute",
+            "picks": 4746,
+            "pickRate": 2.3,
+            "winRate": 54.4,
+            "kd": 0.88
+          },
+          {
+            "name": "vigil",
+            "picks": 4364,
+            "pickRate": 2.12,
+            "winRate": 53.6,
+            "kd": 1.06
+          },
+          {
+            "name": "lesion",
+            "picks": 4358,
+            "pickRate": 2.11,
+            "winRate": 56.5,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 4268,
+            "pickRate": 2.07,
+            "winRate": 53.3,
+            "kd": 0.85
+          },
+          {
+            "name": "goyo",
+            "picks": 4030,
+            "pickRate": 1.95,
+            "winRate": 54.7,
+            "kd": 0.92
+          },
+          {
+            "name": "castle",
+            "picks": 3651,
+            "pickRate": 1.77,
+            "winRate": 55.5,
+            "kd": 0.88
+          },
+          {
+            "name": "tubarao",
+            "picks": 3326,
+            "pickRate": 1.61,
+            "winRate": 55.5,
+            "kd": 1.21
+          },
+          {
+            "name": "warden",
+            "picks": 3061,
+            "pickRate": 1.48,
+            "winRate": 56.2,
+            "kd": 1.08
+          },
+          {
+            "name": "bandit",
+            "picks": 2851,
+            "pickRate": 1.38,
+            "winRate": 55.4,
+            "kd": 0.95
+          },
+          {
+            "name": "melusi",
+            "picks": 2723,
+            "pickRate": 1.32,
+            "winRate": 56.0,
+            "kd": 0.92
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 328005,
+        "atkWinRate": 46.2,
+        "defWinRate": 53.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 12382,
+            "pickRate": 3.77,
+            "winRate": 46.4,
+            "kd": 1.02
+          },
+          {
+            "name": "thermite",
+            "picks": 9129,
+            "pickRate": 2.78,
+            "winRate": 46.2,
+            "kd": 0.79
+          },
+          {
+            "name": "buck",
+            "picks": 8566,
+            "pickRate": 2.61,
+            "winRate": 44.8,
+            "kd": 0.9
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 8489,
+            "pickRate": 2.59,
+            "winRate": 46.4,
+            "kd": 0.89
+          },
+          {
+            "name": "twitch",
+            "picks": 8389,
+            "pickRate": 2.56,
+            "winRate": 46.5,
+            "kd": 1.0
+          },
+          {
+            "name": "solid-snake",
+            "picks": 8207,
+            "pickRate": 2.5,
+            "winRate": 44.4,
+            "kd": 0.84
+          },
+          {
+            "name": "nomad",
+            "picks": 7665,
+            "pickRate": 2.34,
+            "winRate": 47.0,
+            "kd": 0.96
+          },
+          {
+            "name": "grim",
+            "picks": 5823,
+            "pickRate": 1.78,
+            "winRate": 45.2,
+            "kd": 0.85
+          },
+          {
+            "name": "brava",
+            "picks": 5432,
+            "pickRate": 1.66,
+            "winRate": 46.0,
+            "kd": 0.96
+          },
+          {
+            "name": "fuze",
+            "picks": 5389,
+            "pickRate": 1.64,
+            "winRate": 47.3,
+            "kd": 0.97
+          },
+          {
+            "name": "lion",
+            "picks": 5260,
+            "pickRate": 1.6,
+            "winRate": 44.8,
+            "kd": 0.82
+          },
+          {
+            "name": "thatcher",
+            "picks": 5176,
+            "pickRate": 1.58,
+            "winRate": 46.3,
+            "kd": 0.89
+          },
+          {
+            "name": "hibana",
+            "picks": 4800,
+            "pickRate": 1.46,
+            "winRate": 45.8,
+            "kd": 0.93
+          },
+          {
+            "name": "sledge",
+            "picks": 3937,
+            "pickRate": 1.2,
+            "winRate": 46.8,
+            "kd": 0.94
+          },
+          {
+            "name": "capitao",
+            "picks": 3649,
+            "pickRate": 1.11,
+            "winRate": 46.3,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 11000,
+            "pickRate": 3.35,
+            "winRate": 53.8,
+            "kd": 1.13
+          },
+          {
+            "name": "thorn",
+            "picks": 10318,
+            "pickRate": 3.15,
+            "winRate": 54.2,
+            "kd": 0.99
+          },
+          {
+            "name": "mute",
+            "picks": 10084,
+            "pickRate": 3.07,
+            "winRate": 52.6,
+            "kd": 0.91
+          },
+          {
+            "name": "valkyrie",
+            "picks": 8423,
+            "pickRate": 2.57,
+            "winRate": 54.5,
+            "kd": 1.01
+          },
+          {
+            "name": "kaid",
+            "picks": 8408,
+            "pickRate": 2.56,
+            "winRate": 51.4,
+            "kd": 0.84
+          },
+          {
+            "name": "lesion",
+            "picks": 7872,
+            "pickRate": 2.4,
+            "winRate": 54.9,
+            "kd": 0.98
+          },
+          {
+            "name": "bandit",
+            "picks": 7778,
+            "pickRate": 2.37,
+            "winRate": 52.5,
+            "kd": 0.96
+          },
+          {
+            "name": "azami",
+            "picks": 7521,
+            "pickRate": 2.29,
+            "winRate": 52.5,
+            "kd": 0.94
+          },
+          {
+            "name": "vigil",
+            "picks": 6964,
+            "pickRate": 2.12,
+            "winRate": 54.0,
+            "kd": 1.06
+          },
+          {
+            "name": "castle",
+            "picks": 6399,
+            "pickRate": 1.95,
+            "winRate": 51.9,
+            "kd": 0.79
+          },
+          {
+            "name": "kapkan",
+            "picks": 6284,
+            "pickRate": 1.92,
+            "winRate": 55.4,
+            "kd": 1.19
+          },
+          {
+            "name": "smoke",
+            "picks": 5959,
+            "pickRate": 1.82,
+            "winRate": 51.1,
+            "kd": 0.81
+          },
+          {
+            "name": "warden",
+            "picks": 5826,
+            "pickRate": 1.78,
+            "winRate": 53.1,
+            "kd": 1.02
+          },
+          {
+            "name": "tubarao",
+            "picks": 4758,
+            "pickRate": 1.45,
+            "winRate": 53.7,
+            "kd": 1.07
+          },
+          {
+            "name": "melusi",
+            "picks": 4458,
+            "pickRate": 1.36,
+            "winRate": 54.9,
+            "kd": 0.91
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 256082,
+        "atkWinRate": 42.4,
+        "defWinRate": 57.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 9437,
+            "pickRate": 3.69,
+            "winRate": 42.3,
+            "kd": 0.97
+          },
+          {
+            "name": "twitch",
+            "picks": 7157,
+            "pickRate": 2.79,
+            "winRate": 41.9,
+            "kd": 0.91
+          },
+          {
+            "name": "buck",
+            "picks": 6823,
+            "pickRate": 2.66,
+            "winRate": 41.7,
+            "kd": 0.84
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6344,
+            "pickRate": 2.48,
+            "winRate": 41.6,
+            "kd": 0.87
+          },
+          {
+            "name": "nomad",
+            "picks": 6209,
+            "pickRate": 2.42,
+            "winRate": 43.9,
+            "kd": 0.92
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6038,
+            "pickRate": 2.36,
+            "winRate": 41.1,
+            "kd": 0.82
+          },
+          {
+            "name": "brava",
+            "picks": 5479,
+            "pickRate": 2.14,
+            "winRate": 43.4,
+            "kd": 0.96
+          },
+          {
+            "name": "grim",
+            "picks": 4977,
+            "pickRate": 1.94,
+            "winRate": 40.8,
+            "kd": 0.76
+          },
+          {
+            "name": "thermite",
+            "picks": 4936,
+            "pickRate": 1.93,
+            "winRate": 43.8,
+            "kd": 0.78
+          },
+          {
+            "name": "lion",
+            "picks": 4820,
+            "pickRate": 1.88,
+            "winRate": 42.8,
+            "kd": 0.79
+          },
+          {
+            "name": "hibana",
+            "picks": 4752,
+            "pickRate": 1.86,
+            "winRate": 42.8,
+            "kd": 0.89
+          },
+          {
+            "name": "fuze",
+            "picks": 3620,
+            "pickRate": 1.41,
+            "winRate": 41.4,
+            "kd": 0.88
+          },
+          {
+            "name": "sledge",
+            "picks": 3515,
+            "pickRate": 1.37,
+            "winRate": 42.1,
+            "kd": 0.89
+          },
+          {
+            "name": "ace",
+            "picks": 3322,
+            "pickRate": 1.3,
+            "winRate": 43.8,
+            "kd": 0.96
+          },
+          {
+            "name": "gridlock",
+            "picks": 3101,
+            "pickRate": 1.21,
+            "winRate": 41.2,
+            "kd": 0.81
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 10431,
+            "pickRate": 4.07,
+            "winRate": 58.6,
+            "kd": 1.18
+          },
+          {
+            "name": "mute",
+            "picks": 8821,
+            "pickRate": 3.44,
+            "winRate": 56.3,
+            "kd": 0.93
+          },
+          {
+            "name": "thorn",
+            "picks": 8160,
+            "pickRate": 3.19,
+            "winRate": 59.2,
+            "kd": 1.06
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7966,
+            "pickRate": 3.11,
+            "winRate": 57.6,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 7381,
+            "pickRate": 2.88,
+            "winRate": 57.2,
+            "kd": 1.03
+          },
+          {
+            "name": "castle",
+            "picks": 6536,
+            "pickRate": 2.55,
+            "winRate": 56.7,
+            "kd": 0.88
+          },
+          {
+            "name": "lesion",
+            "picks": 5509,
+            "pickRate": 2.15,
+            "winRate": 57.2,
+            "kd": 1.0
+          },
+          {
+            "name": "vigil",
+            "picks": 5085,
+            "pickRate": 1.99,
+            "winRate": 57.0,
+            "kd": 1.1
+          },
+          {
+            "name": "kaid",
+            "picks": 4912,
+            "pickRate": 1.92,
+            "winRate": 56.3,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 4112,
+            "pickRate": 1.61,
+            "winRate": 57.5,
+            "kd": 1.06
+          },
+          {
+            "name": "tubarao",
+            "picks": 4078,
+            "pickRate": 1.59,
+            "winRate": 58.5,
+            "kd": 1.22
+          },
+          {
+            "name": "melusi",
+            "picks": 3968,
+            "pickRate": 1.55,
+            "winRate": 57.7,
+            "kd": 0.98
+          },
+          {
+            "name": "doc",
+            "picks": 3556,
+            "pickRate": 1.39,
+            "winRate": 55.5,
+            "kd": 0.91
+          },
+          {
+            "name": "jager",
+            "picks": 3510,
+            "pickRate": 1.37,
+            "winRate": 56.2,
+            "kd": 0.9
+          },
+          {
+            "name": "warden",
+            "picks": 3412,
+            "pickRate": 1.33,
+            "winRate": 56.5,
+            "kd": 1.04
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 303026,
+        "atkWinRate": 48.3,
+        "defWinRate": 51.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 11509,
+            "pickRate": 3.8,
+            "winRate": 48.2,
+            "kd": 1.04
+          },
+          {
+            "name": "twitch",
+            "picks": 8129,
+            "pickRate": 2.68,
+            "winRate": 48.5,
+            "kd": 1.03
+          },
+          {
+            "name": "buck",
+            "picks": 8118,
+            "pickRate": 2.68,
+            "winRate": 47.8,
+            "kd": 0.92
+          },
+          {
+            "name": "solid-snake",
+            "picks": 7987,
+            "pickRate": 2.64,
+            "winRate": 45.6,
+            "kd": 0.85
+          },
+          {
+            "name": "nomad",
+            "picks": 7950,
+            "pickRate": 2.62,
+            "winRate": 47.8,
+            "kd": 0.97
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 7329,
+            "pickRate": 2.42,
+            "winRate": 48.3,
+            "kd": 0.95
+          },
+          {
+            "name": "brava",
+            "picks": 6005,
+            "pickRate": 1.98,
+            "winRate": 49.0,
+            "kd": 1.02
+          },
+          {
+            "name": "lion",
+            "picks": 5872,
+            "pickRate": 1.94,
+            "winRate": 49.8,
+            "kd": 0.95
+          },
+          {
+            "name": "grim",
+            "picks": 5187,
+            "pickRate": 1.71,
+            "winRate": 48.3,
+            "kd": 0.85
+          },
+          {
+            "name": "fuze",
+            "picks": 4776,
+            "pickRate": 1.58,
+            "winRate": 48.8,
+            "kd": 0.98
+          },
+          {
+            "name": "osa",
+            "picks": 4607,
+            "pickRate": 1.52,
+            "winRate": 49.3,
+            "kd": 0.97
+          },
+          {
+            "name": "glaz",
+            "picks": 4275,
+            "pickRate": 1.41,
+            "winRate": 48.8,
+            "kd": 1.13
+          },
+          {
+            "name": "kali",
+            "picks": 4022,
+            "pickRate": 1.33,
+            "winRate": 48.2,
+            "kd": 1.07
+          },
+          {
+            "name": "sledge",
+            "picks": 3979,
+            "pickRate": 1.31,
+            "winRate": 48.3,
+            "kd": 0.97
+          },
+          {
+            "name": "thermite",
+            "picks": 3808,
+            "pickRate": 1.26,
+            "winRate": 46.5,
+            "kd": 0.84
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 11695,
+            "pickRate": 3.86,
+            "winRate": 52.4,
+            "kd": 1.13
+          },
+          {
+            "name": "thorn",
+            "picks": 10412,
+            "pickRate": 3.44,
+            "winRate": 51.7,
+            "kd": 0.93
+          },
+          {
+            "name": "mute",
+            "picks": 8373,
+            "pickRate": 2.76,
+            "winRate": 50.2,
+            "kd": 0.8
+          },
+          {
+            "name": "azami",
+            "picks": 8101,
+            "pickRate": 2.67,
+            "winRate": 51.6,
+            "kd": 0.92
+          },
+          {
+            "name": "lesion",
+            "picks": 7558,
+            "pickRate": 2.49,
+            "winRate": 51.1,
+            "kd": 0.93
+          },
+          {
+            "name": "castle",
+            "picks": 7505,
+            "pickRate": 2.48,
+            "winRate": 50.4,
+            "kd": 0.78
+          },
+          {
+            "name": "valkyrie",
+            "picks": 7004,
+            "pickRate": 2.31,
+            "winRate": 52.3,
+            "kd": 1.03
+          },
+          {
+            "name": "vigil",
+            "picks": 6651,
+            "pickRate": 2.19,
+            "winRate": 50.5,
+            "kd": 0.99
+          },
+          {
+            "name": "melusi",
+            "picks": 6395,
+            "pickRate": 2.11,
+            "winRate": 51.8,
+            "kd": 0.84
+          },
+          {
+            "name": "smoke",
+            "picks": 4953,
+            "pickRate": 1.63,
+            "winRate": 50.0,
+            "kd": 0.77
+          },
+          {
+            "name": "tubarao",
+            "picks": 4876,
+            "pickRate": 1.61,
+            "winRate": 51.5,
+            "kd": 1.08
+          },
+          {
+            "name": "warden",
+            "picks": 4871,
+            "pickRate": 1.61,
+            "winRate": 51.2,
+            "kd": 0.94
+          },
+          {
+            "name": "fenrir",
+            "picks": 4414,
+            "pickRate": 1.46,
+            "winRate": 50.2,
+            "kd": 0.82
+          },
+          {
+            "name": "doc",
+            "picks": 4384,
+            "pickRate": 1.45,
+            "winRate": 52.0,
+            "kd": 0.83
+          },
+          {
+            "name": "goyo",
+            "picks": 4276,
+            "pickRate": 1.41,
+            "winRate": 50.3,
+            "kd": 0.84
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 246684,
+        "atkWinRate": 43.3,
+        "defWinRate": 56.1,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 11342,
+            "pickRate": 4.6,
+            "winRate": 43.8,
+            "kd": 0.85
+          },
+          {
+            "name": "ash",
+            "picks": 9425,
+            "pickRate": 3.82,
+            "winRate": 43.5,
+            "kd": 0.98
+          },
+          {
+            "name": "thatcher",
+            "picks": 8287,
+            "pickRate": 3.36,
+            "winRate": 44.1,
+            "kd": 0.87
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6975,
+            "pickRate": 2.83,
+            "winRate": 43.3,
+            "kd": 0.85
+          },
+          {
+            "name": "twitch",
+            "picks": 6188,
+            "pickRate": 2.51,
+            "winRate": 43.8,
+            "kd": 1.02
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6004,
+            "pickRate": 2.43,
+            "winRate": 42.5,
+            "kd": 0.82
+          },
+          {
+            "name": "buck",
+            "picks": 5939,
+            "pickRate": 2.41,
+            "winRate": 43.3,
+            "kd": 0.84
+          },
+          {
+            "name": "hibana",
+            "picks": 4480,
+            "pickRate": 1.82,
+            "winRate": 42.6,
+            "kd": 0.88
+          },
+          {
+            "name": "nomad",
+            "picks": 4244,
+            "pickRate": 1.72,
+            "winRate": 42.3,
+            "kd": 0.89
+          },
+          {
+            "name": "ace",
+            "picks": 4198,
+            "pickRate": 1.7,
+            "winRate": 42.9,
+            "kd": 0.97
+          },
+          {
+            "name": "grim",
+            "picks": 4182,
+            "pickRate": 1.7,
+            "winRate": 42.4,
+            "kd": 0.79
+          },
+          {
+            "name": "maverick",
+            "picks": 3746,
+            "pickRate": 1.52,
+            "winRate": 41.9,
+            "kd": 0.81
+          },
+          {
+            "name": "fuze",
+            "picks": 3402,
+            "pickRate": 1.38,
+            "winRate": 43.9,
+            "kd": 0.91
+          },
+          {
+            "name": "striker",
+            "picks": 3233,
+            "pickRate": 1.31,
+            "winRate": 43.6,
+            "kd": 0.94
+          },
+          {
+            "name": "brava",
+            "picks": 3194,
+            "pickRate": 1.29,
+            "winRate": 41.0,
+            "kd": 0.92
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 10721,
+            "pickRate": 4.35,
+            "winRate": 56.8,
+            "kd": 0.92
+          },
+          {
+            "name": "mute",
+            "picks": 8905,
+            "pickRate": 3.61,
+            "winRate": 55.0,
+            "kd": 0.91
+          },
+          {
+            "name": "aruni",
+            "picks": 8232,
+            "pickRate": 3.34,
+            "winRate": 56.8,
+            "kd": 1.15
+          },
+          {
+            "name": "kaid",
+            "picks": 7290,
+            "pickRate": 2.96,
+            "winRate": 55.9,
+            "kd": 0.91
+          },
+          {
+            "name": "azami",
+            "picks": 6936,
+            "pickRate": 2.81,
+            "winRate": 55.5,
+            "kd": 0.94
+          },
+          {
+            "name": "thorn",
+            "picks": 6862,
+            "pickRate": 2.78,
+            "winRate": 58.3,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 6712,
+            "pickRate": 2.72,
+            "winRate": 55.7,
+            "kd": 1.09
+          },
+          {
+            "name": "valkyrie",
+            "picks": 5221,
+            "pickRate": 2.12,
+            "winRate": 57.1,
+            "kd": 1.1
+          },
+          {
+            "name": "vigil",
+            "picks": 5020,
+            "pickRate": 2.03,
+            "winRate": 55.0,
+            "kd": 1.12
+          },
+          {
+            "name": "lesion",
+            "picks": 5008,
+            "pickRate": 2.03,
+            "winRate": 56.1,
+            "kd": 0.96
+          },
+          {
+            "name": "warden",
+            "picks": 4009,
+            "pickRate": 1.63,
+            "winRate": 54.9,
+            "kd": 1.02
+          },
+          {
+            "name": "smoke",
+            "picks": 3611,
+            "pickRate": 1.46,
+            "winRate": 54.1,
+            "kd": 0.83
+          },
+          {
+            "name": "melusi",
+            "picks": 3461,
+            "pickRate": 1.4,
+            "winRate": 55.3,
+            "kd": 0.95
+          },
+          {
+            "name": "fenrir",
+            "picks": 3210,
+            "pickRate": 1.3,
+            "winRate": 56.9,
+            "kd": 0.98
+          },
+          {
+            "name": "doc",
+            "picks": 3177,
+            "pickRate": 1.29,
+            "winRate": 54.5,
+            "kd": 0.87
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 202061,
+        "atkWinRate": 42.0,
+        "defWinRate": 58.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7830,
+            "pickRate": 3.88,
+            "winRate": 41.5,
+            "kd": 0.96
+          },
+          {
+            "name": "thermite",
+            "picks": 6127,
+            "pickRate": 3.03,
+            "winRate": 42.1,
+            "kd": 0.76
+          },
+          {
+            "name": "solid-snake",
+            "picks": 5451,
+            "pickRate": 2.7,
+            "winRate": 40.9,
+            "kd": 0.79
+          },
+          {
+            "name": "buck",
+            "picks": 5350,
+            "pickRate": 2.65,
+            "winRate": 40.5,
+            "kd": 0.84
+          },
+          {
+            "name": "twitch",
+            "picks": 5279,
+            "pickRate": 2.61,
+            "winRate": 42.5,
+            "kd": 0.92
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5230,
+            "pickRate": 2.59,
+            "winRate": 42.0,
+            "kd": 0.86
+          },
+          {
+            "name": "nomad",
+            "picks": 4285,
+            "pickRate": 2.12,
+            "winRate": 43.5,
+            "kd": 0.91
+          },
+          {
+            "name": "grim",
+            "picks": 4082,
+            "pickRate": 2.02,
+            "winRate": 41.6,
+            "kd": 0.79
+          },
+          {
+            "name": "lion",
+            "picks": 3686,
+            "pickRate": 1.82,
+            "winRate": 43.0,
+            "kd": 0.77
+          },
+          {
+            "name": "thatcher",
+            "picks": 3461,
+            "pickRate": 1.71,
+            "winRate": 40.8,
+            "kd": 0.75
+          },
+          {
+            "name": "fuze",
+            "picks": 3013,
+            "pickRate": 1.49,
+            "winRate": 44.0,
+            "kd": 0.98
+          },
+          {
+            "name": "sledge",
+            "picks": 2957,
+            "pickRate": 1.46,
+            "winRate": 42.2,
+            "kd": 0.89
+          },
+          {
+            "name": "brava",
+            "picks": 2882,
+            "pickRate": 1.43,
+            "winRate": 42.1,
+            "kd": 0.88
+          },
+          {
+            "name": "striker",
+            "picks": 2822,
+            "pickRate": 1.4,
+            "winRate": 40.1,
+            "kd": 0.92
+          },
+          {
+            "name": "hibana",
+            "picks": 2602,
+            "pickRate": 1.29,
+            "winRate": 42.8,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 6999,
+            "pickRate": 3.46,
+            "winRate": 59.6,
+            "kd": 1.09
+          },
+          {
+            "name": "mute",
+            "picks": 6971,
+            "pickRate": 3.45,
+            "winRate": 57.2,
+            "kd": 0.94
+          },
+          {
+            "name": "aruni",
+            "picks": 6793,
+            "pickRate": 3.36,
+            "winRate": 58.5,
+            "kd": 1.2
+          },
+          {
+            "name": "bandit",
+            "picks": 6586,
+            "pickRate": 3.26,
+            "winRate": 58.2,
+            "kd": 0.94
+          },
+          {
+            "name": "lesion",
+            "picks": 5030,
+            "pickRate": 2.49,
+            "winRate": 59.0,
+            "kd": 1.06
+          },
+          {
+            "name": "tubarao",
+            "picks": 4628,
+            "pickRate": 2.29,
+            "winRate": 59.0,
+            "kd": 1.12
+          },
+          {
+            "name": "azami",
+            "picks": 4579,
+            "pickRate": 2.27,
+            "winRate": 56.5,
+            "kd": 0.99
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4159,
+            "pickRate": 2.06,
+            "winRate": 57.5,
+            "kd": 1.1
+          },
+          {
+            "name": "vigil",
+            "picks": 3973,
+            "pickRate": 1.97,
+            "winRate": 57.8,
+            "kd": 1.12
+          },
+          {
+            "name": "kaid",
+            "picks": 3641,
+            "pickRate": 1.8,
+            "winRate": 58.9,
+            "kd": 1.01
+          },
+          {
+            "name": "warden",
+            "picks": 3410,
+            "pickRate": 1.69,
+            "winRate": 58.3,
+            "kd": 1.04
+          },
+          {
+            "name": "melusi",
+            "picks": 3344,
+            "pickRate": 1.65,
+            "winRate": 58.5,
+            "kd": 1.01
+          },
+          {
+            "name": "smoke",
+            "picks": 3252,
+            "pickRate": 1.61,
+            "winRate": 58.1,
+            "kd": 0.9
+          },
+          {
+            "name": "kapkan",
+            "picks": 3038,
+            "pickRate": 1.5,
+            "winRate": 60.0,
+            "kd": 1.25
+          },
+          {
+            "name": "doc",
+            "picks": 2618,
+            "pickRate": 1.3,
+            "winRate": 58.8,
+            "kd": 0.96
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 93510,
+        "atkWinRate": 47.5,
+        "defWinRate": 52.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 3924,
+            "pickRate": 4.2,
+            "winRate": 48.9,
+            "kd": 1.03
+          },
+          {
+            "name": "twitch",
+            "picks": 2914,
+            "pickRate": 3.12,
+            "winRate": 48.8,
+            "kd": 1.07
+          },
+          {
+            "name": "thermite",
+            "picks": 2769,
+            "pickRate": 2.96,
+            "winRate": 47.9,
+            "kd": 0.96
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2706,
+            "pickRate": 2.89,
+            "winRate": 45.5,
+            "kd": 0.85
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2483,
+            "pickRate": 2.66,
+            "winRate": 46.6,
+            "kd": 0.92
+          },
+          {
+            "name": "buck",
+            "picks": 2299,
+            "pickRate": 2.46,
+            "winRate": 49.7,
+            "kd": 0.9
+          },
+          {
+            "name": "lion",
+            "picks": 2023,
+            "pickRate": 2.16,
+            "winRate": 47.5,
+            "kd": 0.93
+          },
+          {
+            "name": "nomad",
+            "picks": 1914,
+            "pickRate": 2.05,
+            "winRate": 49.0,
+            "kd": 0.95
+          },
+          {
+            "name": "grim",
+            "picks": 1617,
+            "pickRate": 1.73,
+            "winRate": 47.4,
+            "kd": 0.83
+          },
+          {
+            "name": "brava",
+            "picks": 1617,
+            "pickRate": 1.73,
+            "winRate": 49.4,
+            "kd": 1.04
+          },
+          {
+            "name": "thatcher",
+            "picks": 1493,
+            "pickRate": 1.6,
+            "winRate": 44.7,
+            "kd": 0.9
+          },
+          {
+            "name": "striker",
+            "picks": 1279,
+            "pickRate": 1.37,
+            "winRate": 46.2,
+            "kd": 0.98
+          },
+          {
+            "name": "finka",
+            "picks": 1267,
+            "pickRate": 1.35,
+            "winRate": 47.0,
+            "kd": 0.97
+          },
+          {
+            "name": "hibana",
+            "picks": 1222,
+            "pickRate": 1.31,
+            "winRate": 45.3,
+            "kd": 0.94
+          },
+          {
+            "name": "ace",
+            "picks": 1106,
+            "pickRate": 1.18,
+            "winRate": 48.0,
+            "kd": 1.04
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 3183,
+            "pickRate": 3.4,
+            "winRate": 49.9,
+            "kd": 0.83
+          },
+          {
+            "name": "thorn",
+            "picks": 3118,
+            "pickRate": 3.33,
+            "winRate": 53.3,
+            "kd": 1.02
+          },
+          {
+            "name": "aruni",
+            "picks": 3109,
+            "pickRate": 3.32,
+            "winRate": 51.6,
+            "kd": 1.1
+          },
+          {
+            "name": "bandit",
+            "picks": 3097,
+            "pickRate": 3.31,
+            "winRate": 52.5,
+            "kd": 0.9
+          },
+          {
+            "name": "lesion",
+            "picks": 2596,
+            "pickRate": 2.78,
+            "winRate": 52.5,
+            "kd": 0.98
+          },
+          {
+            "name": "kaid",
+            "picks": 2187,
+            "pickRate": 2.34,
+            "winRate": 53.5,
+            "kd": 0.88
+          },
+          {
+            "name": "vigil",
+            "picks": 2077,
+            "pickRate": 2.22,
+            "winRate": 52.6,
+            "kd": 1.08
+          },
+          {
+            "name": "azami",
+            "picks": 2070,
+            "pickRate": 2.21,
+            "winRate": 50.9,
+            "kd": 0.93
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1876,
+            "pickRate": 2.01,
+            "winRate": 54.1,
+            "kd": 1.05
+          },
+          {
+            "name": "tubarao",
+            "picks": 1539,
+            "pickRate": 1.65,
+            "winRate": 54.8,
+            "kd": 1.07
+          },
+          {
+            "name": "warden",
+            "picks": 1500,
+            "pickRate": 1.6,
+            "winRate": 50.1,
+            "kd": 0.89
+          },
+          {
+            "name": "doc",
+            "picks": 1470,
+            "pickRate": 1.57,
+            "winRate": 53.0,
+            "kd": 0.86
+          },
+          {
+            "name": "kapkan",
+            "picks": 1430,
+            "pickRate": 1.53,
+            "winRate": 52.7,
+            "kd": 0.97
+          },
+          {
+            "name": "smoke",
+            "picks": 1427,
+            "pickRate": 1.53,
+            "winRate": 52.3,
+            "kd": 0.75
+          },
+          {
+            "name": "melusi",
+            "picks": 1315,
+            "pickRate": 1.41,
+            "winRate": 53.6,
+            "kd": 0.95
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 3357,
+        "atkWinRate": 45.3,
+        "defWinRate": 58.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 153,
+            "pickRate": 4.56,
+            "winRate": 43.1,
+            "kd": 1.0
+          },
+          {
+            "name": "thermite",
+            "picks": 125,
+            "pickRate": 3.72,
+            "winRate": 48.0,
+            "kd": 0.92
+          },
+          {
+            "name": "buck",
+            "picks": 101,
+            "pickRate": 3.01,
+            "winRate": 50.5,
+            "kd": 0.95
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 97,
+            "pickRate": 2.89,
+            "winRate": 45.4,
+            "kd": 0.92
+          },
+          {
+            "name": "thatcher",
+            "picks": 95,
+            "pickRate": 2.83,
+            "winRate": 47.4,
+            "kd": 0.97
+          },
+          {
+            "name": "nomad",
+            "picks": 78,
+            "pickRate": 2.32,
+            "winRate": 39.7,
+            "kd": 0.89
+          },
+          {
+            "name": "twitch",
+            "picks": 69,
+            "pickRate": 2.06,
+            "winRate": 44.9,
+            "kd": 0.79
+          },
+          {
+            "name": "grim",
+            "picks": 67,
+            "pickRate": 2.0,
+            "winRate": 46.3,
+            "kd": 0.78
+          },
+          {
+            "name": "hibana",
+            "picks": 64,
+            "pickRate": 1.91,
+            "winRate": 37.5,
+            "kd": 0.82
+          },
+          {
+            "name": "brava",
+            "picks": 57,
+            "pickRate": 1.7,
+            "winRate": 43.9,
+            "kd": 0.8
+          },
+          {
+            "name": "lion",
+            "picks": 54,
+            "pickRate": 1.61,
+            "winRate": 48.1,
+            "kd": 0.92
+          },
+          {
+            "name": "ace",
+            "picks": 52,
+            "pickRate": 1.55,
+            "winRate": 50.0,
+            "kd": 1.06
+          },
+          {
+            "name": "deimos",
+            "picks": 50,
+            "pickRate": 1.49,
+            "winRate": 44.0,
+            "kd": 0.78
+          },
+          {
+            "name": "finka",
+            "picks": 49,
+            "pickRate": 1.46,
+            "winRate": 42.9,
+            "kd": 1.3
+          },
+          {
+            "name": "sledge",
+            "picks": 49,
+            "pickRate": 1.46,
+            "winRate": 40.8,
+            "kd": 0.93
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 133,
+            "pickRate": 3.96,
+            "winRate": 62.4,
+            "kd": 0.89
+          },
+          {
+            "name": "aruni",
+            "picks": 120,
+            "pickRate": 3.57,
+            "winRate": 67.5,
+            "kd": 1.81
+          },
+          {
+            "name": "lesion",
+            "picks": 107,
+            "pickRate": 3.19,
+            "winRate": 46.7,
+            "kd": 1.13
+          },
+          {
+            "name": "mute",
+            "picks": 99,
+            "pickRate": 2.95,
+            "winRate": 52.5,
+            "kd": 0.81
+          },
+          {
+            "name": "valkyrie",
+            "picks": 91,
+            "pickRate": 2.71,
+            "winRate": 54.9,
+            "kd": 1.23
+          },
+          {
+            "name": "kaid",
+            "picks": 82,
+            "pickRate": 2.44,
+            "winRate": 61.0,
+            "kd": 0.98
+          },
+          {
+            "name": "azami",
+            "picks": 76,
+            "pickRate": 2.26,
+            "winRate": 57.9,
+            "kd": 1.06
+          },
+          {
+            "name": "thorn",
+            "picks": 67,
+            "pickRate": 2.0,
+            "winRate": 68.7,
+            "kd": 1.45
+          },
+          {
+            "name": "vigil",
+            "picks": 63,
+            "pickRate": 1.88,
+            "winRate": 68.3,
+            "kd": 1.23
+          },
+          {
+            "name": "tubarao",
+            "picks": 61,
+            "pickRate": 1.82,
+            "winRate": 60.7,
+            "kd": 1.23
+          },
+          {
+            "name": "warden",
+            "picks": 60,
+            "pickRate": 1.79,
+            "winRate": 58.3,
+            "kd": 1.1
+          },
+          {
+            "name": "smoke",
+            "picks": 60,
+            "pickRate": 1.79,
+            "winRate": 46.7,
+            "kd": 1.21
+          },
+          {
+            "name": "doc",
+            "picks": 57,
+            "pickRate": 1.7,
+            "winRate": 52.6,
+            "kd": 1.08
+          },
+          {
+            "name": "alibi",
+            "picks": 57,
+            "pickRate": 1.7,
+            "winRate": 64.9,
+            "kd": 1.43
+          },
+          {
+            "name": "kapkan",
+            "picks": 51,
+            "pickRate": 1.52,
+            "winRate": 52.9,
+            "kd": 1.07
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 2097,
+        "atkWinRate": 38.7,
+        "defWinRate": 59.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 79,
+            "pickRate": 3.77,
+            "winRate": 50.6,
+            "kd": 0.88
+          },
+          {
+            "name": "thermite",
+            "picks": 65,
+            "pickRate": 3.1,
+            "winRate": 44.6,
+            "kd": 0.46
+          },
+          {
+            "name": "buck",
+            "picks": 64,
+            "pickRate": 3.05,
+            "winRate": 46.9,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 62,
+            "pickRate": 2.96,
+            "winRate": 41.9,
+            "kd": 0.89
+          },
+          {
+            "name": "thatcher",
+            "picks": 52,
+            "pickRate": 2.48,
+            "winRate": 40.4,
+            "kd": 1.19
+          },
+          {
+            "name": "twitch",
+            "picks": 51,
+            "pickRate": 2.43,
+            "winRate": 35.3,
+            "kd": 0.93
+          },
+          {
+            "name": "grim",
+            "picks": 50,
+            "pickRate": 2.38,
+            "winRate": 40.0,
+            "kd": 0.42
+          },
+          {
+            "name": "nomad",
+            "picks": 41,
+            "pickRate": 1.96,
+            "winRate": 39.0,
+            "kd": 0.83
+          },
+          {
+            "name": "lion",
+            "picks": 40,
+            "pickRate": 1.91,
+            "winRate": 42.5,
+            "kd": 0.97
+          },
+          {
+            "name": "finka",
+            "picks": 38,
+            "pickRate": 1.81,
+            "winRate": 36.8,
+            "kd": 0.73
+          },
+          {
+            "name": "brava",
+            "picks": 34,
+            "pickRate": 1.62,
+            "winRate": 23.5,
+            "kd": 0.64
+          },
+          {
+            "name": "hibana",
+            "picks": 33,
+            "pickRate": 1.57,
+            "winRate": 36.4,
+            "kd": 0.76
+          },
+          {
+            "name": "striker",
+            "picks": 31,
+            "pickRate": 1.48,
+            "winRate": 38.7,
+            "kd": 1.27
+          },
+          {
+            "name": "blackbeard",
+            "picks": 28,
+            "pickRate": 1.34,
+            "winRate": 42.9,
+            "kd": 0.65
+          },
+          {
+            "name": "sledge",
+            "picks": 26,
+            "pickRate": 1.24,
+            "winRate": 38.5,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 91,
+            "pickRate": 4.34,
+            "winRate": 68.1,
+            "kd": 1.0
+          },
+          {
+            "name": "aruni",
+            "picks": 74,
+            "pickRate": 3.53,
+            "winRate": 58.1,
+            "kd": 1.44
+          },
+          {
+            "name": "mute",
+            "picks": 71,
+            "pickRate": 3.39,
+            "winRate": 64.8,
+            "kd": 1.17
+          },
+          {
+            "name": "lesion",
+            "picks": 63,
+            "pickRate": 3.0,
+            "winRate": 57.1,
+            "kd": 0.9
+          },
+          {
+            "name": "azami",
+            "picks": 53,
+            "pickRate": 2.53,
+            "winRate": 50.9,
+            "kd": 1.15
+          },
+          {
+            "name": "tubarao",
+            "picks": 48,
+            "pickRate": 2.29,
+            "winRate": 60.4,
+            "kd": 0.78
+          },
+          {
+            "name": "kaid",
+            "picks": 45,
+            "pickRate": 2.15,
+            "winRate": 55.6,
+            "kd": 0.75
+          },
+          {
+            "name": "doc",
+            "picks": 42,
+            "pickRate": 2.0,
+            "winRate": 61.9,
+            "kd": 0.72
+          },
+          {
+            "name": "melusi",
+            "picks": 41,
+            "pickRate": 1.96,
+            "winRate": 58.5,
+            "kd": 1.07
+          },
+          {
+            "name": "thorn",
+            "picks": 40,
+            "pickRate": 1.91,
+            "winRate": 57.5,
+            "kd": 1.28
+          },
+          {
+            "name": "valkyrie",
+            "picks": 39,
+            "pickRate": 1.86,
+            "winRate": 56.4,
+            "kd": 1.26
+          },
+          {
+            "name": "vigil",
+            "picks": 38,
+            "pickRate": 1.81,
+            "winRate": 60.5,
+            "kd": 1.22
+          },
+          {
+            "name": "goyo",
+            "picks": 34,
+            "pickRate": 1.62,
+            "winRate": 52.9,
+            "kd": 1.0
+          },
+          {
+            "name": "warden",
+            "picks": 31,
+            "pickRate": 1.48,
+            "winRate": 51.6,
+            "kd": 0.76
+          },
+          {
+            "name": "ela",
+            "picks": 30,
+            "pickRate": 1.43,
+            "winRate": 43.3,
+            "kd": 1.12
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 2241,
+        "atkWinRate": 37.9,
+        "defWinRate": 59.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 82,
+            "pickRate": 3.66,
+            "winRate": 40.2,
+            "kd": 0.64
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 77,
+            "pickRate": 3.44,
+            "winRate": 35.1,
+            "kd": 0.56
+          },
+          {
+            "name": "nomad",
+            "picks": 75,
+            "pickRate": 3.35,
+            "winRate": 41.3,
+            "kd": 0.88
+          },
+          {
+            "name": "buck",
+            "picks": 62,
+            "pickRate": 2.77,
+            "winRate": 35.5,
+            "kd": 0.72
+          },
+          {
+            "name": "thermite",
+            "picks": 51,
+            "pickRate": 2.28,
+            "winRate": 31.4,
+            "kd": 0.62
+          },
+          {
+            "name": "twitch",
+            "picks": 47,
+            "pickRate": 2.1,
+            "winRate": 42.6,
+            "kd": 0.71
+          },
+          {
+            "name": "lion",
+            "picks": 47,
+            "pickRate": 2.1,
+            "winRate": 34.0,
+            "kd": 0.65
+          },
+          {
+            "name": "iq",
+            "picks": 44,
+            "pickRate": 1.96,
+            "winRate": 38.6,
+            "kd": 0.83
+          },
+          {
+            "name": "grim",
+            "picks": 41,
+            "pickRate": 1.83,
+            "winRate": 31.7,
+            "kd": 0.61
+          },
+          {
+            "name": "deimos",
+            "picks": 36,
+            "pickRate": 1.61,
+            "winRate": 27.8,
+            "kd": 0.73
+          },
+          {
+            "name": "blitz",
+            "picks": 35,
+            "pickRate": 1.56,
+            "winRate": 45.7,
+            "kd": 0.53
+          },
+          {
+            "name": "sledge",
+            "picks": 34,
+            "pickRate": 1.52,
+            "winRate": 41.2,
+            "kd": 0.54
+          },
+          {
+            "name": "blackbeard",
+            "picks": 33,
+            "pickRate": 1.47,
+            "winRate": 33.3,
+            "kd": 0.44
+          },
+          {
+            "name": "finka",
+            "picks": 32,
+            "pickRate": 1.43,
+            "winRate": 53.1,
+            "kd": 1.12
+          },
+          {
+            "name": "iana",
+            "picks": 30,
+            "pickRate": 1.34,
+            "winRate": 40.0,
+            "kd": 1.17
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 89,
+            "pickRate": 3.97,
+            "winRate": 58.4,
+            "kd": 1.0
+          },
+          {
+            "name": "bandit",
+            "picks": 64,
+            "pickRate": 2.86,
+            "winRate": 57.8,
+            "kd": 1.14
+          },
+          {
+            "name": "mute",
+            "picks": 63,
+            "pickRate": 2.81,
+            "winRate": 66.7,
+            "kd": 1.4
+          },
+          {
+            "name": "aruni",
+            "picks": 59,
+            "pickRate": 2.63,
+            "winRate": 72.9,
+            "kd": 1.55
+          },
+          {
+            "name": "thorn",
+            "picks": 56,
+            "pickRate": 2.5,
+            "winRate": 64.3,
+            "kd": 0.76
+          },
+          {
+            "name": "tubarao",
+            "picks": 52,
+            "pickRate": 2.32,
+            "winRate": 46.2,
+            "kd": 0.79
+          },
+          {
+            "name": "melusi",
+            "picks": 51,
+            "pickRate": 2.28,
+            "winRate": 64.7,
+            "kd": 1.45
+          },
+          {
+            "name": "valkyrie",
+            "picks": 47,
+            "pickRate": 2.1,
+            "winRate": 59.6,
+            "kd": 0.97
+          },
+          {
+            "name": "kaid",
+            "picks": 47,
+            "pickRate": 2.1,
+            "winRate": 46.8,
+            "kd": 0.36
+          },
+          {
+            "name": "azami",
+            "picks": 42,
+            "pickRate": 1.87,
+            "winRate": 57.1,
+            "kd": 0.59
+          },
+          {
+            "name": "doc",
+            "picks": 37,
+            "pickRate": 1.65,
+            "winRate": 56.8,
+            "kd": 0.36
+          },
+          {
+            "name": "vigil",
+            "picks": 37,
+            "pickRate": 1.65,
+            "winRate": 64.9,
+            "kd": 1.38
+          },
+          {
+            "name": "smoke",
+            "picks": 37,
+            "pickRate": 1.65,
+            "winRate": 64.9,
+            "kd": 1.32
+          },
+          {
+            "name": "warden",
+            "picks": 36,
+            "pickRate": 1.61,
+            "winRate": 63.9,
+            "kd": 1.36
+          },
+          {
+            "name": "alibi",
+            "picks": 34,
+            "pickRate": 1.52,
+            "winRate": 58.8,
+            "kd": 1.48
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 4388,
+        "atkWinRate": 41.0,
+        "defWinRate": 59.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 180,
+            "pickRate": 4.1,
+            "winRate": 42.2,
+            "kd": 1.06
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 145,
+            "pickRate": 3.3,
+            "winRate": 44.8,
+            "kd": 0.65
+          },
+          {
+            "name": "buck",
+            "picks": 132,
+            "pickRate": 3.01,
+            "winRate": 43.2,
+            "kd": 0.8
+          },
+          {
+            "name": "thermite",
+            "picks": 123,
+            "pickRate": 2.8,
+            "winRate": 39.8,
+            "kd": 0.68
+          },
+          {
+            "name": "nomad",
+            "picks": 120,
+            "pickRate": 2.73,
+            "winRate": 43.3,
+            "kd": 0.9
+          },
+          {
+            "name": "thatcher",
+            "picks": 109,
+            "pickRate": 2.48,
+            "winRate": 40.4,
+            "kd": 0.9
+          },
+          {
+            "name": "fuze",
+            "picks": 104,
+            "pickRate": 2.37,
+            "winRate": 43.3,
+            "kd": 0.72
+          },
+          {
+            "name": "twitch",
+            "picks": 96,
+            "pickRate": 2.19,
+            "winRate": 37.5,
+            "kd": 0.73
+          },
+          {
+            "name": "iq",
+            "picks": 79,
+            "pickRate": 1.8,
+            "winRate": 36.7,
+            "kd": 0.92
+          },
+          {
+            "name": "hibana",
+            "picks": 77,
+            "pickRate": 1.75,
+            "winRate": 37.7,
+            "kd": 0.91
+          },
+          {
+            "name": "lion",
+            "picks": 73,
+            "pickRate": 1.66,
+            "winRate": 41.1,
+            "kd": 0.66
+          },
+          {
+            "name": "finka",
+            "picks": 72,
+            "pickRate": 1.64,
+            "winRate": 36.1,
+            "kd": 0.89
+          },
+          {
+            "name": "grim",
+            "picks": 66,
+            "pickRate": 1.5,
+            "winRate": 33.3,
+            "kd": 0.98
+          },
+          {
+            "name": "ace",
+            "picks": 64,
+            "pickRate": 1.46,
+            "winRate": 39.1,
+            "kd": 1.04
+          },
+          {
+            "name": "kali",
+            "picks": 62,
+            "pickRate": 1.41,
+            "winRate": 50.0,
+            "kd": 0.86
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 198,
+            "pickRate": 4.51,
+            "winRate": 60.1,
+            "kd": 1.32
+          },
+          {
+            "name": "mute",
+            "picks": 143,
+            "pickRate": 3.26,
+            "winRate": 60.1,
+            "kd": 0.86
+          },
+          {
+            "name": "lesion",
+            "picks": 135,
+            "pickRate": 3.08,
+            "winRate": 62.2,
+            "kd": 1.02
+          },
+          {
+            "name": "bandit",
+            "picks": 133,
+            "pickRate": 3.03,
+            "winRate": 57.9,
+            "kd": 0.88
+          },
+          {
+            "name": "valkyrie",
+            "picks": 125,
+            "pickRate": 2.85,
+            "winRate": 66.4,
+            "kd": 1.28
+          },
+          {
+            "name": "tubarao",
+            "picks": 101,
+            "pickRate": 2.3,
+            "winRate": 56.4,
+            "kd": 1.12
+          },
+          {
+            "name": "thorn",
+            "picks": 97,
+            "pickRate": 2.21,
+            "winRate": 63.9,
+            "kd": 1.09
+          },
+          {
+            "name": "azami",
+            "picks": 97,
+            "pickRate": 2.21,
+            "winRate": 57.7,
+            "kd": 1.03
+          },
+          {
+            "name": "melusi",
+            "picks": 81,
+            "pickRate": 1.85,
+            "winRate": 61.7,
+            "kd": 1.1
+          },
+          {
+            "name": "smoke",
+            "picks": 81,
+            "pickRate": 1.85,
+            "winRate": 48.1,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 77,
+            "pickRate": 1.75,
+            "winRate": 63.6,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 71,
+            "pickRate": 1.62,
+            "winRate": 60.6,
+            "kd": 1.13
+          },
+          {
+            "name": "kapkan",
+            "picks": 69,
+            "pickRate": 1.57,
+            "winRate": 68.1,
+            "kd": 1.55
+          },
+          {
+            "name": "warden",
+            "picks": 68,
+            "pickRate": 1.55,
+            "winRate": 57.4,
+            "kd": 1.32
+          },
+          {
+            "name": "doc",
+            "picks": 65,
+            "pickRate": 1.48,
+            "winRate": 43.1,
+            "kd": 0.61
+          }
+        ]
+      }
+    },
+    "Silver": {
+      "consulate": {
+        "totalRounds": 167425,
+        "atkWinRate": 41.4,
+        "defWinRate": 57.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6368,
+            "pickRate": 3.8,
+            "winRate": 42.0,
+            "kd": 0.97
+          },
+          {
+            "name": "thermite",
+            "picks": 4990,
+            "pickRate": 2.98,
+            "winRate": 41.4,
+            "kd": 0.71
+          },
+          {
+            "name": "twitch",
+            "picks": 4472,
+            "pickRate": 2.67,
+            "winRate": 42.7,
+            "kd": 0.9
+          },
+          {
+            "name": "buck",
+            "picks": 4416,
+            "pickRate": 2.64,
+            "winRate": 39.5,
+            "kd": 0.77
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4278,
+            "pickRate": 2.56,
+            "winRate": 42.2,
+            "kd": 0.82
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3966,
+            "pickRate": 2.37,
+            "winRate": 40.5,
+            "kd": 0.78
+          },
+          {
+            "name": "nomad",
+            "picks": 3534,
+            "pickRate": 2.11,
+            "winRate": 40.4,
+            "kd": 0.79
+          },
+          {
+            "name": "lion",
+            "picks": 3354,
+            "pickRate": 2.0,
+            "winRate": 41.7,
+            "kd": 0.71
+          },
+          {
+            "name": "grim",
+            "picks": 3255,
+            "pickRate": 1.94,
+            "winRate": 39.6,
+            "kd": 0.72
+          },
+          {
+            "name": "thatcher",
+            "picks": 2951,
+            "pickRate": 1.76,
+            "winRate": 40.8,
+            "kd": 0.73
+          },
+          {
+            "name": "fuze",
+            "picks": 2419,
+            "pickRate": 1.44,
+            "winRate": 42.9,
+            "kd": 0.93
+          },
+          {
+            "name": "brava",
+            "picks": 2353,
+            "pickRate": 1.41,
+            "winRate": 41.5,
+            "kd": 0.86
+          },
+          {
+            "name": "striker",
+            "picks": 2322,
+            "pickRate": 1.39,
+            "winRate": 41.6,
+            "kd": 0.91
+          },
+          {
+            "name": "sledge",
+            "picks": 2296,
+            "pickRate": 1.37,
+            "winRate": 40.1,
+            "kd": 0.86
+          },
+          {
+            "name": "finka",
+            "picks": 2179,
+            "pickRate": 1.3,
+            "winRate": 41.9,
+            "kd": 0.77
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 5673,
+            "pickRate": 3.39,
+            "winRate": 57.4,
+            "kd": 0.94
+          },
+          {
+            "name": "thorn",
+            "picks": 5667,
+            "pickRate": 3.38,
+            "winRate": 58.3,
+            "kd": 0.97
+          },
+          {
+            "name": "bandit",
+            "picks": 5303,
+            "pickRate": 3.17,
+            "winRate": 58.4,
+            "kd": 0.93
+          },
+          {
+            "name": "aruni",
+            "picks": 4973,
+            "pickRate": 2.97,
+            "winRate": 57.9,
+            "kd": 1.1
+          },
+          {
+            "name": "lesion",
+            "picks": 4276,
+            "pickRate": 2.55,
+            "winRate": 59.5,
+            "kd": 1.01
+          },
+          {
+            "name": "azami",
+            "picks": 3674,
+            "pickRate": 2.19,
+            "winRate": 56.2,
+            "kd": 0.97
+          },
+          {
+            "name": "tubarao",
+            "picks": 3603,
+            "pickRate": 2.15,
+            "winRate": 56.5,
+            "kd": 1.09
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3582,
+            "pickRate": 2.14,
+            "winRate": 58.0,
+            "kd": 1.04
+          },
+          {
+            "name": "vigil",
+            "picks": 3326,
+            "pickRate": 1.99,
+            "winRate": 55.5,
+            "kd": 1.14
+          },
+          {
+            "name": "kaid",
+            "picks": 3072,
+            "pickRate": 1.83,
+            "winRate": 57.6,
+            "kd": 0.87
+          },
+          {
+            "name": "smoke",
+            "picks": 2820,
+            "pickRate": 1.68,
+            "winRate": 54.9,
+            "kd": 0.89
+          },
+          {
+            "name": "melusi",
+            "picks": 2749,
+            "pickRate": 1.64,
+            "winRate": 57.9,
+            "kd": 0.92
+          },
+          {
+            "name": "warden",
+            "picks": 2749,
+            "pickRate": 1.64,
+            "winRate": 57.0,
+            "kd": 1.12
+          },
+          {
+            "name": "kapkan",
+            "picks": 2648,
+            "pickRate": 1.58,
+            "winRate": 59.3,
+            "kd": 1.16
+          },
+          {
+            "name": "doc",
+            "picks": 2375,
+            "pickRate": 1.42,
+            "winRate": 57.0,
+            "kd": 0.85
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 197971,
+        "atkWinRate": 42.9,
+        "defWinRate": 55.7,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 8643,
+            "pickRate": 4.37,
+            "winRate": 43.4,
+            "kd": 0.82
+          },
+          {
+            "name": "ash",
+            "picks": 7455,
+            "pickRate": 3.77,
+            "winRate": 43.9,
+            "kd": 0.97
+          },
+          {
+            "name": "thatcher",
+            "picks": 6806,
+            "pickRate": 3.44,
+            "winRate": 42.9,
+            "kd": 0.83
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5509,
+            "pickRate": 2.78,
+            "winRate": 42.6,
+            "kd": 0.8
+          },
+          {
+            "name": "buck",
+            "picks": 5003,
+            "pickRate": 2.53,
+            "winRate": 42.1,
+            "kd": 0.81
+          },
+          {
+            "name": "twitch",
+            "picks": 4908,
+            "pickRate": 2.48,
+            "winRate": 43.0,
+            "kd": 0.97
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4426,
+            "pickRate": 2.24,
+            "winRate": 41.5,
+            "kd": 0.76
+          },
+          {
+            "name": "hibana",
+            "picks": 3535,
+            "pickRate": 1.79,
+            "winRate": 42.7,
+            "kd": 0.86
+          },
+          {
+            "name": "nomad",
+            "picks": 3524,
+            "pickRate": 1.78,
+            "winRate": 42.3,
+            "kd": 0.82
+          },
+          {
+            "name": "ace",
+            "picks": 3405,
+            "pickRate": 1.72,
+            "winRate": 41.7,
+            "kd": 0.89
+          },
+          {
+            "name": "grim",
+            "picks": 3282,
+            "pickRate": 1.66,
+            "winRate": 42.4,
+            "kd": 0.77
+          },
+          {
+            "name": "maverick",
+            "picks": 2767,
+            "pickRate": 1.4,
+            "winRate": 42.4,
+            "kd": 0.76
+          },
+          {
+            "name": "lion",
+            "picks": 2663,
+            "pickRate": 1.35,
+            "winRate": 43.3,
+            "kd": 0.71
+          },
+          {
+            "name": "brava",
+            "picks": 2652,
+            "pickRate": 1.34,
+            "winRate": 40.8,
+            "kd": 0.87
+          },
+          {
+            "name": "fuze",
+            "picks": 2631,
+            "pickRate": 1.33,
+            "winRate": 43.6,
+            "kd": 0.84
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 8150,
+            "pickRate": 4.12,
+            "winRate": 56.2,
+            "kd": 0.89
+          },
+          {
+            "name": "mute",
+            "picks": 7146,
+            "pickRate": 3.61,
+            "winRate": 56.1,
+            "kd": 0.9
+          },
+          {
+            "name": "aruni",
+            "picks": 6289,
+            "pickRate": 3.18,
+            "winRate": 56.6,
+            "kd": 1.09
+          },
+          {
+            "name": "kaid",
+            "picks": 5739,
+            "pickRate": 2.9,
+            "winRate": 56.4,
+            "kd": 0.87
+          },
+          {
+            "name": "thorn",
+            "picks": 5655,
+            "pickRate": 2.86,
+            "winRate": 56.8,
+            "kd": 0.96
+          },
+          {
+            "name": "azami",
+            "picks": 5421,
+            "pickRate": 2.74,
+            "winRate": 54.8,
+            "kd": 0.95
+          },
+          {
+            "name": "tubarao",
+            "picks": 4789,
+            "pickRate": 2.42,
+            "winRate": 54.7,
+            "kd": 1.0
+          },
+          {
+            "name": "lesion",
+            "picks": 4406,
+            "pickRate": 2.23,
+            "winRate": 55.2,
+            "kd": 0.96
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4105,
+            "pickRate": 2.07,
+            "winRate": 56.6,
+            "kd": 1.09
+          },
+          {
+            "name": "vigil",
+            "picks": 3876,
+            "pickRate": 1.96,
+            "winRate": 55.6,
+            "kd": 1.12
+          },
+          {
+            "name": "warden",
+            "picks": 3256,
+            "pickRate": 1.64,
+            "winRate": 54.5,
+            "kd": 1.02
+          },
+          {
+            "name": "smoke",
+            "picks": 3163,
+            "pickRate": 1.6,
+            "winRate": 53.3,
+            "kd": 0.82
+          },
+          {
+            "name": "doc",
+            "picks": 2844,
+            "pickRate": 1.44,
+            "winRate": 54.8,
+            "kd": 0.85
+          },
+          {
+            "name": "melusi",
+            "picks": 2769,
+            "pickRate": 1.4,
+            "winRate": 56.4,
+            "kd": 0.87
+          },
+          {
+            "name": "fenrir",
+            "picks": 2545,
+            "pickRate": 1.29,
+            "winRate": 55.2,
+            "kd": 0.87
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 268377,
+        "atkWinRate": 46.3,
+        "defWinRate": 52.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 10140,
+            "pickRate": 3.78,
+            "winRate": 46.4,
+            "kd": 1.04
+          },
+          {
+            "name": "thermite",
+            "picks": 7271,
+            "pickRate": 2.71,
+            "winRate": 45.5,
+            "kd": 0.79
+          },
+          {
+            "name": "buck",
+            "picks": 7148,
+            "pickRate": 2.66,
+            "winRate": 46.1,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 6907,
+            "pickRate": 2.57,
+            "winRate": 47.8,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6786,
+            "pickRate": 2.53,
+            "winRate": 46.2,
+            "kd": 0.86
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6191,
+            "pickRate": 2.31,
+            "winRate": 43.9,
+            "kd": 0.78
+          },
+          {
+            "name": "nomad",
+            "picks": 6074,
+            "pickRate": 2.26,
+            "winRate": 47.2,
+            "kd": 0.93
+          },
+          {
+            "name": "lion",
+            "picks": 4922,
+            "pickRate": 1.83,
+            "winRate": 46.2,
+            "kd": 0.82
+          },
+          {
+            "name": "grim",
+            "picks": 4540,
+            "pickRate": 1.69,
+            "winRate": 46.5,
+            "kd": 0.84
+          },
+          {
+            "name": "brava",
+            "picks": 4494,
+            "pickRate": 1.67,
+            "winRate": 46.7,
+            "kd": 0.97
+          },
+          {
+            "name": "fuze",
+            "picks": 4355,
+            "pickRate": 1.62,
+            "winRate": 46.2,
+            "kd": 0.94
+          },
+          {
+            "name": "thatcher",
+            "picks": 4313,
+            "pickRate": 1.61,
+            "winRate": 46.6,
+            "kd": 0.88
+          },
+          {
+            "name": "hibana",
+            "picks": 3952,
+            "pickRate": 1.47,
+            "winRate": 44.7,
+            "kd": 0.88
+          },
+          {
+            "name": "finka",
+            "picks": 3324,
+            "pickRate": 1.24,
+            "winRate": 49.0,
+            "kd": 0.92
+          },
+          {
+            "name": "sledge",
+            "picks": 3245,
+            "pickRate": 1.21,
+            "winRate": 45.9,
+            "kd": 0.95
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 8586,
+            "pickRate": 3.2,
+            "winRate": 53.4,
+            "kd": 0.9
+          },
+          {
+            "name": "aruni",
+            "picks": 8264,
+            "pickRate": 3.08,
+            "winRate": 52.9,
+            "kd": 1.07
+          },
+          {
+            "name": "mute",
+            "picks": 8185,
+            "pickRate": 3.05,
+            "winRate": 52.0,
+            "kd": 0.85
+          },
+          {
+            "name": "lesion",
+            "picks": 6852,
+            "pickRate": 2.55,
+            "winRate": 53.1,
+            "kd": 0.9
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6793,
+            "pickRate": 2.53,
+            "winRate": 52.2,
+            "kd": 0.96
+          },
+          {
+            "name": "kaid",
+            "picks": 6721,
+            "pickRate": 2.5,
+            "winRate": 51.6,
+            "kd": 0.84
+          },
+          {
+            "name": "bandit",
+            "picks": 6291,
+            "pickRate": 2.34,
+            "winRate": 52.8,
+            "kd": 0.92
+          },
+          {
+            "name": "azami",
+            "picks": 6054,
+            "pickRate": 2.26,
+            "winRate": 52.2,
+            "kd": 0.92
+          },
+          {
+            "name": "castle",
+            "picks": 5365,
+            "pickRate": 2.0,
+            "winRate": 52.2,
+            "kd": 0.77
+          },
+          {
+            "name": "vigil",
+            "picks": 5244,
+            "pickRate": 1.95,
+            "winRate": 53.2,
+            "kd": 1.01
+          },
+          {
+            "name": "kapkan",
+            "picks": 4999,
+            "pickRate": 1.86,
+            "winRate": 56.1,
+            "kd": 1.13
+          },
+          {
+            "name": "smoke",
+            "picks": 4785,
+            "pickRate": 1.78,
+            "winRate": 52.2,
+            "kd": 0.82
+          },
+          {
+            "name": "warden",
+            "picks": 4469,
+            "pickRate": 1.67,
+            "winRate": 52.0,
+            "kd": 0.92
+          },
+          {
+            "name": "doc",
+            "picks": 3794,
+            "pickRate": 1.41,
+            "winRate": 53.3,
+            "kd": 0.81
+          },
+          {
+            "name": "goyo",
+            "picks": 3793,
+            "pickRate": 1.41,
+            "winRate": 50.7,
+            "kd": 0.88
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 284708,
+        "atkWinRate": 45.3,
+        "defWinRate": 53.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 10097,
+            "pickRate": 3.55,
+            "winRate": 45.1,
+            "kd": 0.99
+          },
+          {
+            "name": "thermite",
+            "picks": 9918,
+            "pickRate": 3.48,
+            "winRate": 45.8,
+            "kd": 0.77
+          },
+          {
+            "name": "twitch",
+            "picks": 7612,
+            "pickRate": 2.67,
+            "winRate": 46.3,
+            "kd": 0.99
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 7450,
+            "pickRate": 2.62,
+            "winRate": 45.3,
+            "kd": 0.86
+          },
+          {
+            "name": "hibana",
+            "picks": 6989,
+            "pickRate": 2.45,
+            "winRate": 46.1,
+            "kd": 0.91
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6325,
+            "pickRate": 2.22,
+            "winRate": 43.3,
+            "kd": 0.81
+          },
+          {
+            "name": "thatcher",
+            "picks": 6187,
+            "pickRate": 2.17,
+            "winRate": 45.7,
+            "kd": 0.87
+          },
+          {
+            "name": "buck",
+            "picks": 6111,
+            "pickRate": 2.15,
+            "winRate": 45.1,
+            "kd": 0.87
+          },
+          {
+            "name": "nomad",
+            "picks": 6033,
+            "pickRate": 2.12,
+            "winRate": 44.6,
+            "kd": 0.88
+          },
+          {
+            "name": "grim",
+            "picks": 5025,
+            "pickRate": 1.76,
+            "winRate": 44.2,
+            "kd": 0.79
+          },
+          {
+            "name": "lion",
+            "picks": 4770,
+            "pickRate": 1.68,
+            "winRate": 43.7,
+            "kd": 0.78
+          },
+          {
+            "name": "brava",
+            "picks": 4538,
+            "pickRate": 1.59,
+            "winRate": 44.1,
+            "kd": 0.9
+          },
+          {
+            "name": "fuze",
+            "picks": 3699,
+            "pickRate": 1.3,
+            "winRate": 44.8,
+            "kd": 0.79
+          },
+          {
+            "name": "osa",
+            "picks": 3248,
+            "pickRate": 1.14,
+            "winRate": 45.8,
+            "kd": 0.86
+          },
+          {
+            "name": "ram",
+            "picks": 3185,
+            "pickRate": 1.12,
+            "winRate": 46.2,
+            "kd": 0.88
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 10059,
+            "pickRate": 3.53,
+            "winRate": 53.2,
+            "kd": 0.85
+          },
+          {
+            "name": "bandit",
+            "picks": 9947,
+            "pickRate": 3.49,
+            "winRate": 53.6,
+            "kd": 0.87
+          },
+          {
+            "name": "aruni",
+            "picks": 9239,
+            "pickRate": 3.25,
+            "winRate": 55.8,
+            "kd": 1.14
+          },
+          {
+            "name": "thorn",
+            "picks": 9161,
+            "pickRate": 3.22,
+            "winRate": 55.0,
+            "kd": 0.99
+          },
+          {
+            "name": "azami",
+            "picks": 8603,
+            "pickRate": 3.02,
+            "winRate": 53.5,
+            "kd": 0.94
+          },
+          {
+            "name": "kaid",
+            "picks": 7202,
+            "pickRate": 2.53,
+            "winRate": 53.2,
+            "kd": 0.84
+          },
+          {
+            "name": "tubarao",
+            "picks": 6555,
+            "pickRate": 2.3,
+            "winRate": 53.0,
+            "kd": 1.01
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6072,
+            "pickRate": 2.13,
+            "winRate": 54.2,
+            "kd": 1.01
+          },
+          {
+            "name": "lesion",
+            "picks": 5971,
+            "pickRate": 2.1,
+            "winRate": 54.0,
+            "kd": 0.93
+          },
+          {
+            "name": "vigil",
+            "picks": 5060,
+            "pickRate": 1.78,
+            "winRate": 52.6,
+            "kd": 1.0
+          },
+          {
+            "name": "warden",
+            "picks": 4304,
+            "pickRate": 1.51,
+            "winRate": 52.9,
+            "kd": 0.99
+          },
+          {
+            "name": "melusi",
+            "picks": 4280,
+            "pickRate": 1.5,
+            "winRate": 55.5,
+            "kd": 0.88
+          },
+          {
+            "name": "smoke",
+            "picks": 4146,
+            "pickRate": 1.46,
+            "winRate": 53.2,
+            "kd": 0.79
+          },
+          {
+            "name": "fenrir",
+            "picks": 3995,
+            "pickRate": 1.4,
+            "winRate": 53.2,
+            "kd": 0.84
+          },
+          {
+            "name": "jager",
+            "picks": 3968,
+            "pickRate": 1.39,
+            "winRate": 52.3,
+            "kd": 0.85
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 248425,
+        "atkWinRate": 48.2,
+        "defWinRate": 50.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 9585,
+            "pickRate": 3.86,
+            "winRate": 49.3,
+            "kd": 1.05
+          },
+          {
+            "name": "buck",
+            "picks": 6743,
+            "pickRate": 2.71,
+            "winRate": 47.2,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 6668,
+            "pickRate": 2.68,
+            "winRate": 47.4,
+            "kd": 1.02
+          },
+          {
+            "name": "nomad",
+            "picks": 6224,
+            "pickRate": 2.51,
+            "winRate": 48.2,
+            "kd": 0.94
+          },
+          {
+            "name": "solid-snake",
+            "picks": 5843,
+            "pickRate": 2.35,
+            "winRate": 46.1,
+            "kd": 0.82
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5702,
+            "pickRate": 2.3,
+            "winRate": 48.0,
+            "kd": 0.92
+          },
+          {
+            "name": "lion",
+            "picks": 5078,
+            "pickRate": 2.04,
+            "winRate": 48.7,
+            "kd": 0.85
+          },
+          {
+            "name": "brava",
+            "picks": 5046,
+            "pickRate": 2.03,
+            "winRate": 48.6,
+            "kd": 0.93
+          },
+          {
+            "name": "grim",
+            "picks": 4158,
+            "pickRate": 1.67,
+            "winRate": 48.7,
+            "kd": 0.82
+          },
+          {
+            "name": "fuze",
+            "picks": 4043,
+            "pickRate": 1.63,
+            "winRate": 48.2,
+            "kd": 0.96
+          },
+          {
+            "name": "osa",
+            "picks": 3888,
+            "pickRate": 1.57,
+            "winRate": 48.5,
+            "kd": 0.92
+          },
+          {
+            "name": "glaz",
+            "picks": 3580,
+            "pickRate": 1.44,
+            "winRate": 50.1,
+            "kd": 1.12
+          },
+          {
+            "name": "sledge",
+            "picks": 3273,
+            "pickRate": 1.32,
+            "winRate": 48.2,
+            "kd": 1.02
+          },
+          {
+            "name": "finka",
+            "picks": 3254,
+            "pickRate": 1.31,
+            "winRate": 49.4,
+            "kd": 0.9
+          },
+          {
+            "name": "kali",
+            "picks": 3250,
+            "pickRate": 1.31,
+            "winRate": 50.5,
+            "kd": 1.13
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 8955,
+            "pickRate": 3.6,
+            "winRate": 52.3,
+            "kd": 1.09
+          },
+          {
+            "name": "thorn",
+            "picks": 8692,
+            "pickRate": 3.5,
+            "winRate": 51.9,
+            "kd": 0.89
+          },
+          {
+            "name": "mute",
+            "picks": 6741,
+            "pickRate": 2.71,
+            "winRate": 49.3,
+            "kd": 0.74
+          },
+          {
+            "name": "lesion",
+            "picks": 6401,
+            "pickRate": 2.58,
+            "winRate": 51.8,
+            "kd": 0.91
+          },
+          {
+            "name": "castle",
+            "picks": 6269,
+            "pickRate": 2.52,
+            "winRate": 48.7,
+            "kd": 0.71
+          },
+          {
+            "name": "azami",
+            "picks": 6100,
+            "pickRate": 2.46,
+            "winRate": 51.2,
+            "kd": 0.88
+          },
+          {
+            "name": "valkyrie",
+            "picks": 5762,
+            "pickRate": 2.32,
+            "winRate": 50.3,
+            "kd": 0.96
+          },
+          {
+            "name": "melusi",
+            "picks": 5194,
+            "pickRate": 2.09,
+            "winRate": 51.0,
+            "kd": 0.8
+          },
+          {
+            "name": "vigil",
+            "picks": 5067,
+            "pickRate": 2.04,
+            "winRate": 50.8,
+            "kd": 0.99
+          },
+          {
+            "name": "smoke",
+            "picks": 4001,
+            "pickRate": 1.61,
+            "winRate": 50.1,
+            "kd": 0.72
+          },
+          {
+            "name": "doc",
+            "picks": 3860,
+            "pickRate": 1.55,
+            "winRate": 50.4,
+            "kd": 0.78
+          },
+          {
+            "name": "jager",
+            "picks": 3726,
+            "pickRate": 1.5,
+            "winRate": 51.2,
+            "kd": 0.86
+          },
+          {
+            "name": "goyo",
+            "picks": 3624,
+            "pickRate": 1.46,
+            "winRate": 48.6,
+            "kd": 0.78
+          },
+          {
+            "name": "fenrir",
+            "picks": 3591,
+            "pickRate": 1.45,
+            "winRate": 49.4,
+            "kd": 0.78
+          },
+          {
+            "name": "warden",
+            "picks": 3567,
+            "pickRate": 1.44,
+            "winRate": 51.0,
+            "kd": 0.92
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 288592,
+        "atkWinRate": 43.6,
+        "defWinRate": 55.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 10598,
+            "pickRate": 3.67,
+            "winRate": 44.3,
+            "kd": 0.98
+          },
+          {
+            "name": "thermite",
+            "picks": 10384,
+            "pickRate": 3.6,
+            "winRate": 45.6,
+            "kd": 0.81
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 7611,
+            "pickRate": 2.64,
+            "winRate": 43.1,
+            "kd": 0.83
+          },
+          {
+            "name": "hibana",
+            "picks": 7543,
+            "pickRate": 2.61,
+            "winRate": 42.7,
+            "kd": 0.87
+          },
+          {
+            "name": "thatcher",
+            "picks": 7364,
+            "pickRate": 2.55,
+            "winRate": 45.7,
+            "kd": 0.91
+          },
+          {
+            "name": "buck",
+            "picks": 7337,
+            "pickRate": 2.54,
+            "winRate": 42.1,
+            "kd": 0.82
+          },
+          {
+            "name": "twitch",
+            "picks": 6998,
+            "pickRate": 2.42,
+            "winRate": 44.0,
+            "kd": 0.99
+          },
+          {
+            "name": "solid-snake",
+            "picks": 5980,
+            "pickRate": 2.07,
+            "winRate": 41.6,
+            "kd": 0.78
+          },
+          {
+            "name": "grim",
+            "picks": 5218,
+            "pickRate": 1.81,
+            "winRate": 41.9,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 4424,
+            "pickRate": 1.53,
+            "winRate": 43.0,
+            "kd": 0.86
+          },
+          {
+            "name": "ace",
+            "picks": 4229,
+            "pickRate": 1.47,
+            "winRate": 45.0,
+            "kd": 0.96
+          },
+          {
+            "name": "lion",
+            "picks": 4167,
+            "pickRate": 1.44,
+            "winRate": 42.4,
+            "kd": 0.76
+          },
+          {
+            "name": "maverick",
+            "picks": 4164,
+            "pickRate": 1.44,
+            "winRate": 44.0,
+            "kd": 0.82
+          },
+          {
+            "name": "brava",
+            "picks": 3971,
+            "pickRate": 1.38,
+            "winRate": 45.3,
+            "kd": 0.94
+          },
+          {
+            "name": "fuze",
+            "picks": 3938,
+            "pickRate": 1.36,
+            "winRate": 41.4,
+            "kd": 0.81
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 10206,
+            "pickRate": 3.54,
+            "winRate": 53.1,
+            "kd": 0.83
+          },
+          {
+            "name": "mute",
+            "picks": 9489,
+            "pickRate": 3.29,
+            "winRate": 53.8,
+            "kd": 0.82
+          },
+          {
+            "name": "aruni",
+            "picks": 9049,
+            "pickRate": 3.14,
+            "winRate": 57.4,
+            "kd": 1.15
+          },
+          {
+            "name": "azami",
+            "picks": 8669,
+            "pickRate": 3.0,
+            "winRate": 54.4,
+            "kd": 0.98
+          },
+          {
+            "name": "thorn",
+            "picks": 8644,
+            "pickRate": 3.0,
+            "winRate": 57.8,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 8547,
+            "pickRate": 2.96,
+            "winRate": 55.7,
+            "kd": 0.85
+          },
+          {
+            "name": "castle",
+            "picks": 7524,
+            "pickRate": 2.61,
+            "winRate": 53.6,
+            "kd": 0.8
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6703,
+            "pickRate": 2.32,
+            "winRate": 56.4,
+            "kd": 1.03
+          },
+          {
+            "name": "lesion",
+            "picks": 5903,
+            "pickRate": 2.05,
+            "winRate": 57.0,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 5722,
+            "pickRate": 1.98,
+            "winRate": 54.4,
+            "kd": 1.03
+          },
+          {
+            "name": "vigil",
+            "picks": 5120,
+            "pickRate": 1.77,
+            "winRate": 54.4,
+            "kd": 1.01
+          },
+          {
+            "name": "smoke",
+            "picks": 4291,
+            "pickRate": 1.49,
+            "winRate": 55.4,
+            "kd": 0.87
+          },
+          {
+            "name": "melusi",
+            "picks": 4225,
+            "pickRate": 1.46,
+            "winRate": 56.1,
+            "kd": 0.94
+          },
+          {
+            "name": "doc",
+            "picks": 3964,
+            "pickRate": 1.37,
+            "winRate": 53.8,
+            "kd": 0.83
+          },
+          {
+            "name": "jager",
+            "picks": 3935,
+            "pickRate": 1.36,
+            "winRate": 53.1,
+            "kd": 0.87
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 209997,
+        "atkWinRate": 41.9,
+        "defWinRate": 56.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7905,
+            "pickRate": 3.76,
+            "winRate": 43.0,
+            "kd": 0.98
+          },
+          {
+            "name": "buck",
+            "picks": 5717,
+            "pickRate": 2.72,
+            "winRate": 40.9,
+            "kd": 0.79
+          },
+          {
+            "name": "twitch",
+            "picks": 5596,
+            "pickRate": 2.66,
+            "winRate": 43.4,
+            "kd": 0.92
+          },
+          {
+            "name": "nomad",
+            "picks": 4991,
+            "pickRate": 2.38,
+            "winRate": 41.8,
+            "kd": 0.84
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4846,
+            "pickRate": 2.31,
+            "winRate": 41.8,
+            "kd": 0.8
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4562,
+            "pickRate": 2.17,
+            "winRate": 40.9,
+            "kd": 0.73
+          },
+          {
+            "name": "lion",
+            "picks": 4456,
+            "pickRate": 2.12,
+            "winRate": 41.6,
+            "kd": 0.75
+          },
+          {
+            "name": "thermite",
+            "picks": 4181,
+            "pickRate": 1.99,
+            "winRate": 42.6,
+            "kd": 0.73
+          },
+          {
+            "name": "brava",
+            "picks": 4171,
+            "pickRate": 1.99,
+            "winRate": 42.0,
+            "kd": 0.9
+          },
+          {
+            "name": "grim",
+            "picks": 4100,
+            "pickRate": 1.95,
+            "winRate": 41.4,
+            "kd": 0.76
+          },
+          {
+            "name": "hibana",
+            "picks": 3662,
+            "pickRate": 1.74,
+            "winRate": 42.0,
+            "kd": 0.85
+          },
+          {
+            "name": "fuze",
+            "picks": 3169,
+            "pickRate": 1.51,
+            "winRate": 42.3,
+            "kd": 0.86
+          },
+          {
+            "name": "sledge",
+            "picks": 2980,
+            "pickRate": 1.42,
+            "winRate": 42.1,
+            "kd": 0.83
+          },
+          {
+            "name": "finka",
+            "picks": 2736,
+            "pickRate": 1.3,
+            "winRate": 43.0,
+            "kd": 0.81
+          },
+          {
+            "name": "ace",
+            "picks": 2712,
+            "pickRate": 1.29,
+            "winRate": 42.9,
+            "kd": 0.95
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 7861,
+            "pickRate": 3.74,
+            "winRate": 57.1,
+            "kd": 1.15
+          },
+          {
+            "name": "mute",
+            "picks": 7234,
+            "pickRate": 3.44,
+            "winRate": 56.6,
+            "kd": 0.89
+          },
+          {
+            "name": "thorn",
+            "picks": 6951,
+            "pickRate": 3.31,
+            "winRate": 58.4,
+            "kd": 0.97
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6447,
+            "pickRate": 3.07,
+            "winRate": 56.7,
+            "kd": 1.08
+          },
+          {
+            "name": "azami",
+            "picks": 5445,
+            "pickRate": 2.59,
+            "winRate": 55.8,
+            "kd": 1.02
+          },
+          {
+            "name": "castle",
+            "picks": 5051,
+            "pickRate": 2.41,
+            "winRate": 56.5,
+            "kd": 0.84
+          },
+          {
+            "name": "lesion",
+            "picks": 4931,
+            "pickRate": 2.35,
+            "winRate": 57.5,
+            "kd": 1.0
+          },
+          {
+            "name": "kaid",
+            "picks": 4161,
+            "pickRate": 1.98,
+            "winRate": 55.6,
+            "kd": 0.87
+          },
+          {
+            "name": "vigil",
+            "picks": 3902,
+            "pickRate": 1.86,
+            "winRate": 54.8,
+            "kd": 1.03
+          },
+          {
+            "name": "bandit",
+            "picks": 3368,
+            "pickRate": 1.6,
+            "winRate": 56.3,
+            "kd": 0.98
+          },
+          {
+            "name": "melusi",
+            "picks": 3339,
+            "pickRate": 1.59,
+            "winRate": 56.9,
+            "kd": 0.95
+          },
+          {
+            "name": "doc",
+            "picks": 3211,
+            "pickRate": 1.53,
+            "winRate": 56.9,
+            "kd": 0.87
+          },
+          {
+            "name": "tubarao",
+            "picks": 2978,
+            "pickRate": 1.42,
+            "winRate": 59.2,
+            "kd": 1.16
+          },
+          {
+            "name": "jager",
+            "picks": 2853,
+            "pickRate": 1.36,
+            "winRate": 55.0,
+            "kd": 0.83
+          },
+          {
+            "name": "warden",
+            "picks": 2784,
+            "pickRate": 1.33,
+            "winRate": 55.0,
+            "kd": 0.93
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 169508,
+        "atkWinRate": 43.4,
+        "defWinRate": 55.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6195,
+            "pickRate": 3.65,
+            "winRate": 43.7,
+            "kd": 0.97
+          },
+          {
+            "name": "twitch",
+            "picks": 4769,
+            "pickRate": 2.81,
+            "winRate": 43.9,
+            "kd": 0.95
+          },
+          {
+            "name": "hibana",
+            "picks": 4427,
+            "pickRate": 2.61,
+            "winRate": 42.6,
+            "kd": 0.86
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4299,
+            "pickRate": 2.54,
+            "winRate": 45.4,
+            "kd": 0.85
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3765,
+            "pickRate": 2.22,
+            "winRate": 41.2,
+            "kd": 0.76
+          },
+          {
+            "name": "lion",
+            "picks": 3670,
+            "pickRate": 2.17,
+            "winRate": 44.0,
+            "kd": 0.84
+          },
+          {
+            "name": "nomad",
+            "picks": 3658,
+            "pickRate": 2.16,
+            "winRate": 44.3,
+            "kd": 0.86
+          },
+          {
+            "name": "thermite",
+            "picks": 3536,
+            "pickRate": 2.09,
+            "winRate": 42.8,
+            "kd": 0.71
+          },
+          {
+            "name": "grim",
+            "picks": 3325,
+            "pickRate": 1.96,
+            "winRate": 42.3,
+            "kd": 0.77
+          },
+          {
+            "name": "buck",
+            "picks": 3246,
+            "pickRate": 1.91,
+            "winRate": 42.9,
+            "kd": 0.82
+          },
+          {
+            "name": "brava",
+            "picks": 3237,
+            "pickRate": 1.91,
+            "winRate": 42.3,
+            "kd": 0.9
+          },
+          {
+            "name": "zero",
+            "picks": 2406,
+            "pickRate": 1.42,
+            "winRate": 42.7,
+            "kd": 0.83
+          },
+          {
+            "name": "finka",
+            "picks": 2257,
+            "pickRate": 1.33,
+            "winRate": 45.3,
+            "kd": 0.82
+          },
+          {
+            "name": "striker",
+            "picks": 2133,
+            "pickRate": 1.26,
+            "winRate": 45.6,
+            "kd": 1.02
+          },
+          {
+            "name": "osa",
+            "picks": 1987,
+            "pickRate": 1.17,
+            "winRate": 43.9,
+            "kd": 0.83
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 6377,
+            "pickRate": 3.76,
+            "winRate": 56.1,
+            "kd": 1.23
+          },
+          {
+            "name": "thorn",
+            "picks": 5687,
+            "pickRate": 3.36,
+            "winRate": 57.4,
+            "kd": 0.99
+          },
+          {
+            "name": "azami",
+            "picks": 4555,
+            "pickRate": 2.69,
+            "winRate": 54.5,
+            "kd": 0.94
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4479,
+            "pickRate": 2.64,
+            "winRate": 56.5,
+            "kd": 1.01
+          },
+          {
+            "name": "kaid",
+            "picks": 4465,
+            "pickRate": 2.63,
+            "winRate": 55.5,
+            "kd": 0.94
+          },
+          {
+            "name": "mute",
+            "picks": 4056,
+            "pickRate": 2.39,
+            "winRate": 53.9,
+            "kd": 0.81
+          },
+          {
+            "name": "lesion",
+            "picks": 3721,
+            "pickRate": 2.2,
+            "winRate": 55.0,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 3491,
+            "pickRate": 2.06,
+            "winRate": 54.8,
+            "kd": 1.01
+          },
+          {
+            "name": "smoke",
+            "picks": 3370,
+            "pickRate": 1.99,
+            "winRate": 54.5,
+            "kd": 0.81
+          },
+          {
+            "name": "goyo",
+            "picks": 3244,
+            "pickRate": 1.91,
+            "winRate": 54.3,
+            "kd": 0.89
+          },
+          {
+            "name": "castle",
+            "picks": 3177,
+            "pickRate": 1.87,
+            "winRate": 54.0,
+            "kd": 0.81
+          },
+          {
+            "name": "warden",
+            "picks": 2415,
+            "pickRate": 1.42,
+            "winRate": 54.8,
+            "kd": 0.95
+          },
+          {
+            "name": "doc",
+            "picks": 2409,
+            "pickRate": 1.42,
+            "winRate": 56.0,
+            "kd": 0.84
+          },
+          {
+            "name": "tubarao",
+            "picks": 2384,
+            "pickRate": 1.41,
+            "winRate": 55.9,
+            "kd": 1.23
+          },
+          {
+            "name": "bandit",
+            "picks": 2358,
+            "pickRate": 1.39,
+            "winRate": 55.6,
+            "kd": 0.99
+          }
+        ]
+      },
+      "villa": {
+        "totalRounds": 219566,
+        "atkWinRate": 40.9,
+        "defWinRate": 58.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 8968,
+            "pickRate": 4.08,
+            "winRate": 42.0,
+            "kd": 0.94
+          },
+          {
+            "name": "twitch",
+            "picks": 6626,
+            "pickRate": 3.02,
+            "winRate": 42.3,
+            "kd": 0.93
+          },
+          {
+            "name": "nomad",
+            "picks": 6044,
+            "pickRate": 2.75,
+            "winRate": 41.0,
+            "kd": 0.84
+          },
+          {
+            "name": "solid-snake",
+            "picks": 5961,
+            "pickRate": 2.71,
+            "winRate": 40.0,
+            "kd": 0.79
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5526,
+            "pickRate": 2.52,
+            "winRate": 41.0,
+            "kd": 0.77
+          },
+          {
+            "name": "buck",
+            "picks": 5306,
+            "pickRate": 2.42,
+            "winRate": 40.8,
+            "kd": 0.78
+          },
+          {
+            "name": "lion",
+            "picks": 5262,
+            "pickRate": 2.4,
+            "winRate": 40.6,
+            "kd": 0.7
+          },
+          {
+            "name": "brava",
+            "picks": 4592,
+            "pickRate": 2.09,
+            "winRate": 40.6,
+            "kd": 0.83
+          },
+          {
+            "name": "hibana",
+            "picks": 4519,
+            "pickRate": 2.06,
+            "winRate": 40.3,
+            "kd": 0.84
+          },
+          {
+            "name": "grim",
+            "picks": 4009,
+            "pickRate": 1.83,
+            "winRate": 40.5,
+            "kd": 0.71
+          },
+          {
+            "name": "finka",
+            "picks": 3443,
+            "pickRate": 1.57,
+            "winRate": 42.2,
+            "kd": 0.82
+          },
+          {
+            "name": "iq",
+            "picks": 2756,
+            "pickRate": 1.26,
+            "winRate": 41.0,
+            "kd": 0.91
+          },
+          {
+            "name": "deimos",
+            "picks": 2554,
+            "pickRate": 1.16,
+            "winRate": 40.1,
+            "kd": 0.78
+          },
+          {
+            "name": "sledge",
+            "picks": 2410,
+            "pickRate": 1.1,
+            "winRate": 39.4,
+            "kd": 0.81
+          },
+          {
+            "name": "blackbeard",
+            "picks": 2355,
+            "pickRate": 1.07,
+            "winRate": 41.4,
+            "kd": 0.69
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 7498,
+            "pickRate": 3.41,
+            "winRate": 59.0,
+            "kd": 0.99
+          },
+          {
+            "name": "aruni",
+            "picks": 7334,
+            "pickRate": 3.34,
+            "winRate": 60.1,
+            "kd": 1.22
+          },
+          {
+            "name": "mute",
+            "picks": 7029,
+            "pickRate": 3.2,
+            "winRate": 57.3,
+            "kd": 0.88
+          },
+          {
+            "name": "lesion",
+            "picks": 6019,
+            "pickRate": 2.74,
+            "winRate": 58.6,
+            "kd": 1.01
+          },
+          {
+            "name": "valkyrie",
+            "picks": 5839,
+            "pickRate": 2.66,
+            "winRate": 59.1,
+            "kd": 1.04
+          },
+          {
+            "name": "azami",
+            "picks": 5262,
+            "pickRate": 2.4,
+            "winRate": 58.3,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 4313,
+            "pickRate": 1.96,
+            "winRate": 57.2,
+            "kd": 0.94
+          },
+          {
+            "name": "vigil",
+            "picks": 4226,
+            "pickRate": 1.92,
+            "winRate": 59.0,
+            "kd": 1.03
+          },
+          {
+            "name": "melusi",
+            "picks": 3730,
+            "pickRate": 1.7,
+            "winRate": 59.5,
+            "kd": 0.98
+          },
+          {
+            "name": "kapkan",
+            "picks": 3608,
+            "pickRate": 1.64,
+            "winRate": 60.1,
+            "kd": 1.13
+          },
+          {
+            "name": "smoke",
+            "picks": 3395,
+            "pickRate": 1.55,
+            "winRate": 57.8,
+            "kd": 0.88
+          },
+          {
+            "name": "doc",
+            "picks": 3338,
+            "pickRate": 1.52,
+            "winRate": 58.4,
+            "kd": 0.9
+          },
+          {
+            "name": "jager",
+            "picks": 3315,
+            "pickRate": 1.51,
+            "winRate": 56.4,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 3299,
+            "pickRate": 1.5,
+            "winRate": 58.0,
+            "kd": 1.05
+          },
+          {
+            "name": "warden",
+            "picks": 3239,
+            "pickRate": 1.48,
+            "winRate": 56.9,
+            "kd": 1.0
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 90390,
+        "atkWinRate": 41.5,
+        "defWinRate": 57.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 3812,
+            "pickRate": 4.22,
+            "winRate": 43.8,
+            "kd": 0.96
+          },
+          {
+            "name": "twitch",
+            "picks": 2779,
+            "pickRate": 3.07,
+            "winRate": 41.1,
+            "kd": 0.87
+          },
+          {
+            "name": "thermite",
+            "picks": 2501,
+            "pickRate": 2.77,
+            "winRate": 43.4,
+            "kd": 0.77
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2447,
+            "pickRate": 2.71,
+            "winRate": 43.1,
+            "kd": 0.86
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2396,
+            "pickRate": 2.65,
+            "winRate": 39.9,
+            "kd": 0.74
+          },
+          {
+            "name": "nomad",
+            "picks": 2168,
+            "pickRate": 2.4,
+            "winRate": 42.8,
+            "kd": 0.87
+          },
+          {
+            "name": "buck",
+            "picks": 1949,
+            "pickRate": 2.16,
+            "winRate": 40.3,
+            "kd": 0.81
+          },
+          {
+            "name": "lion",
+            "picks": 1821,
+            "pickRate": 2.01,
+            "winRate": 40.8,
+            "kd": 0.71
+          },
+          {
+            "name": "grim",
+            "picks": 1763,
+            "pickRate": 1.95,
+            "winRate": 40.8,
+            "kd": 0.75
+          },
+          {
+            "name": "thatcher",
+            "picks": 1633,
+            "pickRate": 1.81,
+            "winRate": 39.9,
+            "kd": 0.76
+          },
+          {
+            "name": "hibana",
+            "picks": 1463,
+            "pickRate": 1.62,
+            "winRate": 40.1,
+            "kd": 0.8
+          },
+          {
+            "name": "brava",
+            "picks": 1402,
+            "pickRate": 1.55,
+            "winRate": 40.9,
+            "kd": 0.89
+          },
+          {
+            "name": "finka",
+            "picks": 1355,
+            "pickRate": 1.5,
+            "winRate": 41.6,
+            "kd": 0.81
+          },
+          {
+            "name": "striker",
+            "picks": 1217,
+            "pickRate": 1.35,
+            "winRate": 42.4,
+            "kd": 0.93
+          },
+          {
+            "name": "ace",
+            "picks": 1103,
+            "pickRate": 1.22,
+            "winRate": 45.8,
+            "kd": 1.02
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 3156,
+            "pickRate": 3.49,
+            "winRate": 58.4,
+            "kd": 1.0
+          },
+          {
+            "name": "mute",
+            "picks": 2906,
+            "pickRate": 3.21,
+            "winRate": 58.5,
+            "kd": 0.9
+          },
+          {
+            "name": "aruni",
+            "picks": 2725,
+            "pickRate": 3.01,
+            "winRate": 59.4,
+            "kd": 1.14
+          },
+          {
+            "name": "lesion",
+            "picks": 2689,
+            "pickRate": 2.97,
+            "winRate": 57.4,
+            "kd": 1.01
+          },
+          {
+            "name": "bandit",
+            "picks": 2514,
+            "pickRate": 2.78,
+            "winRate": 57.0,
+            "kd": 1.02
+          },
+          {
+            "name": "azami",
+            "picks": 2249,
+            "pickRate": 2.49,
+            "winRate": 56.8,
+            "kd": 1.02
+          },
+          {
+            "name": "kaid",
+            "picks": 1990,
+            "pickRate": 2.2,
+            "winRate": 58.0,
+            "kd": 0.89
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1836,
+            "pickRate": 2.03,
+            "winRate": 56.8,
+            "kd": 1.01
+          },
+          {
+            "name": "vigil",
+            "picks": 1673,
+            "pickRate": 1.85,
+            "winRate": 56.4,
+            "kd": 1.08
+          },
+          {
+            "name": "smoke",
+            "picks": 1660,
+            "pickRate": 1.84,
+            "winRate": 55.7,
+            "kd": 0.9
+          },
+          {
+            "name": "warden",
+            "picks": 1534,
+            "pickRate": 1.7,
+            "winRate": 55.7,
+            "kd": 1.1
+          },
+          {
+            "name": "doc",
+            "picks": 1462,
+            "pickRate": 1.62,
+            "winRate": 58.7,
+            "kd": 0.91
+          },
+          {
+            "name": "kapkan",
+            "picks": 1404,
+            "pickRate": 1.55,
+            "winRate": 58.4,
+            "kd": 1.05
+          },
+          {
+            "name": "ela",
+            "picks": 1392,
+            "pickRate": 1.54,
+            "winRate": 56.0,
+            "kd": 1.04
+          },
+          {
+            "name": "melusi",
+            "picks": 1382,
+            "pickRate": 1.53,
+            "winRate": 58.7,
+            "kd": 0.99
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 289923,
+        "atkWinRate": 43.5,
+        "defWinRate": 55.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 10942,
+            "pickRate": 3.77,
+            "winRate": 44.6,
+            "kd": 1.0
+          },
+          {
+            "name": "twitch",
+            "picks": 7737,
+            "pickRate": 2.67,
+            "winRate": 44.8,
+            "kd": 1.01
+          },
+          {
+            "name": "nomad",
+            "picks": 7014,
+            "pickRate": 2.42,
+            "winRate": 43.6,
+            "kd": 0.88
+          },
+          {
+            "name": "thermite",
+            "picks": 7013,
+            "pickRate": 2.42,
+            "winRate": 42.6,
+            "kd": 0.77
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 6697,
+            "pickRate": 2.31,
+            "winRate": 43.2,
+            "kd": 0.83
+          },
+          {
+            "name": "solid-snake",
+            "picks": 6460,
+            "pickRate": 2.23,
+            "winRate": 42.4,
+            "kd": 0.79
+          },
+          {
+            "name": "buck",
+            "picks": 6077,
+            "pickRate": 2.1,
+            "winRate": 43.0,
+            "kd": 0.84
+          },
+          {
+            "name": "grim",
+            "picks": 5917,
+            "pickRate": 2.04,
+            "winRate": 41.9,
+            "kd": 0.73
+          },
+          {
+            "name": "lion",
+            "picks": 5208,
+            "pickRate": 1.8,
+            "winRate": 44.3,
+            "kd": 0.76
+          },
+          {
+            "name": "hibana",
+            "picks": 5150,
+            "pickRate": 1.78,
+            "winRate": 43.0,
+            "kd": 0.88
+          },
+          {
+            "name": "brava",
+            "picks": 5091,
+            "pickRate": 1.76,
+            "winRate": 44.5,
+            "kd": 0.89
+          },
+          {
+            "name": "ace",
+            "picks": 4232,
+            "pickRate": 1.46,
+            "winRate": 44.1,
+            "kd": 0.87
+          },
+          {
+            "name": "striker",
+            "picks": 4101,
+            "pickRate": 1.41,
+            "winRate": 44.7,
+            "kd": 0.97
+          },
+          {
+            "name": "finka",
+            "picks": 3875,
+            "pickRate": 1.34,
+            "winRate": 46.4,
+            "kd": 0.9
+          },
+          {
+            "name": "osa",
+            "picks": 3875,
+            "pickRate": 1.34,
+            "winRate": 44.1,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 10115,
+            "pickRate": 3.49,
+            "winRate": 55.0,
+            "kd": 0.92
+          },
+          {
+            "name": "thorn",
+            "picks": 9843,
+            "pickRate": 3.4,
+            "winRate": 57.9,
+            "kd": 1.0
+          },
+          {
+            "name": "aruni",
+            "picks": 9193,
+            "pickRate": 3.17,
+            "winRate": 57.3,
+            "kd": 1.13
+          },
+          {
+            "name": "kaid",
+            "picks": 7165,
+            "pickRate": 2.47,
+            "winRate": 55.3,
+            "kd": 0.87
+          },
+          {
+            "name": "azami",
+            "picks": 6820,
+            "pickRate": 2.35,
+            "winRate": 54.8,
+            "kd": 0.92
+          },
+          {
+            "name": "lesion",
+            "picks": 6500,
+            "pickRate": 2.24,
+            "winRate": 56.2,
+            "kd": 0.97
+          },
+          {
+            "name": "valkyrie",
+            "picks": 6395,
+            "pickRate": 2.21,
+            "winRate": 55.2,
+            "kd": 1.01
+          },
+          {
+            "name": "smoke",
+            "picks": 5724,
+            "pickRate": 1.97,
+            "winRate": 54.5,
+            "kd": 0.86
+          },
+          {
+            "name": "warden",
+            "picks": 5632,
+            "pickRate": 1.94,
+            "winRate": 54.4,
+            "kd": 1.06
+          },
+          {
+            "name": "bandit",
+            "picks": 5403,
+            "pickRate": 1.86,
+            "winRate": 56.6,
+            "kd": 0.97
+          },
+          {
+            "name": "melusi",
+            "picks": 5255,
+            "pickRate": 1.81,
+            "winRate": 56.4,
+            "kd": 0.89
+          },
+          {
+            "name": "fenrir",
+            "picks": 5037,
+            "pickRate": 1.74,
+            "winRate": 54.7,
+            "kd": 0.87
+          },
+          {
+            "name": "vigil",
+            "picks": 4908,
+            "pickRate": 1.69,
+            "winRate": 53.9,
+            "kd": 1.07
+          },
+          {
+            "name": "jager",
+            "picks": 4638,
+            "pickRate": 1.6,
+            "winRate": 53.7,
+            "kd": 0.83
+          },
+          {
+            "name": "doc",
+            "picks": 4131,
+            "pickRate": 1.42,
+            "winRate": 55.5,
+            "kd": 0.85
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 76929,
+        "atkWinRate": 46.9,
+        "defWinRate": 52.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 3016,
+            "pickRate": 3.92,
+            "winRate": 47.8,
+            "kd": 1.03
+          },
+          {
+            "name": "thermite",
+            "picks": 2302,
+            "pickRate": 2.99,
+            "winRate": 46.9,
+            "kd": 0.88
+          },
+          {
+            "name": "twitch",
+            "picks": 2146,
+            "pickRate": 2.79,
+            "winRate": 46.8,
+            "kd": 1.02
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2097,
+            "pickRate": 2.73,
+            "winRate": 47.4,
+            "kd": 0.82
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1998,
+            "pickRate": 2.6,
+            "winRate": 47.8,
+            "kd": 0.9
+          },
+          {
+            "name": "buck",
+            "picks": 1970,
+            "pickRate": 2.56,
+            "winRate": 45.3,
+            "kd": 0.91
+          },
+          {
+            "name": "lion",
+            "picks": 1696,
+            "pickRate": 2.2,
+            "winRate": 46.1,
+            "kd": 0.79
+          },
+          {
+            "name": "nomad",
+            "picks": 1631,
+            "pickRate": 2.12,
+            "winRate": 47.7,
+            "kd": 0.91
+          },
+          {
+            "name": "grim",
+            "picks": 1365,
+            "pickRate": 1.77,
+            "winRate": 45.1,
+            "kd": 0.76
+          },
+          {
+            "name": "brava",
+            "picks": 1315,
+            "pickRate": 1.71,
+            "winRate": 46.3,
+            "kd": 0.98
+          },
+          {
+            "name": "thatcher",
+            "picks": 1293,
+            "pickRate": 1.68,
+            "winRate": 48.1,
+            "kd": 0.92
+          },
+          {
+            "name": "finka",
+            "picks": 1271,
+            "pickRate": 1.65,
+            "winRate": 48.1,
+            "kd": 0.94
+          },
+          {
+            "name": "hibana",
+            "picks": 1053,
+            "pickRate": 1.37,
+            "winRate": 46.9,
+            "kd": 0.92
+          },
+          {
+            "name": "striker",
+            "picks": 978,
+            "pickRate": 1.27,
+            "winRate": 47.5,
+            "kd": 0.99
+          },
+          {
+            "name": "ace",
+            "picks": 942,
+            "pickRate": 1.22,
+            "winRate": 49.2,
+            "kd": 1.0
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 2621,
+            "pickRate": 3.41,
+            "winRate": 53.3,
+            "kd": 0.92
+          },
+          {
+            "name": "mute",
+            "picks": 2430,
+            "pickRate": 3.16,
+            "winRate": 51.3,
+            "kd": 0.85
+          },
+          {
+            "name": "aruni",
+            "picks": 2358,
+            "pickRate": 3.07,
+            "winRate": 53.2,
+            "kd": 1.09
+          },
+          {
+            "name": "bandit",
+            "picks": 2269,
+            "pickRate": 2.95,
+            "winRate": 52.4,
+            "kd": 0.88
+          },
+          {
+            "name": "lesion",
+            "picks": 2175,
+            "pickRate": 2.83,
+            "winRate": 52.9,
+            "kd": 0.94
+          },
+          {
+            "name": "kaid",
+            "picks": 1869,
+            "pickRate": 2.43,
+            "winRate": 52.7,
+            "kd": 0.87
+          },
+          {
+            "name": "azami",
+            "picks": 1747,
+            "pickRate": 2.27,
+            "winRate": 51.3,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1638,
+            "pickRate": 2.13,
+            "winRate": 51.8,
+            "kd": 0.96
+          },
+          {
+            "name": "vigil",
+            "picks": 1637,
+            "pickRate": 2.13,
+            "winRate": 52.5,
+            "kd": 1.02
+          },
+          {
+            "name": "doc",
+            "picks": 1341,
+            "pickRate": 1.74,
+            "winRate": 54.7,
+            "kd": 0.84
+          },
+          {
+            "name": "kapkan",
+            "picks": 1338,
+            "pickRate": 1.74,
+            "winRate": 53.9,
+            "kd": 0.96
+          },
+          {
+            "name": "warden",
+            "picks": 1162,
+            "pickRate": 1.51,
+            "winRate": 52.2,
+            "kd": 0.97
+          },
+          {
+            "name": "smoke",
+            "picks": 1131,
+            "pickRate": 1.47,
+            "winRate": 49.5,
+            "kd": 0.76
+          },
+          {
+            "name": "melusi",
+            "picks": 1114,
+            "pickRate": 1.45,
+            "winRate": 50.1,
+            "kd": 0.77
+          },
+          {
+            "name": "tubarao",
+            "picks": 1080,
+            "pickRate": 1.4,
+            "winRate": 50.0,
+            "kd": 0.96
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 64338,
+        "atkWinRate": 41.5,
+        "defWinRate": 56.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 2521,
+            "pickRate": 3.92,
+            "winRate": 41.1,
+            "kd": 0.95
+          },
+          {
+            "name": "thermite",
+            "picks": 2048,
+            "pickRate": 3.18,
+            "winRate": 42.5,
+            "kd": 0.79
+          },
+          {
+            "name": "twitch",
+            "picks": 1859,
+            "pickRate": 2.89,
+            "winRate": 42.7,
+            "kd": 0.96
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1813,
+            "pickRate": 2.82,
+            "winRate": 42.3,
+            "kd": 0.77
+          },
+          {
+            "name": "solid-snake",
+            "picks": 1619,
+            "pickRate": 2.52,
+            "winRate": 40.9,
+            "kd": 0.83
+          },
+          {
+            "name": "buck",
+            "picks": 1487,
+            "pickRate": 2.31,
+            "winRate": 41.8,
+            "kd": 0.86
+          },
+          {
+            "name": "grim",
+            "picks": 1338,
+            "pickRate": 2.08,
+            "winRate": 42.2,
+            "kd": 0.72
+          },
+          {
+            "name": "lion",
+            "picks": 1333,
+            "pickRate": 2.07,
+            "winRate": 44.6,
+            "kd": 0.77
+          },
+          {
+            "name": "nomad",
+            "picks": 1329,
+            "pickRate": 2.07,
+            "winRate": 40.3,
+            "kd": 0.86
+          },
+          {
+            "name": "thatcher",
+            "picks": 1208,
+            "pickRate": 1.88,
+            "winRate": 42.2,
+            "kd": 0.79
+          },
+          {
+            "name": "hibana",
+            "picks": 962,
+            "pickRate": 1.5,
+            "winRate": 43.3,
+            "kd": 0.83
+          },
+          {
+            "name": "brava",
+            "picks": 938,
+            "pickRate": 1.46,
+            "winRate": 42.4,
+            "kd": 0.83
+          },
+          {
+            "name": "finka",
+            "picks": 935,
+            "pickRate": 1.45,
+            "winRate": 42.7,
+            "kd": 0.84
+          },
+          {
+            "name": "striker",
+            "picks": 915,
+            "pickRate": 1.42,
+            "winRate": 40.2,
+            "kd": 0.93
+          },
+          {
+            "name": "ace",
+            "picks": 803,
+            "pickRate": 1.25,
+            "winRate": 39.2,
+            "kd": 0.98
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 2218,
+            "pickRate": 3.45,
+            "winRate": 53.7,
+            "kd": 0.87
+          },
+          {
+            "name": "aruni",
+            "picks": 2029,
+            "pickRate": 3.15,
+            "winRate": 58.8,
+            "kd": 1.2
+          },
+          {
+            "name": "bandit",
+            "picks": 1989,
+            "pickRate": 3.09,
+            "winRate": 57.6,
+            "kd": 0.96
+          },
+          {
+            "name": "thorn",
+            "picks": 1927,
+            "pickRate": 3.0,
+            "winRate": 58.1,
+            "kd": 0.95
+          },
+          {
+            "name": "lesion",
+            "picks": 1786,
+            "pickRate": 2.78,
+            "winRate": 58.3,
+            "kd": 0.99
+          },
+          {
+            "name": "kaid",
+            "picks": 1606,
+            "pickRate": 2.5,
+            "winRate": 56.7,
+            "kd": 0.83
+          },
+          {
+            "name": "azami",
+            "picks": 1517,
+            "pickRate": 2.36,
+            "winRate": 57.7,
+            "kd": 0.96
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1315,
+            "pickRate": 2.04,
+            "winRate": 55.8,
+            "kd": 0.99
+          },
+          {
+            "name": "smoke",
+            "picks": 1253,
+            "pickRate": 1.95,
+            "winRate": 57.7,
+            "kd": 0.81
+          },
+          {
+            "name": "vigil",
+            "picks": 1219,
+            "pickRate": 1.89,
+            "winRate": 55.5,
+            "kd": 1.11
+          },
+          {
+            "name": "kapkan",
+            "picks": 1084,
+            "pickRate": 1.68,
+            "winRate": 61.1,
+            "kd": 1.08
+          },
+          {
+            "name": "warden",
+            "picks": 1078,
+            "pickRate": 1.68,
+            "winRate": 54.3,
+            "kd": 0.96
+          },
+          {
+            "name": "tubarao",
+            "picks": 1047,
+            "pickRate": 1.63,
+            "winRate": 57.1,
+            "kd": 1.05
+          },
+          {
+            "name": "melusi",
+            "picks": 1032,
+            "pickRate": 1.6,
+            "winRate": 59.2,
+            "kd": 1.04
+          },
+          {
+            "name": "doc",
+            "picks": 1013,
+            "pickRate": 1.57,
+            "winRate": 56.6,
+            "kd": 0.84
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 3180,
+        "atkWinRate": 43.1,
+        "defWinRate": 55.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 160,
+            "pickRate": 5.03,
+            "winRate": 45.6,
+            "kd": 1.08
+          },
+          {
+            "name": "twitch",
+            "picks": 99,
+            "pickRate": 3.11,
+            "winRate": 37.4,
+            "kd": 0.96
+          },
+          {
+            "name": "hibana",
+            "picks": 87,
+            "pickRate": 2.74,
+            "winRate": 41.4,
+            "kd": 1.03
+          },
+          {
+            "name": "buck",
+            "picks": 87,
+            "pickRate": 2.74,
+            "winRate": 41.4,
+            "kd": 0.69
+          },
+          {
+            "name": "thermite",
+            "picks": 81,
+            "pickRate": 2.55,
+            "winRate": 49.4,
+            "kd": 1.04
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 75,
+            "pickRate": 2.36,
+            "winRate": 49.3,
+            "kd": 1.29
+          },
+          {
+            "name": "thatcher",
+            "picks": 68,
+            "pickRate": 2.14,
+            "winRate": 47.1,
+            "kd": 0.82
+          },
+          {
+            "name": "lion",
+            "picks": 63,
+            "pickRate": 1.98,
+            "winRate": 55.6,
+            "kd": 0.93
+          },
+          {
+            "name": "nomad",
+            "picks": 62,
+            "pickRate": 1.95,
+            "winRate": 35.5,
+            "kd": 0.63
+          },
+          {
+            "name": "grim",
+            "picks": 57,
+            "pickRate": 1.79,
+            "winRate": 33.3,
+            "kd": 0.87
+          },
+          {
+            "name": "blackbeard",
+            "picks": 51,
+            "pickRate": 1.6,
+            "winRate": 33.3,
+            "kd": 0.64
+          },
+          {
+            "name": "brava",
+            "picks": 51,
+            "pickRate": 1.6,
+            "winRate": 37.3,
+            "kd": 0.61
+          },
+          {
+            "name": "finka",
+            "picks": 48,
+            "pickRate": 1.51,
+            "winRate": 43.8,
+            "kd": 0.91
+          },
+          {
+            "name": "deimos",
+            "picks": 41,
+            "pickRate": 1.29,
+            "winRate": 41.5,
+            "kd": 0.71
+          },
+          {
+            "name": "ace",
+            "picks": 41,
+            "pickRate": 1.29,
+            "winRate": 53.7,
+            "kd": 1.27
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 108,
+            "pickRate": 3.4,
+            "winRate": 49.1,
+            "kd": 0.97
+          },
+          {
+            "name": "lesion",
+            "picks": 101,
+            "pickRate": 3.18,
+            "winRate": 50.5,
+            "kd": 0.92
+          },
+          {
+            "name": "aruni",
+            "picks": 99,
+            "pickRate": 3.11,
+            "winRate": 60.6,
+            "kd": 1.3
+          },
+          {
+            "name": "azami",
+            "picks": 90,
+            "pickRate": 2.83,
+            "winRate": 58.9,
+            "kd": 1.34
+          },
+          {
+            "name": "mute",
+            "picks": 82,
+            "pickRate": 2.58,
+            "winRate": 56.1,
+            "kd": 0.89
+          },
+          {
+            "name": "valkyrie",
+            "picks": 78,
+            "pickRate": 2.45,
+            "winRate": 53.8,
+            "kd": 0.79
+          },
+          {
+            "name": "kaid",
+            "picks": 78,
+            "pickRate": 2.45,
+            "winRate": 51.3,
+            "kd": 0.82
+          },
+          {
+            "name": "thorn",
+            "picks": 76,
+            "pickRate": 2.39,
+            "winRate": 55.3,
+            "kd": 0.91
+          },
+          {
+            "name": "doc",
+            "picks": 66,
+            "pickRate": 2.08,
+            "winRate": 57.6,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 64,
+            "pickRate": 2.01,
+            "winRate": 51.6,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 59,
+            "pickRate": 1.86,
+            "winRate": 57.6,
+            "kd": 1.24
+          },
+          {
+            "name": "melusi",
+            "picks": 52,
+            "pickRate": 1.64,
+            "winRate": 57.7,
+            "kd": 0.66
+          },
+          {
+            "name": "smoke",
+            "picks": 47,
+            "pickRate": 1.48,
+            "winRate": 61.7,
+            "kd": 0.94
+          },
+          {
+            "name": "kapkan",
+            "picks": 45,
+            "pickRate": 1.42,
+            "winRate": 55.6,
+            "kd": 1.24
+          },
+          {
+            "name": "ela",
+            "picks": 45,
+            "pickRate": 1.42,
+            "winRate": 55.6,
+            "kd": 1.0
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 2058,
+        "atkWinRate": 42.9,
+        "defWinRate": 63.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 107,
+            "pickRate": 5.2,
+            "winRate": 44.9,
+            "kd": 0.9
+          },
+          {
+            "name": "nomad",
+            "picks": 61,
+            "pickRate": 2.96,
+            "winRate": 42.6,
+            "kd": 1.05
+          },
+          {
+            "name": "buck",
+            "picks": 60,
+            "pickRate": 2.92,
+            "winRate": 50.0,
+            "kd": 0.72
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 59,
+            "pickRate": 2.87,
+            "winRate": 39.0,
+            "kd": 0.95
+          },
+          {
+            "name": "thermite",
+            "picks": 48,
+            "pickRate": 2.33,
+            "winRate": 37.5,
+            "kd": 0.78
+          },
+          {
+            "name": "twitch",
+            "picks": 46,
+            "pickRate": 2.24,
+            "winRate": 54.3,
+            "kd": 0.87
+          },
+          {
+            "name": "hibana",
+            "picks": 44,
+            "pickRate": 2.14,
+            "winRate": 29.5,
+            "kd": 0.77
+          },
+          {
+            "name": "lion",
+            "picks": 41,
+            "pickRate": 1.99,
+            "winRate": 39.0,
+            "kd": 0.72
+          },
+          {
+            "name": "thatcher",
+            "picks": 39,
+            "pickRate": 1.9,
+            "winRate": 43.6,
+            "kd": 0.78
+          },
+          {
+            "name": "blackbeard",
+            "picks": 37,
+            "pickRate": 1.8,
+            "winRate": 43.2,
+            "kd": 0.65
+          },
+          {
+            "name": "grim",
+            "picks": 36,
+            "pickRate": 1.75,
+            "winRate": 44.4,
+            "kd": 0.84
+          },
+          {
+            "name": "brava",
+            "picks": 34,
+            "pickRate": 1.65,
+            "winRate": 41.2,
+            "kd": 1.0
+          },
+          {
+            "name": "finka",
+            "picks": 31,
+            "pickRate": 1.51,
+            "winRate": 41.9,
+            "kd": 0.77
+          },
+          {
+            "name": "sledge",
+            "picks": 30,
+            "pickRate": 1.46,
+            "winRate": 53.3,
+            "kd": 1.0
+          },
+          {
+            "name": "deimos",
+            "picks": 28,
+            "pickRate": 1.36,
+            "winRate": 46.4,
+            "kd": 1.19
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 91,
+            "pickRate": 4.42,
+            "winRate": 68.1,
+            "kd": 1.16
+          },
+          {
+            "name": "valkyrie",
+            "picks": 60,
+            "pickRate": 2.92,
+            "winRate": 58.3,
+            "kd": 0.86
+          },
+          {
+            "name": "aruni",
+            "picks": 60,
+            "pickRate": 2.92,
+            "winRate": 65.0,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 56,
+            "pickRate": 2.72,
+            "winRate": 57.1,
+            "kd": 1.08
+          },
+          {
+            "name": "bandit",
+            "picks": 55,
+            "pickRate": 2.67,
+            "winRate": 74.5,
+            "kd": 1.09
+          },
+          {
+            "name": "lesion",
+            "picks": 47,
+            "pickRate": 2.28,
+            "winRate": 53.2,
+            "kd": 0.77
+          },
+          {
+            "name": "tubarao",
+            "picks": 40,
+            "pickRate": 1.94,
+            "winRate": 67.5,
+            "kd": 1.79
+          },
+          {
+            "name": "doc",
+            "picks": 37,
+            "pickRate": 1.8,
+            "winRate": 59.5,
+            "kd": 0.86
+          },
+          {
+            "name": "vigil",
+            "picks": 34,
+            "pickRate": 1.65,
+            "winRate": 47.1,
+            "kd": 0.93
+          },
+          {
+            "name": "thorn",
+            "picks": 34,
+            "pickRate": 1.65,
+            "winRate": 79.4,
+            "kd": 1.5
+          },
+          {
+            "name": "ela",
+            "picks": 33,
+            "pickRate": 1.6,
+            "winRate": 69.7,
+            "kd": 1.89
+          },
+          {
+            "name": "melusi",
+            "picks": 33,
+            "pickRate": 1.6,
+            "winRate": 57.6,
+            "kd": 1.28
+          },
+          {
+            "name": "goyo",
+            "picks": 32,
+            "pickRate": 1.55,
+            "winRate": 56.2,
+            "kd": 0.72
+          },
+          {
+            "name": "smoke",
+            "picks": 32,
+            "pickRate": 1.55,
+            "winRate": 71.9,
+            "kd": 1.09
+          },
+          {
+            "name": "kaid",
+            "picks": 32,
+            "pickRate": 1.55,
+            "winRate": 75.0,
+            "kd": 1.73
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 2383,
+        "atkWinRate": 40.5,
+        "defWinRate": 58.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 146,
+            "pickRate": 6.13,
+            "winRate": 39.0,
+            "kd": 1.06
+          },
+          {
+            "name": "nomad",
+            "picks": 81,
+            "pickRate": 3.4,
+            "winRate": 38.3,
+            "kd": 0.9
+          },
+          {
+            "name": "buck",
+            "picks": 67,
+            "pickRate": 2.81,
+            "winRate": 35.8,
+            "kd": 0.77
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 61,
+            "pickRate": 2.56,
+            "winRate": 36.1,
+            "kd": 1.15
+          },
+          {
+            "name": "thermite",
+            "picks": 61,
+            "pickRate": 2.56,
+            "winRate": 37.7,
+            "kd": 0.76
+          },
+          {
+            "name": "grim",
+            "picks": 53,
+            "pickRate": 2.22,
+            "winRate": 32.1,
+            "kd": 0.56
+          },
+          {
+            "name": "lion",
+            "picks": 51,
+            "pickRate": 2.14,
+            "winRate": 41.2,
+            "kd": 0.74
+          },
+          {
+            "name": "twitch",
+            "picks": 46,
+            "pickRate": 1.93,
+            "winRate": 37.0,
+            "kd": 1.26
+          },
+          {
+            "name": "blackbeard",
+            "picks": 39,
+            "pickRate": 1.64,
+            "winRate": 43.6,
+            "kd": 0.81
+          },
+          {
+            "name": "ace",
+            "picks": 36,
+            "pickRate": 1.51,
+            "winRate": 47.2,
+            "kd": 1.04
+          },
+          {
+            "name": "hibana",
+            "picks": 33,
+            "pickRate": 1.38,
+            "winRate": 45.5,
+            "kd": 0.64
+          },
+          {
+            "name": "striker",
+            "picks": 33,
+            "pickRate": 1.38,
+            "winRate": 42.4,
+            "kd": 1.09
+          },
+          {
+            "name": "gridlock",
+            "picks": 32,
+            "pickRate": 1.34,
+            "winRate": 53.1,
+            "kd": 0.74
+          },
+          {
+            "name": "thatcher",
+            "picks": 31,
+            "pickRate": 1.3,
+            "winRate": 41.9,
+            "kd": 1.09
+          },
+          {
+            "name": "finka",
+            "picks": 31,
+            "pickRate": 1.3,
+            "winRate": 35.5,
+            "kd": 0.96
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 80,
+            "pickRate": 3.36,
+            "winRate": 62.5,
+            "kd": 1.23
+          },
+          {
+            "name": "bandit",
+            "picks": 77,
+            "pickRate": 3.23,
+            "winRate": 51.9,
+            "kd": 1.0
+          },
+          {
+            "name": "mute",
+            "picks": 75,
+            "pickRate": 3.15,
+            "winRate": 60.0,
+            "kd": 1.17
+          },
+          {
+            "name": "aruni",
+            "picks": 64,
+            "pickRate": 2.69,
+            "winRate": 71.9,
+            "kd": 1.43
+          },
+          {
+            "name": "thorn",
+            "picks": 54,
+            "pickRate": 2.27,
+            "winRate": 68.5,
+            "kd": 1.4
+          },
+          {
+            "name": "valkyrie",
+            "picks": 52,
+            "pickRate": 2.18,
+            "winRate": 51.9,
+            "kd": 1.03
+          },
+          {
+            "name": "smoke",
+            "picks": 50,
+            "pickRate": 2.1,
+            "winRate": 48.0,
+            "kd": 0.87
+          },
+          {
+            "name": "vigil",
+            "picks": 49,
+            "pickRate": 2.06,
+            "winRate": 63.3,
+            "kd": 1.61
+          },
+          {
+            "name": "azami",
+            "picks": 48,
+            "pickRate": 2.01,
+            "winRate": 52.1,
+            "kd": 1.32
+          },
+          {
+            "name": "warden",
+            "picks": 46,
+            "pickRate": 1.93,
+            "winRate": 50.0,
+            "kd": 0.67
+          },
+          {
+            "name": "ela",
+            "picks": 43,
+            "pickRate": 1.8,
+            "winRate": 53.5,
+            "kd": 1.2
+          },
+          {
+            "name": "tubarao",
+            "picks": 38,
+            "pickRate": 1.59,
+            "winRate": 57.9,
+            "kd": 1.24
+          },
+          {
+            "name": "solis",
+            "picks": 34,
+            "pickRate": 1.43,
+            "winRate": 67.6,
+            "kd": 1.28
+          },
+          {
+            "name": "castle",
+            "picks": 34,
+            "pickRate": 1.43,
+            "winRate": 50.0,
+            "kd": 0.71
+          },
+          {
+            "name": "melusi",
+            "picks": 33,
+            "pickRate": 1.38,
+            "winRate": 57.6,
+            "kd": 0.95
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 4678,
+        "atkWinRate": 42.9,
+        "defWinRate": 57.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 186,
+            "pickRate": 3.98,
+            "winRate": 46.8,
+            "kd": 0.92
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 149,
+            "pickRate": 3.19,
+            "winRate": 38.9,
+            "kd": 0.76
+          },
+          {
+            "name": "thermite",
+            "picks": 145,
+            "pickRate": 3.1,
+            "winRate": 46.9,
+            "kd": 0.81
+          },
+          {
+            "name": "buck",
+            "picks": 142,
+            "pickRate": 3.04,
+            "winRate": 42.3,
+            "kd": 0.88
+          },
+          {
+            "name": "thatcher",
+            "picks": 122,
+            "pickRate": 2.61,
+            "winRate": 44.3,
+            "kd": 0.87
+          },
+          {
+            "name": "nomad",
+            "picks": 105,
+            "pickRate": 2.24,
+            "winRate": 41.9,
+            "kd": 0.82
+          },
+          {
+            "name": "twitch",
+            "picks": 103,
+            "pickRate": 2.2,
+            "winRate": 38.8,
+            "kd": 0.96
+          },
+          {
+            "name": "brava",
+            "picks": 99,
+            "pickRate": 2.12,
+            "winRate": 40.4,
+            "kd": 0.84
+          },
+          {
+            "name": "lion",
+            "picks": 85,
+            "pickRate": 1.82,
+            "winRate": 49.4,
+            "kd": 0.84
+          },
+          {
+            "name": "grim",
+            "picks": 83,
+            "pickRate": 1.77,
+            "winRate": 39.8,
+            "kd": 0.84
+          },
+          {
+            "name": "hibana",
+            "picks": 76,
+            "pickRate": 1.62,
+            "winRate": 51.3,
+            "kd": 0.97
+          },
+          {
+            "name": "iq",
+            "picks": 71,
+            "pickRate": 1.52,
+            "winRate": 36.6,
+            "kd": 1.04
+          },
+          {
+            "name": "blackbeard",
+            "picks": 69,
+            "pickRate": 1.47,
+            "winRate": 44.9,
+            "kd": 0.84
+          },
+          {
+            "name": "fuze",
+            "picks": 69,
+            "pickRate": 1.47,
+            "winRate": 43.5,
+            "kd": 0.79
+          },
+          {
+            "name": "ace",
+            "picks": 63,
+            "pickRate": 1.35,
+            "winRate": 55.6,
+            "kd": 1.21
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 160,
+            "pickRate": 3.42,
+            "winRate": 60.6,
+            "kd": 1.09
+          },
+          {
+            "name": "mute",
+            "picks": 153,
+            "pickRate": 3.27,
+            "winRate": 58.2,
+            "kd": 0.87
+          },
+          {
+            "name": "bandit",
+            "picks": 145,
+            "pickRate": 3.1,
+            "winRate": 54.5,
+            "kd": 1.0
+          },
+          {
+            "name": "lesion",
+            "picks": 130,
+            "pickRate": 2.78,
+            "winRate": 64.6,
+            "kd": 1.26
+          },
+          {
+            "name": "valkyrie",
+            "picks": 129,
+            "pickRate": 2.76,
+            "winRate": 53.5,
+            "kd": 1.05
+          },
+          {
+            "name": "tubarao",
+            "picks": 125,
+            "pickRate": 2.67,
+            "winRate": 54.4,
+            "kd": 0.92
+          },
+          {
+            "name": "azami",
+            "picks": 116,
+            "pickRate": 2.48,
+            "winRate": 53.4,
+            "kd": 0.85
+          },
+          {
+            "name": "melusi",
+            "picks": 116,
+            "pickRate": 2.48,
+            "winRate": 52.6,
+            "kd": 1.01
+          },
+          {
+            "name": "thorn",
+            "picks": 111,
+            "pickRate": 2.37,
+            "winRate": 64.9,
+            "kd": 1.13
+          },
+          {
+            "name": "smoke",
+            "picks": 80,
+            "pickRate": 1.71,
+            "winRate": 61.3,
+            "kd": 1.0
+          },
+          {
+            "name": "kaid",
+            "picks": 79,
+            "pickRate": 1.69,
+            "winRate": 64.6,
+            "kd": 1.22
+          },
+          {
+            "name": "warden",
+            "picks": 75,
+            "pickRate": 1.6,
+            "winRate": 54.7,
+            "kd": 1.24
+          },
+          {
+            "name": "fenrir",
+            "picks": 71,
+            "pickRate": 1.52,
+            "winRate": 59.2,
+            "kd": 1.11
+          },
+          {
+            "name": "vigil",
+            "picks": 70,
+            "pickRate": 1.5,
+            "winRate": 57.1,
+            "kd": 0.96
+          },
+          {
+            "name": "doc",
+            "picks": 64,
+            "pickRate": 1.37,
+            "winRate": 57.8,
+            "kd": 0.98
+          }
+        ]
+      }
+    },
+    "Bronze": {
+      "villa": {
+        "totalRounds": 170989,
+        "atkWinRate": 40.2,
+        "defWinRate": 57.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7261,
+            "pickRate": 4.25,
+            "winRate": 41.5,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 5091,
+            "pickRate": 2.98,
+            "winRate": 41.3,
+            "kd": 0.92
+          },
+          {
+            "name": "nomad",
+            "picks": 4596,
+            "pickRate": 2.69,
+            "winRate": 39.3,
+            "kd": 0.76
+          },
+          {
+            "name": "buck",
+            "picks": 4447,
+            "pickRate": 2.6,
+            "winRate": 38.7,
+            "kd": 0.74
+          },
+          {
+            "name": "lion",
+            "picks": 4319,
+            "pickRate": 2.53,
+            "winRate": 39.0,
+            "kd": 0.64
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4118,
+            "pickRate": 2.41,
+            "winRate": 40.9,
+            "kd": 0.77
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4020,
+            "pickRate": 2.35,
+            "winRate": 39.4,
+            "kd": 0.73
+          },
+          {
+            "name": "hibana",
+            "picks": 3381,
+            "pickRate": 1.98,
+            "winRate": 39.4,
+            "kd": 0.8
+          },
+          {
+            "name": "brava",
+            "picks": 3295,
+            "pickRate": 1.93,
+            "winRate": 40.2,
+            "kd": 0.78
+          },
+          {
+            "name": "finka",
+            "picks": 2945,
+            "pickRate": 1.72,
+            "winRate": 42.0,
+            "kd": 0.78
+          },
+          {
+            "name": "grim",
+            "picks": 2830,
+            "pickRate": 1.66,
+            "winRate": 38.7,
+            "kd": 0.7
+          },
+          {
+            "name": "iq",
+            "picks": 2206,
+            "pickRate": 1.29,
+            "winRate": 38.9,
+            "kd": 0.91
+          },
+          {
+            "name": "sledge",
+            "picks": 2088,
+            "pickRate": 1.22,
+            "winRate": 40.9,
+            "kd": 0.79
+          },
+          {
+            "name": "deimos",
+            "picks": 1965,
+            "pickRate": 1.15,
+            "winRate": 41.6,
+            "kd": 0.79
+          },
+          {
+            "name": "thermite",
+            "picks": 1887,
+            "pickRate": 1.1,
+            "winRate": 39.3,
+            "kd": 0.65
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 5679,
+            "pickRate": 3.32,
+            "winRate": 58.8,
+            "kd": 0.94
+          },
+          {
+            "name": "mute",
+            "picks": 5539,
+            "pickRate": 3.24,
+            "winRate": 57.1,
+            "kd": 0.85
+          },
+          {
+            "name": "aruni",
+            "picks": 5292,
+            "pickRate": 3.09,
+            "winRate": 58.9,
+            "kd": 1.17
+          },
+          {
+            "name": "lesion",
+            "picks": 4962,
+            "pickRate": 2.9,
+            "winRate": 58.4,
+            "kd": 1.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4525,
+            "pickRate": 2.65,
+            "winRate": 58.2,
+            "kd": 1.04
+          },
+          {
+            "name": "azami",
+            "picks": 3890,
+            "pickRate": 2.28,
+            "winRate": 58.1,
+            "kd": 0.94
+          },
+          {
+            "name": "vigil",
+            "picks": 3277,
+            "pickRate": 1.92,
+            "winRate": 55.6,
+            "kd": 1.03
+          },
+          {
+            "name": "doc",
+            "picks": 3115,
+            "pickRate": 1.82,
+            "winRate": 56.3,
+            "kd": 0.81
+          },
+          {
+            "name": "kaid",
+            "picks": 3046,
+            "pickRate": 1.78,
+            "winRate": 56.8,
+            "kd": 0.93
+          },
+          {
+            "name": "kapkan",
+            "picks": 3005,
+            "pickRate": 1.76,
+            "winRate": 60.0,
+            "kd": 1.05
+          },
+          {
+            "name": "warden",
+            "picks": 2761,
+            "pickRate": 1.61,
+            "winRate": 57.9,
+            "kd": 1.06
+          },
+          {
+            "name": "melusi",
+            "picks": 2748,
+            "pickRate": 1.61,
+            "winRate": 58.9,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 2661,
+            "pickRate": 1.56,
+            "winRate": 56.5,
+            "kd": 0.94
+          },
+          {
+            "name": "smoke",
+            "picks": 2600,
+            "pickRate": 1.52,
+            "winRate": 56.7,
+            "kd": 0.87
+          },
+          {
+            "name": "jager",
+            "picks": 2589,
+            "pickRate": 1.51,
+            "winRate": 56.6,
+            "kd": 0.85
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 130861,
+        "atkWinRate": 41.0,
+        "defWinRate": 57.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 5199,
+            "pickRate": 3.97,
+            "winRate": 41.2,
+            "kd": 0.93
+          },
+          {
+            "name": "buck",
+            "picks": 3737,
+            "pickRate": 2.86,
+            "winRate": 41.5,
+            "kd": 0.79
+          },
+          {
+            "name": "thermite",
+            "picks": 3698,
+            "pickRate": 2.83,
+            "winRate": 40.9,
+            "kd": 0.67
+          },
+          {
+            "name": "twitch",
+            "picks": 3406,
+            "pickRate": 2.6,
+            "winRate": 43.1,
+            "kd": 0.93
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3284,
+            "pickRate": 2.51,
+            "winRate": 41.8,
+            "kd": 0.77
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2821,
+            "pickRate": 2.16,
+            "winRate": 39.7,
+            "kd": 0.74
+          },
+          {
+            "name": "lion",
+            "picks": 2707,
+            "pickRate": 2.07,
+            "winRate": 40.2,
+            "kd": 0.69
+          },
+          {
+            "name": "nomad",
+            "picks": 2640,
+            "pickRate": 2.02,
+            "winRate": 40.0,
+            "kd": 0.78
+          },
+          {
+            "name": "grim",
+            "picks": 2327,
+            "pickRate": 1.78,
+            "winRate": 41.6,
+            "kd": 0.73
+          },
+          {
+            "name": "thatcher",
+            "picks": 2219,
+            "pickRate": 1.7,
+            "winRate": 40.3,
+            "kd": 0.7
+          },
+          {
+            "name": "fuze",
+            "picks": 2001,
+            "pickRate": 1.53,
+            "winRate": 41.1,
+            "kd": 0.85
+          },
+          {
+            "name": "sledge",
+            "picks": 1922,
+            "pickRate": 1.47,
+            "winRate": 39.9,
+            "kd": 0.82
+          },
+          {
+            "name": "finka",
+            "picks": 1839,
+            "pickRate": 1.41,
+            "winRate": 41.6,
+            "kd": 0.75
+          },
+          {
+            "name": "brava",
+            "picks": 1810,
+            "pickRate": 1.38,
+            "winRate": 41.1,
+            "kd": 0.81
+          },
+          {
+            "name": "hibana",
+            "picks": 1722,
+            "pickRate": 1.32,
+            "winRate": 40.1,
+            "kd": 0.78
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 4395,
+            "pickRate": 3.36,
+            "winRate": 58.5,
+            "kd": 0.94
+          },
+          {
+            "name": "mute",
+            "picks": 4172,
+            "pickRate": 3.19,
+            "winRate": 57.2,
+            "kd": 0.91
+          },
+          {
+            "name": "bandit",
+            "picks": 3983,
+            "pickRate": 3.04,
+            "winRate": 56.6,
+            "kd": 0.84
+          },
+          {
+            "name": "lesion",
+            "picks": 3665,
+            "pickRate": 2.8,
+            "winRate": 59.3,
+            "kd": 0.98
+          },
+          {
+            "name": "aruni",
+            "picks": 3628,
+            "pickRate": 2.77,
+            "winRate": 57.7,
+            "kd": 1.09
+          },
+          {
+            "name": "azami",
+            "picks": 2877,
+            "pickRate": 2.2,
+            "winRate": 55.0,
+            "kd": 0.9
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2768,
+            "pickRate": 2.12,
+            "winRate": 56.6,
+            "kd": 0.95
+          },
+          {
+            "name": "tubarao",
+            "picks": 2492,
+            "pickRate": 1.9,
+            "winRate": 57.9,
+            "kd": 1.02
+          },
+          {
+            "name": "vigil",
+            "picks": 2464,
+            "pickRate": 1.88,
+            "winRate": 57.6,
+            "kd": 1.14
+          },
+          {
+            "name": "kaid",
+            "picks": 2386,
+            "pickRate": 1.82,
+            "winRate": 56.5,
+            "kd": 0.85
+          },
+          {
+            "name": "smoke",
+            "picks": 2201,
+            "pickRate": 1.68,
+            "winRate": 55.2,
+            "kd": 0.9
+          },
+          {
+            "name": "warden",
+            "picks": 2189,
+            "pickRate": 1.67,
+            "winRate": 56.5,
+            "kd": 1.08
+          },
+          {
+            "name": "kapkan",
+            "picks": 2120,
+            "pickRate": 1.62,
+            "winRate": 60.6,
+            "kd": 1.16
+          },
+          {
+            "name": "doc",
+            "picks": 2106,
+            "pickRate": 1.61,
+            "winRate": 56.8,
+            "kd": 0.87
+          },
+          {
+            "name": "melusi",
+            "picks": 2075,
+            "pickRate": 1.59,
+            "winRate": 59.1,
+            "kd": 0.91
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 160883,
+        "atkWinRate": 42.0,
+        "defWinRate": 56.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6208,
+            "pickRate": 3.86,
+            "winRate": 43.0,
+            "kd": 0.94
+          },
+          {
+            "name": "buck",
+            "picks": 4443,
+            "pickRate": 2.76,
+            "winRate": 41.5,
+            "kd": 0.76
+          },
+          {
+            "name": "twitch",
+            "picks": 4354,
+            "pickRate": 2.71,
+            "winRate": 42.8,
+            "kd": 0.93
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3735,
+            "pickRate": 2.32,
+            "winRate": 40.2,
+            "kd": 0.76
+          },
+          {
+            "name": "nomad",
+            "picks": 3656,
+            "pickRate": 2.27,
+            "winRate": 42.6,
+            "kd": 0.81
+          },
+          {
+            "name": "lion",
+            "picks": 3595,
+            "pickRate": 2.23,
+            "winRate": 40.4,
+            "kd": 0.69
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3227,
+            "pickRate": 2.01,
+            "winRate": 40.1,
+            "kd": 0.71
+          },
+          {
+            "name": "thermite",
+            "picks": 3211,
+            "pickRate": 2.0,
+            "winRate": 41.8,
+            "kd": 0.74
+          },
+          {
+            "name": "grim",
+            "picks": 2864,
+            "pickRate": 1.78,
+            "winRate": 43.1,
+            "kd": 0.75
+          },
+          {
+            "name": "brava",
+            "picks": 2857,
+            "pickRate": 1.78,
+            "winRate": 41.5,
+            "kd": 0.84
+          },
+          {
+            "name": "hibana",
+            "picks": 2798,
+            "pickRate": 1.74,
+            "winRate": 42.0,
+            "kd": 0.84
+          },
+          {
+            "name": "sledge",
+            "picks": 2368,
+            "pickRate": 1.47,
+            "winRate": 40.5,
+            "kd": 0.81
+          },
+          {
+            "name": "fuze",
+            "picks": 2274,
+            "pickRate": 1.41,
+            "winRate": 42.0,
+            "kd": 0.79
+          },
+          {
+            "name": "finka",
+            "picks": 2120,
+            "pickRate": 1.32,
+            "winRate": 44.3,
+            "kd": 0.77
+          },
+          {
+            "name": "ace",
+            "picks": 2068,
+            "pickRate": 1.29,
+            "winRate": 44.5,
+            "kd": 0.97
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 5493,
+            "pickRate": 3.41,
+            "winRate": 58.0,
+            "kd": 1.12
+          },
+          {
+            "name": "mute",
+            "picks": 5278,
+            "pickRate": 3.28,
+            "winRate": 55.8,
+            "kd": 0.85
+          },
+          {
+            "name": "thorn",
+            "picks": 5220,
+            "pickRate": 3.24,
+            "winRate": 56.8,
+            "kd": 0.91
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4827,
+            "pickRate": 3.0,
+            "winRate": 57.8,
+            "kd": 1.05
+          },
+          {
+            "name": "azami",
+            "picks": 4099,
+            "pickRate": 2.55,
+            "winRate": 57.1,
+            "kd": 0.96
+          },
+          {
+            "name": "lesion",
+            "picks": 4040,
+            "pickRate": 2.51,
+            "winRate": 57.6,
+            "kd": 0.95
+          },
+          {
+            "name": "castle",
+            "picks": 3804,
+            "pickRate": 2.36,
+            "winRate": 55.5,
+            "kd": 0.81
+          },
+          {
+            "name": "kaid",
+            "picks": 2930,
+            "pickRate": 1.82,
+            "winRate": 55.5,
+            "kd": 0.8
+          },
+          {
+            "name": "doc",
+            "picks": 2905,
+            "pickRate": 1.81,
+            "winRate": 55.8,
+            "kd": 0.83
+          },
+          {
+            "name": "vigil",
+            "picks": 2859,
+            "pickRate": 1.78,
+            "winRate": 55.0,
+            "kd": 1.0
+          },
+          {
+            "name": "bandit",
+            "picks": 2658,
+            "pickRate": 1.65,
+            "winRate": 56.9,
+            "kd": 0.98
+          },
+          {
+            "name": "melusi",
+            "picks": 2577,
+            "pickRate": 1.6,
+            "winRate": 57.2,
+            "kd": 0.87
+          },
+          {
+            "name": "jager",
+            "picks": 2352,
+            "pickRate": 1.46,
+            "winRate": 55.2,
+            "kd": 0.85
+          },
+          {
+            "name": "smoke",
+            "picks": 2162,
+            "pickRate": 1.34,
+            "winRate": 55.6,
+            "kd": 0.8
+          },
+          {
+            "name": "tubarao",
+            "picks": 2122,
+            "pickRate": 1.32,
+            "winRate": 56.4,
+            "kd": 1.09
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 49754,
+        "atkWinRate": 41.6,
+        "defWinRate": 56.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 2138,
+            "pickRate": 4.3,
+            "winRate": 42.9,
+            "kd": 0.94
+          },
+          {
+            "name": "twitch",
+            "picks": 1583,
+            "pickRate": 3.18,
+            "winRate": 43.0,
+            "kd": 1.03
+          },
+          {
+            "name": "thermite",
+            "picks": 1472,
+            "pickRate": 2.96,
+            "winRate": 40.2,
+            "kd": 0.76
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1374,
+            "pickRate": 2.76,
+            "winRate": 43.5,
+            "kd": 0.83
+          },
+          {
+            "name": "buck",
+            "picks": 1214,
+            "pickRate": 2.44,
+            "winRate": 41.8,
+            "kd": 0.81
+          },
+          {
+            "name": "solid-snake",
+            "picks": 1142,
+            "pickRate": 2.3,
+            "winRate": 40.5,
+            "kd": 0.69
+          },
+          {
+            "name": "lion",
+            "picks": 1112,
+            "pickRate": 2.23,
+            "winRate": 39.7,
+            "kd": 0.69
+          },
+          {
+            "name": "grim",
+            "picks": 942,
+            "pickRate": 1.89,
+            "winRate": 41.8,
+            "kd": 0.69
+          },
+          {
+            "name": "nomad",
+            "picks": 927,
+            "pickRate": 1.86,
+            "winRate": 41.1,
+            "kd": 0.76
+          },
+          {
+            "name": "thatcher",
+            "picks": 868,
+            "pickRate": 1.74,
+            "winRate": 38.7,
+            "kd": 0.72
+          },
+          {
+            "name": "finka",
+            "picks": 793,
+            "pickRate": 1.59,
+            "winRate": 41.7,
+            "kd": 0.77
+          },
+          {
+            "name": "brava",
+            "picks": 735,
+            "pickRate": 1.48,
+            "winRate": 40.1,
+            "kd": 0.78
+          },
+          {
+            "name": "hibana",
+            "picks": 717,
+            "pickRate": 1.44,
+            "winRate": 45.7,
+            "kd": 0.8
+          },
+          {
+            "name": "striker",
+            "picks": 595,
+            "pickRate": 1.2,
+            "winRate": 40.5,
+            "kd": 0.95
+          },
+          {
+            "name": "iq",
+            "picks": 591,
+            "pickRate": 1.19,
+            "winRate": 40.8,
+            "kd": 0.88
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 1597,
+            "pickRate": 3.21,
+            "winRate": 57.4,
+            "kd": 0.82
+          },
+          {
+            "name": "lesion",
+            "picks": 1567,
+            "pickRate": 3.15,
+            "winRate": 58.3,
+            "kd": 0.9
+          },
+          {
+            "name": "bandit",
+            "picks": 1529,
+            "pickRate": 3.07,
+            "winRate": 55.7,
+            "kd": 0.96
+          },
+          {
+            "name": "thorn",
+            "picks": 1491,
+            "pickRate": 3.0,
+            "winRate": 57.9,
+            "kd": 0.91
+          },
+          {
+            "name": "aruni",
+            "picks": 1400,
+            "pickRate": 2.81,
+            "winRate": 58.4,
+            "kd": 1.13
+          },
+          {
+            "name": "azami",
+            "picks": 1155,
+            "pickRate": 2.32,
+            "winRate": 54.5,
+            "kd": 0.96
+          },
+          {
+            "name": "kaid",
+            "picks": 1079,
+            "pickRate": 2.17,
+            "winRate": 54.3,
+            "kd": 0.84
+          },
+          {
+            "name": "smoke",
+            "picks": 1029,
+            "pickRate": 2.07,
+            "winRate": 55.2,
+            "kd": 0.87
+          },
+          {
+            "name": "valkyrie",
+            "picks": 996,
+            "pickRate": 2.0,
+            "winRate": 57.7,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 910,
+            "pickRate": 1.83,
+            "winRate": 57.4,
+            "kd": 1.02
+          },
+          {
+            "name": "warden",
+            "picks": 887,
+            "pickRate": 1.78,
+            "winRate": 56.3,
+            "kd": 1.08
+          },
+          {
+            "name": "doc",
+            "picks": 856,
+            "pickRate": 1.72,
+            "winRate": 53.2,
+            "kd": 0.8
+          },
+          {
+            "name": "kapkan",
+            "picks": 818,
+            "pickRate": 1.64,
+            "winRate": 57.2,
+            "kd": 1.11
+          },
+          {
+            "name": "melusi",
+            "picks": 814,
+            "pickRate": 1.64,
+            "winRate": 58.1,
+            "kd": 0.88
+          },
+          {
+            "name": "tubarao",
+            "picks": 745,
+            "pickRate": 1.5,
+            "winRate": 56.1,
+            "kd": 1.07
+          }
+        ]
+      },
+      "nighthaven-labs": {
+        "totalRounds": 148571,
+        "atkWinRate": 42.7,
+        "defWinRate": 55.3,
+        "attackers": [
+          {
+            "name": "thermite",
+            "picks": 6167,
+            "pickRate": 4.15,
+            "winRate": 43.9,
+            "kd": 0.8
+          },
+          {
+            "name": "ash",
+            "picks": 5667,
+            "pickRate": 3.81,
+            "winRate": 42.8,
+            "kd": 0.95
+          },
+          {
+            "name": "thatcher",
+            "picks": 4745,
+            "pickRate": 3.19,
+            "winRate": 43.1,
+            "kd": 0.8
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4256,
+            "pickRate": 2.86,
+            "winRate": 42.6,
+            "kd": 0.81
+          },
+          {
+            "name": "twitch",
+            "picks": 3909,
+            "pickRate": 2.63,
+            "winRate": 42.4,
+            "kd": 0.95
+          },
+          {
+            "name": "buck",
+            "picks": 3744,
+            "pickRate": 2.52,
+            "winRate": 42.7,
+            "kd": 0.81
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3084,
+            "pickRate": 2.08,
+            "winRate": 41.9,
+            "kd": 0.77
+          },
+          {
+            "name": "hibana",
+            "picks": 2704,
+            "pickRate": 1.82,
+            "winRate": 41.6,
+            "kd": 0.83
+          },
+          {
+            "name": "nomad",
+            "picks": 2537,
+            "pickRate": 1.71,
+            "winRate": 42.5,
+            "kd": 0.83
+          },
+          {
+            "name": "ace",
+            "picks": 2443,
+            "pickRate": 1.64,
+            "winRate": 41.8,
+            "kd": 0.91
+          },
+          {
+            "name": "lion",
+            "picks": 2407,
+            "pickRate": 1.62,
+            "winRate": 43.2,
+            "kd": 0.69
+          },
+          {
+            "name": "grim",
+            "picks": 2260,
+            "pickRate": 1.52,
+            "winRate": 43.2,
+            "kd": 0.78
+          },
+          {
+            "name": "fuze",
+            "picks": 2014,
+            "pickRate": 1.36,
+            "winRate": 44.9,
+            "kd": 0.85
+          },
+          {
+            "name": "maverick",
+            "picks": 1977,
+            "pickRate": 1.33,
+            "winRate": 41.9,
+            "kd": 0.76
+          },
+          {
+            "name": "brava",
+            "picks": 1946,
+            "pickRate": 1.31,
+            "winRate": 41.0,
+            "kd": 0.8
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 5825,
+            "pickRate": 3.92,
+            "winRate": 56.3,
+            "kd": 0.88
+          },
+          {
+            "name": "mute",
+            "picks": 5133,
+            "pickRate": 3.45,
+            "winRate": 54.8,
+            "kd": 0.85
+          },
+          {
+            "name": "thorn",
+            "picks": 4209,
+            "pickRate": 2.83,
+            "winRate": 57.4,
+            "kd": 0.95
+          },
+          {
+            "name": "aruni",
+            "picks": 4198,
+            "pickRate": 2.83,
+            "winRate": 57.6,
+            "kd": 1.1
+          },
+          {
+            "name": "azami",
+            "picks": 3941,
+            "pickRate": 2.65,
+            "winRate": 55.1,
+            "kd": 0.93
+          },
+          {
+            "name": "kaid",
+            "picks": 3927,
+            "pickRate": 2.64,
+            "winRate": 55.4,
+            "kd": 0.84
+          },
+          {
+            "name": "lesion",
+            "picks": 3683,
+            "pickRate": 2.48,
+            "winRate": 55.5,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3319,
+            "pickRate": 2.23,
+            "winRate": 55.0,
+            "kd": 0.99
+          },
+          {
+            "name": "tubarao",
+            "picks": 3227,
+            "pickRate": 2.17,
+            "winRate": 54.0,
+            "kd": 1.0
+          },
+          {
+            "name": "vigil",
+            "picks": 2923,
+            "pickRate": 1.97,
+            "winRate": 54.6,
+            "kd": 0.99
+          },
+          {
+            "name": "warden",
+            "picks": 2640,
+            "pickRate": 1.78,
+            "winRate": 55.0,
+            "kd": 1.06
+          },
+          {
+            "name": "doc",
+            "picks": 2456,
+            "pickRate": 1.65,
+            "winRate": 53.6,
+            "kd": 0.79
+          },
+          {
+            "name": "smoke",
+            "picks": 2323,
+            "pickRate": 1.56,
+            "winRate": 52.9,
+            "kd": 0.73
+          },
+          {
+            "name": "melusi",
+            "picks": 2125,
+            "pickRate": 1.43,
+            "winRate": 56.7,
+            "kd": 0.88
+          },
+          {
+            "name": "kapkan",
+            "picks": 1964,
+            "pickRate": 1.32,
+            "winRate": 57.6,
+            "kd": 1.08
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 221212,
+        "atkWinRate": 43.3,
+        "defWinRate": 55.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 8737,
+            "pickRate": 3.95,
+            "winRate": 43.8,
+            "kd": 0.94
+          },
+          {
+            "name": "twitch",
+            "picks": 5902,
+            "pickRate": 2.67,
+            "winRate": 44.3,
+            "kd": 0.97
+          },
+          {
+            "name": "thermite",
+            "picks": 5183,
+            "pickRate": 2.34,
+            "winRate": 43.0,
+            "kd": 0.72
+          },
+          {
+            "name": "nomad",
+            "picks": 5067,
+            "pickRate": 2.29,
+            "winRate": 42.7,
+            "kd": 0.82
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5061,
+            "pickRate": 2.29,
+            "winRate": 42.9,
+            "kd": 0.77
+          },
+          {
+            "name": "buck",
+            "picks": 4830,
+            "pickRate": 2.18,
+            "winRate": 42.1,
+            "kd": 0.81
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4411,
+            "pickRate": 1.99,
+            "winRate": 43.2,
+            "kd": 0.78
+          },
+          {
+            "name": "lion",
+            "picks": 4347,
+            "pickRate": 1.97,
+            "winRate": 43.9,
+            "kd": 0.7
+          },
+          {
+            "name": "grim",
+            "picks": 4205,
+            "pickRate": 1.9,
+            "winRate": 42.0,
+            "kd": 0.72
+          },
+          {
+            "name": "hibana",
+            "picks": 3898,
+            "pickRate": 1.76,
+            "winRate": 43.6,
+            "kd": 0.83
+          },
+          {
+            "name": "brava",
+            "picks": 3545,
+            "pickRate": 1.6,
+            "winRate": 44.0,
+            "kd": 0.82
+          },
+          {
+            "name": "finka",
+            "picks": 3216,
+            "pickRate": 1.45,
+            "winRate": 44.2,
+            "kd": 0.8
+          },
+          {
+            "name": "ace",
+            "picks": 3103,
+            "pickRate": 1.4,
+            "winRate": 44.4,
+            "kd": 0.86
+          },
+          {
+            "name": "striker",
+            "picks": 2851,
+            "pickRate": 1.29,
+            "winRate": 44.4,
+            "kd": 0.91
+          },
+          {
+            "name": "osa",
+            "picks": 2793,
+            "pickRate": 1.26,
+            "winRate": 43.9,
+            "kd": 0.79
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 7545,
+            "pickRate": 3.41,
+            "winRate": 55.0,
+            "kd": 0.89
+          },
+          {
+            "name": "thorn",
+            "picks": 7346,
+            "pickRate": 3.32,
+            "winRate": 57.3,
+            "kd": 0.95
+          },
+          {
+            "name": "aruni",
+            "picks": 6398,
+            "pickRate": 2.89,
+            "winRate": 57.0,
+            "kd": 1.07
+          },
+          {
+            "name": "lesion",
+            "picks": 5228,
+            "pickRate": 2.36,
+            "winRate": 55.6,
+            "kd": 0.93
+          },
+          {
+            "name": "azami",
+            "picks": 5157,
+            "pickRate": 2.33,
+            "winRate": 55.2,
+            "kd": 0.93
+          },
+          {
+            "name": "kaid",
+            "picks": 5025,
+            "pickRate": 2.27,
+            "winRate": 55.1,
+            "kd": 0.8
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4819,
+            "pickRate": 2.18,
+            "winRate": 55.2,
+            "kd": 0.94
+          },
+          {
+            "name": "smoke",
+            "picks": 4475,
+            "pickRate": 2.02,
+            "winRate": 54.2,
+            "kd": 0.84
+          },
+          {
+            "name": "warden",
+            "picks": 4465,
+            "pickRate": 2.02,
+            "winRate": 54.6,
+            "kd": 0.99
+          },
+          {
+            "name": "bandit",
+            "picks": 4145,
+            "pickRate": 1.87,
+            "winRate": 56.1,
+            "kd": 0.93
+          },
+          {
+            "name": "melusi",
+            "picks": 3883,
+            "pickRate": 1.76,
+            "winRate": 57.3,
+            "kd": 0.86
+          },
+          {
+            "name": "vigil",
+            "picks": 3785,
+            "pickRate": 1.71,
+            "winRate": 54.5,
+            "kd": 1.07
+          },
+          {
+            "name": "doc",
+            "picks": 3715,
+            "pickRate": 1.68,
+            "winRate": 54.5,
+            "kd": 0.78
+          },
+          {
+            "name": "fenrir",
+            "picks": 3677,
+            "pickRate": 1.66,
+            "winRate": 54.6,
+            "kd": 0.81
+          },
+          {
+            "name": "jager",
+            "picks": 3666,
+            "pickRate": 1.66,
+            "winRate": 54.0,
+            "kd": 0.87
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 59706,
+        "atkWinRate": 46.7,
+        "defWinRate": 51.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 2547,
+            "pickRate": 4.27,
+            "winRate": 47.7,
+            "kd": 1.01
+          },
+          {
+            "name": "twitch",
+            "picks": 1766,
+            "pickRate": 2.96,
+            "winRate": 47.7,
+            "kd": 0.98
+          },
+          {
+            "name": "thermite",
+            "picks": 1654,
+            "pickRate": 2.77,
+            "winRate": 45.5,
+            "kd": 0.84
+          },
+          {
+            "name": "buck",
+            "picks": 1577,
+            "pickRate": 2.64,
+            "winRate": 45.3,
+            "kd": 0.83
+          },
+          {
+            "name": "solid-snake",
+            "picks": 1423,
+            "pickRate": 2.38,
+            "winRate": 47.5,
+            "kd": 0.83
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1364,
+            "pickRate": 2.28,
+            "winRate": 48.0,
+            "kd": 0.82
+          },
+          {
+            "name": "lion",
+            "picks": 1363,
+            "pickRate": 2.28,
+            "winRate": 46.2,
+            "kd": 0.75
+          },
+          {
+            "name": "nomad",
+            "picks": 1254,
+            "pickRate": 2.1,
+            "winRate": 46.1,
+            "kd": 0.87
+          },
+          {
+            "name": "finka",
+            "picks": 1102,
+            "pickRate": 1.85,
+            "winRate": 48.7,
+            "kd": 0.88
+          },
+          {
+            "name": "thatcher",
+            "picks": 933,
+            "pickRate": 1.56,
+            "winRate": 46.0,
+            "kd": 0.87
+          },
+          {
+            "name": "grim",
+            "picks": 929,
+            "pickRate": 1.56,
+            "winRate": 49.7,
+            "kd": 0.74
+          },
+          {
+            "name": "brava",
+            "picks": 921,
+            "pickRate": 1.54,
+            "winRate": 46.6,
+            "kd": 0.93
+          },
+          {
+            "name": "hibana",
+            "picks": 856,
+            "pickRate": 1.43,
+            "winRate": 44.7,
+            "kd": 0.91
+          },
+          {
+            "name": "sledge",
+            "picks": 726,
+            "pickRate": 1.22,
+            "winRate": 46.8,
+            "kd": 0.88
+          },
+          {
+            "name": "ace",
+            "picks": 712,
+            "pickRate": 1.19,
+            "winRate": 50.4,
+            "kd": 1.04
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 1977,
+            "pickRate": 3.31,
+            "winRate": 54.0,
+            "kd": 0.87
+          },
+          {
+            "name": "mute",
+            "picks": 1881,
+            "pickRate": 3.15,
+            "winRate": 50.1,
+            "kd": 0.75
+          },
+          {
+            "name": "lesion",
+            "picks": 1703,
+            "pickRate": 2.85,
+            "winRate": 54.1,
+            "kd": 0.98
+          },
+          {
+            "name": "bandit",
+            "picks": 1653,
+            "pickRate": 2.77,
+            "winRate": 50.7,
+            "kd": 0.87
+          },
+          {
+            "name": "aruni",
+            "picks": 1620,
+            "pickRate": 2.71,
+            "winRate": 51.7,
+            "kd": 0.97
+          },
+          {
+            "name": "kaid",
+            "picks": 1354,
+            "pickRate": 2.27,
+            "winRate": 52.6,
+            "kd": 0.79
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1345,
+            "pickRate": 2.25,
+            "winRate": 51.2,
+            "kd": 0.8
+          },
+          {
+            "name": "azami",
+            "picks": 1319,
+            "pickRate": 2.21,
+            "winRate": 48.5,
+            "kd": 0.85
+          },
+          {
+            "name": "doc",
+            "picks": 1216,
+            "pickRate": 2.04,
+            "winRate": 53.5,
+            "kd": 0.79
+          },
+          {
+            "name": "vigil",
+            "picks": 1208,
+            "pickRate": 2.02,
+            "winRate": 49.9,
+            "kd": 1.01
+          },
+          {
+            "name": "kapkan",
+            "picks": 1078,
+            "pickRate": 1.81,
+            "winRate": 55.0,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 912,
+            "pickRate": 1.53,
+            "winRate": 53.1,
+            "kd": 0.8
+          },
+          {
+            "name": "warden",
+            "picks": 897,
+            "pickRate": 1.5,
+            "winRate": 50.4,
+            "kd": 0.88
+          },
+          {
+            "name": "melusi",
+            "picks": 876,
+            "pickRate": 1.47,
+            "winRate": 51.0,
+            "kd": 0.79
+          },
+          {
+            "name": "castle",
+            "picks": 857,
+            "pickRate": 1.44,
+            "winRate": 54.3,
+            "kd": 0.71
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 192673,
+        "atkWinRate": 47.8,
+        "defWinRate": 50.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7826,
+            "pickRate": 4.06,
+            "winRate": 48.8,
+            "kd": 1.01
+          },
+          {
+            "name": "buck",
+            "picks": 5438,
+            "pickRate": 2.82,
+            "winRate": 46.7,
+            "kd": 0.86
+          },
+          {
+            "name": "twitch",
+            "picks": 5218,
+            "pickRate": 2.71,
+            "winRate": 47.0,
+            "kd": 0.98
+          },
+          {
+            "name": "nomad",
+            "picks": 4699,
+            "pickRate": 2.44,
+            "winRate": 47.2,
+            "kd": 0.93
+          },
+          {
+            "name": "lion",
+            "picks": 4394,
+            "pickRate": 2.28,
+            "winRate": 48.4,
+            "kd": 0.83
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4169,
+            "pickRate": 2.16,
+            "winRate": 49.1,
+            "kd": 0.87
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4017,
+            "pickRate": 2.08,
+            "winRate": 44.8,
+            "kd": 0.76
+          },
+          {
+            "name": "brava",
+            "picks": 3511,
+            "pickRate": 1.82,
+            "winRate": 48.1,
+            "kd": 0.95
+          },
+          {
+            "name": "fuze",
+            "picks": 3102,
+            "pickRate": 1.61,
+            "winRate": 47.5,
+            "kd": 0.85
+          },
+          {
+            "name": "grim",
+            "picks": 2975,
+            "pickRate": 1.54,
+            "winRate": 47.4,
+            "kd": 0.77
+          },
+          {
+            "name": "osa",
+            "picks": 2909,
+            "pickRate": 1.51,
+            "winRate": 48.9,
+            "kd": 0.89
+          },
+          {
+            "name": "finka",
+            "picks": 2767,
+            "pickRate": 1.44,
+            "winRate": 47.7,
+            "kd": 0.82
+          },
+          {
+            "name": "glaz",
+            "picks": 2650,
+            "pickRate": 1.38,
+            "winRate": 49.3,
+            "kd": 1.16
+          },
+          {
+            "name": "sledge",
+            "picks": 2584,
+            "pickRate": 1.34,
+            "winRate": 48.6,
+            "kd": 0.93
+          },
+          {
+            "name": "kali",
+            "picks": 2465,
+            "pickRate": 1.28,
+            "winRate": 49.8,
+            "kd": 1.03
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 6486,
+            "pickRate": 3.37,
+            "winRate": 50.1,
+            "kd": 0.79
+          },
+          {
+            "name": "aruni",
+            "picks": 6130,
+            "pickRate": 3.18,
+            "winRate": 52.3,
+            "kd": 1.05
+          },
+          {
+            "name": "lesion",
+            "picks": 5398,
+            "pickRate": 2.8,
+            "winRate": 50.3,
+            "kd": 0.83
+          },
+          {
+            "name": "mute",
+            "picks": 5137,
+            "pickRate": 2.67,
+            "winRate": 49.7,
+            "kd": 0.75
+          },
+          {
+            "name": "castle",
+            "picks": 4954,
+            "pickRate": 2.57,
+            "winRate": 49.9,
+            "kd": 0.68
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4570,
+            "pickRate": 2.37,
+            "winRate": 50.9,
+            "kd": 0.89
+          },
+          {
+            "name": "azami",
+            "picks": 4524,
+            "pickRate": 2.35,
+            "winRate": 51.2,
+            "kd": 0.86
+          },
+          {
+            "name": "vigil",
+            "picks": 3874,
+            "pickRate": 2.01,
+            "winRate": 50.1,
+            "kd": 0.95
+          },
+          {
+            "name": "melusi",
+            "picks": 3784,
+            "pickRate": 1.96,
+            "winRate": 52.1,
+            "kd": 0.83
+          },
+          {
+            "name": "doc",
+            "picks": 3352,
+            "pickRate": 1.74,
+            "winRate": 49.4,
+            "kd": 0.74
+          },
+          {
+            "name": "smoke",
+            "picks": 3234,
+            "pickRate": 1.68,
+            "winRate": 49.4,
+            "kd": 0.72
+          },
+          {
+            "name": "warden",
+            "picks": 2951,
+            "pickRate": 1.53,
+            "winRate": 49.6,
+            "kd": 0.89
+          },
+          {
+            "name": "goyo",
+            "picks": 2864,
+            "pickRate": 1.49,
+            "winRate": 49.3,
+            "kd": 0.81
+          },
+          {
+            "name": "jager",
+            "picks": 2862,
+            "pickRate": 1.49,
+            "winRate": 51.5,
+            "kd": 0.84
+          },
+          {
+            "name": "kaid",
+            "picks": 2801,
+            "pickRate": 1.45,
+            "winRate": 48.6,
+            "kd": 0.74
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 216478,
+        "atkWinRate": 44.8,
+        "defWinRate": 53.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 8112,
+            "pickRate": 3.75,
+            "winRate": 45.6,
+            "kd": 0.99
+          },
+          {
+            "name": "thermite",
+            "picks": 7164,
+            "pickRate": 3.31,
+            "winRate": 46.0,
+            "kd": 0.75
+          },
+          {
+            "name": "twitch",
+            "picks": 5935,
+            "pickRate": 2.74,
+            "winRate": 44.8,
+            "kd": 0.98
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5607,
+            "pickRate": 2.59,
+            "winRate": 44.8,
+            "kd": 0.83
+          },
+          {
+            "name": "hibana",
+            "picks": 5128,
+            "pickRate": 2.37,
+            "winRate": 44.7,
+            "kd": 0.86
+          },
+          {
+            "name": "buck",
+            "picks": 4832,
+            "pickRate": 2.23,
+            "winRate": 43.4,
+            "kd": 0.82
+          },
+          {
+            "name": "thatcher",
+            "picks": 4722,
+            "pickRate": 2.18,
+            "winRate": 45.6,
+            "kd": 0.83
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4366,
+            "pickRate": 2.02,
+            "winRate": 43.8,
+            "kd": 0.78
+          },
+          {
+            "name": "nomad",
+            "picks": 4241,
+            "pickRate": 1.96,
+            "winRate": 45.5,
+            "kd": 0.89
+          },
+          {
+            "name": "lion",
+            "picks": 3888,
+            "pickRate": 1.8,
+            "winRate": 43.1,
+            "kd": 0.74
+          },
+          {
+            "name": "grim",
+            "picks": 3548,
+            "pickRate": 1.64,
+            "winRate": 44.5,
+            "kd": 0.79
+          },
+          {
+            "name": "brava",
+            "picks": 3259,
+            "pickRate": 1.51,
+            "winRate": 45.0,
+            "kd": 0.87
+          },
+          {
+            "name": "fuze",
+            "picks": 2814,
+            "pickRate": 1.3,
+            "winRate": 42.9,
+            "kd": 0.74
+          },
+          {
+            "name": "finka",
+            "picks": 2691,
+            "pickRate": 1.24,
+            "winRate": 45.5,
+            "kd": 0.87
+          },
+          {
+            "name": "osa",
+            "picks": 2481,
+            "pickRate": 1.15,
+            "winRate": 43.9,
+            "kd": 0.77
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 7361,
+            "pickRate": 3.4,
+            "winRate": 52.0,
+            "kd": 0.79
+          },
+          {
+            "name": "mute",
+            "picks": 7328,
+            "pickRate": 3.39,
+            "winRate": 52.9,
+            "kd": 0.81
+          },
+          {
+            "name": "thorn",
+            "picks": 6831,
+            "pickRate": 3.16,
+            "winRate": 55.2,
+            "kd": 0.92
+          },
+          {
+            "name": "aruni",
+            "picks": 6596,
+            "pickRate": 3.05,
+            "winRate": 54.5,
+            "kd": 1.06
+          },
+          {
+            "name": "azami",
+            "picks": 6313,
+            "pickRate": 2.92,
+            "winRate": 52.6,
+            "kd": 0.88
+          },
+          {
+            "name": "kaid",
+            "picks": 5319,
+            "pickRate": 2.46,
+            "winRate": 53.2,
+            "kd": 0.8
+          },
+          {
+            "name": "lesion",
+            "picks": 4949,
+            "pickRate": 2.29,
+            "winRate": 55.2,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4802,
+            "pickRate": 2.22,
+            "winRate": 53.7,
+            "kd": 0.95
+          },
+          {
+            "name": "tubarao",
+            "picks": 4508,
+            "pickRate": 2.08,
+            "winRate": 53.8,
+            "kd": 0.95
+          },
+          {
+            "name": "vigil",
+            "picks": 3690,
+            "pickRate": 1.7,
+            "winRate": 52.9,
+            "kd": 0.98
+          },
+          {
+            "name": "doc",
+            "picks": 3415,
+            "pickRate": 1.58,
+            "winRate": 53.2,
+            "kd": 0.78
+          },
+          {
+            "name": "warden",
+            "picks": 3366,
+            "pickRate": 1.55,
+            "winRate": 53.9,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 3306,
+            "pickRate": 1.53,
+            "winRate": 52.7,
+            "kd": 0.81
+          },
+          {
+            "name": "jager",
+            "picks": 3259,
+            "pickRate": 1.51,
+            "winRate": 52.7,
+            "kd": 0.78
+          },
+          {
+            "name": "melusi",
+            "picks": 3176,
+            "pickRate": 1.47,
+            "winRate": 53.3,
+            "kd": 0.84
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 221176,
+        "atkWinRate": 43.2,
+        "defWinRate": 54.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 8191,
+            "pickRate": 3.7,
+            "winRate": 43.9,
+            "kd": 0.97
+          },
+          {
+            "name": "thermite",
+            "picks": 7665,
+            "pickRate": 3.47,
+            "winRate": 46.0,
+            "kd": 0.81
+          },
+          {
+            "name": "buck",
+            "picks": 5791,
+            "pickRate": 2.62,
+            "winRate": 42.2,
+            "kd": 0.8
+          },
+          {
+            "name": "twitch",
+            "picks": 5786,
+            "pickRate": 2.62,
+            "winRate": 43.7,
+            "kd": 0.94
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5651,
+            "pickRate": 2.55,
+            "winRate": 43.6,
+            "kd": 0.81
+          },
+          {
+            "name": "thatcher",
+            "picks": 5647,
+            "pickRate": 2.55,
+            "winRate": 46.1,
+            "kd": 0.84
+          },
+          {
+            "name": "hibana",
+            "picks": 5601,
+            "pickRate": 2.53,
+            "winRate": 41.1,
+            "kd": 0.86
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4376,
+            "pickRate": 1.98,
+            "winRate": 42.6,
+            "kd": 0.75
+          },
+          {
+            "name": "grim",
+            "picks": 3659,
+            "pickRate": 1.65,
+            "winRate": 42.9,
+            "kd": 0.78
+          },
+          {
+            "name": "lion",
+            "picks": 3542,
+            "pickRate": 1.6,
+            "winRate": 43.5,
+            "kd": 0.74
+          },
+          {
+            "name": "nomad",
+            "picks": 3412,
+            "pickRate": 1.54,
+            "winRate": 43.1,
+            "kd": 0.81
+          },
+          {
+            "name": "ace",
+            "picks": 3141,
+            "pickRate": 1.42,
+            "winRate": 43.6,
+            "kd": 0.95
+          },
+          {
+            "name": "fuze",
+            "picks": 3043,
+            "pickRate": 1.38,
+            "winRate": 39.2,
+            "kd": 0.72
+          },
+          {
+            "name": "maverick",
+            "picks": 2853,
+            "pickRate": 1.29,
+            "winRate": 42.7,
+            "kd": 0.78
+          },
+          {
+            "name": "brava",
+            "picks": 2810,
+            "pickRate": 1.27,
+            "winRate": 43.6,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 7419,
+            "pickRate": 3.35,
+            "winRate": 53.4,
+            "kd": 0.8
+          },
+          {
+            "name": "mute",
+            "picks": 7328,
+            "pickRate": 3.31,
+            "winRate": 53.8,
+            "kd": 0.81
+          },
+          {
+            "name": "thorn",
+            "picks": 6746,
+            "pickRate": 3.05,
+            "winRate": 57.0,
+            "kd": 0.92
+          },
+          {
+            "name": "aruni",
+            "picks": 6233,
+            "pickRate": 2.82,
+            "winRate": 56.4,
+            "kd": 1.09
+          },
+          {
+            "name": "azami",
+            "picks": 6167,
+            "pickRate": 2.79,
+            "winRate": 53.3,
+            "kd": 0.92
+          },
+          {
+            "name": "kaid",
+            "picks": 6155,
+            "pickRate": 2.78,
+            "winRate": 55.1,
+            "kd": 0.84
+          },
+          {
+            "name": "castle",
+            "picks": 5756,
+            "pickRate": 2.6,
+            "winRate": 52.7,
+            "kd": 0.75
+          },
+          {
+            "name": "valkyrie",
+            "picks": 5004,
+            "pickRate": 2.26,
+            "winRate": 55.3,
+            "kd": 0.97
+          },
+          {
+            "name": "lesion",
+            "picks": 4935,
+            "pickRate": 2.23,
+            "winRate": 56.0,
+            "kd": 0.88
+          },
+          {
+            "name": "tubarao",
+            "picks": 4034,
+            "pickRate": 1.82,
+            "winRate": 54.4,
+            "kd": 0.98
+          },
+          {
+            "name": "vigil",
+            "picks": 3771,
+            "pickRate": 1.7,
+            "winRate": 55.6,
+            "kd": 1.0
+          },
+          {
+            "name": "doc",
+            "picks": 3380,
+            "pickRate": 1.53,
+            "winRate": 55.0,
+            "kd": 0.81
+          },
+          {
+            "name": "smoke",
+            "picks": 3346,
+            "pickRate": 1.51,
+            "winRate": 53.4,
+            "kd": 0.78
+          },
+          {
+            "name": "melusi",
+            "picks": 3168,
+            "pickRate": 1.43,
+            "winRate": 56.8,
+            "kd": 0.91
+          },
+          {
+            "name": "jager",
+            "picks": 3128,
+            "pickRate": 1.41,
+            "winRate": 52.8,
+            "kd": 0.83
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 131949,
+        "atkWinRate": 43.4,
+        "defWinRate": 55.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 4947,
+            "pickRate": 3.75,
+            "winRate": 43.2,
+            "kd": 0.93
+          },
+          {
+            "name": "twitch",
+            "picks": 3531,
+            "pickRate": 2.68,
+            "winRate": 43.4,
+            "kd": 0.94
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3230,
+            "pickRate": 2.45,
+            "winRate": 43.8,
+            "kd": 0.82
+          },
+          {
+            "name": "hibana",
+            "picks": 3201,
+            "pickRate": 2.43,
+            "winRate": 45.4,
+            "kd": 0.94
+          },
+          {
+            "name": "lion",
+            "picks": 3014,
+            "pickRate": 2.28,
+            "winRate": 44.3,
+            "kd": 0.73
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2826,
+            "pickRate": 2.14,
+            "winRate": 41.3,
+            "kd": 0.71
+          },
+          {
+            "name": "nomad",
+            "picks": 2809,
+            "pickRate": 2.13,
+            "winRate": 44.5,
+            "kd": 0.83
+          },
+          {
+            "name": "buck",
+            "picks": 2653,
+            "pickRate": 2.01,
+            "winRate": 44.2,
+            "kd": 0.8
+          },
+          {
+            "name": "thermite",
+            "picks": 2601,
+            "pickRate": 1.97,
+            "winRate": 43.5,
+            "kd": 0.7
+          },
+          {
+            "name": "grim",
+            "picks": 2414,
+            "pickRate": 1.83,
+            "winRate": 43.3,
+            "kd": 0.7
+          },
+          {
+            "name": "brava",
+            "picks": 2295,
+            "pickRate": 1.74,
+            "winRate": 43.3,
+            "kd": 0.86
+          },
+          {
+            "name": "finka",
+            "picks": 1942,
+            "pickRate": 1.47,
+            "winRate": 44.9,
+            "kd": 0.78
+          },
+          {
+            "name": "zero",
+            "picks": 1898,
+            "pickRate": 1.44,
+            "winRate": 41.0,
+            "kd": 0.76
+          },
+          {
+            "name": "fuze",
+            "picks": 1611,
+            "pickRate": 1.22,
+            "winRate": 42.5,
+            "kd": 0.74
+          },
+          {
+            "name": "blackbeard",
+            "picks": 1544,
+            "pickRate": 1.17,
+            "winRate": 42.7,
+            "kd": 0.62
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 4474,
+            "pickRate": 3.39,
+            "winRate": 56.4,
+            "kd": 1.12
+          },
+          {
+            "name": "thorn",
+            "picks": 4457,
+            "pickRate": 3.38,
+            "winRate": 58.2,
+            "kd": 0.92
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3732,
+            "pickRate": 2.83,
+            "winRate": 55.8,
+            "kd": 1.03
+          },
+          {
+            "name": "azami",
+            "picks": 3422,
+            "pickRate": 2.59,
+            "winRate": 55.6,
+            "kd": 0.95
+          },
+          {
+            "name": "kaid",
+            "picks": 3344,
+            "pickRate": 2.53,
+            "winRate": 56.4,
+            "kd": 0.86
+          },
+          {
+            "name": "lesion",
+            "picks": 3042,
+            "pickRate": 2.31,
+            "winRate": 54.9,
+            "kd": 0.92
+          },
+          {
+            "name": "mute",
+            "picks": 2962,
+            "pickRate": 2.24,
+            "winRate": 52.9,
+            "kd": 0.78
+          },
+          {
+            "name": "smoke",
+            "picks": 2665,
+            "pickRate": 2.02,
+            "winRate": 52.4,
+            "kd": 0.76
+          },
+          {
+            "name": "vigil",
+            "picks": 2596,
+            "pickRate": 1.97,
+            "winRate": 53.0,
+            "kd": 0.95
+          },
+          {
+            "name": "goyo",
+            "picks": 2482,
+            "pickRate": 1.88,
+            "winRate": 53.3,
+            "kd": 0.83
+          },
+          {
+            "name": "castle",
+            "picks": 2444,
+            "pickRate": 1.85,
+            "winRate": 54.1,
+            "kd": 0.81
+          },
+          {
+            "name": "doc",
+            "picks": 2218,
+            "pickRate": 1.68,
+            "winRate": 56.6,
+            "kd": 0.81
+          },
+          {
+            "name": "warden",
+            "picks": 1911,
+            "pickRate": 1.45,
+            "winRate": 53.6,
+            "kd": 0.91
+          },
+          {
+            "name": "bandit",
+            "picks": 1858,
+            "pickRate": 1.41,
+            "winRate": 53.1,
+            "kd": 0.85
+          },
+          {
+            "name": "melusi",
+            "picks": 1853,
+            "pickRate": 1.4,
+            "winRate": 54.3,
+            "kd": 0.77
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 205721,
+        "atkWinRate": 45.4,
+        "defWinRate": 52.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7990,
+            "pickRate": 3.88,
+            "winRate": 46.5,
+            "kd": 0.97
+          },
+          {
+            "name": "twitch",
+            "picks": 5534,
+            "pickRate": 2.69,
+            "winRate": 45.1,
+            "kd": 0.95
+          },
+          {
+            "name": "buck",
+            "picks": 5532,
+            "pickRate": 2.69,
+            "winRate": 45.3,
+            "kd": 0.83
+          },
+          {
+            "name": "thermite",
+            "picks": 5514,
+            "pickRate": 2.68,
+            "winRate": 45.4,
+            "kd": 0.76
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 5167,
+            "pickRate": 2.51,
+            "winRate": 44.7,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 4582,
+            "pickRate": 2.23,
+            "winRate": 46.5,
+            "kd": 0.87
+          },
+          {
+            "name": "solid-snake",
+            "picks": 4333,
+            "pickRate": 2.11,
+            "winRate": 42.2,
+            "kd": 0.68
+          },
+          {
+            "name": "lion",
+            "picks": 3990,
+            "pickRate": 1.94,
+            "winRate": 45.1,
+            "kd": 0.75
+          },
+          {
+            "name": "fuze",
+            "picks": 3434,
+            "pickRate": 1.67,
+            "winRate": 44.9,
+            "kd": 0.89
+          },
+          {
+            "name": "grim",
+            "picks": 3218,
+            "pickRate": 1.56,
+            "winRate": 44.4,
+            "kd": 0.76
+          },
+          {
+            "name": "brava",
+            "picks": 3209,
+            "pickRate": 1.56,
+            "winRate": 44.8,
+            "kd": 0.86
+          },
+          {
+            "name": "thatcher",
+            "picks": 3100,
+            "pickRate": 1.51,
+            "winRate": 46.2,
+            "kd": 0.83
+          },
+          {
+            "name": "hibana",
+            "picks": 3044,
+            "pickRate": 1.48,
+            "winRate": 45.8,
+            "kd": 0.84
+          },
+          {
+            "name": "finka",
+            "picks": 2797,
+            "pickRate": 1.36,
+            "winRate": 46.3,
+            "kd": 0.84
+          },
+          {
+            "name": "sledge",
+            "picks": 2648,
+            "pickRate": 1.29,
+            "winRate": 45.3,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 6638,
+            "pickRate": 3.23,
+            "winRate": 52.9,
+            "kd": 0.84
+          },
+          {
+            "name": "mute",
+            "picks": 6342,
+            "pickRate": 3.08,
+            "winRate": 50.6,
+            "kd": 0.79
+          },
+          {
+            "name": "aruni",
+            "picks": 5834,
+            "pickRate": 2.84,
+            "winRate": 54.5,
+            "kd": 1.04
+          },
+          {
+            "name": "lesion",
+            "picks": 5356,
+            "pickRate": 2.6,
+            "winRate": 52.2,
+            "kd": 0.87
+          },
+          {
+            "name": "kaid",
+            "picks": 5035,
+            "pickRate": 2.45,
+            "winRate": 51.8,
+            "kd": 0.8
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4981,
+            "pickRate": 2.42,
+            "winRate": 51.8,
+            "kd": 0.91
+          },
+          {
+            "name": "bandit",
+            "picks": 4700,
+            "pickRate": 2.28,
+            "winRate": 51.9,
+            "kd": 0.87
+          },
+          {
+            "name": "azami",
+            "picks": 4402,
+            "pickRate": 2.14,
+            "winRate": 51.7,
+            "kd": 0.9
+          },
+          {
+            "name": "castle",
+            "picks": 4020,
+            "pickRate": 1.95,
+            "winRate": 52.2,
+            "kd": 0.76
+          },
+          {
+            "name": "kapkan",
+            "picks": 3937,
+            "pickRate": 1.91,
+            "winRate": 54.8,
+            "kd": 1.12
+          },
+          {
+            "name": "vigil",
+            "picks": 3891,
+            "pickRate": 1.89,
+            "winRate": 52.4,
+            "kd": 1.01
+          },
+          {
+            "name": "smoke",
+            "picks": 3803,
+            "pickRate": 1.85,
+            "winRate": 52.0,
+            "kd": 0.77
+          },
+          {
+            "name": "warden",
+            "picks": 3579,
+            "pickRate": 1.74,
+            "winRate": 50.9,
+            "kd": 0.94
+          },
+          {
+            "name": "doc",
+            "picks": 3520,
+            "pickRate": 1.71,
+            "winRate": 52.0,
+            "kd": 0.75
+          },
+          {
+            "name": "melusi",
+            "picks": 2844,
+            "pickRate": 1.38,
+            "winRate": 53.2,
+            "kd": 0.85
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 70236,
+        "atkWinRate": 40.7,
+        "defWinRate": 56.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 3074,
+            "pickRate": 4.38,
+            "winRate": 41.9,
+            "kd": 0.91
+          },
+          {
+            "name": "twitch",
+            "picks": 2050,
+            "pickRate": 2.92,
+            "winRate": 40.9,
+            "kd": 0.87
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1949,
+            "pickRate": 2.77,
+            "winRate": 41.5,
+            "kd": 0.76
+          },
+          {
+            "name": "thermite",
+            "picks": 1721,
+            "pickRate": 2.45,
+            "winRate": 40.8,
+            "kd": 0.77
+          },
+          {
+            "name": "solid-snake",
+            "picks": 1709,
+            "pickRate": 2.43,
+            "winRate": 38.2,
+            "kd": 0.7
+          },
+          {
+            "name": "buck",
+            "picks": 1674,
+            "pickRate": 2.38,
+            "winRate": 39.7,
+            "kd": 0.76
+          },
+          {
+            "name": "nomad",
+            "picks": 1598,
+            "pickRate": 2.28,
+            "winRate": 42.2,
+            "kd": 0.85
+          },
+          {
+            "name": "lion",
+            "picks": 1552,
+            "pickRate": 2.21,
+            "winRate": 41.2,
+            "kd": 0.66
+          },
+          {
+            "name": "grim",
+            "picks": 1212,
+            "pickRate": 1.73,
+            "winRate": 38.8,
+            "kd": 0.7
+          },
+          {
+            "name": "thatcher",
+            "picks": 1157,
+            "pickRate": 1.65,
+            "winRate": 39.6,
+            "kd": 0.78
+          },
+          {
+            "name": "finka",
+            "picks": 1153,
+            "pickRate": 1.64,
+            "winRate": 38.5,
+            "kd": 0.68
+          },
+          {
+            "name": "hibana",
+            "picks": 1037,
+            "pickRate": 1.48,
+            "winRate": 41.0,
+            "kd": 0.77
+          },
+          {
+            "name": "brava",
+            "picks": 989,
+            "pickRate": 1.41,
+            "winRate": 41.7,
+            "kd": 0.83
+          },
+          {
+            "name": "ace",
+            "picks": 957,
+            "pickRate": 1.36,
+            "winRate": 42.6,
+            "kd": 0.89
+          },
+          {
+            "name": "blackbeard",
+            "picks": 865,
+            "pickRate": 1.23,
+            "winRate": 41.0,
+            "kd": 0.63
+          }
+        ],
+        "defenders": [
+          {
+            "name": "thorn",
+            "picks": 2288,
+            "pickRate": 3.26,
+            "winRate": 58.3,
+            "kd": 0.92
+          },
+          {
+            "name": "mute",
+            "picks": 2176,
+            "pickRate": 3.1,
+            "winRate": 55.4,
+            "kd": 0.83
+          },
+          {
+            "name": "lesion",
+            "picks": 2151,
+            "pickRate": 3.06,
+            "winRate": 57.4,
+            "kd": 0.97
+          },
+          {
+            "name": "aruni",
+            "picks": 1933,
+            "pickRate": 2.75,
+            "winRate": 58.3,
+            "kd": 1.12
+          },
+          {
+            "name": "bandit",
+            "picks": 1880,
+            "pickRate": 2.68,
+            "winRate": 56.9,
+            "kd": 0.99
+          },
+          {
+            "name": "azami",
+            "picks": 1608,
+            "pickRate": 2.29,
+            "winRate": 55.5,
+            "kd": 0.97
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1437,
+            "pickRate": 2.05,
+            "winRate": 58.0,
+            "kd": 0.94
+          },
+          {
+            "name": "kaid",
+            "picks": 1432,
+            "pickRate": 2.04,
+            "winRate": 57.1,
+            "kd": 0.9
+          },
+          {
+            "name": "vigil",
+            "picks": 1304,
+            "pickRate": 1.86,
+            "winRate": 55.6,
+            "kd": 0.99
+          },
+          {
+            "name": "warden",
+            "picks": 1273,
+            "pickRate": 1.81,
+            "winRate": 54.9,
+            "kd": 1.0
+          },
+          {
+            "name": "smoke",
+            "picks": 1248,
+            "pickRate": 1.78,
+            "winRate": 52.8,
+            "kd": 0.87
+          },
+          {
+            "name": "doc",
+            "picks": 1175,
+            "pickRate": 1.67,
+            "winRate": 58.9,
+            "kd": 0.9
+          },
+          {
+            "name": "kapkan",
+            "picks": 1161,
+            "pickRate": 1.65,
+            "winRate": 59.1,
+            "kd": 1.01
+          },
+          {
+            "name": "melusi",
+            "picks": 1106,
+            "pickRate": 1.57,
+            "winRate": 57.6,
+            "kd": 0.89
+          },
+          {
+            "name": "ela",
+            "picks": 1084,
+            "pickRate": 1.54,
+            "winRate": 57.5,
+            "kd": 0.99
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 4087,
+        "atkWinRate": 42.6,
+        "defWinRate": 56.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 212,
+            "pickRate": 5.19,
+            "winRate": 44.3,
+            "kd": 1.14
+          },
+          {
+            "name": "thermite",
+            "picks": 137,
+            "pickRate": 3.35,
+            "winRate": 38.7,
+            "kd": 0.61
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 122,
+            "pickRate": 2.99,
+            "winRate": 45.9,
+            "kd": 1.08
+          },
+          {
+            "name": "twitch",
+            "picks": 121,
+            "pickRate": 2.96,
+            "winRate": 47.1,
+            "kd": 0.7
+          },
+          {
+            "name": "buck",
+            "picks": 114,
+            "pickRate": 2.79,
+            "winRate": 39.5,
+            "kd": 0.89
+          },
+          {
+            "name": "nomad",
+            "picks": 96,
+            "pickRate": 2.35,
+            "winRate": 46.9,
+            "kd": 0.83
+          },
+          {
+            "name": "thatcher",
+            "picks": 89,
+            "pickRate": 2.18,
+            "winRate": 44.9,
+            "kd": 0.98
+          },
+          {
+            "name": "hibana",
+            "picks": 75,
+            "pickRate": 1.84,
+            "winRate": 52.0,
+            "kd": 1.15
+          },
+          {
+            "name": "lion",
+            "picks": 73,
+            "pickRate": 1.79,
+            "winRate": 38.4,
+            "kd": 0.89
+          },
+          {
+            "name": "sledge",
+            "picks": 69,
+            "pickRate": 1.69,
+            "winRate": 42.0,
+            "kd": 1.24
+          },
+          {
+            "name": "deimos",
+            "picks": 68,
+            "pickRate": 1.66,
+            "winRate": 35.3,
+            "kd": 0.65
+          },
+          {
+            "name": "iq",
+            "picks": 68,
+            "pickRate": 1.66,
+            "winRate": 51.5,
+            "kd": 1.16
+          },
+          {
+            "name": "finka",
+            "picks": 65,
+            "pickRate": 1.59,
+            "winRate": 43.1,
+            "kd": 0.96
+          },
+          {
+            "name": "grim",
+            "picks": 62,
+            "pickRate": 1.52,
+            "winRate": 35.5,
+            "kd": 0.88
+          },
+          {
+            "name": "ace",
+            "picks": 54,
+            "pickRate": 1.32,
+            "winRate": 53.7,
+            "kd": 1.26
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 153,
+            "pickRate": 3.74,
+            "winRate": 49.7,
+            "kd": 1.07
+          },
+          {
+            "name": "lesion",
+            "picks": 121,
+            "pickRate": 2.96,
+            "winRate": 54.5,
+            "kd": 0.84
+          },
+          {
+            "name": "bandit",
+            "picks": 118,
+            "pickRate": 2.89,
+            "winRate": 61.9,
+            "kd": 0.85
+          },
+          {
+            "name": "mute",
+            "picks": 112,
+            "pickRate": 2.74,
+            "winRate": 60.7,
+            "kd": 0.87
+          },
+          {
+            "name": "valkyrie",
+            "picks": 104,
+            "pickRate": 2.54,
+            "winRate": 65.4,
+            "kd": 1.37
+          },
+          {
+            "name": "kaid",
+            "picks": 95,
+            "pickRate": 2.32,
+            "winRate": 52.6,
+            "kd": 0.79
+          },
+          {
+            "name": "azami",
+            "picks": 93,
+            "pickRate": 2.28,
+            "winRate": 53.8,
+            "kd": 1.21
+          },
+          {
+            "name": "warden",
+            "picks": 80,
+            "pickRate": 1.96,
+            "winRate": 47.5,
+            "kd": 1.31
+          },
+          {
+            "name": "doc",
+            "picks": 80,
+            "pickRate": 1.96,
+            "winRate": 60.0,
+            "kd": 0.83
+          },
+          {
+            "name": "thorn",
+            "picks": 76,
+            "pickRate": 1.86,
+            "winRate": 51.3,
+            "kd": 1.0
+          },
+          {
+            "name": "tubarao",
+            "picks": 74,
+            "pickRate": 1.81,
+            "winRate": 59.5,
+            "kd": 1.58
+          },
+          {
+            "name": "vigil",
+            "picks": 69,
+            "pickRate": 1.69,
+            "winRate": 59.4,
+            "kd": 1.07
+          },
+          {
+            "name": "ela",
+            "picks": 57,
+            "pickRate": 1.39,
+            "winRate": 59.6,
+            "kd": 1.07
+          },
+          {
+            "name": "goyo",
+            "picks": 53,
+            "pickRate": 1.3,
+            "winRate": 56.6,
+            "kd": 1.2
+          },
+          {
+            "name": "kapkan",
+            "picks": 53,
+            "pickRate": 1.3,
+            "winRate": 60.4,
+            "kd": 1.03
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 2475,
+        "atkWinRate": 39.0,
+        "defWinRate": 60.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 105,
+            "pickRate": 4.24,
+            "winRate": 27.6,
+            "kd": 0.79
+          },
+          {
+            "name": "thermite",
+            "picks": 76,
+            "pickRate": 3.07,
+            "winRate": 42.1,
+            "kd": 0.76
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 74,
+            "pickRate": 2.99,
+            "winRate": 48.6,
+            "kd": 0.71
+          },
+          {
+            "name": "buck",
+            "picks": 68,
+            "pickRate": 2.75,
+            "winRate": 33.8,
+            "kd": 0.71
+          },
+          {
+            "name": "hibana",
+            "picks": 59,
+            "pickRate": 2.38,
+            "winRate": 42.4,
+            "kd": 0.66
+          },
+          {
+            "name": "nomad",
+            "picks": 49,
+            "pickRate": 1.98,
+            "winRate": 30.6,
+            "kd": 0.56
+          },
+          {
+            "name": "iq",
+            "picks": 48,
+            "pickRate": 1.94,
+            "winRate": 39.6,
+            "kd": 1.28
+          },
+          {
+            "name": "grim",
+            "picks": 47,
+            "pickRate": 1.9,
+            "winRate": 38.3,
+            "kd": 0.74
+          },
+          {
+            "name": "finka",
+            "picks": 43,
+            "pickRate": 1.74,
+            "winRate": 41.9,
+            "kd": 1.03
+          },
+          {
+            "name": "ace",
+            "picks": 41,
+            "pickRate": 1.66,
+            "winRate": 58.5,
+            "kd": 1.29
+          },
+          {
+            "name": "lion",
+            "picks": 41,
+            "pickRate": 1.66,
+            "winRate": 56.1,
+            "kd": 1.21
+          },
+          {
+            "name": "brava",
+            "picks": 39,
+            "pickRate": 1.58,
+            "winRate": 51.3,
+            "kd": 0.53
+          },
+          {
+            "name": "sledge",
+            "picks": 39,
+            "pickRate": 1.58,
+            "winRate": 38.5,
+            "kd": 0.58
+          },
+          {
+            "name": "twitch",
+            "picks": 38,
+            "pickRate": 1.54,
+            "winRate": 23.7,
+            "kd": 0.42
+          },
+          {
+            "name": "thatcher",
+            "picks": 36,
+            "pickRate": 1.45,
+            "winRate": 30.6,
+            "kd": 0.74
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 90,
+            "pickRate": 3.64,
+            "winRate": 58.9,
+            "kd": 1.05
+          },
+          {
+            "name": "doc",
+            "picks": 79,
+            "pickRate": 3.19,
+            "winRate": 53.2,
+            "kd": 0.93
+          },
+          {
+            "name": "mute",
+            "picks": 76,
+            "pickRate": 3.07,
+            "winRate": 60.5,
+            "kd": 0.76
+          },
+          {
+            "name": "lesion",
+            "picks": 70,
+            "pickRate": 2.83,
+            "winRate": 55.7,
+            "kd": 0.94
+          },
+          {
+            "name": "aruni",
+            "picks": 70,
+            "pickRate": 2.83,
+            "winRate": 61.4,
+            "kd": 1.44
+          },
+          {
+            "name": "azami",
+            "picks": 66,
+            "pickRate": 2.67,
+            "winRate": 63.6,
+            "kd": 1.59
+          },
+          {
+            "name": "valkyrie",
+            "picks": 61,
+            "pickRate": 2.46,
+            "winRate": 63.9,
+            "kd": 1.35
+          },
+          {
+            "name": "thorn",
+            "picks": 54,
+            "pickRate": 2.18,
+            "winRate": 66.7,
+            "kd": 1.05
+          },
+          {
+            "name": "castle",
+            "picks": 53,
+            "pickRate": 2.14,
+            "winRate": 60.4,
+            "kd": 0.86
+          },
+          {
+            "name": "tubarao",
+            "picks": 49,
+            "pickRate": 1.98,
+            "winRate": 63.3,
+            "kd": 1.47
+          },
+          {
+            "name": "vigil",
+            "picks": 47,
+            "pickRate": 1.9,
+            "winRate": 55.3,
+            "kd": 0.89
+          },
+          {
+            "name": "melusi",
+            "picks": 46,
+            "pickRate": 1.86,
+            "winRate": 80.4,
+            "kd": 1.92
+          },
+          {
+            "name": "kaid",
+            "picks": 42,
+            "pickRate": 1.7,
+            "winRate": 54.8,
+            "kd": 1.21
+          },
+          {
+            "name": "smoke",
+            "picks": 42,
+            "pickRate": 1.7,
+            "winRate": 64.3,
+            "kd": 0.96
+          },
+          {
+            "name": "kapkan",
+            "picks": 36,
+            "pickRate": 1.45,
+            "winRate": 61.1,
+            "kd": 1.12
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 3066,
+        "atkWinRate": 41.3,
+        "defWinRate": 59.2,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 158,
+            "pickRate": 5.15,
+            "winRate": 48.1,
+            "kd": 0.92
+          },
+          {
+            "name": "nomad",
+            "picks": 121,
+            "pickRate": 3.95,
+            "winRate": 38.8,
+            "kd": 0.77
+          },
+          {
+            "name": "buck",
+            "picks": 94,
+            "pickRate": 3.07,
+            "winRate": 44.7,
+            "kd": 0.81
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 82,
+            "pickRate": 2.67,
+            "winRate": 36.6,
+            "kd": 1.08
+          },
+          {
+            "name": "thermite",
+            "picks": 77,
+            "pickRate": 2.51,
+            "winRate": 39.0,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 68,
+            "pickRate": 2.22,
+            "winRate": 42.6,
+            "kd": 0.96
+          },
+          {
+            "name": "grim",
+            "picks": 58,
+            "pickRate": 1.89,
+            "winRate": 50.0,
+            "kd": 1.25
+          },
+          {
+            "name": "hibana",
+            "picks": 57,
+            "pickRate": 1.86,
+            "winRate": 40.4,
+            "kd": 1.0
+          },
+          {
+            "name": "lion",
+            "picks": 57,
+            "pickRate": 1.86,
+            "winRate": 31.6,
+            "kd": 0.59
+          },
+          {
+            "name": "striker",
+            "picks": 55,
+            "pickRate": 1.79,
+            "winRate": 43.6,
+            "kd": 0.88
+          },
+          {
+            "name": "finka",
+            "picks": 47,
+            "pickRate": 1.53,
+            "winRate": 42.6,
+            "kd": 0.79
+          },
+          {
+            "name": "deimos",
+            "picks": 44,
+            "pickRate": 1.44,
+            "winRate": 38.6,
+            "kd": 0.83
+          },
+          {
+            "name": "sledge",
+            "picks": 43,
+            "pickRate": 1.4,
+            "winRate": 27.9,
+            "kd": 0.81
+          },
+          {
+            "name": "ace",
+            "picks": 42,
+            "pickRate": 1.37,
+            "winRate": 42.9,
+            "kd": 1.41
+          },
+          {
+            "name": "blackbeard",
+            "picks": 38,
+            "pickRate": 1.24,
+            "winRate": 47.4,
+            "kd": 0.6
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 108,
+            "pickRate": 3.52,
+            "winRate": 62.0,
+            "kd": 1.4
+          },
+          {
+            "name": "lesion",
+            "picks": 90,
+            "pickRate": 2.94,
+            "winRate": 60.0,
+            "kd": 1.39
+          },
+          {
+            "name": "aruni",
+            "picks": 86,
+            "pickRate": 2.8,
+            "winRate": 58.1,
+            "kd": 1.4
+          },
+          {
+            "name": "bandit",
+            "picks": 77,
+            "pickRate": 2.51,
+            "winRate": 54.5,
+            "kd": 0.95
+          },
+          {
+            "name": "azami",
+            "picks": 69,
+            "pickRate": 2.25,
+            "winRate": 69.6,
+            "kd": 1.53
+          },
+          {
+            "name": "valkyrie",
+            "picks": 61,
+            "pickRate": 1.99,
+            "winRate": 63.9,
+            "kd": 1.16
+          },
+          {
+            "name": "ela",
+            "picks": 59,
+            "pickRate": 1.92,
+            "winRate": 52.5,
+            "kd": 1.23
+          },
+          {
+            "name": "warden",
+            "picks": 59,
+            "pickRate": 1.92,
+            "winRate": 55.9,
+            "kd": 0.88
+          },
+          {
+            "name": "thorn",
+            "picks": 57,
+            "pickRate": 1.86,
+            "winRate": 63.2,
+            "kd": 1.05
+          },
+          {
+            "name": "vigil",
+            "picks": 57,
+            "pickRate": 1.86,
+            "winRate": 61.4,
+            "kd": 1.18
+          },
+          {
+            "name": "smoke",
+            "picks": 56,
+            "pickRate": 1.83,
+            "winRate": 64.3,
+            "kd": 0.79
+          },
+          {
+            "name": "kaid",
+            "picks": 54,
+            "pickRate": 1.76,
+            "winRate": 57.4,
+            "kd": 0.97
+          },
+          {
+            "name": "doc",
+            "picks": 52,
+            "pickRate": 1.7,
+            "winRate": 55.8,
+            "kd": 0.87
+          },
+          {
+            "name": "solis",
+            "picks": 42,
+            "pickRate": 1.37,
+            "winRate": 73.8,
+            "kd": 1.42
+          },
+          {
+            "name": "kapkan",
+            "picks": 40,
+            "pickRate": 1.3,
+            "winRate": 67.5,
+            "kd": 1.63
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 5448,
+        "atkWinRate": 42.0,
+        "defWinRate": 59.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 243,
+            "pickRate": 4.46,
+            "winRate": 42.8,
+            "kd": 1.06
+          },
+          {
+            "name": "buck",
+            "picks": 168,
+            "pickRate": 3.08,
+            "winRate": 36.9,
+            "kd": 0.93
+          },
+          {
+            "name": "thermite",
+            "picks": 166,
+            "pickRate": 3.05,
+            "winRate": 50.0,
+            "kd": 0.74
+          },
+          {
+            "name": "twitch",
+            "picks": 154,
+            "pickRate": 2.83,
+            "winRate": 46.8,
+            "kd": 1.11
+          },
+          {
+            "name": "nomad",
+            "picks": 148,
+            "pickRate": 2.72,
+            "winRate": 45.3,
+            "kd": 1.01
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 144,
+            "pickRate": 2.64,
+            "winRate": 38.9,
+            "kd": 0.81
+          },
+          {
+            "name": "thatcher",
+            "picks": 131,
+            "pickRate": 2.4,
+            "winRate": 47.3,
+            "kd": 1.0
+          },
+          {
+            "name": "iq",
+            "picks": 85,
+            "pickRate": 1.56,
+            "winRate": 35.3,
+            "kd": 1.16
+          },
+          {
+            "name": "grim",
+            "picks": 84,
+            "pickRate": 1.54,
+            "winRate": 44.0,
+            "kd": 0.89
+          },
+          {
+            "name": "fuze",
+            "picks": 83,
+            "pickRate": 1.52,
+            "winRate": 34.9,
+            "kd": 0.75
+          },
+          {
+            "name": "lion",
+            "picks": 75,
+            "pickRate": 1.38,
+            "winRate": 45.3,
+            "kd": 0.76
+          },
+          {
+            "name": "finka",
+            "picks": 71,
+            "pickRate": 1.3,
+            "winRate": 29.6,
+            "kd": 0.91
+          },
+          {
+            "name": "blackbeard",
+            "picks": 68,
+            "pickRate": 1.25,
+            "winRate": 38.2,
+            "kd": 0.76
+          },
+          {
+            "name": "ace",
+            "picks": 68,
+            "pickRate": 1.25,
+            "winRate": 45.6,
+            "kd": 0.85
+          },
+          {
+            "name": "deimos",
+            "picks": 66,
+            "pickRate": 1.21,
+            "winRate": 39.4,
+            "kd": 0.54
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 188,
+            "pickRate": 3.45,
+            "winRate": 61.7,
+            "kd": 1.29
+          },
+          {
+            "name": "mute",
+            "picks": 178,
+            "pickRate": 3.27,
+            "winRate": 56.7,
+            "kd": 1.13
+          },
+          {
+            "name": "bandit",
+            "picks": 163,
+            "pickRate": 2.99,
+            "winRate": 63.2,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 151,
+            "pickRate": 2.77,
+            "winRate": 60.9,
+            "kd": 1.09
+          },
+          {
+            "name": "lesion",
+            "picks": 145,
+            "pickRate": 2.66,
+            "winRate": 60.7,
+            "kd": 1.26
+          },
+          {
+            "name": "azami",
+            "picks": 145,
+            "pickRate": 2.66,
+            "winRate": 51.0,
+            "kd": 0.85
+          },
+          {
+            "name": "tubarao",
+            "picks": 136,
+            "pickRate": 2.5,
+            "winRate": 53.7,
+            "kd": 0.89
+          },
+          {
+            "name": "thorn",
+            "picks": 120,
+            "pickRate": 2.2,
+            "winRate": 63.3,
+            "kd": 1.02
+          },
+          {
+            "name": "vigil",
+            "picks": 92,
+            "pickRate": 1.69,
+            "winRate": 62.0,
+            "kd": 1.51
+          },
+          {
+            "name": "melusi",
+            "picks": 92,
+            "pickRate": 1.69,
+            "winRate": 62.0,
+            "kd": 0.98
+          },
+          {
+            "name": "kaid",
+            "picks": 91,
+            "pickRate": 1.67,
+            "winRate": 56.0,
+            "kd": 1.06
+          },
+          {
+            "name": "warden",
+            "picks": 91,
+            "pickRate": 1.67,
+            "winRate": 59.3,
+            "kd": 0.9
+          },
+          {
+            "name": "kapkan",
+            "picks": 88,
+            "pickRate": 1.62,
+            "winRate": 61.4,
+            "kd": 0.82
+          },
+          {
+            "name": "smoke",
+            "picks": 86,
+            "pickRate": 1.58,
+            "winRate": 58.1,
+            "kd": 0.9
+          },
+          {
+            "name": "fenrir",
+            "picks": 83,
+            "pickRate": 1.52,
+            "winRate": 67.5,
+            "kd": 0.98
+          }
+        ]
+      }
+    },
+    "Copper": {
+      "nighthaven-labs": {
+        "totalRounds": 115529,
+        "atkWinRate": 40.4,
+        "defWinRate": 52.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 5047,
+            "pickRate": 4.37,
+            "winRate": 40.9,
+            "kd": 0.88
+          },
+          {
+            "name": "thermite",
+            "picks": 4341,
+            "pickRate": 3.76,
+            "winRate": 41.0,
+            "kd": 0.72
+          },
+          {
+            "name": "thatcher",
+            "picks": 3243,
+            "pickRate": 2.81,
+            "winRate": 41.8,
+            "kd": 0.79
+          },
+          {
+            "name": "buck",
+            "picks": 3218,
+            "pickRate": 2.79,
+            "winRate": 41.1,
+            "kd": 0.74
+          },
+          {
+            "name": "twitch",
+            "picks": 3098,
+            "pickRate": 2.68,
+            "winRate": 40.3,
+            "kd": 0.87
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2918,
+            "pickRate": 2.53,
+            "winRate": 40.2,
+            "kd": 0.77
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2100,
+            "pickRate": 1.82,
+            "winRate": 37.6,
+            "kd": 0.63
+          },
+          {
+            "name": "lion",
+            "picks": 2063,
+            "pickRate": 1.79,
+            "winRate": 38.8,
+            "kd": 0.58
+          },
+          {
+            "name": "hibana",
+            "picks": 2061,
+            "pickRate": 1.78,
+            "winRate": 39.9,
+            "kd": 0.79
+          },
+          {
+            "name": "nomad",
+            "picks": 1988,
+            "pickRate": 1.72,
+            "winRate": 39.5,
+            "kd": 0.78
+          },
+          {
+            "name": "ace",
+            "picks": 1857,
+            "pickRate": 1.61,
+            "winRate": 40.7,
+            "kd": 0.9
+          },
+          {
+            "name": "finka",
+            "picks": 1675,
+            "pickRate": 1.45,
+            "winRate": 41.1,
+            "kd": 0.65
+          },
+          {
+            "name": "grim",
+            "picks": 1659,
+            "pickRate": 1.44,
+            "winRate": 40.3,
+            "kd": 0.69
+          },
+          {
+            "name": "fuze",
+            "picks": 1521,
+            "pickRate": 1.32,
+            "winRate": 39.7,
+            "kd": 0.75
+          },
+          {
+            "name": "maverick",
+            "picks": 1473,
+            "pickRate": 1.28,
+            "winRate": 38.8,
+            "kd": 0.63
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 4065,
+            "pickRate": 3.52,
+            "winRate": 52.8,
+            "kd": 0.84
+          },
+          {
+            "name": "mute",
+            "picks": 3866,
+            "pickRate": 3.35,
+            "winRate": 51.3,
+            "kd": 0.8
+          },
+          {
+            "name": "lesion",
+            "picks": 3123,
+            "pickRate": 2.7,
+            "winRate": 54.9,
+            "kd": 0.9
+          },
+          {
+            "name": "aruni",
+            "picks": 2921,
+            "pickRate": 2.53,
+            "winRate": 53.7,
+            "kd": 1.0
+          },
+          {
+            "name": "azami",
+            "picks": 2874,
+            "pickRate": 2.49,
+            "winRate": 53.8,
+            "kd": 0.89
+          },
+          {
+            "name": "thorn",
+            "picks": 2842,
+            "pickRate": 2.46,
+            "winRate": 53.5,
+            "kd": 0.82
+          },
+          {
+            "name": "kaid",
+            "picks": 2793,
+            "pickRate": 2.42,
+            "winRate": 52.8,
+            "kd": 0.79
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2685,
+            "pickRate": 2.32,
+            "winRate": 50.8,
+            "kd": 0.89
+          },
+          {
+            "name": "vigil",
+            "picks": 2344,
+            "pickRate": 2.03,
+            "winRate": 53.7,
+            "kd": 0.98
+          },
+          {
+            "name": "doc",
+            "picks": 2309,
+            "pickRate": 2.0,
+            "winRate": 52.6,
+            "kd": 0.67
+          },
+          {
+            "name": "tubarao",
+            "picks": 2161,
+            "pickRate": 1.87,
+            "winRate": 53.7,
+            "kd": 0.94
+          },
+          {
+            "name": "warden",
+            "picks": 2094,
+            "pickRate": 1.81,
+            "winRate": 51.8,
+            "kd": 0.93
+          },
+          {
+            "name": "smoke",
+            "picks": 1793,
+            "pickRate": 1.55,
+            "winRate": 52.2,
+            "kd": 0.75
+          },
+          {
+            "name": "melusi",
+            "picks": 1732,
+            "pickRate": 1.5,
+            "winRate": 55.6,
+            "kd": 0.82
+          },
+          {
+            "name": "kapkan",
+            "picks": 1628,
+            "pickRate": 1.41,
+            "winRate": 55.7,
+            "kd": 0.89
+          }
+        ]
+      },
+      "lair": {
+        "totalRounds": 37644,
+        "atkWinRate": 39.4,
+        "defWinRate": 54.0,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 1755,
+            "pickRate": 4.66,
+            "winRate": 41.4,
+            "kd": 0.89
+          },
+          {
+            "name": "twitch",
+            "picks": 1206,
+            "pickRate": 3.2,
+            "winRate": 39.1,
+            "kd": 0.88
+          },
+          {
+            "name": "thermite",
+            "picks": 1109,
+            "pickRate": 2.95,
+            "winRate": 40.5,
+            "kd": 0.77
+          },
+          {
+            "name": "buck",
+            "picks": 1019,
+            "pickRate": 2.71,
+            "winRate": 41.5,
+            "kd": 0.69
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1001,
+            "pickRate": 2.66,
+            "winRate": 38.3,
+            "kd": 0.7
+          },
+          {
+            "name": "lion",
+            "picks": 780,
+            "pickRate": 2.07,
+            "winRate": 38.1,
+            "kd": 0.61
+          },
+          {
+            "name": "nomad",
+            "picks": 762,
+            "pickRate": 2.02,
+            "winRate": 38.1,
+            "kd": 0.73
+          },
+          {
+            "name": "solid-snake",
+            "picks": 736,
+            "pickRate": 1.96,
+            "winRate": 40.1,
+            "kd": 0.74
+          },
+          {
+            "name": "finka",
+            "picks": 653,
+            "pickRate": 1.73,
+            "winRate": 43.2,
+            "kd": 0.75
+          },
+          {
+            "name": "hibana",
+            "picks": 614,
+            "pickRate": 1.63,
+            "winRate": 37.5,
+            "kd": 0.73
+          },
+          {
+            "name": "grim",
+            "picks": 614,
+            "pickRate": 1.63,
+            "winRate": 38.4,
+            "kd": 0.73
+          },
+          {
+            "name": "thatcher",
+            "picks": 583,
+            "pickRate": 1.55,
+            "winRate": 38.6,
+            "kd": 0.75
+          },
+          {
+            "name": "iq",
+            "picks": 491,
+            "pickRate": 1.3,
+            "winRate": 38.5,
+            "kd": 0.81
+          },
+          {
+            "name": "sledge",
+            "picks": 490,
+            "pickRate": 1.3,
+            "winRate": 38.4,
+            "kd": 0.77
+          },
+          {
+            "name": "brava",
+            "picks": 476,
+            "pickRate": 1.26,
+            "winRate": 38.2,
+            "kd": 0.84
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 1261,
+            "pickRate": 3.35,
+            "winRate": 53.4,
+            "kd": 0.89
+          },
+          {
+            "name": "mute",
+            "picks": 1185,
+            "pickRate": 3.15,
+            "winRate": 52.2,
+            "kd": 0.72
+          },
+          {
+            "name": "bandit",
+            "picks": 1056,
+            "pickRate": 2.81,
+            "winRate": 54.8,
+            "kd": 0.97
+          },
+          {
+            "name": "aruni",
+            "picks": 1003,
+            "pickRate": 2.66,
+            "winRate": 56.0,
+            "kd": 0.98
+          },
+          {
+            "name": "thorn",
+            "picks": 956,
+            "pickRate": 2.54,
+            "winRate": 52.5,
+            "kd": 0.8
+          },
+          {
+            "name": "doc",
+            "picks": 804,
+            "pickRate": 2.14,
+            "winRate": 55.8,
+            "kd": 0.71
+          },
+          {
+            "name": "smoke",
+            "picks": 788,
+            "pickRate": 2.09,
+            "winRate": 56.7,
+            "kd": 0.88
+          },
+          {
+            "name": "valkyrie",
+            "picks": 780,
+            "pickRate": 2.07,
+            "winRate": 54.6,
+            "kd": 0.89
+          },
+          {
+            "name": "azami",
+            "picks": 771,
+            "pickRate": 2.05,
+            "winRate": 52.7,
+            "kd": 0.92
+          },
+          {
+            "name": "kaid",
+            "picks": 755,
+            "pickRate": 2.01,
+            "winRate": 55.4,
+            "kd": 0.77
+          },
+          {
+            "name": "warden",
+            "picks": 716,
+            "pickRate": 1.9,
+            "winRate": 54.2,
+            "kd": 0.97
+          },
+          {
+            "name": "kapkan",
+            "picks": 710,
+            "pickRate": 1.89,
+            "winRate": 55.8,
+            "kd": 0.86
+          },
+          {
+            "name": "vigil",
+            "picks": 692,
+            "pickRate": 1.84,
+            "winRate": 52.6,
+            "kd": 1.01
+          },
+          {
+            "name": "melusi",
+            "picks": 579,
+            "pickRate": 1.54,
+            "winRate": 53.4,
+            "kd": 0.75
+          },
+          {
+            "name": "ela",
+            "picks": 533,
+            "pickRate": 1.42,
+            "winRate": 49.9,
+            "kd": 0.8
+          }
+        ]
+      },
+      "emerald-plains": {
+        "totalRounds": 43593,
+        "atkWinRate": 43.9,
+        "defWinRate": 48.7,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 1840,
+            "pickRate": 4.22,
+            "winRate": 42.6,
+            "kd": 0.91
+          },
+          {
+            "name": "twitch",
+            "picks": 1304,
+            "pickRate": 2.99,
+            "winRate": 46.4,
+            "kd": 0.88
+          },
+          {
+            "name": "buck",
+            "picks": 1237,
+            "pickRate": 2.84,
+            "winRate": 44.3,
+            "kd": 0.85
+          },
+          {
+            "name": "thermite",
+            "picks": 1140,
+            "pickRate": 2.62,
+            "winRate": 44.4,
+            "kd": 0.71
+          },
+          {
+            "name": "lion",
+            "picks": 1135,
+            "pickRate": 2.6,
+            "winRate": 43.9,
+            "kd": 0.67
+          },
+          {
+            "name": "solid-snake",
+            "picks": 983,
+            "pickRate": 2.25,
+            "winRate": 43.9,
+            "kd": 0.68
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 968,
+            "pickRate": 2.22,
+            "winRate": 43.9,
+            "kd": 0.82
+          },
+          {
+            "name": "nomad",
+            "picks": 817,
+            "pickRate": 1.87,
+            "winRate": 43.3,
+            "kd": 0.76
+          },
+          {
+            "name": "finka",
+            "picks": 801,
+            "pickRate": 1.84,
+            "winRate": 43.4,
+            "kd": 0.65
+          },
+          {
+            "name": "brava",
+            "picks": 641,
+            "pickRate": 1.47,
+            "winRate": 45.1,
+            "kd": 0.84
+          },
+          {
+            "name": "thatcher",
+            "picks": 616,
+            "pickRate": 1.41,
+            "winRate": 43.8,
+            "kd": 0.77
+          },
+          {
+            "name": "sledge",
+            "picks": 600,
+            "pickRate": 1.38,
+            "winRate": 48.5,
+            "kd": 0.87
+          },
+          {
+            "name": "grim",
+            "picks": 592,
+            "pickRate": 1.36,
+            "winRate": 39.7,
+            "kd": 0.58
+          },
+          {
+            "name": "hibana",
+            "picks": 581,
+            "pickRate": 1.33,
+            "winRate": 40.3,
+            "kd": 0.69
+          },
+          {
+            "name": "ace",
+            "picks": 519,
+            "pickRate": 1.19,
+            "winRate": 48.4,
+            "kd": 0.94
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 1386,
+            "pickRate": 3.18,
+            "winRate": 48.8,
+            "kd": 0.77
+          },
+          {
+            "name": "thorn",
+            "picks": 1231,
+            "pickRate": 2.82,
+            "winRate": 49.6,
+            "kd": 0.8
+          },
+          {
+            "name": "mute",
+            "picks": 1222,
+            "pickRate": 2.8,
+            "winRate": 47.6,
+            "kd": 0.71
+          },
+          {
+            "name": "bandit",
+            "picks": 1158,
+            "pickRate": 2.66,
+            "winRate": 51.1,
+            "kd": 0.84
+          },
+          {
+            "name": "doc",
+            "picks": 1081,
+            "pickRate": 2.48,
+            "winRate": 46.6,
+            "kd": 0.66
+          },
+          {
+            "name": "aruni",
+            "picks": 1041,
+            "pickRate": 2.39,
+            "winRate": 51.9,
+            "kd": 0.92
+          },
+          {
+            "name": "valkyrie",
+            "picks": 964,
+            "pickRate": 2.21,
+            "winRate": 49.3,
+            "kd": 0.77
+          },
+          {
+            "name": "kaid",
+            "picks": 876,
+            "pickRate": 2.01,
+            "winRate": 48.5,
+            "kd": 0.62
+          },
+          {
+            "name": "vigil",
+            "picks": 863,
+            "pickRate": 1.98,
+            "winRate": 49.8,
+            "kd": 0.98
+          },
+          {
+            "name": "kapkan",
+            "picks": 843,
+            "pickRate": 1.93,
+            "winRate": 52.4,
+            "kd": 0.87
+          },
+          {
+            "name": "azami",
+            "picks": 832,
+            "pickRate": 1.91,
+            "winRate": 47.6,
+            "kd": 0.77
+          },
+          {
+            "name": "warden",
+            "picks": 740,
+            "pickRate": 1.7,
+            "winRate": 48.1,
+            "kd": 0.76
+          },
+          {
+            "name": "smoke",
+            "picks": 702,
+            "pickRate": 1.61,
+            "winRate": 48.0,
+            "kd": 0.72
+          },
+          {
+            "name": "castle",
+            "picks": 653,
+            "pickRate": 1.5,
+            "winRate": 47.2,
+            "kd": 0.59
+          },
+          {
+            "name": "jager",
+            "picks": 609,
+            "pickRate": 1.4,
+            "winRate": 44.8,
+            "kd": 0.78
+          }
+        ]
+      },
+      "chalet": {
+        "totalRounds": 166387,
+        "atkWinRate": 42.3,
+        "defWinRate": 50.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6775,
+            "pickRate": 4.07,
+            "winRate": 42.0,
+            "kd": 0.92
+          },
+          {
+            "name": "thermite",
+            "picks": 5142,
+            "pickRate": 3.09,
+            "winRate": 45.3,
+            "kd": 0.7
+          },
+          {
+            "name": "twitch",
+            "picks": 4655,
+            "pickRate": 2.8,
+            "winRate": 42.9,
+            "kd": 0.93
+          },
+          {
+            "name": "buck",
+            "picks": 4215,
+            "pickRate": 2.53,
+            "winRate": 41.1,
+            "kd": 0.75
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4175,
+            "pickRate": 2.51,
+            "winRate": 42.7,
+            "kd": 0.77
+          },
+          {
+            "name": "hibana",
+            "picks": 3696,
+            "pickRate": 2.22,
+            "winRate": 42.0,
+            "kd": 0.76
+          },
+          {
+            "name": "thatcher",
+            "picks": 3398,
+            "pickRate": 2.04,
+            "winRate": 43.7,
+            "kd": 0.75
+          },
+          {
+            "name": "lion",
+            "picks": 3350,
+            "pickRate": 2.01,
+            "winRate": 40.5,
+            "kd": 0.62
+          },
+          {
+            "name": "nomad",
+            "picks": 3287,
+            "pickRate": 1.98,
+            "winRate": 41.4,
+            "kd": 0.79
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2819,
+            "pickRate": 1.69,
+            "winRate": 40.5,
+            "kd": 0.73
+          },
+          {
+            "name": "grim",
+            "picks": 2589,
+            "pickRate": 1.56,
+            "winRate": 42.1,
+            "kd": 0.75
+          },
+          {
+            "name": "finka",
+            "picks": 2404,
+            "pickRate": 1.44,
+            "winRate": 42.4,
+            "kd": 0.72
+          },
+          {
+            "name": "fuze",
+            "picks": 2269,
+            "pickRate": 1.36,
+            "winRate": 45.3,
+            "kd": 0.71
+          },
+          {
+            "name": "brava",
+            "picks": 2147,
+            "pickRate": 1.29,
+            "winRate": 42.1,
+            "kd": 0.82
+          },
+          {
+            "name": "sledge",
+            "picks": 1837,
+            "pickRate": 1.1,
+            "winRate": 40.7,
+            "kd": 0.79
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 5422,
+            "pickRate": 3.26,
+            "winRate": 51.3,
+            "kd": 0.74
+          },
+          {
+            "name": "bandit",
+            "picks": 5077,
+            "pickRate": 3.05,
+            "winRate": 50.5,
+            "kd": 0.73
+          },
+          {
+            "name": "azami",
+            "picks": 4527,
+            "pickRate": 2.72,
+            "winRate": 50.4,
+            "kd": 0.82
+          },
+          {
+            "name": "aruni",
+            "picks": 4464,
+            "pickRate": 2.68,
+            "winRate": 52.2,
+            "kd": 1.04
+          },
+          {
+            "name": "thorn",
+            "picks": 4420,
+            "pickRate": 2.66,
+            "winRate": 51.4,
+            "kd": 0.78
+          },
+          {
+            "name": "lesion",
+            "picks": 4300,
+            "pickRate": 2.58,
+            "winRate": 50.9,
+            "kd": 0.81
+          },
+          {
+            "name": "kaid",
+            "picks": 3726,
+            "pickRate": 2.24,
+            "winRate": 50.8,
+            "kd": 0.71
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3705,
+            "pickRate": 2.23,
+            "winRate": 52.8,
+            "kd": 0.85
+          },
+          {
+            "name": "doc",
+            "picks": 3126,
+            "pickRate": 1.88,
+            "winRate": 49.7,
+            "kd": 0.71
+          },
+          {
+            "name": "vigil",
+            "picks": 3021,
+            "pickRate": 1.82,
+            "winRate": 49.3,
+            "kd": 0.9
+          },
+          {
+            "name": "tubarao",
+            "picks": 2994,
+            "pickRate": 1.8,
+            "winRate": 49.9,
+            "kd": 0.93
+          },
+          {
+            "name": "warden",
+            "picks": 2841,
+            "pickRate": 1.71,
+            "winRate": 51.7,
+            "kd": 0.92
+          },
+          {
+            "name": "jager",
+            "picks": 2682,
+            "pickRate": 1.61,
+            "winRate": 49.1,
+            "kd": 0.72
+          },
+          {
+            "name": "smoke",
+            "picks": 2541,
+            "pickRate": 1.53,
+            "winRate": 50.6,
+            "kd": 0.73
+          },
+          {
+            "name": "melusi",
+            "picks": 2454,
+            "pickRate": 1.47,
+            "winRate": 50.7,
+            "kd": 0.83
+          }
+        ]
+      },
+      "fortress": {
+        "totalRounds": 59910,
+        "atkWinRate": 38.6,
+        "defWinRate": 54.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 2967,
+            "pickRate": 4.95,
+            "winRate": 39.4,
+            "kd": 0.89
+          },
+          {
+            "name": "twitch",
+            "picks": 1865,
+            "pickRate": 3.11,
+            "winRate": 38.8,
+            "kd": 0.85
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 1558,
+            "pickRate": 2.6,
+            "winRate": 38.3,
+            "kd": 0.74
+          },
+          {
+            "name": "buck",
+            "picks": 1523,
+            "pickRate": 2.54,
+            "winRate": 37.2,
+            "kd": 0.71
+          },
+          {
+            "name": "lion",
+            "picks": 1452,
+            "pickRate": 2.42,
+            "winRate": 39.7,
+            "kd": 0.58
+          },
+          {
+            "name": "nomad",
+            "picks": 1380,
+            "pickRate": 2.3,
+            "winRate": 39.6,
+            "kd": 0.73
+          },
+          {
+            "name": "thermite",
+            "picks": 1299,
+            "pickRate": 2.17,
+            "winRate": 37.6,
+            "kd": 0.66
+          },
+          {
+            "name": "finka",
+            "picks": 1055,
+            "pickRate": 1.76,
+            "winRate": 38.3,
+            "kd": 0.7
+          },
+          {
+            "name": "grim",
+            "picks": 1031,
+            "pickRate": 1.72,
+            "winRate": 38.2,
+            "kd": 0.7
+          },
+          {
+            "name": "solid-snake",
+            "picks": 975,
+            "pickRate": 1.63,
+            "winRate": 36.4,
+            "kd": 0.67
+          },
+          {
+            "name": "hibana",
+            "picks": 891,
+            "pickRate": 1.49,
+            "winRate": 41.6,
+            "kd": 0.8
+          },
+          {
+            "name": "thatcher",
+            "picks": 878,
+            "pickRate": 1.47,
+            "winRate": 39.1,
+            "kd": 0.71
+          },
+          {
+            "name": "iq",
+            "picks": 844,
+            "pickRate": 1.41,
+            "winRate": 35.2,
+            "kd": 0.84
+          },
+          {
+            "name": "sledge",
+            "picks": 806,
+            "pickRate": 1.35,
+            "winRate": 37.0,
+            "kd": 0.72
+          },
+          {
+            "name": "brava",
+            "picks": 776,
+            "pickRate": 1.3,
+            "winRate": 39.2,
+            "kd": 0.74
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 2009,
+            "pickRate": 3.35,
+            "winRate": 55.3,
+            "kd": 1.01
+          },
+          {
+            "name": "mute",
+            "picks": 1805,
+            "pickRate": 3.01,
+            "winRate": 52.9,
+            "kd": 0.76
+          },
+          {
+            "name": "thorn",
+            "picks": 1620,
+            "pickRate": 2.7,
+            "winRate": 54.6,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 1419,
+            "pickRate": 2.37,
+            "winRate": 53.7,
+            "kd": 0.98
+          },
+          {
+            "name": "aruni",
+            "picks": 1404,
+            "pickRate": 2.34,
+            "winRate": 55.5,
+            "kd": 1.02
+          },
+          {
+            "name": "azami",
+            "picks": 1369,
+            "pickRate": 2.29,
+            "winRate": 53.8,
+            "kd": 0.86
+          },
+          {
+            "name": "valkyrie",
+            "picks": 1295,
+            "pickRate": 2.16,
+            "winRate": 53.5,
+            "kd": 0.88
+          },
+          {
+            "name": "doc",
+            "picks": 1255,
+            "pickRate": 2.09,
+            "winRate": 53.9,
+            "kd": 0.76
+          },
+          {
+            "name": "vigil",
+            "picks": 1214,
+            "pickRate": 2.03,
+            "winRate": 54.7,
+            "kd": 0.98
+          },
+          {
+            "name": "smoke",
+            "picks": 1141,
+            "pickRate": 1.9,
+            "winRate": 53.9,
+            "kd": 0.79
+          },
+          {
+            "name": "warden",
+            "picks": 1118,
+            "pickRate": 1.87,
+            "winRate": 54.5,
+            "kd": 0.96
+          },
+          {
+            "name": "kapkan",
+            "picks": 1094,
+            "pickRate": 1.83,
+            "winRate": 54.9,
+            "kd": 0.85
+          },
+          {
+            "name": "kaid",
+            "picks": 1029,
+            "pickRate": 1.72,
+            "winRate": 53.2,
+            "kd": 0.8
+          },
+          {
+            "name": "ela",
+            "picks": 957,
+            "pickRate": 1.6,
+            "winRate": 55.9,
+            "kd": 0.99
+          },
+          {
+            "name": "melusi",
+            "picks": 919,
+            "pickRate": 1.53,
+            "winRate": 58.5,
+            "kd": 0.93
+          }
+        ]
+      },
+      "coastline": {
+        "totalRounds": 143988,
+        "atkWinRate": 45.7,
+        "defWinRate": 48.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6298,
+            "pickRate": 4.37,
+            "winRate": 45.7,
+            "kd": 0.9
+          },
+          {
+            "name": "buck",
+            "picks": 4335,
+            "pickRate": 3.01,
+            "winRate": 46.0,
+            "kd": 0.77
+          },
+          {
+            "name": "twitch",
+            "picks": 4032,
+            "pickRate": 2.8,
+            "winRate": 45.9,
+            "kd": 0.97
+          },
+          {
+            "name": "lion",
+            "picks": 3496,
+            "pickRate": 2.43,
+            "winRate": 45.9,
+            "kd": 0.69
+          },
+          {
+            "name": "nomad",
+            "picks": 3339,
+            "pickRate": 2.32,
+            "winRate": 45.9,
+            "kd": 0.86
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3099,
+            "pickRate": 2.15,
+            "winRate": 45.2,
+            "kd": 0.85
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2638,
+            "pickRate": 1.83,
+            "winRate": 46.5,
+            "kd": 0.74
+          },
+          {
+            "name": "finka",
+            "picks": 2357,
+            "pickRate": 1.64,
+            "winRate": 46.8,
+            "kd": 0.8
+          },
+          {
+            "name": "brava",
+            "picks": 2255,
+            "pickRate": 1.57,
+            "winRate": 46.8,
+            "kd": 0.88
+          },
+          {
+            "name": "sledge",
+            "picks": 2239,
+            "pickRate": 1.55,
+            "winRate": 43.8,
+            "kd": 0.85
+          },
+          {
+            "name": "fuze",
+            "picks": 2216,
+            "pickRate": 1.54,
+            "winRate": 46.3,
+            "kd": 0.78
+          },
+          {
+            "name": "grim",
+            "picks": 2023,
+            "pickRate": 1.4,
+            "winRate": 45.2,
+            "kd": 0.7
+          },
+          {
+            "name": "osa",
+            "picks": 1888,
+            "pickRate": 1.31,
+            "winRate": 46.5,
+            "kd": 0.75
+          },
+          {
+            "name": "glaz",
+            "picks": 1823,
+            "pickRate": 1.27,
+            "winRate": 46.7,
+            "kd": 0.95
+          },
+          {
+            "name": "kali",
+            "picks": 1722,
+            "pickRate": 1.2,
+            "winRate": 47.0,
+            "kd": 1.05
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 4281,
+            "pickRate": 2.97,
+            "winRate": 49.1,
+            "kd": 0.76
+          },
+          {
+            "name": "aruni",
+            "picks": 4048,
+            "pickRate": 2.81,
+            "winRate": 49.4,
+            "kd": 0.96
+          },
+          {
+            "name": "thorn",
+            "picks": 3966,
+            "pickRate": 2.75,
+            "winRate": 50.2,
+            "kd": 0.79
+          },
+          {
+            "name": "mute",
+            "picks": 3596,
+            "pickRate": 2.5,
+            "winRate": 47.2,
+            "kd": 0.67
+          },
+          {
+            "name": "castle",
+            "picks": 3555,
+            "pickRate": 2.47,
+            "winRate": 47.5,
+            "kd": 0.62
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3464,
+            "pickRate": 2.41,
+            "winRate": 48.2,
+            "kd": 0.86
+          },
+          {
+            "name": "azami",
+            "picks": 3384,
+            "pickRate": 2.35,
+            "winRate": 48.8,
+            "kd": 0.83
+          },
+          {
+            "name": "doc",
+            "picks": 3114,
+            "pickRate": 2.16,
+            "winRate": 47.4,
+            "kd": 0.68
+          },
+          {
+            "name": "vigil",
+            "picks": 3046,
+            "pickRate": 2.12,
+            "winRate": 48.9,
+            "kd": 0.88
+          },
+          {
+            "name": "melusi",
+            "picks": 2631,
+            "pickRate": 1.83,
+            "winRate": 49.2,
+            "kd": 0.76
+          },
+          {
+            "name": "warden",
+            "picks": 2451,
+            "pickRate": 1.7,
+            "winRate": 47.1,
+            "kd": 0.88
+          },
+          {
+            "name": "smoke",
+            "picks": 2404,
+            "pickRate": 1.67,
+            "winRate": 48.0,
+            "kd": 0.62
+          },
+          {
+            "name": "jager",
+            "picks": 2353,
+            "pickRate": 1.63,
+            "winRate": 47.6,
+            "kd": 0.68
+          },
+          {
+            "name": "kapkan",
+            "picks": 2278,
+            "pickRate": 1.58,
+            "winRate": 49.3,
+            "kd": 0.78
+          },
+          {
+            "name": "goyo",
+            "picks": 2137,
+            "pickRate": 1.48,
+            "winRate": 48.4,
+            "kd": 0.76
+          }
+        ]
+      },
+      "bank": {
+        "totalRounds": 100630,
+        "atkWinRate": 41.2,
+        "defWinRate": 52.4,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 4401,
+            "pickRate": 4.37,
+            "winRate": 42.3,
+            "kd": 0.9
+          },
+          {
+            "name": "twitch",
+            "picks": 2690,
+            "pickRate": 2.67,
+            "winRate": 43.0,
+            "kd": 0.92
+          },
+          {
+            "name": "lion",
+            "picks": 2403,
+            "pickRate": 2.39,
+            "winRate": 38.8,
+            "kd": 0.63
+          },
+          {
+            "name": "buck",
+            "picks": 2343,
+            "pickRate": 2.33,
+            "winRate": 40.2,
+            "kd": 0.72
+          },
+          {
+            "name": "hibana",
+            "picks": 2267,
+            "pickRate": 2.25,
+            "winRate": 41.6,
+            "kd": 0.85
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2238,
+            "pickRate": 2.22,
+            "winRate": 41.6,
+            "kd": 0.8
+          },
+          {
+            "name": "nomad",
+            "picks": 2111,
+            "pickRate": 2.1,
+            "winRate": 42.2,
+            "kd": 0.75
+          },
+          {
+            "name": "thermite",
+            "picks": 1926,
+            "pickRate": 1.91,
+            "winRate": 41.2,
+            "kd": 0.62
+          },
+          {
+            "name": "solid-snake",
+            "picks": 1752,
+            "pickRate": 1.74,
+            "winRate": 39.2,
+            "kd": 0.65
+          },
+          {
+            "name": "finka",
+            "picks": 1672,
+            "pickRate": 1.66,
+            "winRate": 41.4,
+            "kd": 0.73
+          },
+          {
+            "name": "grim",
+            "picks": 1618,
+            "pickRate": 1.61,
+            "winRate": 40.5,
+            "kd": 0.7
+          },
+          {
+            "name": "brava",
+            "picks": 1492,
+            "pickRate": 1.48,
+            "winRate": 41.7,
+            "kd": 0.83
+          },
+          {
+            "name": "zero",
+            "picks": 1292,
+            "pickRate": 1.28,
+            "winRate": 39.5,
+            "kd": 0.72
+          },
+          {
+            "name": "iq",
+            "picks": 1274,
+            "pickRate": 1.27,
+            "winRate": 42.0,
+            "kd": 0.88
+          },
+          {
+            "name": "fuze",
+            "picks": 1162,
+            "pickRate": 1.15,
+            "winRate": 38.4,
+            "kd": 0.74
+          }
+        ],
+        "defenders": [
+          {
+            "name": "aruni",
+            "picks": 3109,
+            "pickRate": 3.09,
+            "winRate": 55.0,
+            "kd": 1.11
+          },
+          {
+            "name": "lesion",
+            "picks": 2742,
+            "pickRate": 2.72,
+            "winRate": 52.4,
+            "kd": 0.84
+          },
+          {
+            "name": "thorn",
+            "picks": 2736,
+            "pickRate": 2.72,
+            "winRate": 53.9,
+            "kd": 0.81
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2592,
+            "pickRate": 2.58,
+            "winRate": 52.9,
+            "kd": 0.87
+          },
+          {
+            "name": "azami",
+            "picks": 2429,
+            "pickRate": 2.41,
+            "winRate": 51.8,
+            "kd": 0.86
+          },
+          {
+            "name": "kaid",
+            "picks": 2268,
+            "pickRate": 2.25,
+            "winRate": 53.5,
+            "kd": 0.8
+          },
+          {
+            "name": "mute",
+            "picks": 2155,
+            "pickRate": 2.14,
+            "winRate": 51.1,
+            "kd": 0.69
+          },
+          {
+            "name": "vigil",
+            "picks": 2137,
+            "pickRate": 2.12,
+            "winRate": 53.2,
+            "kd": 0.91
+          },
+          {
+            "name": "smoke",
+            "picks": 2029,
+            "pickRate": 2.02,
+            "winRate": 52.4,
+            "kd": 0.75
+          },
+          {
+            "name": "doc",
+            "picks": 1986,
+            "pickRate": 1.97,
+            "winRate": 51.0,
+            "kd": 0.67
+          },
+          {
+            "name": "goyo",
+            "picks": 1833,
+            "pickRate": 1.82,
+            "winRate": 50.5,
+            "kd": 0.76
+          },
+          {
+            "name": "castle",
+            "picks": 1824,
+            "pickRate": 1.81,
+            "winRate": 51.8,
+            "kd": 0.72
+          },
+          {
+            "name": "warden",
+            "picks": 1603,
+            "pickRate": 1.59,
+            "winRate": 49.3,
+            "kd": 0.79
+          },
+          {
+            "name": "kapkan",
+            "picks": 1525,
+            "pickRate": 1.52,
+            "winRate": 55.0,
+            "kd": 0.93
+          },
+          {
+            "name": "jager",
+            "picks": 1407,
+            "pickRate": 1.4,
+            "winRate": 49.7,
+            "kd": 0.73
+          }
+        ]
+      },
+      "oregon": {
+        "totalRounds": 167262,
+        "atkWinRate": 40.8,
+        "defWinRate": 52.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 7317,
+            "pickRate": 4.37,
+            "winRate": 40.8,
+            "kd": 0.89
+          },
+          {
+            "name": "twitch",
+            "picks": 4625,
+            "pickRate": 2.77,
+            "winRate": 40.8,
+            "kd": 0.87
+          },
+          {
+            "name": "buck",
+            "picks": 4031,
+            "pickRate": 2.41,
+            "winRate": 39.4,
+            "kd": 0.73
+          },
+          {
+            "name": "nomad",
+            "picks": 3844,
+            "pickRate": 2.3,
+            "winRate": 41.4,
+            "kd": 0.8
+          },
+          {
+            "name": "thermite",
+            "picks": 3626,
+            "pickRate": 2.17,
+            "winRate": 40.7,
+            "kd": 0.67
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3568,
+            "pickRate": 2.13,
+            "winRate": 41.3,
+            "kd": 0.76
+          },
+          {
+            "name": "lion",
+            "picks": 3499,
+            "pickRate": 2.09,
+            "winRate": 40.8,
+            "kd": 0.64
+          },
+          {
+            "name": "solid-snake",
+            "picks": 3028,
+            "pickRate": 1.81,
+            "winRate": 40.1,
+            "kd": 0.69
+          },
+          {
+            "name": "hibana",
+            "picks": 2916,
+            "pickRate": 1.74,
+            "winRate": 41.9,
+            "kd": 0.76
+          },
+          {
+            "name": "finka",
+            "picks": 2739,
+            "pickRate": 1.64,
+            "winRate": 44.1,
+            "kd": 0.74
+          },
+          {
+            "name": "grim",
+            "picks": 2723,
+            "pickRate": 1.63,
+            "winRate": 40.4,
+            "kd": 0.69
+          },
+          {
+            "name": "brava",
+            "picks": 2404,
+            "pickRate": 1.44,
+            "winRate": 42.3,
+            "kd": 0.87
+          },
+          {
+            "name": "ace",
+            "picks": 2309,
+            "pickRate": 1.38,
+            "winRate": 40.5,
+            "kd": 0.79
+          },
+          {
+            "name": "striker",
+            "picks": 1917,
+            "pickRate": 1.15,
+            "winRate": 41.2,
+            "kd": 0.9
+          },
+          {
+            "name": "maverick",
+            "picks": 1904,
+            "pickRate": 1.14,
+            "winRate": 39.6,
+            "kd": 0.76
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 5511,
+            "pickRate": 3.29,
+            "winRate": 53.6,
+            "kd": 0.81
+          },
+          {
+            "name": "lesion",
+            "picks": 4617,
+            "pickRate": 2.76,
+            "winRate": 53.2,
+            "kd": 0.83
+          },
+          {
+            "name": "thorn",
+            "picks": 4606,
+            "pickRate": 2.75,
+            "winRate": 54.1,
+            "kd": 0.82
+          },
+          {
+            "name": "aruni",
+            "picks": 4457,
+            "pickRate": 2.66,
+            "winRate": 54.7,
+            "kd": 1.05
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3884,
+            "pickRate": 2.32,
+            "winRate": 52.6,
+            "kd": 0.84
+          },
+          {
+            "name": "azami",
+            "picks": 3574,
+            "pickRate": 2.14,
+            "winRate": 54.0,
+            "kd": 0.87
+          },
+          {
+            "name": "smoke",
+            "picks": 3505,
+            "pickRate": 2.1,
+            "winRate": 51.3,
+            "kd": 0.78
+          },
+          {
+            "name": "warden",
+            "picks": 3454,
+            "pickRate": 2.07,
+            "winRate": 52.6,
+            "kd": 0.98
+          },
+          {
+            "name": "kaid",
+            "picks": 3401,
+            "pickRate": 2.03,
+            "winRate": 53.0,
+            "kd": 0.72
+          },
+          {
+            "name": "doc",
+            "picks": 3357,
+            "pickRate": 2.01,
+            "winRate": 52.2,
+            "kd": 0.71
+          },
+          {
+            "name": "bandit",
+            "picks": 3083,
+            "pickRate": 1.84,
+            "winRate": 54.5,
+            "kd": 0.89
+          },
+          {
+            "name": "vigil",
+            "picks": 2950,
+            "pickRate": 1.76,
+            "winRate": 50.4,
+            "kd": 0.92
+          },
+          {
+            "name": "jager",
+            "picks": 2881,
+            "pickRate": 1.72,
+            "winRate": 49.6,
+            "kd": 0.75
+          },
+          {
+            "name": "melusi",
+            "picks": 2842,
+            "pickRate": 1.7,
+            "winRate": 54.3,
+            "kd": 0.86
+          },
+          {
+            "name": "fenrir",
+            "picks": 2621,
+            "pickRate": 1.57,
+            "winRate": 53.1,
+            "kd": 0.79
+          }
+        ]
+      },
+      "villa": {
+        "totalRounds": 131842,
+        "atkWinRate": 37.8,
+        "defWinRate": 55.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6136,
+            "pickRate": 4.65,
+            "winRate": 39.3,
+            "kd": 0.87
+          },
+          {
+            "name": "twitch",
+            "picks": 3890,
+            "pickRate": 2.95,
+            "winRate": 39.1,
+            "kd": 0.89
+          },
+          {
+            "name": "buck",
+            "picks": 3770,
+            "pickRate": 2.86,
+            "winRate": 36.6,
+            "kd": 0.71
+          },
+          {
+            "name": "lion",
+            "picks": 3494,
+            "pickRate": 2.65,
+            "winRate": 37.6,
+            "kd": 0.61
+          },
+          {
+            "name": "nomad",
+            "picks": 3374,
+            "pickRate": 2.56,
+            "winRate": 38.4,
+            "kd": 0.75
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2786,
+            "pickRate": 2.11,
+            "winRate": 37.5,
+            "kd": 0.73
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2617,
+            "pickRate": 1.98,
+            "winRate": 36.8,
+            "kd": 0.69
+          },
+          {
+            "name": "finka",
+            "picks": 2561,
+            "pickRate": 1.94,
+            "winRate": 39.1,
+            "kd": 0.68
+          },
+          {
+            "name": "hibana",
+            "picks": 2409,
+            "pickRate": 1.83,
+            "winRate": 36.9,
+            "kd": 0.78
+          },
+          {
+            "name": "brava",
+            "picks": 2159,
+            "pickRate": 1.64,
+            "winRate": 38.3,
+            "kd": 0.8
+          },
+          {
+            "name": "grim",
+            "picks": 2073,
+            "pickRate": 1.57,
+            "winRate": 38.4,
+            "kd": 0.69
+          },
+          {
+            "name": "sledge",
+            "picks": 1850,
+            "pickRate": 1.4,
+            "winRate": 37.9,
+            "kd": 0.71
+          },
+          {
+            "name": "iq",
+            "picks": 1826,
+            "pickRate": 1.38,
+            "winRate": 39.3,
+            "kd": 0.84
+          },
+          {
+            "name": "jackal",
+            "picks": 1585,
+            "pickRate": 1.2,
+            "winRate": 34.7,
+            "kd": 0.61
+          },
+          {
+            "name": "deimos",
+            "picks": 1482,
+            "pickRate": 1.12,
+            "winRate": 35.6,
+            "kd": 0.69
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 4074,
+            "pickRate": 3.09,
+            "winRate": 55.8,
+            "kd": 0.89
+          },
+          {
+            "name": "mute",
+            "picks": 3851,
+            "pickRate": 2.92,
+            "winRate": 53.5,
+            "kd": 0.77
+          },
+          {
+            "name": "thorn",
+            "picks": 3606,
+            "pickRate": 2.74,
+            "winRate": 57.0,
+            "kd": 0.84
+          },
+          {
+            "name": "aruni",
+            "picks": 3497,
+            "pickRate": 2.65,
+            "winRate": 56.7,
+            "kd": 1.1
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3435,
+            "pickRate": 2.61,
+            "winRate": 56.5,
+            "kd": 0.95
+          },
+          {
+            "name": "azami",
+            "picks": 3004,
+            "pickRate": 2.28,
+            "winRate": 55.1,
+            "kd": 0.87
+          },
+          {
+            "name": "doc",
+            "picks": 2903,
+            "pickRate": 2.2,
+            "winRate": 55.4,
+            "kd": 0.75
+          },
+          {
+            "name": "vigil",
+            "picks": 2564,
+            "pickRate": 1.94,
+            "winRate": 53.9,
+            "kd": 0.91
+          },
+          {
+            "name": "kapkan",
+            "picks": 2406,
+            "pickRate": 1.82,
+            "winRate": 58.1,
+            "kd": 0.97
+          },
+          {
+            "name": "warden",
+            "picks": 2284,
+            "pickRate": 1.73,
+            "winRate": 55.8,
+            "kd": 0.95
+          },
+          {
+            "name": "jager",
+            "picks": 2254,
+            "pickRate": 1.71,
+            "winRate": 54.9,
+            "kd": 0.81
+          },
+          {
+            "name": "kaid",
+            "picks": 2182,
+            "pickRate": 1.66,
+            "winRate": 54.5,
+            "kd": 0.83
+          },
+          {
+            "name": "melusi",
+            "picks": 2059,
+            "pickRate": 1.56,
+            "winRate": 57.0,
+            "kd": 0.86
+          },
+          {
+            "name": "smoke",
+            "picks": 2047,
+            "pickRate": 1.55,
+            "winRate": 54.5,
+            "kd": 0.77
+          },
+          {
+            "name": "castle",
+            "picks": 2035,
+            "pickRate": 1.54,
+            "winRate": 54.9,
+            "kd": 0.65
+          }
+        ]
+      },
+      "kafe-dostoyevsky": {
+        "totalRounds": 124677,
+        "atkWinRate": 39.1,
+        "defWinRate": 53.8,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 5407,
+            "pickRate": 4.34,
+            "winRate": 38.5,
+            "kd": 0.85
+          },
+          {
+            "name": "buck",
+            "picks": 3793,
+            "pickRate": 3.04,
+            "winRate": 38.9,
+            "kd": 0.71
+          },
+          {
+            "name": "twitch",
+            "picks": 3487,
+            "pickRate": 2.8,
+            "winRate": 37.9,
+            "kd": 0.84
+          },
+          {
+            "name": "nomad",
+            "picks": 2877,
+            "pickRate": 2.31,
+            "winRate": 37.2,
+            "kd": 0.76
+          },
+          {
+            "name": "lion",
+            "picks": 2847,
+            "pickRate": 2.28,
+            "winRate": 39.0,
+            "kd": 0.64
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2613,
+            "pickRate": 2.1,
+            "winRate": 38.4,
+            "kd": 0.71
+          },
+          {
+            "name": "hibana",
+            "picks": 2245,
+            "pickRate": 1.8,
+            "winRate": 39.3,
+            "kd": 0.75
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2165,
+            "pickRate": 1.74,
+            "winRate": 37.4,
+            "kd": 0.66
+          },
+          {
+            "name": "thermite",
+            "picks": 2123,
+            "pickRate": 1.7,
+            "winRate": 39.1,
+            "kd": 0.65
+          },
+          {
+            "name": "sledge",
+            "picks": 2114,
+            "pickRate": 1.7,
+            "winRate": 38.5,
+            "kd": 0.74
+          },
+          {
+            "name": "finka",
+            "picks": 1965,
+            "pickRate": 1.58,
+            "winRate": 38.8,
+            "kd": 0.68
+          },
+          {
+            "name": "brava",
+            "picks": 1924,
+            "pickRate": 1.54,
+            "winRate": 40.3,
+            "kd": 0.79
+          },
+          {
+            "name": "grim",
+            "picks": 1920,
+            "pickRate": 1.54,
+            "winRate": 38.0,
+            "kd": 0.67
+          },
+          {
+            "name": "fuze",
+            "picks": 1905,
+            "pickRate": 1.53,
+            "winRate": 40.6,
+            "kd": 0.76
+          },
+          {
+            "name": "ace",
+            "picks": 1614,
+            "pickRate": 1.29,
+            "winRate": 44.1,
+            "kd": 0.88
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 3838,
+            "pickRate": 3.08,
+            "winRate": 53.2,
+            "kd": 0.8
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3684,
+            "pickRate": 2.95,
+            "winRate": 54.0,
+            "kd": 0.93
+          },
+          {
+            "name": "aruni",
+            "picks": 3666,
+            "pickRate": 2.94,
+            "winRate": 55.3,
+            "kd": 1.08
+          },
+          {
+            "name": "lesion",
+            "picks": 3646,
+            "pickRate": 2.92,
+            "winRate": 54.4,
+            "kd": 0.82
+          },
+          {
+            "name": "thorn",
+            "picks": 3243,
+            "pickRate": 2.6,
+            "winRate": 54.5,
+            "kd": 0.81
+          },
+          {
+            "name": "azami",
+            "picks": 2959,
+            "pickRate": 2.37,
+            "winRate": 54.9,
+            "kd": 0.93
+          },
+          {
+            "name": "castle",
+            "picks": 2863,
+            "pickRate": 2.3,
+            "winRate": 53.3,
+            "kd": 0.76
+          },
+          {
+            "name": "doc",
+            "picks": 2551,
+            "pickRate": 2.05,
+            "winRate": 52.2,
+            "kd": 0.69
+          },
+          {
+            "name": "vigil",
+            "picks": 2388,
+            "pickRate": 1.92,
+            "winRate": 52.8,
+            "kd": 0.97
+          },
+          {
+            "name": "kaid",
+            "picks": 2129,
+            "pickRate": 1.71,
+            "winRate": 53.4,
+            "kd": 0.78
+          },
+          {
+            "name": "jager",
+            "picks": 2009,
+            "pickRate": 1.61,
+            "winRate": 53.2,
+            "kd": 0.74
+          },
+          {
+            "name": "bandit",
+            "picks": 1993,
+            "pickRate": 1.6,
+            "winRate": 55.3,
+            "kd": 0.87
+          },
+          {
+            "name": "warden",
+            "picks": 1923,
+            "pickRate": 1.54,
+            "winRate": 51.0,
+            "kd": 0.81
+          },
+          {
+            "name": "melusi",
+            "picks": 1902,
+            "pickRate": 1.53,
+            "winRate": 57.1,
+            "kd": 0.82
+          },
+          {
+            "name": "kapkan",
+            "picks": 1831,
+            "pickRate": 1.47,
+            "winRate": 54.9,
+            "kd": 0.89
+          }
+        ]
+      },
+      "club-house": {
+        "totalRounds": 169804,
+        "atkWinRate": 40.8,
+        "defWinRate": 52.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6954,
+            "pickRate": 4.1,
+            "winRate": 41.8,
+            "kd": 0.87
+          },
+          {
+            "name": "thermite",
+            "picks": 5256,
+            "pickRate": 3.1,
+            "winRate": 42.4,
+            "kd": 0.71
+          },
+          {
+            "name": "buck",
+            "picks": 4768,
+            "pickRate": 2.81,
+            "winRate": 39.5,
+            "kd": 0.7
+          },
+          {
+            "name": "twitch",
+            "picks": 4365,
+            "pickRate": 2.57,
+            "winRate": 41.7,
+            "kd": 0.96
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 4088,
+            "pickRate": 2.41,
+            "winRate": 41.0,
+            "kd": 0.78
+          },
+          {
+            "name": "hibana",
+            "picks": 4069,
+            "pickRate": 2.4,
+            "winRate": 39.4,
+            "kd": 0.8
+          },
+          {
+            "name": "thatcher",
+            "picks": 3997,
+            "pickRate": 2.35,
+            "winRate": 40.7,
+            "kd": 0.76
+          },
+          {
+            "name": "lion",
+            "picks": 3176,
+            "pickRate": 1.87,
+            "winRate": 41.3,
+            "kd": 0.64
+          },
+          {
+            "name": "nomad",
+            "picks": 2803,
+            "pickRate": 1.65,
+            "winRate": 41.5,
+            "kd": 0.75
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2793,
+            "pickRate": 1.64,
+            "winRate": 40.1,
+            "kd": 0.68
+          },
+          {
+            "name": "grim",
+            "picks": 2596,
+            "pickRate": 1.53,
+            "winRate": 39.0,
+            "kd": 0.7
+          },
+          {
+            "name": "fuze",
+            "picks": 2376,
+            "pickRate": 1.4,
+            "winRate": 40.3,
+            "kd": 0.65
+          },
+          {
+            "name": "ace",
+            "picks": 2366,
+            "pickRate": 1.39,
+            "winRate": 42.5,
+            "kd": 0.88
+          },
+          {
+            "name": "finka",
+            "picks": 2306,
+            "pickRate": 1.36,
+            "winRate": 42.0,
+            "kd": 0.66
+          },
+          {
+            "name": "sledge",
+            "picks": 2208,
+            "pickRate": 1.3,
+            "winRate": 39.3,
+            "kd": 0.73
+          }
+        ],
+        "defenders": [
+          {
+            "name": "bandit",
+            "picks": 5321,
+            "pickRate": 3.13,
+            "winRate": 51.9,
+            "kd": 0.75
+          },
+          {
+            "name": "mute",
+            "picks": 5243,
+            "pickRate": 3.09,
+            "winRate": 50.7,
+            "kd": 0.69
+          },
+          {
+            "name": "aruni",
+            "picks": 4443,
+            "pickRate": 2.62,
+            "winRate": 54.6,
+            "kd": 1.04
+          },
+          {
+            "name": "lesion",
+            "picks": 4431,
+            "pickRate": 2.61,
+            "winRate": 53.0,
+            "kd": 0.81
+          },
+          {
+            "name": "azami",
+            "picks": 4410,
+            "pickRate": 2.6,
+            "winRate": 50.7,
+            "kd": 0.85
+          },
+          {
+            "name": "thorn",
+            "picks": 4319,
+            "pickRate": 2.54,
+            "winRate": 52.3,
+            "kd": 0.82
+          },
+          {
+            "name": "castle",
+            "picks": 4286,
+            "pickRate": 2.52,
+            "winRate": 50.1,
+            "kd": 0.69
+          },
+          {
+            "name": "kaid",
+            "picks": 4212,
+            "pickRate": 2.48,
+            "winRate": 52.1,
+            "kd": 0.76
+          },
+          {
+            "name": "valkyrie",
+            "picks": 4057,
+            "pickRate": 2.39,
+            "winRate": 52.4,
+            "kd": 0.85
+          },
+          {
+            "name": "doc",
+            "picks": 3081,
+            "pickRate": 1.81,
+            "winRate": 52.5,
+            "kd": 0.75
+          },
+          {
+            "name": "vigil",
+            "picks": 3026,
+            "pickRate": 1.78,
+            "winRate": 53.6,
+            "kd": 0.93
+          },
+          {
+            "name": "tubarao",
+            "picks": 2679,
+            "pickRate": 1.58,
+            "winRate": 52.0,
+            "kd": 0.98
+          },
+          {
+            "name": "smoke",
+            "picks": 2632,
+            "pickRate": 1.55,
+            "winRate": 50.6,
+            "kd": 0.73
+          },
+          {
+            "name": "jager",
+            "picks": 2560,
+            "pickRate": 1.51,
+            "winRate": 51.0,
+            "kd": 0.79
+          },
+          {
+            "name": "kapkan",
+            "picks": 2545,
+            "pickRate": 1.5,
+            "winRate": 56.3,
+            "kd": 0.95
+          }
+        ]
+      },
+      "consulate": {
+        "totalRounds": 101592,
+        "atkWinRate": 38.7,
+        "defWinRate": 54.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 4336,
+            "pickRate": 4.27,
+            "winRate": 39.4,
+            "kd": 0.87
+          },
+          {
+            "name": "buck",
+            "picks": 3066,
+            "pickRate": 3.02,
+            "winRate": 37.6,
+            "kd": 0.69
+          },
+          {
+            "name": "twitch",
+            "picks": 2690,
+            "pickRate": 2.65,
+            "winRate": 39.3,
+            "kd": 0.86
+          },
+          {
+            "name": "thermite",
+            "picks": 2645,
+            "pickRate": 2.6,
+            "winRate": 39.5,
+            "kd": 0.67
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 2328,
+            "pickRate": 2.29,
+            "winRate": 40.2,
+            "kd": 0.72
+          },
+          {
+            "name": "lion",
+            "picks": 2235,
+            "pickRate": 2.2,
+            "winRate": 38.4,
+            "kd": 0.59
+          },
+          {
+            "name": "nomad",
+            "picks": 2015,
+            "pickRate": 1.98,
+            "winRate": 40.5,
+            "kd": 0.75
+          },
+          {
+            "name": "solid-snake",
+            "picks": 1895,
+            "pickRate": 1.87,
+            "winRate": 37.4,
+            "kd": 0.7
+          },
+          {
+            "name": "finka",
+            "picks": 1601,
+            "pickRate": 1.58,
+            "winRate": 41.2,
+            "kd": 0.71
+          },
+          {
+            "name": "sledge",
+            "picks": 1591,
+            "pickRate": 1.57,
+            "winRate": 37.1,
+            "kd": 0.73
+          },
+          {
+            "name": "thatcher",
+            "picks": 1582,
+            "pickRate": 1.56,
+            "winRate": 36.4,
+            "kd": 0.61
+          },
+          {
+            "name": "fuze",
+            "picks": 1579,
+            "pickRate": 1.55,
+            "winRate": 41.1,
+            "kd": 0.8
+          },
+          {
+            "name": "grim",
+            "picks": 1574,
+            "pickRate": 1.55,
+            "winRate": 39.2,
+            "kd": 0.7
+          },
+          {
+            "name": "hibana",
+            "picks": 1454,
+            "pickRate": 1.43,
+            "winRate": 38.6,
+            "kd": 0.71
+          },
+          {
+            "name": "brava",
+            "picks": 1192,
+            "pickRate": 1.17,
+            "winRate": 40.2,
+            "kd": 0.78
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 3193,
+            "pickRate": 3.14,
+            "winRate": 53.3,
+            "kd": 0.82
+          },
+          {
+            "name": "lesion",
+            "picks": 3043,
+            "pickRate": 3.0,
+            "winRate": 55.1,
+            "kd": 0.87
+          },
+          {
+            "name": "thorn",
+            "picks": 2862,
+            "pickRate": 2.82,
+            "winRate": 56.1,
+            "kd": 0.87
+          },
+          {
+            "name": "bandit",
+            "picks": 2773,
+            "pickRate": 2.73,
+            "winRate": 54.1,
+            "kd": 0.81
+          },
+          {
+            "name": "aruni",
+            "picks": 2485,
+            "pickRate": 2.45,
+            "winRate": 55.7,
+            "kd": 1.01
+          },
+          {
+            "name": "valkyrie",
+            "picks": 2259,
+            "pickRate": 2.22,
+            "winRate": 53.3,
+            "kd": 0.9
+          },
+          {
+            "name": "azami",
+            "picks": 2140,
+            "pickRate": 2.11,
+            "winRate": 53.5,
+            "kd": 0.93
+          },
+          {
+            "name": "vigil",
+            "picks": 2132,
+            "pickRate": 2.1,
+            "winRate": 54.3,
+            "kd": 1.02
+          },
+          {
+            "name": "doc",
+            "picks": 2014,
+            "pickRate": 1.98,
+            "winRate": 52.5,
+            "kd": 0.72
+          },
+          {
+            "name": "warden",
+            "picks": 1970,
+            "pickRate": 1.94,
+            "winRate": 52.8,
+            "kd": 0.96
+          },
+          {
+            "name": "smoke",
+            "picks": 1739,
+            "pickRate": 1.71,
+            "winRate": 53.5,
+            "kd": 0.89
+          },
+          {
+            "name": "kaid",
+            "picks": 1735,
+            "pickRate": 1.71,
+            "winRate": 56.5,
+            "kd": 0.8
+          },
+          {
+            "name": "kapkan",
+            "picks": 1728,
+            "pickRate": 1.7,
+            "winRate": 57.1,
+            "kd": 0.98
+          },
+          {
+            "name": "tubarao",
+            "picks": 1673,
+            "pickRate": 1.65,
+            "winRate": 55.6,
+            "kd": 0.93
+          },
+          {
+            "name": "melusi",
+            "picks": 1573,
+            "pickRate": 1.55,
+            "winRate": 55.2,
+            "kd": 0.84
+          }
+        ]
+      },
+      "border": {
+        "totalRounds": 156795,
+        "atkWinRate": 43.6,
+        "defWinRate": 49.9,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 6780,
+            "pickRate": 4.32,
+            "winRate": 43.3,
+            "kd": 0.91
+          },
+          {
+            "name": "buck",
+            "picks": 4734,
+            "pickRate": 3.02,
+            "winRate": 43.2,
+            "kd": 0.78
+          },
+          {
+            "name": "twitch",
+            "picks": 4362,
+            "pickRate": 2.78,
+            "winRate": 43.6,
+            "kd": 0.94
+          },
+          {
+            "name": "thermite",
+            "picks": 3935,
+            "pickRate": 2.51,
+            "winRate": 42.5,
+            "kd": 0.68
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 3455,
+            "pickRate": 2.2,
+            "winRate": 43.0,
+            "kd": 0.76
+          },
+          {
+            "name": "nomad",
+            "picks": 3419,
+            "pickRate": 2.18,
+            "winRate": 43.8,
+            "kd": 0.79
+          },
+          {
+            "name": "lion",
+            "picks": 3286,
+            "pickRate": 2.1,
+            "winRate": 44.2,
+            "kd": 0.65
+          },
+          {
+            "name": "solid-snake",
+            "picks": 2760,
+            "pickRate": 1.76,
+            "winRate": 42.2,
+            "kd": 0.74
+          },
+          {
+            "name": "fuze",
+            "picks": 2402,
+            "pickRate": 1.53,
+            "winRate": 44.2,
+            "kd": 0.77
+          },
+          {
+            "name": "finka",
+            "picks": 2355,
+            "pickRate": 1.5,
+            "winRate": 44.7,
+            "kd": 0.72
+          },
+          {
+            "name": "grim",
+            "picks": 2323,
+            "pickRate": 1.48,
+            "winRate": 41.6,
+            "kd": 0.73
+          },
+          {
+            "name": "hibana",
+            "picks": 2285,
+            "pickRate": 1.46,
+            "winRate": 44.2,
+            "kd": 0.77
+          },
+          {
+            "name": "thatcher",
+            "picks": 2206,
+            "pickRate": 1.41,
+            "winRate": 44.7,
+            "kd": 0.76
+          },
+          {
+            "name": "brava",
+            "picks": 2171,
+            "pickRate": 1.38,
+            "winRate": 42.1,
+            "kd": 0.79
+          },
+          {
+            "name": "sledge",
+            "picks": 2123,
+            "pickRate": 1.35,
+            "winRate": 43.5,
+            "kd": 0.82
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 4654,
+            "pickRate": 2.97,
+            "winRate": 50.6,
+            "kd": 0.87
+          },
+          {
+            "name": "mute",
+            "picks": 4529,
+            "pickRate": 2.89,
+            "winRate": 48.0,
+            "kd": 0.72
+          },
+          {
+            "name": "thorn",
+            "picks": 4284,
+            "pickRate": 2.73,
+            "winRate": 51.9,
+            "kd": 0.77
+          },
+          {
+            "name": "aruni",
+            "picks": 3953,
+            "pickRate": 2.52,
+            "winRate": 50.3,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 3835,
+            "pickRate": 2.45,
+            "winRate": 50.2,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 3512,
+            "pickRate": 2.24,
+            "winRate": 48.8,
+            "kd": 0.81
+          },
+          {
+            "name": "azami",
+            "picks": 3310,
+            "pickRate": 2.11,
+            "winRate": 48.8,
+            "kd": 0.83
+          },
+          {
+            "name": "doc",
+            "picks": 3308,
+            "pickRate": 2.11,
+            "winRate": 51.1,
+            "kd": 0.66
+          },
+          {
+            "name": "kaid",
+            "picks": 3293,
+            "pickRate": 2.1,
+            "winRate": 48.8,
+            "kd": 0.73
+          },
+          {
+            "name": "vigil",
+            "picks": 3120,
+            "pickRate": 1.99,
+            "winRate": 50.6,
+            "kd": 0.94
+          },
+          {
+            "name": "warden",
+            "picks": 3025,
+            "pickRate": 1.93,
+            "winRate": 48.0,
+            "kd": 0.87
+          },
+          {
+            "name": "kapkan",
+            "picks": 2994,
+            "pickRate": 1.91,
+            "winRate": 52.2,
+            "kd": 0.99
+          },
+          {
+            "name": "castle",
+            "picks": 2955,
+            "pickRate": 1.88,
+            "winRate": 47.6,
+            "kd": 0.68
+          },
+          {
+            "name": "smoke",
+            "picks": 2799,
+            "pickRate": 1.79,
+            "winRate": 49.7,
+            "kd": 0.69
+          },
+          {
+            "name": "jager",
+            "picks": 2279,
+            "pickRate": 1.45,
+            "winRate": 48.9,
+            "kd": 0.75
+          }
+        ]
+      },
+      "outback": {
+        "totalRounds": 9860,
+        "atkWinRate": 42.6,
+        "defWinRate": 55.6,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 570,
+            "pickRate": 5.78,
+            "winRate": 43.5,
+            "kd": 0.97
+          },
+          {
+            "name": "buck",
+            "picks": 315,
+            "pickRate": 3.19,
+            "winRate": 38.1,
+            "kd": 0.79
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 309,
+            "pickRate": 3.13,
+            "winRate": 44.7,
+            "kd": 0.89
+          },
+          {
+            "name": "thermite",
+            "picks": 274,
+            "pickRate": 2.78,
+            "winRate": 44.5,
+            "kd": 0.83
+          },
+          {
+            "name": "nomad",
+            "picks": 226,
+            "pickRate": 2.29,
+            "winRate": 46.5,
+            "kd": 0.89
+          },
+          {
+            "name": "twitch",
+            "picks": 225,
+            "pickRate": 2.28,
+            "winRate": 48.4,
+            "kd": 1.05
+          },
+          {
+            "name": "finka",
+            "picks": 193,
+            "pickRate": 1.96,
+            "winRate": 42.5,
+            "kd": 0.78
+          },
+          {
+            "name": "sledge",
+            "picks": 168,
+            "pickRate": 1.7,
+            "winRate": 45.8,
+            "kd": 0.9
+          },
+          {
+            "name": "hibana",
+            "picks": 154,
+            "pickRate": 1.56,
+            "winRate": 42.2,
+            "kd": 0.84
+          },
+          {
+            "name": "thatcher",
+            "picks": 150,
+            "pickRate": 1.52,
+            "winRate": 46.0,
+            "kd": 1.01
+          },
+          {
+            "name": "lion",
+            "picks": 147,
+            "pickRate": 1.49,
+            "winRate": 41.5,
+            "kd": 0.58
+          },
+          {
+            "name": "grim",
+            "picks": 147,
+            "pickRate": 1.49,
+            "winRate": 34.0,
+            "kd": 0.83
+          },
+          {
+            "name": "iq",
+            "picks": 143,
+            "pickRate": 1.45,
+            "winRate": 42.7,
+            "kd": 0.93
+          },
+          {
+            "name": "brava",
+            "picks": 137,
+            "pickRate": 1.39,
+            "winRate": 43.8,
+            "kd": 0.77
+          },
+          {
+            "name": "ace",
+            "picks": 123,
+            "pickRate": 1.25,
+            "winRate": 48.0,
+            "kd": 1.41
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 316,
+            "pickRate": 3.2,
+            "winRate": 61.1,
+            "kd": 1.25
+          },
+          {
+            "name": "aruni",
+            "picks": 309,
+            "pickRate": 3.13,
+            "winRate": 62.1,
+            "kd": 1.34
+          },
+          {
+            "name": "mute",
+            "picks": 283,
+            "pickRate": 2.87,
+            "winRate": 51.2,
+            "kd": 0.92
+          },
+          {
+            "name": "bandit",
+            "picks": 279,
+            "pickRate": 2.83,
+            "winRate": 57.7,
+            "kd": 0.89
+          },
+          {
+            "name": "vigil",
+            "picks": 249,
+            "pickRate": 2.53,
+            "winRate": 54.2,
+            "kd": 1.0
+          },
+          {
+            "name": "valkyrie",
+            "picks": 245,
+            "pickRate": 2.48,
+            "winRate": 52.7,
+            "kd": 1.0
+          },
+          {
+            "name": "azami",
+            "picks": 235,
+            "pickRate": 2.38,
+            "winRate": 53.6,
+            "kd": 0.87
+          },
+          {
+            "name": "kaid",
+            "picks": 192,
+            "pickRate": 1.95,
+            "winRate": 55.7,
+            "kd": 0.71
+          },
+          {
+            "name": "thorn",
+            "picks": 187,
+            "pickRate": 1.9,
+            "winRate": 52.4,
+            "kd": 0.88
+          },
+          {
+            "name": "warden",
+            "picks": 185,
+            "pickRate": 1.88,
+            "winRate": 56.8,
+            "kd": 1.19
+          },
+          {
+            "name": "tubarao",
+            "picks": 181,
+            "pickRate": 1.84,
+            "winRate": 56.9,
+            "kd": 1.16
+          },
+          {
+            "name": "doc",
+            "picks": 179,
+            "pickRate": 1.82,
+            "winRate": 58.7,
+            "kd": 0.77
+          },
+          {
+            "name": "smoke",
+            "picks": 168,
+            "pickRate": 1.7,
+            "winRate": 53.6,
+            "kd": 0.9
+          },
+          {
+            "name": "goyo",
+            "picks": 145,
+            "pickRate": 1.47,
+            "winRate": 53.1,
+            "kd": 0.92
+          },
+          {
+            "name": "melusi",
+            "picks": 138,
+            "pickRate": 1.4,
+            "winRate": 52.2,
+            "kd": 1.24
+          }
+        ]
+      },
+      "theme-park": {
+        "totalRounds": 6306,
+        "atkWinRate": 39.8,
+        "defWinRate": 57.5,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 325,
+            "pickRate": 5.15,
+            "winRate": 38.5,
+            "kd": 0.92
+          },
+          {
+            "name": "buck",
+            "picks": 214,
+            "pickRate": 3.39,
+            "winRate": 43.0,
+            "kd": 0.59
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 188,
+            "pickRate": 2.98,
+            "winRate": 38.8,
+            "kd": 0.87
+          },
+          {
+            "name": "thermite",
+            "picks": 145,
+            "pickRate": 2.3,
+            "winRate": 40.7,
+            "kd": 0.66
+          },
+          {
+            "name": "nomad",
+            "picks": 141,
+            "pickRate": 2.24,
+            "winRate": 41.8,
+            "kd": 0.84
+          },
+          {
+            "name": "twitch",
+            "picks": 127,
+            "pickRate": 2.01,
+            "winRate": 35.4,
+            "kd": 0.72
+          },
+          {
+            "name": "hibana",
+            "picks": 116,
+            "pickRate": 1.84,
+            "winRate": 29.3,
+            "kd": 0.71
+          },
+          {
+            "name": "grim",
+            "picks": 115,
+            "pickRate": 1.82,
+            "winRate": 35.7,
+            "kd": 0.92
+          },
+          {
+            "name": "lion",
+            "picks": 114,
+            "pickRate": 1.81,
+            "winRate": 45.6,
+            "kd": 0.77
+          },
+          {
+            "name": "finka",
+            "picks": 111,
+            "pickRate": 1.76,
+            "winRate": 42.3,
+            "kd": 0.95
+          },
+          {
+            "name": "sledge",
+            "picks": 91,
+            "pickRate": 1.44,
+            "winRate": 49.5,
+            "kd": 0.96
+          },
+          {
+            "name": "iq",
+            "picks": 89,
+            "pickRate": 1.41,
+            "winRate": 37.1,
+            "kd": 0.9
+          },
+          {
+            "name": "thatcher",
+            "picks": 89,
+            "pickRate": 1.41,
+            "winRate": 38.2,
+            "kd": 0.85
+          },
+          {
+            "name": "striker",
+            "picks": 78,
+            "pickRate": 1.24,
+            "winRate": 41.0,
+            "kd": 0.95
+          },
+          {
+            "name": "blackbeard",
+            "picks": 76,
+            "pickRate": 1.21,
+            "winRate": 39.5,
+            "kd": 0.85
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 246,
+            "pickRate": 3.9,
+            "winRate": 61.4,
+            "kd": 1.06
+          },
+          {
+            "name": "bandit",
+            "picks": 213,
+            "pickRate": 3.38,
+            "winRate": 57.7,
+            "kd": 1.01
+          },
+          {
+            "name": "lesion",
+            "picks": 205,
+            "pickRate": 3.25,
+            "winRate": 54.1,
+            "kd": 1.09
+          },
+          {
+            "name": "valkyrie",
+            "picks": 168,
+            "pickRate": 2.66,
+            "winRate": 53.6,
+            "kd": 1.1
+          },
+          {
+            "name": "aruni",
+            "picks": 163,
+            "pickRate": 2.58,
+            "winRate": 60.7,
+            "kd": 1.16
+          },
+          {
+            "name": "azami",
+            "picks": 150,
+            "pickRate": 2.38,
+            "winRate": 62.7,
+            "kd": 1.1
+          },
+          {
+            "name": "vigil",
+            "picks": 147,
+            "pickRate": 2.33,
+            "winRate": 52.4,
+            "kd": 1.01
+          },
+          {
+            "name": "doc",
+            "picks": 140,
+            "pickRate": 2.22,
+            "winRate": 56.4,
+            "kd": 0.79
+          },
+          {
+            "name": "kaid",
+            "picks": 113,
+            "pickRate": 1.79,
+            "winRate": 59.3,
+            "kd": 0.96
+          },
+          {
+            "name": "warden",
+            "picks": 107,
+            "pickRate": 1.7,
+            "winRate": 52.3,
+            "kd": 0.79
+          },
+          {
+            "name": "thorn",
+            "picks": 101,
+            "pickRate": 1.6,
+            "winRate": 65.3,
+            "kd": 1.03
+          },
+          {
+            "name": "tubarao",
+            "picks": 99,
+            "pickRate": 1.57,
+            "winRate": 55.6,
+            "kd": 1.06
+          },
+          {
+            "name": "smoke",
+            "picks": 96,
+            "pickRate": 1.52,
+            "winRate": 55.2,
+            "kd": 0.75
+          },
+          {
+            "name": "goyo",
+            "picks": 92,
+            "pickRate": 1.46,
+            "winRate": 54.3,
+            "kd": 1.02
+          },
+          {
+            "name": "fenrir",
+            "picks": 84,
+            "pickRate": 1.33,
+            "winRate": 63.1,
+            "kd": 0.9
+          }
+        ]
+      },
+      "skyscraper": {
+        "totalRounds": 7076,
+        "atkWinRate": 40.7,
+        "defWinRate": 58.1,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 416,
+            "pickRate": 5.88,
+            "winRate": 38.5,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 223,
+            "pickRate": 3.15,
+            "winRate": 44.4,
+            "kd": 0.97
+          },
+          {
+            "name": "buck",
+            "picks": 203,
+            "pickRate": 2.87,
+            "winRate": 41.4,
+            "kd": 0.73
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 170,
+            "pickRate": 2.4,
+            "winRate": 39.4,
+            "kd": 0.8
+          },
+          {
+            "name": "grim",
+            "picks": 141,
+            "pickRate": 1.99,
+            "winRate": 36.2,
+            "kd": 0.87
+          },
+          {
+            "name": "twitch",
+            "picks": 139,
+            "pickRate": 1.96,
+            "winRate": 43.9,
+            "kd": 1.02
+          },
+          {
+            "name": "lion",
+            "picks": 137,
+            "pickRate": 1.94,
+            "winRate": 38.0,
+            "kd": 0.74
+          },
+          {
+            "name": "hibana",
+            "picks": 127,
+            "pickRate": 1.79,
+            "winRate": 45.7,
+            "kd": 0.9
+          },
+          {
+            "name": "iq",
+            "picks": 122,
+            "pickRate": 1.72,
+            "winRate": 48.4,
+            "kd": 1.03
+          },
+          {
+            "name": "thermite",
+            "picks": 119,
+            "pickRate": 1.68,
+            "winRate": 38.7,
+            "kd": 0.81
+          },
+          {
+            "name": "thatcher",
+            "picks": 118,
+            "pickRate": 1.67,
+            "winRate": 44.9,
+            "kd": 1.02
+          },
+          {
+            "name": "finka",
+            "picks": 111,
+            "pickRate": 1.57,
+            "winRate": 37.8,
+            "kd": 0.99
+          },
+          {
+            "name": "sledge",
+            "picks": 101,
+            "pickRate": 1.43,
+            "winRate": 46.5,
+            "kd": 0.7
+          },
+          {
+            "name": "iana",
+            "picks": 99,
+            "pickRate": 1.4,
+            "winRate": 44.4,
+            "kd": 1.09
+          },
+          {
+            "name": "deimos",
+            "picks": 97,
+            "pickRate": 1.37,
+            "winRate": 42.3,
+            "kd": 0.93
+          }
+        ],
+        "defenders": [
+          {
+            "name": "lesion",
+            "picks": 254,
+            "pickRate": 3.59,
+            "winRate": 62.6,
+            "kd": 1.22
+          },
+          {
+            "name": "mute",
+            "picks": 195,
+            "pickRate": 2.76,
+            "winRate": 52.3,
+            "kd": 0.85
+          },
+          {
+            "name": "bandit",
+            "picks": 194,
+            "pickRate": 2.74,
+            "winRate": 52.6,
+            "kd": 0.94
+          },
+          {
+            "name": "aruni",
+            "picks": 188,
+            "pickRate": 2.66,
+            "winRate": 61.2,
+            "kd": 1.2
+          },
+          {
+            "name": "vigil",
+            "picks": 168,
+            "pickRate": 2.37,
+            "winRate": 56.5,
+            "kd": 0.92
+          },
+          {
+            "name": "valkyrie",
+            "picks": 162,
+            "pickRate": 2.29,
+            "winRate": 56.2,
+            "kd": 1.14
+          },
+          {
+            "name": "azami",
+            "picks": 155,
+            "pickRate": 2.19,
+            "winRate": 65.8,
+            "kd": 1.3
+          },
+          {
+            "name": "thorn",
+            "picks": 136,
+            "pickRate": 1.92,
+            "winRate": 58.1,
+            "kd": 1.23
+          },
+          {
+            "name": "doc",
+            "picks": 135,
+            "pickRate": 1.91,
+            "winRate": 53.3,
+            "kd": 0.92
+          },
+          {
+            "name": "smoke",
+            "picks": 134,
+            "pickRate": 1.89,
+            "winRate": 53.0,
+            "kd": 0.93
+          },
+          {
+            "name": "warden",
+            "picks": 131,
+            "pickRate": 1.85,
+            "winRate": 45.8,
+            "kd": 0.85
+          },
+          {
+            "name": "ela",
+            "picks": 113,
+            "pickRate": 1.6,
+            "winRate": 54.9,
+            "kd": 1.25
+          },
+          {
+            "name": "tubarao",
+            "picks": 109,
+            "pickRate": 1.54,
+            "winRate": 65.1,
+            "kd": 1.4
+          },
+          {
+            "name": "jager",
+            "picks": 107,
+            "pickRate": 1.51,
+            "winRate": 64.5,
+            "kd": 0.76
+          },
+          {
+            "name": "alibi",
+            "picks": 106,
+            "pickRate": 1.5,
+            "winRate": 62.3,
+            "kd": 1.04
+          }
+        ]
+      },
+      "kanal": {
+        "totalRounds": 13785,
+        "atkWinRate": 39.7,
+        "defWinRate": 58.3,
+        "attackers": [
+          {
+            "name": "ash",
+            "picks": 709,
+            "pickRate": 5.14,
+            "winRate": 41.9,
+            "kd": 1.02
+          },
+          {
+            "name": "dokkaebi",
+            "picks": 440,
+            "pickRate": 3.19,
+            "winRate": 41.6,
+            "kd": 0.85
+          },
+          {
+            "name": "buck",
+            "picks": 406,
+            "pickRate": 2.95,
+            "winRate": 36.2,
+            "kd": 0.88
+          },
+          {
+            "name": "thermite",
+            "picks": 382,
+            "pickRate": 2.77,
+            "winRate": 40.6,
+            "kd": 0.81
+          },
+          {
+            "name": "nomad",
+            "picks": 369,
+            "pickRate": 2.68,
+            "winRate": 37.9,
+            "kd": 0.84
+          },
+          {
+            "name": "twitch",
+            "picks": 298,
+            "pickRate": 2.16,
+            "winRate": 41.9,
+            "kd": 0.92
+          },
+          {
+            "name": "thatcher",
+            "picks": 273,
+            "pickRate": 1.98,
+            "winRate": 39.9,
+            "kd": 0.81
+          },
+          {
+            "name": "grim",
+            "picks": 262,
+            "pickRate": 1.9,
+            "winRate": 40.8,
+            "kd": 0.8
+          },
+          {
+            "name": "lion",
+            "picks": 221,
+            "pickRate": 1.6,
+            "winRate": 43.9,
+            "kd": 0.71
+          },
+          {
+            "name": "fuze",
+            "picks": 214,
+            "pickRate": 1.55,
+            "winRate": 34.1,
+            "kd": 0.7
+          },
+          {
+            "name": "finka",
+            "picks": 205,
+            "pickRate": 1.49,
+            "winRate": 42.4,
+            "kd": 0.9
+          },
+          {
+            "name": "brava",
+            "picks": 193,
+            "pickRate": 1.4,
+            "winRate": 42.5,
+            "kd": 0.99
+          },
+          {
+            "name": "hibana",
+            "picks": 190,
+            "pickRate": 1.38,
+            "winRate": 35.8,
+            "kd": 0.75
+          },
+          {
+            "name": "iq",
+            "picks": 190,
+            "pickRate": 1.38,
+            "winRate": 34.2,
+            "kd": 0.9
+          },
+          {
+            "name": "sledge",
+            "picks": 186,
+            "pickRate": 1.35,
+            "winRate": 39.2,
+            "kd": 0.64
+          }
+        ],
+        "defenders": [
+          {
+            "name": "mute",
+            "picks": 465,
+            "pickRate": 3.37,
+            "winRate": 58.9,
+            "kd": 1.03
+          },
+          {
+            "name": "aruni",
+            "picks": 424,
+            "pickRate": 3.08,
+            "winRate": 60.6,
+            "kd": 1.4
+          },
+          {
+            "name": "lesion",
+            "picks": 418,
+            "pickRate": 3.03,
+            "winRate": 60.3,
+            "kd": 0.88
+          },
+          {
+            "name": "bandit",
+            "picks": 370,
+            "pickRate": 2.68,
+            "winRate": 59.7,
+            "kd": 1.01
+          },
+          {
+            "name": "azami",
+            "picks": 360,
+            "pickRate": 2.61,
+            "winRate": 53.3,
+            "kd": 0.95
+          },
+          {
+            "name": "valkyrie",
+            "picks": 326,
+            "pickRate": 2.36,
+            "winRate": 58.6,
+            "kd": 0.93
+          },
+          {
+            "name": "vigil",
+            "picks": 308,
+            "pickRate": 2.23,
+            "winRate": 52.6,
+            "kd": 1.12
+          },
+          {
+            "name": "tubarao",
+            "picks": 276,
+            "pickRate": 2.0,
+            "winRate": 54.0,
+            "kd": 1.14
+          },
+          {
+            "name": "warden",
+            "picks": 262,
+            "pickRate": 1.9,
+            "winRate": 58.0,
+            "kd": 1.12
+          },
+          {
+            "name": "doc",
+            "picks": 257,
+            "pickRate": 1.86,
+            "winRate": 63.4,
+            "kd": 0.96
+          },
+          {
+            "name": "kaid",
+            "picks": 244,
+            "pickRate": 1.77,
+            "winRate": 50.4,
+            "kd": 0.86
+          },
+          {
+            "name": "melusi",
+            "picks": 239,
+            "pickRate": 1.73,
+            "winRate": 59.0,
+            "kd": 0.99
+          },
+          {
+            "name": "thorn",
+            "picks": 217,
+            "pickRate": 1.57,
+            "winRate": 64.5,
+            "kd": 1.17
+          },
+          {
+            "name": "smoke",
+            "picks": 204,
+            "pickRate": 1.48,
+            "winRate": 59.3,
+            "kd": 0.94
+          },
+          {
+            "name": "kapkan",
+            "picks": 194,
+            "pickRate": 1.41,
+            "winRate": 58.2,
+            "kd": 1.18
+          }
+        ]
+      }
+    }
   }
 };
